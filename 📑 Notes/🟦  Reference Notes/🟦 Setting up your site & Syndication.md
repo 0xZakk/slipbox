@@ -1,0 +1,27 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Author:**  [[Monica Lent]] Blogging for Developers email course
+- **Project(s):** 
+- **Summary:** 
+- **Notes:**
+    - **Why you should publish on your own domain name**
+        - The reason for owning your own domain is actually pretty simple: because you own it.
+        - If you publish to your own site and domain, you own that site and domain which protects you from any issues with other providers and gives you control to do what you want with it.
+        - Google can put ads in front of your page in the search results or Medium could run out of money and go under. If you own your website and domain, those wont affect you as much.
+        - Similarly, you can always change your hosting provider or domain registrar.
+        - You can get the best of both worlds by syndicating your content: You own it and post it on your own site first, then cross post it to other platforms.
+    - **How to syndicate content the right way**
+        - You can get the best of both worlds by syndicating your content. This comes with one additional consideration though: Google will see the article posted on your own blog and on Medium, Dev.to, or wherever else you've syndicated to and mark these all as duplicate content. Then, Google uses a variety of SEO factors to determine which one to Rank.
+        - That means you're effectively competing on SEO with these massive sites.
+        - The way to fix this is with a **canonical URL**: A URL that designates the original content.
+        - How to do this:
+            - Step 1: Set up canonical URLS on your own website. How you do this will depend on how your site is built and hosted.
+            - Step 2: Publish your blog post on your own website first. This will generate the canonical URL, which you'll use in the next step.
+            - Step 3: Copy the URL to your blog post into the canonical URL space on third-party platforms. Whenever you publish an article to a separate platform, make sure you add the canonical URL to it. Here are instructions on a couple of major platforms:
+                - [https://help.medium.com/hc/en-us/articles/360033930293-Set-a-canonical-link](https://click.convertkit-mail2.com/p9uo86gw3raquznwdoaq/g3hnh5hzo2g23zsr/aHR0cHM6Ly9oZWxwLm1lZGl1bS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDMzOTMwMjkzLVNldC1hLWNhbm9uaWNhbC1saW5r)
+                - [https://dev.to/p/editor_guide](https://click.convertkit-mail2.com/p9uo86gw3raquznwdoaq/m2h7h5hn0x2x8pbm/aHR0cHM6Ly9kZXYudG8vcC9lZGl0b3JfZ3VpZGU=)
+                - [https://townhall.hashnode.com/why-you-should-republish-your-devblog-posts-and-how-to-do-it-cjyzonun0004t4zs1r601f5ie](https://click.convertkit-mail2.com/p9uo86gw3raquznwdoaq/z2hghnhdrz5z3zup/aHR0cHM6Ly90b3duaGFsbC5oYXNobm9kZS5jb20vd2h5LXlvdS1zaG91bGQtcmVwdWJsaXNoLXlvdXItZGV2YmxvZy1wb3N0cy1hbmQtaG93LXRvLWRvLWl0LWNqeXpvbnVuMDAwNHQ0enMxcjYwMWY1aWU=)
+            - You can learn more about canonical URLs by reading this article by Yoast: [The Ultimate Guide to Canonical URLs](https://click.convertkit-mail2.com/p9uo86gw3raquznwdoaq/p8heh9h75ere47sq/aHR0cHM6Ly95b2FzdC5jb20vcmVsLWNhbm9uaWNhbC8=).
+    - **3 quick bits of homework to do before tomorrow's email**
+        - [x] Buy your domain name
+        - [ ] Pick a blogging tech stack
+        - [ ] Get your canonical URLs sorted out

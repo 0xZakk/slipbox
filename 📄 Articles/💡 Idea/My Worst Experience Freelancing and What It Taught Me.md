@@ -1,0 +1,7 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article about the email project I did that I way underestimated and what I learned:
+    - Assume your estimate is low, even when you've already assumed your estimate is low
+    - When possible, give a range to clients. Rather than saying something will take you 10 hours, say it will take you between 10 and 15.
+    - Avoid taking on projects that are outside your wheelhouse, when possible. Sometimes work is hard to come by, so you need to take something. If possible, try to stick to things you know you can complete OR consciously choose to take on work in a new area __so you can learn about it.__
+- **Related Notes and Sources:**
+    - 

@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Meaningful Work]]
+- **Source:** [[🟦 How to figure out what to do with your life]] 
+- How do you know what to do with your life? The answer to this question will sound unsatisfactory. Basically, don't worry about it. Just pursue the things you're interested in and work hard at doing that.
+- This is the best approach forward because you can't pick your passions out of a hat. If you picked any one thing you've done in your career that you were interested and took that to a career counselor, they could provide you a bunch of different careers based on that. But you're effectively trying to draw a line with a single point.

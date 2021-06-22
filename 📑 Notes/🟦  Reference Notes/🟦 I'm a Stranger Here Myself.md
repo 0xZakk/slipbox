@@ -1,0 +1,9 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Fiction]]
+- **Source:**  kindle
+- **Author:** Bill Bryson
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Diversity of Life 
+        - **Note**: Book by Edward Wilson 
+    - The Blind Watchmaker, 
+        - **Note**: Richard Dawkins book that sounds interesting 

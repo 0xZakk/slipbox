@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Building an Audience Online]] [[Writing]]
+- **Source:** [[🟦 I Listened to @David_per...]]
+- Video games are a metaphor for writing online.
+- Video games are a permission-less container where you can experiment with strategies, build skills, and study incentives. This can be a training ground for identifying and working with incentives in the real world
+- Writing on the internet is similar:
+    - Writing online is permission-less (anyone can start)
+    - Writing online has an element of luck to it, similar to video games

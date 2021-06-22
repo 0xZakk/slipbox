@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]]  | #Learning
+- **Source:** Tim Ferris Podcast with Josh Waitzkin
+- **Author:** [[Tim Ferris]]
+- **Summary:** 
+- **Highlights:**
+- Put on a white belt
+- You want to be pulling pots out of the kiln, not playing with clay on the wheel.
+    - pot study (quantity v quality)
+    - Publish 1000 words a week, rather than try to write 1000 words a day

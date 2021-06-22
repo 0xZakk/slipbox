@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | #[[Self-determination theory]] [[Meaningful Work]]
+- **Source:** [[🟦 How to figure out what to do with your life]]
+- According to self-determination theory, there are three things that make work satisfying:
+    - **Autonomy** - Do you have control over your time and actions?
+    - **Competence** - Are you developing skills for non-trivial work?
+    - **Relatedness** - Are you connected to the people around you? Do you feel loved and respected by the people you work with and do you love and respect them? 

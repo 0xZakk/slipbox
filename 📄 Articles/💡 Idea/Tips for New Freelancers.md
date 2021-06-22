@@ -1,0 +1,68 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article of 5-10 tips for people getting started with freelancing. Focusing on working and managing your own energy.
+    - Could also be something like a week in the life of a freelance software engineer
+- **Outline:**
+    - **Introduction**
+        - Just passed a big milestone: $100,000 this year in freelance income. What is especially cool about that is freelancing since June (so just 6 months)
+    - Set yourself up for success on Monday
+        - __I've started treating Mondays almost entirely as a warm up for the week. I typically spend them:
+
+* Meeting with clients
+* Planning out the week
+
+If I get "real" work done, great. But the goal is to clear up the week and make Tuesday through Friday as productive as possible.__
+        - I used to try and be productive on Mondays. I still do, but I don't force myself to get billable work done
+        - Instead, I use Mondays to check in with my clients and I have a recurring weekly meeting with most of them sometime on Monday
+        - I also plan out my week by reviewing my current projects and deadlines and scheduling when I'm going to work on what. I wrote an article on [time blocking ](https://zkf.io/developers-guide-to-time-blocking/) and this process
+        - In the past few weeks, I've been able to finish all of this "set up" work by midday on Monday, and then I can spend the afternoon getting started with client work. A few months ago, I had enough ongoing projects that it took me most of Monday to meet with all my clients and get the week figured out.
+        - So that's my goal of Mondays: set myself up for success. I want to make sure I've checked in with all my clients and made it so I can be really productive and focused during the week
+    - Hire an accountant
+        - Before starting to freelance a lot, I would highly recommend finding a good accountant to help you with your taxes. It'll be a little expensive and you won't want to do it at first. But you will thank yourself for doing it soon. I would say it's basically a requirement
+        - One thing to know going in to freelancing is that you have to prepay your taxes quarterly. The fiscal year is broken up in to four quarters and each quarter you have to pay one fourth of what you estimate you'll owe in taxes for the year
+        - You want to work with an accountant to figure out how much you'll likely owe and to help you file these taxes
+        - Taxes are awful in the US. They tax code is incredibly confusing and difficult to navigate and if you get it wrong it could be really expensive to fix. So it's worth every penny to hire someone who really knows what they're doing and who can help you out.
+    - Put half your income somewhere where you can't touch it and don't touch it.
+        - One of the two really hard parts of freelancing is managing your money. It's a little trickier than when you're on a W2 somewhere because it often comes in waves (as opposed to a steady pay check). And when you're self-employed, how you pay your taxes is a little different
+        - One of the best tips I got before starting to freelance full time was to save half your income and don't touch until after you've paid your taxes for that tax year.
+        - That means you would set aside half of the money you bring in for 2020 in a separate account and you don't touch it until at least April 2021 or after you file your taxes for 2020
+        - When you're self-employed in the US, you pay quarterly estimated income taxes, the key word being __estimated.__ If you estimate high and don't end up making as much money as you thought, you'll get paid back for the tax income you put in. If you estimate low and end up making more money than you thought, then you have to correct your estimate and pay more
+        - That money has to come from somewhere 
+        - Saving half your income has three really important benefits:
+            - It helps you avoid any financial surprises during tax season.
+                - Surprise: I'm going to owe almost $20,000 in additional taxes. That sucks, but I've saved half my invoices for the year so I have the money in an account I haven't touched. So it suck __a lot less__ than if I hadn't saved. I would have no choice but to take out a $20,000 loan.
+            - Makes you conservative with money
+                - You just get into the habit of thinking in halves. You send out a $5,000 invoice and think $2,500 for you to transfer to your personal checking account
+            - You might get a nice bonus at the end of the year
+                - Saving half your income __after__ you've already paid your quarterly estimated taxes means that you will probably have a nice chunk of change left over at the end of the year, even if you do end up owing more money to the IRS.
+    - Find stable work and variable work
+        - Finding regular work is the second hardest part of freelancing. You want to avoid big booms and busts in work
+        - Think of this as a barbell strategy with variable work on one extreme and stable work on the other extreme
+        - You want to have some really consistent and regular work. For me, this has been having one or two clients who I know well and am on a retainer with
+        - Clients you know well or former employers are great candidates for this
+        - Try to land something that is a consistent X number of hours per week. This will be your foundation as you pursue other projects out of interest
+        - Once you have one or two stable sources of income, you can pursue the more variable sources of work
+        - Variable sources tend to be more lucrative
+    - Think through what you offer and how
+        - You want to have a very specific idea of what you can offer clients
+        - For me this means:
+            - What kinds of projects I take on
+            - How I complete those projects (ie what technologies I use, how I deploy and manage them)
+            - How I pitch and scope work (how I determine how much time a project will take and how much it will cost)
+        - This will help you land work that you're good at and it will help you filter out clients that will end up pulling you away from good work
+        - This will also save you a lot of time by making projects more repeatable. I have a template repo using Cookiecutter that I use to spin up a new project and a script that sets up the development, staging, and production environments.
+        - Clients don't know what they want (they're not experts in building software) so having a clear offer helps you sell yourself to clients and helps you both determine if it's a good fit
+            - A client will often come and say they "need a website" without realizing the variability and complexity that can go into that. Do they need a static site? Drupal or WordPress? Do they even need a CMS? Will something Netlify and Gatsby do? Etc
+        - Specialization - leverage of specific knowledge
+    - Track your time meticulously
+        - Everything comes back to how you spend your time
+        - Your clients may want a detailed breakdown of how you spent your time. But even if they don't, it's probably the most important metric to track (at least when starting out)
+        - The first benefit to tracking your time is that it makes sure you get paid for all of your work.
+        - The second, perhaps equally important benefit is that it gives you a very detailed breakdown of how you're spending your time. Reviewing this breakdown helps you see how much time you're spending working, how much of your time is "billable," 
+        - I use Toggl to track my time. They have an app or integration everywhere (iPhone, Android, Chrome, Firefox, Mac, Windows, etc). The interface is really easy to use and they make the "tracking your time part" really easy. I spent a few __weeks__ researching and testing out different free and paid time tracking apps and Toggl blew all the others out of the water. It honestly wasn't even close.
+        - Tracking your time ensures you get paid for the work you do. It also helps you see how much you're working. It's honestly really nice to look back on a week and see that I worked a lot, which is why I must be so worn out. Or, I worked a lot but not as much as I thought, so I must be feeling a lot of stress. 
+- [[Dumping Ground]]
+    - I have found freelancing full-time both incredibly difficult and incredibly rewarding. While I'm glad I made the switch, and even wish I'd done so sooner, it requires a shift in how you think about your work, time, and money.It also requires a shift in how you think about opportunity, which is perhaps the biggest reason I'm glad I switched to working independently.
+    - Think about this: where will you be in 5 years? Hopefully a more senior role, perhaps with your current company or with a similar company. But how big is the realm of opportunity in front of you? It's what everyone is used to, so it feels normal. But when you step outside of this perspective and look at it you see that you don't actually have a lot of opportunities working a nine to five.
+    - Where will I be in 5 years? I honestly have no idea, because there are so many options in front of me. I could be anywhere doing anything. I could be working part-time and tend a garden. I could have started a company or written a book. All of these, and more, are options now because I have complete control over my time and my freedom. I can leverage how I spend my time to do anything.
+    - Is it better? Maybe, maybe not. It depends on what you want and what you're willing to put up with. I want this freedom and I think the risk is worth it. I think it's worth it to take over complete responsibility of my time, money, taxes, and benefits so that I can look forward and feel like I have the freedom to pursue anything.
+    - I also want the risk in front of me, in my hands. If 2020 taught us anything, it's that the things we think of as stable often aren't. I want to risk in my hands where I can see it. Not in some CEO's hand that they keep behind their back. One hand is holding the risk while they cross their fingers with the other and grin at you with all this nonsense about how poised they are for growth.

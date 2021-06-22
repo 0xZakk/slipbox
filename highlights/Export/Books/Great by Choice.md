@@ -1,0 +1,460 @@
+# Great by Choice
+
+## Meta Data
+
+Source:  kindle 
+Author: Jim Collins, Morten T. Hansen
+
+## Highlights
+
+### Highlights
+
+- 1 THRIVING IN UNCERTAINTY
+- We cannot predict the future. But we can create it.
+- Why do some companies thrive in uncertainty, even chaos, and others do not? When buffeted by tumultuous events, when hit by big, fast-moving forces that we can neither predict nor control, what distinguishes those who perform exceptionally well from those who underperform or worse?
+- Yet some companies and leaders navigate this type of world exceptionally well. They don’t merely react; they create. They don’t merely survive; they prevail. They don’t merely succeed; they thrive. They build great enterprises that can endure. We do not believe that chaos, uncertainty, and instability are good; companies, leaders, organizations, and societies do not thrive on chaos. But they can thrive in chaos.
+- To get at the question of how, we set out to find companies that started from a position of vulnerability, rose to become great companies with spectacular performance, and did so in unstable environments characterized by big forces, out of their control, fast moving, uncertain, and potentially harmful. We then compared these companies to a control group of companies that failed to become great in the same extreme environments, using the contrast between winners and also-rans to uncover the distinguishing factors that allow some to thrive in uncertainty.
+- But in this study, unlike any of the previous research, we selected cases not just on performance or stature but also on the extremity of the environment.
+- We selected on performance plus environment for two reasons. First, we believe the future will remain unpredictable and the world unstable for the rest of our lives, and we wanted to understand the factors that distinguish great organizations, those that prevail against extreme odds, in such environments. Second, by looking at the best companies and their leaders in extreme environments, we gain insights that might otherwise remain hidden when studying leaders in more tranquil settings.
+- Studying leaders in an extreme environment is like conducting a behavioral-science experiment or using a laboratory centrifuge: throw leaders into an extreme environment, and it will separate the stark differences between greatness and mediocrity. Our study looks at how the truly great differed from the merely good in environments that exposed and amplified those differences.
+- FINDING THE 10X CASES We spent the first year of our efforts identifying the primary study set of 10X cases, searching for historical cases that met three basic tests: 1. The enterprise sustained truly spectacular results for an era of 15+ years relative to the general stock market and relative to its industry. 2. The enterprise achieved these results in a particularly turbulent environment, full of events that were uncontrollable, fast-moving, uncertain, and potentially harmful. 3. The enterprise began its rise to greatness from a position of vulnerability, being young and/or small at the start of its 10X journey.
+- Our research method rests upon having a comparison set. The critical question is not “What did the great companies share in common?” The crucial question is “What did the great companies share in common that distinguished them from their direct comparisons?”
+- Entrenched myth: Successful leaders in a turbulent world are bold, risk-seeking visionaries. Contrary finding: The best leaders we studied did not have a visionary ability to predict the future. They observed what worked, figured out why it worked, and built upon proven foundations. They were not more risk taking, more bold, more visionary, and more creative than the comparisons. They were more disciplined, more empirical, and more paranoid.
+- Entrenched myth: Innovation distinguishes 10X companies in a fast-moving, uncertain, and chaotic world. Contrary finding: To our surprise, no. Yes, the 10X cases innovated, a lot. But the evidence does not support the premise that 10X companies will necessarily be more innovative than their less successful comparisons; and in some surprise cases, the 10X cases were less innovative. Innovation by itself turns out not to be the trump card we expected; more important is the ability to scale innovation, to blend creativity with discipline.
+- Entrenched myth: A threat-filled world favors the speedy; you’re either the quick or the dead. Contrary finding: The idea that leading in a “fast world” always requires “fast decisions” and “fast action”—and that we should embrace an overall ethos of “Fast! Fast! Fast!”—is a good way to get killed. 10X leaders figure out when to go fast, and when not to.
+- Entrenched myth: Radical change on the outside requires radical change on the inside. Contrary finding: The 10X cases changed less in reaction to their changing world than the comparison cases. Just because your environment is rocked by dramatic change does not mean that you should inflict radical change upon yourself.
+- Entrenched myth: Great enterprises with 10X success have a lot more good luck. Contrary finding: The 10X companies did not generally have more luck than the comparisons. Both sets had luck—lots of luck, both good and bad—in comparable amounts. The critical question is not whether you’ll have luck, but what you do with the luck that you get.
+- 2 10XERS
+- “Victory awaits him who has everything in order—luck people call it. Defeat is certain for him who has neglected to take the necessary precautions in time; this is called bad luck.” —Roald Amundsen, The South Pole
+- book The Last Place on Earth,
+    - **Tags:** #read
+    - **Note:** .read
+- Amundsen’s philosophy: You don’t wait until you’re in an unexpected storm to discover that you need more strength and endurance. You don’t wait until you’re shipwrecked to determine if you can eat raw dolphin. You don’t wait until you’re on the Antarctic journey to become a superb skier and dog handler. You prepare with intensity, all the time, so that when conditions turn against you, you can draw from a deep reservoir of strength. And equally, you prepare so that when conditions turn in your favor, you can strike hard.
+- Robert Falcon Scott presents quite a contrast to Amundsen.
+- Scott chose ponies. Scott also bet on “motor sledges” that hadn’t been fully tested in the most extreme South Pole conditions. As it turned out, the motor-sledge engines cracked within the first few days, the ponies failed early, and his team slogged through most of the journey by “man-hauling,” harnessing themselves to sleds, trudging across the snow, and pulling the sleds behind them.
+- Unlike Scott, Amundsen systematically built enormous buffers for unforeseen events.
+- A single detail aptly highlights the difference in their approaches: Scott brought one thermometer for a key altitude-measurement device, and he exploded in “an outburst of wrath and consequence” when it broke; Amundsen brought four such thermometers to cover for accidents.
+- Amundsen didn’t know precisely what lay ahead. He didn’t know the exact terrain, the altitude of the mountain passes, or all the barriers he might encounter. He and his team might get pounded by a series of unfortunate events. Yet he designed the entire journey to systematically reduce the role of big forces and chance events by vigorously embracing the possibility of those very same big forces and chance events. He presumed bad events might strike his team somewhere along the journey and he prepared for them, even developing contingency plans so that the team could go on should something unfortunate happen to him along the way. Scott left himself unprepared and complained in his journal about his bad luck. “Our luck in weather is preposterous,” penned Scott in his journal, and wrote in another entry, “It is more than our share of ill-fortune…How great may be the element of luck!”
+- Amundsen and his team reached home base in good shape on January 25, the precise day he’d penned into his plan. Running out of supplies, Scott stalled in mid-March, exhausted and depressed. Eight months later, a British reconnaissance party found the frozen bodies of Scott and two companions in a forlorn, snow-drifted little tent, just ten miles short of his supply depot.
+- Amundsen and Scott achieved dramatically different outcomes not because they faced dramatically different circumstances. In the first 34 days of their respective expeditions, Amundsen and Scott had exactly the same ratio, 56 percent, of good days to bad days of weather.4 If they faced the same environment in the same year with the same goal, the causes of their respective success and failure simply cannot be the environment. They had divergent outcomes principally because they displayed very different behaviors.
+- “10Xers” (pronounced “ten-EX-ers”) is our term for the people who built the 10X companies.
+- On the one hand, 10Xers understand that they face continuous uncertainty and that they cannot control, and cannot accurately predict, significant aspects of the world around them. On the other hand, 10Xers reject the idea that forces outside their control or chance events will determine their results; they accept full responsibility for their own fate.
+- 10Xers then bring this idea to life by a triad of core behaviors: fanatic discipline, empirical creativity, and productive paranoia. Animating these three core behaviors is a central motivating force, Level 5 ambition.
+- Fanatic discipline keeps 10X enterprises on track, empirical creativity keeps them vibrant, productive paranoia keeps them alive, and Level 5 ambition provides inspired motivation.
+- FANATIC DISCIPLINE
+- Discipline, in essence, is consistency of action—consistency with values, consistency with long-term goals, consistency with performance standards, consistency of method, consistency over time.
+- True discipline requires the independence of mind to reject pressures to conform in ways incompatible with values, performance standards, and long-term aspirations. For a 10Xer, the only legitimate form of discipline is self-discipline, having the inner will to do whatever it takes to create a great outcome, no matter how difficult.
+- 10Xers are utterly relentless, monomaniacal even, unbending in their focus on their quests. They don’t overreact to events, succumb to the herd, or leap for alluring—but irrelevant—opportunities. They’re capable of immense perseverance, unyielding in their standards yet disciplined enough not to overreach. In our research-team discussions, we struggled with how to best describe the discipline we found in the 10X leaders. Most business CEOs have some level of discipline, but the 10Xers operated on an entirely different level. The 10Xers, we concluded, weren’t just disciplined; they were fanatics. Lewis’s decision to issue monthly financial reports is akin to Amundsen’s riding his bicycle from Norway to Spain and eating raw dolphin meat; their behavior fits nowhere on a normal curve.
+- Herb Kelleher of Southwest Airlines believed passionately in sustaining a high-spirit, fun-loving, and iconoclastic culture full of passionate people infused with a rebellious “Warrior Spirit.”8 Kelleher understood that superb customer service naturally arises when people have fun at work and love their company. As the airline grew from a small Texas commuter airline with only a handful of airplanes into a major national carrier, it would be increasingly difficult, and increasingly important, to sustain the culture. So, Kelleher himself behaved as a fanatic exemplar of the culture.
+- But to focus on Kelleher’s weirdness as weirdness would miss the point. He wasn’t weird to be weird; he was behaving with outlandish consistency to animate the culture, like an impactful actor who stays perfectly in character while on stage. He was also a complete mono-maniac about building Southwest Airlines, never resting in the quest to make Southwest the best low-cost, high-spirit airline, winning every battle and every war with its competitors.
+- Both Kelleher and Lewis, like all the 10Xers we studied, were nonconformists in the best sense. They started with values, purpose, long-term goals, and severe performance standards; and they had the fanatic discipline to adhere to them. If that required them to diverge from normal behavior, then so be it. They didn’t let external pressures, or even social norms, knock them off course. In an uncertain and unforgiving environment, following the madness of crowds is a good way to get killed.
+- EMPIRICAL CREATIVITY
+- In 1994, Andy Grove, chief executive of Intel, underwent a routine blood test that came back with a worrisome number: a PSA (prostate-specific antigen) reading of 5, indicating that there could be a tumor the size of a sugar cube growing inside his prostate gland.
+- Instead, he began reading research articles written by medical scientists for medical scientists. Grove delved into the data.
+- But with significant uncertainty multiplied by significant consequences, Grove did what all our 10Xers did, he turned directly to empirical evidence.
+- Social psychology research indicates that at times of uncertainty, most people look to other people—authority figures, peers, group norms—for their primary cues about how to proceed.16 10Xers, in contrast, do not look to conventional wisdom to set their course during times of uncertainty, nor do they primarily look to what other people do, or to what pundits and experts say they should do. They look primarily to empirical evidence.
+- The point here is not to be contrary and independent just for the sake of being contrary and independent. The point is to be more empirical to buttress your mental independence and validate your creative instincts.
+- By “empirical,” we mean relying upon direct observation, conducting practical experiments, and/or engaging directly with evidence rather than relying upon opinion, whim, conventional wisdom, authority, or untested ideas.
+- Having an empirical foundation enables 10Xers to make bold, creative moves and bound their risk.
+- The 10Xers did not generally make bolder moves than their less successful comparisons; both groups made big bets and, when needed, took dramatic action. Nor did the 10Xers exude more raw confidence than the comparison leaders; indeed, the comparison leaders were often brazenly self-confident. But the 10Xers had a much deeper empirical foundation for their decisions and actions, which gave them well-founded confidence and bounded their risk.
+- The 10Xers don’t favor analysis over action; they favor empiricism as the foundation for decisive action.
+- PRODUCTIVE PARANOIA
+- “Fear should guide you, but it should be latent,” Gates said in 1994. “I consider failure on a regular basis.”
+- Our point is not that a sabbatical caused Apple’s decline or that John Sculley was lazy (when fully engaged, he had a prodigious work ethic); our point is to draw a contrast with the productive paranoia Gates demonstrated all the time, no matter how successful Microsoft became.
+- 10Xers differ from their less successful comparisons in how they maintain hypervigilance in good times as well as bad. Even in calm, clear, positive conditions, 10Xers constantly consider the possibility that events could turn against them at any moment. Indeed, they believe that conditions will—absolutely, with 100 percent certainty—turn against them without warning, at some unpredictable point in time, at some highly inconvenient moment. And they’d better be prepared.
+- Whether it be Herb Kelleher at Southwest Airlines predicting 11 of the last 3 recessions, Andy Grove of Intel “looking for the black cloud in the silver lining,” Kevin Sharer of Amgen putting a portrait of General George A. Custer (who led his troops to calamity at Little Big Horn) in his office to remind himself that overconfidence leads to doom, or Bill Gates issuing nightmare memos at Microsoft, the 10Xers have a consistent pattern. By embracing the myriad of possible dangers, they put themselves in a superior position to overcome danger.
+- 10Xers distinguish themselves not by paranoia per se, but by how they take effective action as a result. Paranoid behavior is enormously functional if fear is channeled into extensive preparation and calm, clearheaded action, hence our term “productive paranoia.”
+- Like Amundsen with his huge supply buffers, 10Xers maintain a conservative financial position, squirreling away cash to protect against unforeseen disruptions.
+- Like Amundsen sensing great risk in betting on unproven methods and technologies, they avoid unnecessary risks that could expose them to calamity.
+- Like Amundsen, they succeed in an uncertain and unforgiving environment through deliberate, methodical, and systematic preparation, always asking, “What if? What if? What if?”
+- Productive paranoia isn’t just about avoiding danger, trying to find the safest and most enjoyable path through life; 10Xers seek to accomplish a great objective, be it a goal, a company, a noble ambition to change the world, or a desire to be useful in the extreme.
+- LEVEL 5 AMBITION
+- So, why did people follow them? Because of a deeply attractive form of ambition: 10Xers channel their ego and intensity into something larger and more enduring than themselves. They’re ambitious, to be sure, but for a purpose beyond themselves, be it building a great company, changing the world, or achieving some great object that’s ultimately not about them.
+- On the surface, some of the 10Xers appear to be unlike Level 5 leaders.
+- Yet despite his eccentricities and sometimes outlandish behavior, Lewis dedicated himself to one goal above all others, making Progressive a truly great company.31 And he built the company to be great without him.
+- The 10Xers share Level 5 leaders’ most important trait: they’re incredibly ambitious, but their ambition is first and foremost for the cause, for the company, for the work, not themselves.
+- HOW DO PEOPLE BECOME 10XERS?
+- In short, we found no consistent pattern in the backgrounds of 10Xers relative to the comparison leaders.
+- Nor did we find that they necessarily started as 10Xers; some of the 10Xers evolved, developing their leadership capabilities over time.
+- So, our guidance is simple: get to work learning and applying the practical lessons of how 10Xers lead, building a truly great organization that delivers superior results, makes a distinctive impact, and achieves lasting endurance. There are lots of individually successful people but very few truly great companies that make a 10X impact.
+- Clear-eyed and stoic, 10Xers accept, without complaint, that they face forces beyond their control, that they cannot accurately predict events, and that nothing is certain; yet they utterly reject the idea that luck, chaos, or any other external factor will determine whether they succeed or fail.
+- 10Xers display three core behaviors that, in combination, distinguish them from the leaders of the less successful comparison companies:
+- Fanatic discipline: 10Xers display extreme consistency of action—consistency with values, goals, performance standards, and methods. They are utterly relentless, monomaniacal, unbending in their focus on their quests.
+- Empirical creativity: When faced with uncertainty, 10Xers do not look primarily to other people, conventional wisdom, authority figures, or peers for direction; they look primarily to empirical evidence. They rely upon direct observation, practical experimentation, and direct engagement with tangible evidence. They make their bold, creative moves from a sound empirical base.
+- Productive paranoia: 10Xers maintain hypervigilance, staying highly attuned to threats and changes in their environment, even when—especially when—all’s going well. They assume conditions will turn against them, at perhaps the worst possible moment. They channel their fear and worry into action, preparing, developing contingency plans, building buffers, and maintaining large margins of safety.
+- Productive paranoia enables creative action. By presuming worst-case scenarios and preparing for them, 10Xers minimize the chances that a disruptive event or huge piece of bad luck will stop them from their creative work.
+- 3 20 MILE MARCH
+- Suppose you have the opportunity to invest in one of two companies, Company A or Company B.
+    - **Tags:** #idea
+    - **Note:** .idea 20 mile march is a lot like the high average concept
+- When John Brown became CEO of Stryker in 1977, he deliberately set a performance benchmark to drive consistent progress: Stryker would achieve 20 percent net income growth every year. This was more than a mere target, or a wish, or a hope, or a dream, or a vision. It was, to use Brown’s own words, “the law.” He ingrained “the law” into the company’s culture, making it a way of life.
+- Brown created the “Snorkel Award,” given to those who lagged behind; 20 percent was the watermark, and if you were below the watermark, you needed a snorkel. Just imagine receiving a mounted snorkel from John Brown to hang on your wall so everyone can see that you’re in danger of drowning. People worked hard to keep the snorkel off their walls.5
+    - **Tags:** #idea
+    - **Note:** .idea positive and negative ways to enforce culture
+- From the time John Brown became CEO in 1977 through 1998 (when its comparison, USSC, disappeared as a public company) and excluding a 1990 extraordinary gain, Stryker hit its 20 Mile March goal more than 90 percent of the time.
+- Yet for all this self-imposed pressure, Stryker had an equally important self-imposed constraint: to never go too far, to never grow too much in a single year.
+- John Brown understood that if you want to achieve consistent performance, you need both parts of a 20 Mile March: a lower bound and an upper bound, a hurdle that you jump over and a ceiling that you will not rise above, the ambition to achieve and the self-control to hold back.
+- The 20 Mile March is more than a philosophy. It’s about having concrete, clear, intelligent, and rigorously pursued performance mechanisms that keep you on track. The 20 Mile March creates two types of self-imposed discomfort: (1) the discomfort of unwavering commitment to high performance in difficult conditions, and (2) the discomfort of holding back in good conditions.
+- ELEMENTS OF A GOOD 20 MILE MARCH
+- A good 20 Mile March uses performance markers that delineate a lower bound of acceptable achievement. These create productive discomfort, much like hard physical training or rigorous mental development, and must be challenging (but not impossible) to achieve in difficult times.
+- A good 20 Mile March has self-imposed constraints. This creates an upper bound for how far you’ll march when facing robust opportunity and exceptionally good conditions. These constraints should also produce discomfort in the face of pressures and fears that you should be going faster and doing more.
+- A good 20 Mile March is tailored to the enterprise and its environment. There’s no all-purpose 20 Mile March for all enterprises. Southwest’s march wouldn’t apply to Intel. A sports team’s march wouldn’t apply to an Army platoon leader. An Army platoon leader’s march wouldn’t apply to a school.
+- A good 20 Mile March lies largely within your control to achieve.
+- A good 20 Mile March has a Goldilocks time frame, not too short and not too long but just right. Make the timeline of the march too short, and you’ll be more exposed to uncontrollable variability; make the timeline too long, and it loses power.
+- A good 20 Mile March is designed and self-imposed by the enterprise, not imposed from the outside or blindly copied from others. For instance, to simply accept “earnings per share” as the focus of a march because Wall Street looks at earnings per share would lack rigor, reflecting no clarity about the underlying performance drivers in a specific enterprise.
+- A good 20 Mile March must be achieved with great consistency. Good intentions do not count.
+- Do you need to accomplish your 20 Mile March with 100 percent success? The 10X companies didn’t have a perfect record, only a near-perfect record, but they never saw missing a march as “OK.” If they missed it even once, they obsessed over what they needed to do to get back on track: There’s no excuse, and it’s up to us to correct for our failures, period.
+- The 20 Mile March imposes order amidst disorder, consistency amidst swirling inconsistency. But it works only if you actually achieve your march year after year. If you set a 20 Mile March and then fail to achieve it—or worse, abandon fanatic discipline altogether—you may well get crushed by events.
+- Intel, for instance, built its 20 Mile March around the idea of “Moore’s Law” (double the complexity of components per integrated circuit at an affordable cost every 18 months to two years). Intel sustained its commitment to achieving Moore’s Law whether in boom times or industry depression, retaining its best engineers, always moving to the next-generation chip, investing consistently in its creative march, year in and year out, no matter what, for more than thirty years.21
+- WHY 20 MILE MARCHERS WIN
+- 20 Mile Marching helps turn the odds in your favor for three reasons: 1. It builds confidence in your ability to perform well in adverse circumstances. 2. It reduces the likelihood of catastrophe when you’re hit by turbulent disruption. 3. It helps you exert self-control in an out-of-control environment.
+- CONFIDENCE BUILT FROM PERFORMANCE IN ADVERSITY
+- Accomplishing a 20 Mile March, consistently, in good times and bad, builds confidence. Tangible achievement in the face of adversity reinforces the 10X perspective: we are ultimately responsible for improving performance. We never blame circumstance; we never blame the environment.
+- the Beat the Odds report:
+    - **Tags:** #idea
+    - **Note:** .idea wise teaching
+- AVOIDANCE OF CATASTROPHE
+- Failure to 20 Mile March in an uncertain and unforgiving environment can set you up for catastrophe. Every comparison case had an episode in its history in which failing to 20 Mile March led to a devastating outcome. In contrast, only two 10X companies had episodes of failing to 20 Mile March, and neither of these episodes led to catastrophe because the 10X companies self-corrected before a storm could rise up and kill them.
+- SELF-CONTROL IN AN OUT-OF-CONTROL ENVIRONMENT
+- Like Amundsen and his team, the 10Xers and their companies use their 20 Mile Marches as a way to exert self-control, even when afraid or tempted by opportunity. Having a clear 20 Mile March focuses the mind; because everyone on the team knows the markers and their importance, they can stay on track.
+- ARTHUR LEVINSON: TEACHING A COMPANY TO MARCH
+- The case of Genentech under Levinson highlights two points. First, 20 Mile Marching can help you turn underachievement into superior achievement; so long as you stay alive and in the game, it’s never too late to start the march. Second, searching for—and even finding—the Next Big Thing does not in itself make a great company. Like a gifted but undisciplined athlete, Genentech had underperformed and disappointed, making good on its promise only once Levinson added fanatic discipline to the mix.
+- If you always search for the Next Big Thing, that’s largely what you’ll end up doing—always searching for the Next Big Thing.
+- The 20 Mile March was a distinguishing factor, to an overwhelming degree, between the 10X companies and the comparison companies in our research.
+- A good 20 Mile March has the following seven characteristics: 1. Clear performance markers. 2. Self-imposed constraints. 3. Appropriate to the specific enterprise. 4. Largely within the company’s control to achieve. 5. A proper timeframe—long enough to manage, yet short enough to have teeth. 6. Imposed by the company upon itself. 7. Achieved with high consistency.
+- 4 FIRE BULLETS, THEN CANNONBALLS
+- In only three of seven pairs, the 10X case proved more innovative than the comparison company.
+- The evidence from our research does not support the premise that 10X companies will necessarily be more innovative than their less successful comparisons. And in some surprise cases, such as Southwest Airlines versus PSA and Amgen versus Genentech, the 10X companies were less innovative than the comparisons.
+- John Brown at Stryker lived by the mantra that it’s best to be “one fad behind,” never first to market, but never last.
+- Even in pairs where the 10X case did out-innovate its comparison, such as with Intel versus AMD, the evidence still does not support the idea that maximum pioneering innovation is the most essential differentiator of 10X success.
+- Will and Vision.
+    - **Tags:** #read
+    - **Note:** .read
+- Tellis and Golder systematically examined the relationship between attaining long-term market leadership and being the innovative pioneer in 66 wide-ranging markets, from chewing gum to the Internet. They found that only 9 percent of pioneers end up as the final winners in a market.
+- It seems that pioneering innovation is good for society but statistically lethal for the individual pioneer!
+- we’re not saying that innovation is unimportant. Every company in this study innovated. It’s just that the 10X winners innovated less than we would have expected relative to their industries and relative to their comparison cases; they were innovative enough to be successful but generally not the most innovative.
+- We concluded that each environment has a level of “thresh old innovation” that you need to meet to be a contender in the game; some industries, such as airlines, have a low threshold, whereas other industries, such as biotechnology, command a high threshold. Companies that fail even to meet the innovation threshold cannot win. But—and this surprised us—once you’re above the threshold, especially in a highly turbulent environment, being more innovative doesn’t seem to matter very much.
+- Why doesn’t innovation systematically distinguish the 10X winners from the comparisons, despite the widely held view that innovation is perhaps the #1 differentiating factor of success in a fast-changing world? Because, in essence, once a company meets the threshold of innovation necessary for survival and success in a given environment, it needs a mixture of other elements to become a 10X company—in particular, the mixture of creativity and discipline.
+- By 1973, Intel’s 1103 had become the best-selling semiconductor component in the world, used by nearly every major computer manufacturer.12 The reason? Yes, innovation played a role; the 1103 proved to be a very good chip. But more telling is a motto Intel had coined for itself by 1973: “Intel Delivers.”
+- “Intel Delivers” explains Intel’s 10X success much better than “Intel Innovates.” Even more accurate, “Intel innovates to a necessary threshold, then blows everyone away—utterly, completely, fanatically, obsessively—with its ability to deliver on its innovations, at expected cost, with high reliability and great consistency.” This is the essence of Intel’s 10X journey.
+- Intel’s founders believed that innovation without discipline leads to disaster.
+- “What Intel needed going forward was not the courage to take great leaps ahead but the discipline to take orderly steps in a controlled fashion.”
+- Grove sought to pattern Intel not after an advanced R&D lab but—of all companies—McDonalds, keeping a hamburger box on his desk with a mock logo, McIntel.
+- Of course, it is not discipline alone that makes greatness, but the combination of discipline and creativity. In the vernacular of Built to Last, this is a true “Genius of the AND.”
+- Our data on comparative innovativeness led us to a crux dilemma. On the one hand, when you’re faced with an uncertain and unstable world, an obsessive focus on innovation by itself does not make for great success and might even lead to demise; bet big on the wrong innovations or fail to execute on the right innovations, and you leave yourself exposed. On the other hand, if you just sit still and never do anything bold or new, the world will pass you by, and you’ll die from that instead. The solution to this dilemma lies in replacing the simplistic mantra “innovate or die” with a much more useful idea: fire bullets, then fire cannonballs.
+- Task 1: Get great people. Task 2: Assemble as much gunpowder (additional funding) as possible. Task 3: Find a path to success and build a great company.
+- Amgen’s early days illustrate a key pattern we observed in this study: fire bullets, then fire cannonballs. First, you fire bullets to figure out what’ll work. Then once you have empirical confidence based on the bullets, you concentrate your resources and fire a cannonball. After the cannonball hits, you keep 20 Mile Marching to make the most of your big success.
+- WHAT MAKES A BULLET? A bullet is an empirical test aimed at learning what works and that meets three criteria:   1. A bullet is low cost. Note: the size of a bullet grows as the enterprise grows; a cannonball for a $1 million enterprise might be a bullet for a $1 billion enterprise.   2. A bullet is low risk. Note: low risk doesn’t mean high probability of success; low risk means that there are minimal consequences if the bullet goes awry or hits nothing.   3. A bullet is low distraction. Note: this means low distraction for the overall enterprise; it might be very high distraction for one or a few individuals.
+- Both the 10Xers and the comparison cases fired cannonballs. The comparison companies, however, tended to fire cannonballs before they’d obtained a confirming calibration—empirical validation gained through actual experience—that the cannonball would likely reach its intended target.
+- For shorthand, we call a cannonball fired before you gain empirical validation an uncalibrated cannonball. The 10Xers were much more likely to fire calibrated cannonballs, while the comparison cases had uncalibrated cannonballs flying all over the place (the 10X cases had a 69 percent calibration rate on cannonballs versus 22 percent for the comparisons).
+- PSA’s demise illustrates the danger of firing uncalibrated cannonballs in an uncertain world full of turbulent disruption. If an enterprise gets slammed by a series of shocks just as its uncalibrated cannonballs go crashing off into space, it’s more likely to have a catastrophic outcome.
+- firing an uncalibrated cannonball that succeeds, generating a huge windfall, can be even more dangerous than a failed cannonball.
+- The 10X cases didn’t have perfect records in calibrating their cannonballs. Southwest bought Muse Air in the early 1980s, a big move outside its proven model; it failed. Intel made an uncalibrated bet in the 1990s to push the personal computer industry to a new memory technology from RAMBUS; it failed. But in the rare instances in which the 10X cases fired uncalibrated cannonballs, they quickly learned from their mistakes and returned to a bullets-then-cannonballs approach.
+- Even 10Xers make mistakes, even sometimes the big mistake of firing an uncalibrated cannonball. But they view mistakes as expensive tuition: better get something out of it, learn everything you can, apply the learning, and don’t repeat. Whereas comparison cases often try to recover from the calamity of firing an uncalibrated cannonball by firing yet another uncalibrated cannonball, 10Xers recover by returning to the discipline of firing cannonballs only when they have empirical validation.
+- But Progressive had learned: you can only know if something will actually work if you gain empirical validation, no matter how many slide decks support the idea.
+- Progressive’s three strategic decisions—trucking insurance (uncalibrated cannonball), standard auto insurance (calibrated cannonball), and homeowners insurance (bullets followed by the decision not to fire a cannonball)—all underscore one very big lesson. In the face of instability, uncertainty, and rapid change, relying upon pure analysis will likely not work, and just might get you killed. Analytic skills still matter, but empirical validation matters much more.
+    - **Tags:** #idea
+    - **Note:** .idea economy is a chaotic system so the only logical strategy is to experiment and double down on what works
+- And that’s the underlying principle: empirical validation. Be creative, but validate your creative ideas with empirical experience.
+- More important than being first or the most creative is figuring out what works in practice, doing it better than anyone else, and then making the very most of it with a 20 Mile March.
+- Gates was smart enough to know that he wasn’t smart enough to predict with certainty what would actually happen to OS/2.
+- We were relieved to discover that you don’t need any special predictive ability to thrive in uncertainty. If you don’t know what’s going to happen next—and no one does—this chapter outlines a method for making progress rather than getting paralyzed, frozen by life’s uncertainties.
+- What did Jobs first do to get Apple back on track? Not the iPod, not iTunes, not the iPhone, not the iPad. First, he increased discipline. That’s right, discipline, for without discipline there’d be no chance to do creative work.
+- The iPod story illustrates a crucial point: a big, successful venture can look in retrospect like a single-step creative breakthrough when, in fact, it came about as a multistep iterative process based more upon empirical validation than visionary genius. The marriage of fanatic discipline and empirical creativity better explains Apple’s revival than breakthrough innovation per se.
+- Fanatic discipline and empirical creativity—two sides of a coin, both required for 10X success and enduring greatness.
+- Our 10X cases fired a significant number of bullets that never hit anything. They didn’t know ahead of time which bullets would hit or be successful.
+- The difficult task is to marry relentless discipline with creativity, neither letting discipline inhibit creativity nor letting creativity erode discipline.
+- 5 LEADING ABOVE THE DEATH LINE
+- Many people know this 1996 Everest story through Jon Krakauer’s book Into Thin Air; if you haven’t yet read Krakauer’s book, be sure to do so. But also be sure to read David Breashears’s superb book High Exposure. Here, like Amundsen and Scott, we have a comparison contrast: two sets of team leaders on the same mountain on the same day, both with burdens of responsibility and business pressures (one to lead clients to the top for a large fee and the other to complete a multimillion-dollar movie project), both with tremendous experience—yet only one leads his team to 10X success, achieving the incredible goal of shooting an IMAX film on the top of Everest, and bringing himself and every member of his team safely home.
+    - **Tags:** #read
+    - **Note:** .read
+- David Breashears
+    - **Tags:** #readthis, #idea
+    - **Note:** .idea .readthis only the paranoid survive + everest and antarcrtica book (productive paranoid leaders)
+- David Breashears’s approach to Everest exemplifies the ideas in this chapter, which addresses how 10Xers lead their companies with productive paranoia. The 10X winners in our research always assumed that conditions can—and often do—unexpectedly change, violently and fast. They were hypersensitive to changing conditions, continually asking, “What if?” By preparing ahead of time, building reserves, maintaining “irrationally” large margins of safety, bounding their risk, and honing their disciplines in good times and bad, they handled disruptions from a position of strength and flexibility. They understood, deeply: the only mistakes you can learn from are the ones you survive.
+- In this chapter, we explore three core sets of practices, rooted in the research, for leading and building a great enterprise with productive paranoia: Productive Paranoia 1: Build cash reserves and buffers—oxygen canisters—to prepare for unexpected events and bad luck before they happen. Productive Paranoia 2: Bound risk—Death Line risk, asymmetric risk, and uncontrollable risk—and manage time-based risk. Productive Paranoia 3: Zoom out, then zoom in, remaining hypervigilant to sense changing conditions and respond effectively.
+- PRODUCTIVE PARANOIA 1: EXTRA OXYGEN CANISTERS-IT’S WHAT YOU DO BEFORE THE STORM COMES
+- We conducted a systematic analysis of three hundred years of balance sheets from the 10X and comparison companies, and found strong evidence that the 10X cases carried lots of extra oxygen canisters. Compared to the median cash-to-assets ratio for 87,117 companies analyzed in the Journal of Financial Economics, the 10X companies carried 3 to 10 times the ratio of cash to assets.15 When it comes to building financial buffers and shock absorbers, the 10X cases were paranoid, neurotic freaks! And it wasn’t just an industry effect. When we sliced the data comparing the 10X cases to their comparisons, we found that the 10X cases were more conservative in how they managed their balance sheets than their direct comparisons; 80 percent of the time, the 10X cases carried a higher cash-to-assets ratio and a higher cash-to-liabilities ratio than their comparisons.
+- Like Breashears and Amundsen, the 10X leaders built buffers and shock absorbers as a habit early on, preparing to absorb the next “Black Swan” event. A Black Swan is a low-probability disruption, an event that almost no one can foresee, a concept popularized by the writer and financier Nassim Nicholas Taleb.16 Almost no one can predict a particular Black Swan before it hits, not even our 10Xers. But it is possible to predict that there will be some Black Swan, as yet unspecified. Put another way, the probability of any particular Black Swan event might be less than 1 percent, but the probability that some Black Swan event will happen is close to 100 percent; it’s just that you can’t predict what it’ll be or when it’ll come. This is Taleb’s crucial contribution, an insight that any aspiring 10Xer should well learn.
+- Southwest
+    - **Tags:** #idea
+    - **Note:** .idea story of an antifragile company. Apply idea of anti-fragile and Southwest to show how they did it
+- When a calamitous event clobbers an industry or the overall economy, companies fall into one of three categories: those that pull ahead, those that fall behind, and those that die. The disruption itself does not determine your category. You do.
+- PRODUCTIVE PARANOIA 2: BOUNDING RISK
+- “Did the 10X cases take more risk or less risk than the comparison cases?”
+- To explore this question, we first identified three primary categories of risk relevant to leading an enterprise: (1) Death Line risk, (2) asymmetric risk, and (3) uncontrollable risk. (See Research Foundations: Risk-Category Analysis.)
+- Death Line risks are those that could kill or severely damage the enterprise. Asymmetric risks are those for which the potential downside is much bigger than the potential upside. Uncontrollable risks are those that expose the enterprise to forces and events that it has little ability to manage or control.
+- Turning to our 10X research data, we conducted an extensive analysis across the history of the 10X and comparison cases, and found that the 10X cases behaved like David Breashears. They took less Death Line risk, less asymmetric risk, and less uncontrollable risk than the comparison cases.
+- In short, we found that the 10X companies took less risk than the comparison cases. Certainly, the 10X leaders took risks, but relative to the comparisons in the same environments, they bounded, managed, and avoided risks. The 10X leaders abhorred Death Line risk, shunned asymmetric risk, and steered away from uncontrollable risk.
+- After finishing the risk analysis described above, we realized that there was one additional and very important category of risk to consider, time-based risk;
+- Recall Andy Grove’s response to his cancer diagnosis that we discussed in Chapter 2. He didn’t jump right to action. He considered his time frame and recognized that his risk profile wouldn’t change significantly in a matter of weeks. Months or years, yes, but not weeks. He then used that time to rigorously develop a plan of attack, considering all the various possibilities and creating his own data charts. Grove was anything but complacent about his cancer, but he didn’t make a quick, reactive decision. Grove believed that jumping into the operating room without carefully considering his situation and the options would increase his risk.
+    - **Tags:** #idea
+    - **Note:** .idea how to manage risk
+- Sometimes acting too fast increases risk. Sometimes acting too slow increases risk. The critical question is, “How much time before your risk profile changes?” Do you have seconds? Minutes? Hours? Days? Weeks? Months? Years? Decades? The primary difficulty lies not in answering the question but in having the presence of mind to ask the question.
+- PRODUCTIVE PARANOIA 3: ZOOM OUT, THEN ZOOM IN
+- We adopted the terms zoom out and zoom in to capture an essential manifestation of productive paranoia, a dual-lens capability. 10X leaders remain obsessively focused on their objectives and hypervigilant about changes in their environment; they push for perfect execution and adjust to changing conditions; they count the passes and see the gorilla.
+- Zoom Out Sense a change in conditions Assess the time frame: How much time before the risk profile changes? Assess with rigor: Do the new conditions call for disrupting plans? If so, how?   Then   Zoom In Focus on supreme execution of plans and objectives
+- Marketing in High Technology
+    - **Tags:** #read
+    - **Note:** .read
+- Intel made a mistake in not recognizing the Motorola threat earlier (even 10X companies do not have a perfect record), which forced it into such a crash program. Yet once it recognized the threat, it didn’t make its situation worse via panicky, thoughtless reaction. 10X enterprises at their best respond to empirical evidence rather than hype or scaremongering, and stick with proven principles and strategies in the face of frightening events. A fast-moving threat does not call for abandoning disciplined thought and disciplined action.
+- 10Xers distinguish themselves by an ability to recognize defining moments that call for disrupting their plans, changing the focus of their intensity, and/or rearranging their agenda, because of opportunity or peril, or both. When the defining moment comes, they have the buffers already in place, lots of extra oxygen canisters, giving them options and the flexibility to adjust. They have huge margins of safety, precisely because they’ve bounded their risks, exercising prudence all the way along, avoiding Death Line risk, shunning asymmetric risk, and minimizing uncontrollable risk. They sense change, zooming out to ask, “How much time before the risk profile changes?” They make rigorous rather than reactive decisions. Then they zoom in, obsessively focusing on superb execution in the defining moment, never compromising excellence for speed.
+- This chapter explores three key dimensions of productive paranoia: 1. Build cash reserves and buffers—oxygen canisters—to prepare for unexpected events and bad luck before they happen. 2. Bound risk—Death Line risk, asymmetric risk, and uncontrollable risk—and manage time-based risk. 3. Zoom out, then zoom in, remaining hypervigilant to sense changing conditions and respond effectively.
+- 10Xers understand that they cannot reliably and consistently predict future events, so they prepare obsessively—ahead of time, all the time—for what they cannot possibly predict. They assume that a series of bad events can wallop them in quick succession, unexpectedly and at any time.
+- It’s what you do before the storm hits—the decisions and disciplines and buffers and shock absorbers already in place—that matters most in determining whether your enterprise pulls…
+- 10Xers build buffers and shock absorbers far beyond the norm of what others do. The 10X companies we studied carried 3 to 10 times the ratio of cash to assets relative to the median of what most companies carry and maintained more conservative balance sheets than the comparison…
+- 10X cases are extremely prudent in how they approach and manage risk, paying special attention to three categories of risk: 1. Death Line risk (which can kill or severely damage the enterprise) 2. Asymmetric risk (in which the downside dwarfs the upside…
+- 10Xers zoom out, then zoom in. They focus on their objectives and sense changes in their environment; they push for perfect execution and adjust to changing conditions. When they sense danger, they immediately zoom out to consider how quickly a threat is approaching and whether it calls for a change in…
+- Rapid change does not call for abandoning disciplined thought and disciplined action. Rather, it calls for upping the intensity to zoom out for fast yet rigorous decision…
+- The 10X cases took less risk than the comparison cases yet produced…
+- Contrary to the image of brazen, self-confident, risk-taking entrepreneurs who see only upside potential, 10X leaders exercise productive paranoia, obsessing about what can go wrong. They ask questions like: What is the worst-case scenario? What are the consequences of the worst-case scenario? Do we have contingencies in place for the worst-case scenario? What’s the upside and what’s the downside of this decision? What’s the likelihood of the upside and the…
+- The 10X cases didn’t have a greater bias for speed than the comparison companies. Taking the time available before the risk profile changes, whether short or long, to make a rigorous and deliberate…
+- 6…
+- “Most men die of their remedies, and not of their…
+- But the truly amazing thing about Putnam’s list is its consistency over time. In total, the elements on the Putnam list changed only about 20  percent in a quarter of a century.
+- Howard Putnam’s 10 points form a SMaC recipe. A SMaC recipe is a set of durable operating practices that create a replicable and consistent success formula. The word “SMaC” stands for Specific, Methodical, and Consistent. You can use the term “SMaC” as a descriptor in any number of ways: as an adjective (“Let’s build a SMaC system”), as a noun (“SMaC lowers risk”), and as a verb (“Let’s SMaC this project”).
+- Tactics change from situation to situation, whereas SMaC practices can last for decades and apply across a wide range of circumstances.
+- SMaC practice is not the same as a strategy, culture, core values, purpose, or tactics. Is “Fly only 737s” a core value? No. Is “Fly only 737s” a core purpose, a reason for being? No. Is “Fly only 737s” a high-level strategy? No. Is “Fly only 737s” a culture? No. Is “Fly only 737s” a tactic to be changed frequently, from situation to situation? No. More than thirty years after Putnam laid out his 10 points, Southwest still flew only 737s.
+- All the 10X companies’ SMaC recipes contained things not to do. Do not use loss reserves to manage earnings (Progressive). Do not wait to develop perfect software to enter the market; get good enough to launch and then improve (Microsoft). Do not be the first with new innovations but also not the last; stay one fad behind (Stryker). Do not cut R&D during industry recessions (Intel). Do not hype; better to make people angry by underestimating your next success than by overestimating (Amgen). Do not grant stock options to the CEO but only to employees (Biomet).
+- In a world full of big, fast-moving forces and unrelenting uncertainty, 10Xers accept with stoic equanimity what they cannot control, yet they exert extreme control when they can. One of the most crucial ways they exert control in an out-of-control world is by being incredibly SMaC.
+- Now, you might be thinking, “OK, the primary finding here is to have a SMaC recipe.” But in fact, the existence of a recipe per se did not systematically distinguish the 10X companies from the comparison companies. Rather, the principal finding is how the 10X companies adhered to their recipes with fanatic discipline to a far greater degree than the comparisons, and how they carefully amended their recipes with empirical creativity and productive paranoia.
+- ADHERING TO THE SMAC RECIPE WITH FANATIC DISCIPLINE
+- The 10X companies kept any given recipe ingredient in the mix for more than twenty years on average (with a range from eight to forty-plus years)—durable indeed!
+- We found a fascinating contrast in the comparison cases: most of the comparisons displayed some version of a SMaC recipe during their best years of performance (only one comparison company, Kirschner, never had one) but the comparisons changed their recipes to a much greater degree than the 10X cases over time. When we analyzed 117 recipe elements across the 10X and comparison cases, we found that the comparisons changed four times more than the 10X cases.
+- Now, you might be thinking, “But wait a minute! Perhaps the comparison cases had truly inferior operating models, and they changed more because they hadn’t yet found a great one.” But think back on PSA. Recall from Chapter 4 how Southwest Airlines began as a copy of PSA, right down to the operating manuals. So, here we have two airlines both facing deregulation, both facing a disruptive environment, both with fabulous core markets, both with nearly identical recipes, and yet only Southwest endured as a great company in the two decades after deregulation.
+- PSA reacted to deregulation by deciding it needed to become more like…United Airlines. Here, in an amazing twist of irony, we have PSA moving away from its proven recipe just as Southwest began to build momentum in Texas. Using the same proven recipe, and having invented it, PSA should have become the most successful airline in history, yet it sold out to US Air. “Life is tough for an independent airline at the best of times,” said PSA’s president, ending the company’s independent life with a whimper. “We could have gone it alone, but…it made more sense for us to accept US Air’s very reasonable offer.”
+- Conventional wisdom says that change is hard. But if change is so difficult, why do we see more evidence of radical change in the less successful comparison cases? Because change is not the most difficult part. Far more difficult than implementing change is figuring out what works, understanding why it works, grasping when to change, and knowing when not to.
+- Fortunately, the story turned out differently, with a turnaround beginning in 1997. And here’s the really interesting part: Steve Jobs didn’t so much revolutionize the company as he returned it to the principles he’d used to launch the company from garage to greatness two decades earlier.
+    - **Tags:** #idea
+    - **Note:** .idea companies that turn around (apple)
+- Apple fell behind during its dark days not because its original recipe no longer worked, but because it lacked the discipline to adhere to its original recipe.
+- The UCLA Dynasty,
+    - **Tags:** #read
+    - **Note:** .read
+- If you really want to become mediocre or get yourself killed in a turbulent environment, you want to be changing, morphing, leaping, and transforming yourself all the time and in reaction to everything that hits you. We’ve found in all our research studies that the signature of mediocrity is not an unwillingness to change; the signature of mediocrity is chronic inconsistency.
+- Keep in mind the premise of this study: the world is in a state of uncertainty and instability, full of rapid change and dramatic disruptions. Yet when we conducted our research through this very lens of extreme change and turmoil, we found that the 10X companies changed their recipes less than their comparisons. This doesn’t mean 10X leaders are complacent. Productive paranoids infused with fanatic discipline and fired up by empirical creativity in pursuit of Level 5 ambitions don’t have any conception of complacency. 10Xers are truly obsessed, driven people. It’s just that they accomplish their huge goals by adhering with great discipline to what they know works while simultaneously worrying—for they always worry—about what might no longer work in a changing environment. When conditions truly call for a change, they respond by amending the recipe.
+- The amount of change swirling about is both gigantic and, for most people, accelerating. If we tried to react to every single external change, we’d quickly find ourselves incapacitated. Most change is just noise and requires no fundamental change in ourselves. Yet some change is not noise, demanding that we adjust and evolve, else we face demise, catastrophe, or missed opportunities. A great company must evolve its recipe, revising selected elements when conditions merit, while keeping most of its recipe intact.
+- The Intel case illustrates a powerful “Genius of the AND.” On the one hand, a great company changes only a small fraction of its SMaC recipe at any given time, keeping the rest of it intact. On the other hand, this isn’t just “incremental” change; a SMaC-recipe change is, almost by definition, a hugely significant change. By grasping this point, a 10X enterprise can achieve significant change and extraordinary continuity, both at the same time.
+- So, how does a 10X company know when it’s time to amend its recipe, presuming it has a really good one? With a concrete recipe in hand, it can explicitly consider the recipe’s ingredients in the context of changes in the environment. It can examine the empirical evidence. What are the brutal facts? Not opinions, but facts. What bullets have we fired? What have they hit?
+- The Intel case illustrates how firing bullets can give you a hedge against an uncertain future, so that you might have a ready-made amendment ready to go when the world changes. Intel didn’t react to the memory-business disruption by inventing the microprocessor; it had been firing bullets for more than a decade, proving itself in microprocessors.
+    - **Tags:** #idea
+    - **Note:** .idea surviving black swan events
+- There are two healthy approaches to amending the SMaC recipe: (1) exercising empirical creativity, which is more internally driven, and (2) exercising productive paranoia, which is more externally focused. The first involves firing bullets to discover and test a new practice before making it part of the recipe. The second employs the discipline to zoom out to…
+- Prior to 1994, Microsoft built its recipe around the stand-alone personal computer as the center of the universe. Then in January 1994, a 25-year-old Microsoft engineer named James J. Allard sounded an alarm, pointing out that two new systems were being added to the Internet with every passing minute, with a new network connecting up every 40 minutes. A month later, one of Microsoft’s technical generals visited Cornell University, and seeing firsthand how all the kids were connected to the Internet, followed up with an email to Bill Gates, “Cornell is WIRED!” Sensing a change in conditions, just like David Breashears on Everest, Gates zoomed out. In fact, Gates had a zoom-out mechanism already in place; he’d set aside an entire week each year to go away for intense reading and reflection, his “Think Week.” Gates dedicated his April 1994 Think Week to the Internet. He also stimulated his team to zoom out, calling a retreat of the Microsoft brain trust to assess the threat. What are the facts? Does this require a major change? Is this real or is it hype? Are we…
+- Then Microsoft zoomed in. Gates wrote a memo, eight pages, single-spaced, entitled “The Internet Tidal Wave,” in which he described his own evolution, having “gone through several stages of increasing my views as to [the Internet’s] importance.” He then redirected Microsoft to the Internet, pushing his teams to “go overboard on Internet features” and sending more than five hundred programmers on a speed march to develop a browser that would later be known as Internet Explorer.25 The memo became the stuff of legend, the story of…
+- Yet just as Intel handled its transition to microprocessors, Microsoft kept intact most of the recipe that had made it successful prior to the rise of the Internet. Microsoft did not abandon its focus on software. It did not abandon its belief in standards. It did not abandon its approach of launching imperfect products and then improving them. It did not abandon its price-for-volume strategy. It did not abandon its commitment to open systems. It did not abandon the practice of internal yelling matches, the testing ground for letting the best ideas win. It did not abandon Windows. It did not abandon applications. It was a huge change for Microsoft to embrace the Internet, and yet most of Microsoft’s recipe remained intact. Did Microsoft make a big change…
+- Any enterprise, whether a company, society, nation, church, social venture, school, hospital, military unit, orchestra, team, or any other human organization, faces a constant struggle to find the balance between continuity and change. No human enterprise can succeed at the highest levels without consistency; if you bring no coherent unifying concept and disciplined methodology to your endeavors, you’ll be whipsawed by changes in your environment and cede your fate to forces outside your control. Equally true, however, no human enterprise can succeed at the highest levels without productive evolution.
+- Those who spend most of their energy “reacting to change” will do exactly that, expend most of their energy reacting to change. In a great twist of irony, those who bring about the most significant change in the world, those who have the largest impact on the economy and society, are themselves enormously consistent in their approach. They aren’t dogmatic or rigid; they’re disciplined, they’re creative, they’re paranoid. They’re SMaC!
+- CHAPTER SUMMARY
+- SMaC stands for Specific, Methodical, and Consistent. The more uncertain, fast-changing, and unforgiving your environment, the more SMaC you need to be.
+- A SMaC recipe is a set of durable operating practices that create a replicable and consistent success formula; it is clear and concrete, enabling the entire enterprise to unify and organize its efforts, giving clear guidance regarding what to do and what not to do. A SMaC recipe reflects empirical validation and insight about what actually works and why. Howard Putnam’s 10 points at Southwest Airlines perfectly illustrates the idea.
+- Developing a SMaC recipe, adhering to it, and amending it (rarely) when conditions merit correlate with 10X success. This requires the three 10Xer behaviors: empirical creativity (for developing and evolving it), fanatic discipline (for sticking to it), and productive paranoia (for sensing necessary changes).
+- All but one of the comparison cases also had solid recipes during their best years, yet they lacked the discipline to implement them with creative consistency, often making reactionary lurches in response to turbulent times.
+- Amendments to a SMaC recipe can be made to one element or ingredient while leaving the rest of the recipe intact. Like making amendments to an enduring constitution, this approach allows you to facilitate dramatic change and maintain extraordinary consistency. Managing the tension between consistency and change is one of the great challenges for any human enterprise.
+- There are two healthy approaches to amending the SMaC recipe: (1) exercising empirical creativity, which is more internally driven (fire bullets, then cannonballs), and (2) exercising productive paranoia (zoom out, then zoom in), which is more externally focused.
+- It is possible to develop specific, concrete practices that can endure for decades—SMaC practices.
+- Once they had their SMaC recipes, the 10X cases changed them only by an average of 15 percent (compared to 60 percent for the comparison cases) over their respective eras of analysis, and any given element of a 10X recipe lasted on average for more than two decades. This is a stunning finding, given that all the companies in the study, 10X cases and comparisons alike, faced rapid change and unrelenting uncertainty.
+- Far more difficult than implementing change is figuring out what works, understanding why it works, grasping when to change, and knowing when not to.
+- 7 RETURN ON LUCK
+- He had the right partner in Jim Donini, as Daly had always chosen his partners with great care, knowing that the ultimate hedge against danger and uncertainty is whom you have on the mountain with you.
+- We decided to undertake an analysis of luck, asking three basic questions: 1. Is luck a common or rare element in the histories of the 10X and comparison cases? 2. What role, if any, does luck play in explaining the divergent trajectories of 10X and comparison cases? 3. What can leaders do about luck to help them build great companies on a 10X journey?
+- We defined a luck event as one that meets three tests: (1) some significant aspect of the event occurs largely or entirely independent of the actions of the key actors in the enterprise, (2) the event has a potentially significant consequence (good or bad), and (3) the event has some element of unpredictability.
+- First, we considered whether the 10X cases got substantially more good luck than the comparison cases. As a general rule, the answer was no.
+- Then we considered: did the comparison cases get more bad luck than the 10X cases? As a general rule, the answer was no; the analysis showed similar levels of bad luck, each group averaging about nine bad-luck events.
+- Finally, we analyzed the time distribution of luck, wondering if perhaps the 10X cases got their good luck early, while the comparison cases got their bad luck early, before they had a chance to fully establish themselves. Perhaps getting an outsized share of good luck early set the 10X cases on a permanently superior path. But again, we found no significant difference. The 10X cases did not systematically have more good luck early, and the comparisons did not have more bad luck early.
+- The real difference between the 10X and comparison cases wasn’t luck per se but what they did with the luck they got.
+- Adding up all the evidence, we found that the 10X cases were not generally luckier than the comparison cases. The 10X cases and the comparisons both got luck, good and bad, in comparable amounts. The evidence leads us to conclude that luck does not cause 10X success. People do. The critical question is not “Are you lucky?” but “Do you get a high return on luck?”
+- We tend to think of luck as a “what” variable—the plane flies by at the right moment, your IPO becomes much more successful than expected, etc. But one of the most significant forms of luck comes not as “what” but in the form of who.
+- This research project began with the premise that we live in an environment of chaos and uncertainty. But the environment doesn’t determine why some companies thrive in chaos and why others don’t. People do. People are disciplined fanatics. People are empirical. People are creative. People are productively paranoid. People lead. People build teams. People build organizations. People build cultures. People exemplify values, pursue purpose, and achieve big hairy audacious goals. Of all the luck we can get, people luck—the luck of finding the right mentor, partner, teammate, leader, friend—is one of the most important.
+- HIGH ROL: RETURN ON LUCK
+- The difference between Bill Gates and similarly advantaged people is not luck. Yes, Gates was lucky to be born at the right time, but many others had this luck. And yes, Gates was lucky to have the chance to learn programming by 1975, but many others had this same luck. Gates did more with his luck, taking a confluence of lucky circumstances and creating a huge return on his luck. And this is the important difference.
+- Everyone gets luck, good and bad, but 10X winners make more of the luck they get.
+- Across all the research we’ve conducted for this book and our previous books regarding what makes companies great (which has involved investigating the histories of 75 major corporations), we’ve never found a single instance of sustained performance due simply to pure luck. Yet also true, we’ve never studied a single great company devoid of luck events along its journey. Neither extreme—it’s all luck or luck plays no role—has the evidence on its side. A far better fit with the data is a synthesizing concept, return on luck.
+- When we turn to the comparison companies, we see a substantial number of good luck events but a generally poor overall return on luck. Some of the comparison cases got extraordinary sequences of good luck yet showed a spectacular ability to fritter it away.
+- The AMD story illustrates a common pattern we observed in the comparison companies during their respective eras of analysis, the squandering of good luck. When the time came to execute on their good fortune, they stumbled. They didn’t fail for lack of good luck; they failed for lack of superb execution.
+- Progressive and Peter Lewis illustrate how 10Xers shine when clobbered by setbacks and misfortune, turning bad luck into good results. 10Xers use difficulty as a catalyst to deepen purpose, recommit to values, increase discipline, respond with creativity, and heighten productive paranoia. Resilience, not luck, is the signature of greatness.
+- If indeed a substantially lower percentage of Canadian-born NHL players are born in the second half of the year than in the first half of the year, yet half of Canadian-born Hall of Fame inductees have birth dates in the second half of the year, this leads to a very interesting inversion: Canadian NHL players with the “bad luck” of being born in the second half of the year have a higher likelihood of making it into the Hall of Fame than those with the “good luck” of being born in the first half of the year!
+- “Goals live on the other side of obstacles and challenges,” said Bourque. “Along the way, make no excuses and place no blame.”
+- Now, you might be thinking, “But Bourque is an exception.” Precisely. The whole point is to become exceptional.
+    - **Tags:** #idea
+    - **Note:** .idea anti fragile have a high roi on good luck and be anti fragile towards bad luck
+- Southwest Passage:
+    - **Tags:** #read
+    - **Note:** .read
+- There’s only one truly definitive form of luck, and that’s the luck that ends the game. If Southwest missed an opportunity to open in a new city or grab a set of gates at a new airport, it still could have turned itself into a great company. But if Southwest had been knocked out of business with a plane crash in its first week of operation, it likely would have lost forever the chance to become a great company. Recall the essential first half of Nietzsche’s quote, “What does not kill me…”
+- There’s an interesting asymmetry between good luck and bad luck. A single stroke of good luck, no matter how big the break, cannot by itself make a great company. But a single stroke of extremely bad luck that slams you on the Death Line, or an extended sequence of bad-luck events that creates a catastrophic outcome, can terminate the quest.
+- If we all get some combination of both heads (lucky flips) and tails (unlucky flips), and if the ratio of heads to tails tends to even out over time, we need to be skilled, strong, prepared, and resilient to endure the bad luck long enough to eventually get good luck.
+- As we discussed in Chapter 5, 10Xers exercise productive paranoia, combined with empirical creativity and fanatic discipline, to create huge margins of safety. If you stay in the game long enough, good luck tends to return, but if you get knocked out, you’ll never have the chance to be lucky again. Luck favors the persistent, but you can persist only if you survive.
+- LUCK IS NOT A STRATEGY
+- Life offers no guarantees. But it does offer strategies for managing the odds, indeed, even managing luck. The essence of “managing luck” involves four things: (1) cultivating the ability to zoom out to recognize luck when it happens, (2) developing the wisdom to see when, and when not, to let luck disrupt your plans, (3) being sufficiently well-prepared to endure an inevitable spate of bad luck, and (4) creating a positive return on luck—both good luck and bad—when it comes. Luck is not a strategy, but getting a positive return on luck is.
+- And how would you get the highest possible return on luck? It turns out that you’ve been reading about it all the way along in the previous chapters. Keep in mind the original premise of the study: life is uncertain, full of big, consequential forces that we can neither predict nor control. Luck is uncertain, uncontrollable, and…
+- Let’s review where we’…
+- 10Xer behaviors: Leaders with fanatic discipline, empirical creativity, productive paranoia, and Level 5 ambition never relax when blessed with good luck. They never wallow in despair when hit with bad luck. They…
+- 20 Mile March: When 10Xers get a lucky break, they seize it and then build upon it, not just for days or weeks but for years or decades. A 10Xer builds a culture that can achieve results whether it gets good luck or bad, engendering deep…
+- Fire bullets, then cannonballs: While 10Xers don’t “cause” their luck, they increase the chances of stumbling upon something that works by firing lots of bullets. By marrying creativity with empirical validation, 10Xers can fire big cannonballs that don’t rely on luck for ultimate success. Uncalibrated…
+- Leading above the Death Line: By having lots of extra oxygen canisters (building big buffers and margins of safety), 10Xers give themselves more options for responding to luck. By managing three types of risk—Death Line risk, asymmetric risk, and uncontrollable risk—they shrink the odds of catastrophe in the face of bad luck. The ability to zoom out,…
+- SMaC: SMaC behaviors minimize mistakes that can amplify bad-luck events. They also increase the odds of executing brilliantly when a good-luck moment arrives. Having a clear SMaC recipe can help you decide…
+- All the concepts in this book contribute to…
+- There’s an adage that says “Better to be lucky than good.” And it’s perhaps true—for those who seek to be only good, not much better than average, creating nothing exceptional. But our research brings us to an entirely opposite conclusion for…
+- We defined a luck event as one that meets three tests: (1) some significant aspect of the event occurs largely or entirely independent of the actions of the key actors in the enterprise, (2) the event has a potentially significant consequence (good or bad), and (3) the event has some element of unpredictability.
+- Luck happens, a lot, both good luck and bad luck. Every company in our research experienced significant luck events in our era of analysis. Yet the 10X cases were not generally luckier than the comparison cases.
+- We’ve encountered two extreme views on the topic of luck. One extreme holds that luck is the primary cause of 10X success; the other extreme holds that luck plays no role in 10X success. Both views are not supported by the evidence from our research. The critical question is not “Are you lucky?” but “Do you get a high return on luck?”
+    - **Tags:** #idea
+    - **Note:** .idea [[Peter Thiel]] talked about this in Zero to One
+- There are four possible ROL scenarios: Great return on good luck Poor return on good luck Great return on bad luck Poor return on bad luck
+- We observed an asymmetry between good luck and bad. A single stroke of good fortune, no matter how big, cannot by itself make a great company. But a single stroke of extremely bad luck, or an extended sequence of bad-luck events that create a catastrophic outcome, can terminate the quest. There’s only one truly definitive form of luck, and that’s the luck that ends the game. 10Xers assume they’ll get a spate of bad luck and prepare ahead of time.
+- The leadership concepts in this book—fanatic discipline; empirical creativity; productive paranoia; Level 5 ambition; 20 Mile March; fire bullets, then cannonballs; leading above the Death Line; and SMaC—all contribute directly to earning a great ROL.
+- 10Xers credit good luck as a contributor to their success, despite the undeniable fact that others also experienced good luck, but they never blame bad luck for setbacks or failures.
+- Some of the comparison companies had extraordinarily good luck, better luck even than the 10X winners, yet failed because they squandered it.
+- 10X cases got a substantial amount of bad luck yet managed to get a great ROL. This is when 10Xers really shine, exemplifying the philosophy, “What does not kill me, makes me stronger.”
+- “Who Luck”—the luck of finding the right mentor, partner, teammate, leader, friend—is one of the most important types of luck. The best way to find a strong current of good luck is to swim with great people, and to build deep and enduring relationships with people for whom you’d risk your life and who’d risk their lives for you.
+- “One should…be able to see that things are hopeless and yet be determined to make them otherwise.” —F. Scott Fitzgerald
+- We sense a dangerous disease infecting our modern culture and eroding hope: an increasingly prevalent view that greatness owes more to circumstance, even luck, than to action and discipline—that what happens to us matters more than what we do.
+- Our research evidence stands firmly against this view. This work began with the premise that most of what we face lies beyond our control, that life is uncertain and the future unknown. And as we wrote in Chapter 7, luck plays a role for everyone, both good luck and bad luck. But if one company becomes great while another in similar circumstances and with comparable luck does not, the root cause of why one becomes great and the other does not simply cannot be circumstance or luck.
+- Indeed, if there’s one overarching message arising from more than six thousand years of corporate history across all our research—studies that employ comparisons of great versus good in similar circumstances—it would be this: greatness is not primarily a matter of circumstance; greatness is first and foremost a matter of conscious choice and discipline.
+- The greatest leaders we’ve studied throughout all our research cared as much about values as victory, as much about purpose as profit, as much about being useful as being successful. Their drive and standards are ultimately internal, rising from somewhere deep inside.
+- Q: Is there a relationship between the SMaC recipe and the Hedgehog Concept from Good to Great?
+- A SMaC recipe is the code for translating a high-level Hedgehog Concept into specific action and for keeping an organization focused in the same direction, thereby building flywheel momentum.
+- Southwest Airlines, for example, had a high-level Hedgehog Concept: to be the best high-spirit, low-cost airline, steadily increasing profit-per-fuselage, with great passion for being an industry renegade. It translated this high-level concept into Putnam’s 10 points, discussed in Chapter 6. By consistently adhering to the recipe, Southwest built cumulative momentum in the flywheel, flight by flight, city by city, gate by gate, year by year, to rise from a start-up in Texas to become the most successful airline.
+- Q: If I’m not a full 10Xer, can I compensate by building a 10X team that has all the behaviors?
+- Instead of focusing on whether any given individual is a 10Xer, it’s better to focus on working as a team to implement the key ideas in Chapters 3 through 7 as an entire enterprise.
+- Q: Does leading above the Death Line mean avoiding BHAGs (Big Hairy Audacious Goals)?
+- No. Roald Amundsen en route to the South Pole and David Breashears with his IMAX camera on Everest were pursuing BHAGs, as were the 10X leaders in our research-study companies. The task is to pursue BHAGs and stay above the Death Line.
+- Q: How is the 10X concept “fire bullets, then cannonballs” different from the Built to Last concept “try a lot of stuff and keep what works”?
+- The two ideas overlap, but the key additional insight from the 10X research is that 10Xers follow up successful bullets with cannonballs. Trying a lot of stuff is, in essence, firing bullets. But keeping what works is not the same thing as making a big bet to fully exploit what you’ve learned from firing a bullet. That’s what cannonballs are for.
+- “Quotes from the Past,” Create the Future, http://www.createthefuture.com/past_quotes.htm.
+    - **Tags:** #read
+    - **Note:** .read
+- Roald Amundsen, The South Pole
+- Roland Huntford, The Last Place on Earth
+    - **Tags:** #read
+    - **Note:** .read
+- Southwest Airlines: 30 Years. One Mission. Low Fares. Supplement to Southwest Airlines Co., Fiscal 2001 Annual Report
+    - **Tags:** #read
+    - **Note:** .read
+- James Wallace and Jim Erickson, Hard Drive
+    - **Tags:** #read
+    - **Note:** .read
+- Leslie Berlin, The Man Behind the Microchip (New York: Oxford University Press, 2005),
+    - **Tags:** #read
+    - **Note:** .read
+- Jeffrey L. Rodengen, The Spirit of AMD: Advanced Micro Devices
+    - **Tags:** #read
+    - **Note:** .read
+- Arthur Kornberg, The Golden Helix
+    - **Tags:** #read
+    - **Note:** .read
+- Geoffrey Brewer, “20 Percent—Or Else!” Sales and Marketing Management, November 1994, 66;
+    - **Tags:** #read
+    - **Note:** .read
+- Howard D. Putnam with Gene Busnar, The Winds of Turbulence
+    - **Tags:** #read
+    - **Note:** .read
+- Mimi Real and Robert Warren, A Revolution in Progress…A History of Intel to Date
+    - **Tags:** #read
+    - **Note:** .read
+- Leslie Berlin, The Man Behind the Microchip
+    - **Tags:** #read
+    - **Note:** .read
+- Aditya P. Mathur, Introduction to Microprocessor,
+    - **Tags:** #read
+    - **Note:** .read
+- Gerard J. Tellis and Peter N. Golder, Will and Vision
+    - **Tags:** #read
+    - **Note:** .read
+- Strategic Management of Technology and Innovation,
+    - **Tags:** #read
+    - **Note:** .read
+- David Ewing Duncan, The Amgen Story: 25 Years of Visionary Science and Powerful Medicine
+    - **Tags:** #read
+    - **Note:** .read
+- Craig E. Aronoff and John L. Ward, Contemporary Entrepreneurs
+    - **Tags:** #read
+    - **Note:** .read
+- Fred R. David, Strategic Management
+    - **Tags:** #read
+    - **Note:** .read
+- Gary Kissel, Poor Sailors’ Airline
+    - **Tags:** #read
+    - **Note:** .read
+- Jim Carlton, Apple
+    - **Tags:** #read
+    - **Note:** .read
+- Morten T. Hansen, Collaboration
+    - **Tags:** #read
+    - **Note:** .read
+- Jim Carlton, Apple: The Inside Story of Intrigue, Egomania, and Business Blunders
+    - **Tags:** #read
+    - **Note:** .read
+- Jon Krakauer, Into Thin Air
+    - **Tags:** #read
+    - **Note:** .read
+- A Revolution in Progress…A History of Intel to Date
+    - **Tags:** #read
+- The Man Behind the Microchip
+    - **Tags:** #read
+    - **Note:** .read
+- “The Determinants and Implications of Corporate Cash Holdings,” Journal of Financial Economics, 1999, 17.
+- Nassim Nicholas Taleb, The Black Swan
+    - **Tags:** #read
+    - **Note:** .read
+- William H. Davidow, Marketing High Technology
+    - **Tags:** #read
+    - **Note:** .read
+- Katie Woodruff, Defining Intel: 25 Years/25 Events
+    - **Tags:** #read
+    - **Note:** .read
+- Tim Jackson, Inside Intel: Andy Grove and the Rise of the World’s Most Powerful Chip Company
+    - **Tags:** #read
+    - **Note:** .read
+- David Ewing Duncan, The Amgen Story: 25 Years of Visionary Science and Powerful Medicine
+    - **Tags:** #read
+    - **Note:** .read
+- Roald Amundsen, The South Pole
+    - **Tags:** #read
+    - **Note:** .read
+- Winds of Turbulence
+    - **Tags:** #read
+    - **Note:** .read
+- James Wallace and Jim Erickson, Hard Drive
+    - **Tags:** #read
+    - **Note:** .read
+- Gary Kissel, Poor Sailors’ Airline
+    - **Tags:** #read
+    - **Note:** .read
+- Rick Bernstein and Ross Greenburg, The UCLA Dynasty (New York: Home Box Office Inc, 2008), DVD.
+    - **Tags:** #read
+    - **Note:** .read
+- Ramon Casadesus-Masanell and David B. Yoffie, “Intel Corporation: 1968–2003 (Teaching Note),” Harvard Business School, case study #5–704–465 (Boston: Harvard Business School Publishing, 2004), 2;
+    - **Tags:** #read
+    - **Note:** .read
+- Lamar Muse, Southwest Passage: The Inside Story of Southwest Airlines’ Formative Years
+    - **Tags:** #read
+    - **Note:** .read
+- Poor Sailors’ Airline
+- The Winds of Turbulence
+- Biomet Inc: From Warsaw to the World
+- F. Scott Fitzgerald, The Crack-Up
+    - **Tags:** #read
+    - **Note:** .read
+- William Patrick Patterson, “Software Sparks a Gold Rush,” Industry Week, October 17, 1983;
+    - **Tags:** #read
+    - **Note:** .resad
+- Juliet M. Corbin and Anselm C. Strauss, Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory
+    - **Tags:** #read
+    - **Note:** .read
+- Robert K. Yin, Case Study Research: Design and Methods
+    - **Tags:** #read
+    - **Note:** .read
+- Matthew B. Miles and A. Michael Huberman, Qualitative Data Analysis: An Expanded Sourcebook
+    - **Tags:** #read
+    - **Note:** .read
+- Nancy B. Tuma and Michael T. Hannan, Social Dynamics: Models and Methods
+    - **Tags:** #read
+    - **Note:** .read
+- Lee Ross and Richard E. Nisbett, The Person and the Situation: Perspectives of Social Psychology
+    - **Tags:** #read
+    - **Note:** .read
+- Clayton M. Christensen, The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail (Boston:
+    - **Tags:** #read
+    - **Note:** .read

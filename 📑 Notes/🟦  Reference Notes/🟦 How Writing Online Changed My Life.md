@@ -1,0 +1,72 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #Writing #Blogging
+- **Source:** https://watchnebula.com/videos/ali-abdaal-how-writing-online-changed-my-life
+- **Author:** [[Ali Abdaal]]
+- **Summary:** 
+- **Notes:**
+    - How starting a blog and putting himself out there changed his life
+    - Started personal blog about 5 years ago
+    - Had to manage fears:
+        - Getting started in the first place
+            - What to write about
+            - People will laugh at me
+            - Nothing he does will be original
+        - Perfectionism
+            - What if it sucks?
+        - I need to be an expert
+    - Show Your Work - Austin Kleon
+        - A guide to self-promotion for people who hate self-promotion
+        - It's not self-promotion, it's about showing your work
+        - You don't need to be an expert to show your work
+    - Biggest regrest:
+        - Wish he'd started a blog earlier
+        - Wish he'd documented the things he read
+    - How has this changed his life?
+        - Serendipity Vehicle
+            - If you life in a small village, you have a limited number of people you can interact with and so you're limiting the amount of serendipity that can happen in your life
+            - If you decide to travel and start meeting people, you could find people interested in the same things as you and dramatically increase your odds of serendipity
+            - You can achieve this with writing
+            - You write and post something online, it's out there and anyone at any point can find it and watch/read it
+            - You get this completely for free
+            - The things that they can imagine with your work is way beyond the things you can possibly think of, beyond the scope of your imagination
+        - Clarify His Own Thoughts
+            - First company started not doing as well as previously which kicked off an existential crisis for Ali around what he was doing with his life
+            - He found clarity on this issue by writing out his thinking and posting it online
+            - Austin Kleon - what's great about a daily project (like writing a little bit every day) is that you find out (not that you have something to say) but what you have to say
+        - The Butterfly Effect
+            - A butterfly flaps it's wings in the Amazon and the chain reaction from that causes a tornado in Oklahoma
+            - Taking small steps can have these chain reactions down the line
+            - Writing online made Ali felt comfortable putting himself out there
+    - How to get started
+        - Start a website and start writing
+            - Don't worry about what the world wants, just write about the things you're interested in
+    - How to respond to not thinking it will work ([[David Perell]])
+        - There's a great essay called [[🟦 How to Be Discovered]] that says:
+            - > The thing that happens which you don’t see until you write is that ^^your content engages some of the smartest people who are lurking around the internet.^^ ^^**And they reach out to you.**^^ Hands down one of the biggest values for folks like Ben Thompson is now he has people teaching him more about topics – this is learning by its very nature. If you want to get coffee with someone, have them want to meet you by what they know about you virtually.
+        - This is all the stuff that you don't see until you've been writing online for almost a year
+        - This has happened to David too - someone tagged David in a tweet from [[Chamath Palihapitiya]] (the multi-billionaire) and then the two of them met and had a conversation and are now in contact with each other
+    - What do you say to someone who wants to get started online but doesn't end up sticking to it?
+        - When people ask Ali what they should do to be successful, he says that they should create a blog, write valuable content and post it online every week, and do that consistently for two years. Inevitably, most people don't stick to it for that long.
+        - David points out that people are terrible at long-term thinking and sticking to long-term goals
+        - The way to stick with something long-term is to set a long-term goal and find a way to make it enjoyable in the short-term
+        - There are amazing things that happen when you start writing and are only available to people with a small audience
+            - You get to experiment without a lot of people watching you
+            - Find a niche that is unique to you - the first people who find you will be very targeted and become your true fans and closest friends
+    - How do I know what to write about?
+        - Heart, Skin, Eyes
+            - Heart: listen for the things that make your heart beat quickly
+            - Skin: what gives you goose bumps
+            - Eyes: what makes your eyes open wide
+        - Write about obscure topics
+            - Don't worry about what the world is going to be interested in when you start writing. Write about the things that interest you.
+            - The key lesson of the internet: if you are interested in something, you are not the only person who is interested in that
+            - Write for fun
+            - Becomes a dance between you and your audience
+                - You lead the dance, you are always in control
+                - Do more of what works
+    - How will people find my writing?
+        - Open v Owned platforms
+            - Open: Twitter, Reddit, YouTube, etc
+            - Owned: Your personal blog and newsletter
+        - Pick one open platform and go all in on it
+        - Convert people from open to owned platforms
+    - 

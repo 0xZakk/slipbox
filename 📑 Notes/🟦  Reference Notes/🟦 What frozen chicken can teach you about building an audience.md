@@ -1,0 +1,17 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Author:** [[Monica Lent]]
+- **Project(s):** 
+- **Summary:** 
+- **Highlights:**
+    - One homesteading blogger (let's call her Janet) sent out a newsletter containing an excellent deal on __frozen chicken__.
+    - **Yes, a frozen chicken deal. To her newsletter.**
+    - And for every deal that one of her subscribers bought, Janet made a small commission from the frozen chicken company.
+    - **Janet made over FIFTY THOUSAND DOLLARS in commissions.**
+    - Why was this one email **so profitable **for her?
+    - **It's because of how intimately she understands her audience.**From spending years writing content, growing a big list of subscribers, creating a community, and providing value to them over and over again -- she LEARNED that her audience just so happens to have massive spare freezers and loves to stock those freezers when a good deal arises ☝️
+    - Did she __predict__ the frozen chicken would be such a hit? Maybe not. **But she probably had an intuition.**
+    - **What can you learn about growing an online audience from a homesteading blogger?**
+        - Janet's frozen chicken deal was a win-win for her and her community: she made an outrageous amount of money, and her audience got an amazing deal for stocking up on chicken. **This synergy happens when you deeply understand what your audience values.**
+        - I want to leave you with two final thoughts:
+            - **Create content that demonstrates this same, intimate understanding of your audience.** It will become the cornerstone content that people know you for, because when reading it, they feel like you're talking directly to them.
+            - **Email lists are extremely powerful, and you should start one.** I personally pay for and recommend ConvertKit for your email list. I've used literally every email tool and keep coming back to them. 

@@ -1,0 +1,10 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Azure]] [[Azure App Services]]
+- **Source:** [[🟦 Host a web application with Azure App service]]
+- **Project(s):** [[📦 Deploying to Azure App Services: 3 ways]] 
+- Azure App Services is a cloud hosting product offered by Azure for deploying and scaling web applications. It's focused on making deployment easy for you, so you can focus on building your application and leave scaling and hosting to Azure.
+- Azure App Services is a fully-managed platform as a service, so you only have to configure the deployment and App Services takes care of the rest
+- Azure App Services has two main concepts:
+    - Web App
+    - Deployment Slots
+- An Azure App Services Web App is the application code you and your team are deploying and running on App Services. An App Service web app can have multiple Deployment Slots, ie for staging and production. When you release a new version of your web app, you can have it automatically deploy to a staging deployment slot, where you can check that everything is working. If everything looks good, you can swap the staging and production deployment slots with a few clicks in the Azure Portal and have the new version of the app live for your users.
+- Azure App Services provides a few ways to automate deployment with continuous integration and continuous deployment. You simply connect your web application and App Service with one of the available options and your code with sync automatically with future changes.

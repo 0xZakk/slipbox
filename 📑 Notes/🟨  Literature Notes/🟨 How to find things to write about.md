@@ -1,0 +1,14 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Blogging]]
+- **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
+- Good writing topics will come from one of the following three buckets:
+- **Things you know**
+    - Take a topic that you are interested in and know some things about and share your knowledge.
+    - You don't have to be an expert on the topic, just able to add something to the conversation.
+    - One way to brainstorm topics in this bucket is to think about questions you get asked regularly. Write articles that answer those questions.
+- **Things you're excited about**
+    - These are things that get you excited.
+    - If you are excited about something, then share what it is and why on your personal site. Hype is contagious. 
+- **Things you believe**
+    - This category of posts are things that you believe. You have to formulate your opinion and take a stance in your article.
+    - With posts about things you believe, you are likely to piss people off.
+    - People tend to play it safe with the content that they post online. Your goal should be to write about something interesting

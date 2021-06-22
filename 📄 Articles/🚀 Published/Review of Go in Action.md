@@ -1,0 +1,78 @@
+- **Type:** #[[__ 📦 Projects]] #[[🚀 Published]] | [[Arrays and Slices in Go]]
+- **Summary:** 
+- [Review Form](https://docs.google.com/forms/d/e/1FAIpQLSetcvBEmpCM_h9Ug5xXzio2cBl8TkQrh2SLsH27_yRyoaGjQA/viewform)
+- [Sample Review](https://manning.app.box.com/v/sample-quality-questionnaire)
+- **Review**
+    - **Writing an Amazon Review**
+    - **Please comment on the manuscript**
+        - **Is the writing interesting? Does it hold your attention?**
+        - **Were there passages that required repeated reading to understand? If so, which ones?**
+        - **Are there any figures \ screenshots which don’t make sense to you or could be captioned \ annotated better to clarify what they are showing?**
+        - **Are the examples good and applicable in real world? Are there enough of them?**
+        - **What do you think of the overall concept of the book and the approach toward the intended audience?**
+        - **What's the one thing that you would change about the book, if you could?**
+        - **Do you recommend any improvements to the Table of Contents?**
+            - It's really unclear from the title of Chapter 11 that it's about building a command line application (which is what Cobra is used for). 
+            - Chapter 15 should maybe come before chapter 9. Then you can divide the chapters into more neat sections:
+                - Intro - chapters 1 and 2
+                - Basics - chapters 3 through 7
+                - Intermediate - Chapters 8 - 9 (with chapter 15 as chapter 9)
+                - Applications - chapters 10 - 14 (currently, chapters 9 - 13)
+        - **Would you remove chapters from this book? If so, why? If not, why not?**
+            - Chapter 14 seems unnecessary - there is plenty of discussion about this in the introduction and this topic definitely isn't worth a chapter
+        - **Is there any topic that you feel should have been in the book? Can you name one?**
+            Go is used in a lot of smart contract development, so that could be a fun thing to add. it would probably require too much additional context though
+        - **Are any parts of the manuscript too long, too short or missing?**
+        - **Does the book make learning the subject easy?**
+        - **Did you actually learn to do anything after reading these chapters? What?**
+        - **Did you gain any new techniques, insights or perspectives?**
+        - **How much value is there in this book compared to free online resources?**
+        - **Which two chapters feel the most valuable to you and why? Which two chapters feel the least valuable to you and why?**
+        - **Did you have any “aha!” moments while reading this manuscript?**
+        - **Has the manuscript improved since the previous review? Did we address your criticism?**
+    - **We often provide examples for two reasons – to help learn the topic and as illustrations of real-world code. Please consider thoroughly running the code. This is a vital part of the manuscript review - we need your opinion on both text and code**
+        - **How many of the source code examples did you run? If none, why?**
+        - **Did the code examples help you learn the material?**
+        - **Are the examples nicely explained?**
+        - **Were there any examples that were helpful in real-world situations?**
+        - **Do the examples use the current and most common version of the technologies covered in the book?**
+        - **Are there new versions of the software announced or coming soon that will affect the examples in the book?**
+    - **Wrap up**
+        - **How much interest is there in this topic?**
+        - **What other topics would you like to see books published on?**
+        - **Can you name some technology experts (perhaps lesser known) who you think would make good authors?**
+        - **To help get the word out about our books, we often convert sections of books into articles published on the Web. Which sections in this manuscript would make interesting or useful articles?**
+        - **How would you recommend this book to your colleagues? What would you tell them?**
+        - **Occasionally we use quotes in promotional material. May we use a quote from your review with or without your name for these promotions?**
+- **Chapter Notes**
+    - **Chapter 1: Welcome to Go**
+        - Section 1.2 How Go Works is very good, but gets really into the weeds on how goroutines and channels work when, at this point, the reader probably doesn't know what these are. Why is section 1.2 in the introduction? Why not put this material into a chapter on goroutines or channels or as an appendix with the same title?
+        - Section 1.3 is really helpful, but some of the language choices seem out of place. I don't know including Erlang or AWK is necessary, for instance, but I do think that this section should include a comparison to Node.js, as many Node developers are migrating to Go (most famously, TJ Holowaychuk).
+        - The references to the use cases for Go as well as Section 1.4 are great, but really thin. I think this is the biggest hole in this chapter: you touch on why I should use Go, but at the end of this chapter I can't explain why that's the case. You have great lines like, "Last, if you want to create complex command line utilities with many commands and command line options, Go is better than almost any other programming language, including C." but you never tell the reader why this is the case. I think the references throughout the chapter are fine as they are, but I would love it if this section was expanded to actually include a few paragraphs on each use case. Why should I use Go to learn programming when there are so many resources available for learning to program with JavaScript, Java, and Python? Why should I use Go for building REST APIs when there are languages with a lot of really popular tools for building REST APIs including Java, PHP, Python, Ruby, and JavaScript?
+        - Style of writing and language used here is really great. Reading this as an experienced developer new to Go, it's easy to follow and everything is really clear.
+    - **Chapter 2: Go Quick Start**
+        - There isn't any go code in this chapter until the reader is 5 pages in, which seems like a long time. There's a lot of build up and explanation that isn't helpful until someone has seen some go code.
+            - Some specific examples:
+                - In section 2.2.2. has a lot of text about how packages work, but at this point we haven't seen any Go code.
+                - Section 2.2 and 2.2.1 would be more helpful after I've seen what Go code looks like. I think it would make more sense to talk about how to run Go code once the reader has seen some.
+        - Section 2.2.2 should have the code sample at the beginning, before the explanation for the code. The explanation isn't helpful until after someone has had a chance to read the code that is being explained.
+        - Section 2.2.5 might make more sense before Section 2.2.2.
+        - In Section 2.2.6, I would split the discussion of variables and printing with `fmt.Printf()` by the code sample. Start by explaining variables, then provide a code sample with an explanation, then explain printing data with a separate code sample.
+            - In this section, you also talk about Go's zero values without introducing them anywhere.
+        - Section 2.2.8 - Maybe consider splitting `if` and `switch` into different subsections and handling them separately?
+            - Listing 2.3 is pretty long, which is one reason I suggest this. The other is that there are a couple of things in here you haven't introduced yet. That might be fine, but it would probably be better to have short and simple code snippets in the beginning that are focused on the concept being explained.
+            - Listing 2.3 also only shows one short example of an `if` statement. This is obviously very simple, but maybe it's best to show a couple more examples as well.
+        - Do you need a section on UNIX signals and how they work with Go inside a chapter titled Go Quick Start?
+        - This chapter is really weak. A lot of concepts are introduced without any on-ramp of build-up and there's a lot of content in here that isn't relevant to the title of the chapter (like the section that describes in-depth every possible way to get user input in Go when the title of the chapter is Go Quick Start). This makes it hard to follow and hard to stick with.
+        - It would be a lot better to introduce the main concepts of Go with a series of small sample applications that increase in complexity. Each new utility or code snippet could introduce a new topic.
+        - As a general rule, you should explain what some code is doing before or after the block. There are a number of cases where you just include long code blocks (sometimes spanning multiple pages) without explaining what the code is doing or how it works.
+    - **Chapter 3: Basic Data Types**
+        - Starting with the Error type is a little odd. This would be better suited after introducing the basic types and before introducing Arrays and Slices. This is the order used in the first paragraph of this chapter and generally makes more sense. 
+        - What does it mean for an integer to be signed or unsigned?
+        - I don't learn anything about numbers from Section 3.1.2 on Numeric Data Types. It's just a paragraph and a table of the different types. How do I perform common numeric operations? Are arithmetic and comparison operators the same in Go as other programming languages? How do they differ? What are some of the common operations I can do with numbers, floats, and ints?
+        - The same applies to Section 3.1.4 on Strings, Characters, and Runes - I read this section and don't know anything more about working with these types in Go. Can I get a slice a string? How do I perform common string operations in Go?
+        - Section 3.3 - This is an interesting thing to include. 
+        - You should add more to the section on Arrays, including more sample of creating arrays. Then, expand on Slices.
+    - **Chapter 4: Composite Data Types**
+        - 4.1.1. - I would love to see more examples and have these examples be more broken up, demonstrating a part of working with maps piece by piece.
+        - The numbering of sections here is a little odd - it seems like maps should be 4.1.*, structs 4.2.*, reflection 4.3.*, then the exercise 4.4.*

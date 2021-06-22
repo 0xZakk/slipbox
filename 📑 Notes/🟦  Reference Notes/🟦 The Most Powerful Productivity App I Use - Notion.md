@@ -1,0 +1,15 @@
+- **Type:** #[[🟦 Reference Note]] | #Notion #[[Personal Knowledge Management]]
+- **Source:** https://www.youtube.com/watch?v=m9S5I3pWz94
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - Goal of this video is to show you how Thomas Frank uses Notion to track YouTube videos
+    - Notion's best features:
+        - Databases - like spreadsheets but better
+        - Templates
+        - Relations and Rollups
+    - **Databases**
+        - Every row is a page and you can do anything in a page (including creating a new database)
+    - **Templates**
+        - Use templates with Databases to prepopulate pages in a database
+        - 

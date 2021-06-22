@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]] [[Momentum]]
+- **Source:** [[🟦 How to Take Smart Notes]] p51-56
+- In physics, there are two types of reactions: exergonic and endergonic. In an exergonic reaction, you need to keep adding energy for the process to continue. In endergonic, once you start the process it continues by itself and releases energy. **You want you workflow to create an endergonic reaction.**
+- Think also of the Flywheel concept: the first few spins of the flywheel are difficult and require a lot of effort. But, at a certain point, each spin becomes easy on only a little effort is required to keep the flywheel spinning.
+- We want our workflow to create a virtuous cycle, where the positive experience we have in working motivates us to continue working.
+- A good workflow can motivate us with the positive experience of working, which makes further work easier and more enjoyable. As this process continues, the work becomes more and more enjoyable. As the work becomes more enjoyable and rewarding, the relationship between your motivation and the reward of pursuing the work becomes self-sustainable.
+- This works both for workflow and for your learning process.

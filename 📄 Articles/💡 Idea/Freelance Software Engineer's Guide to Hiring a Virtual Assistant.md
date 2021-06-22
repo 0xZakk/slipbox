@@ -1,0 +1,11 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** After hiring an assistant and working with them for a while, write an article with the lessons learned for working with an assistant as a freelance software engineer/web developer
+- **Related Notes and Sources:**
+    - [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]]
+- **Notes:**
+- Having them manage a CRM
+    - As a freelance engineer, I often need to bring someone in to pinch hit for a project or to delegate specific tasks in a project so that I can complete it on time.
+    - The VA could manage the CRM and be the person to identify a few key people who I can reach out to (and even do the reaching out on my behalf)
+- Second pair of eyes
+    - If they're attending every meeting and taking good notes, you can have a second pair of eyes ensuring that nothing is going to get dropped or overlooked.
+    - You can use this to take on more or you can use it to take on more work or you can use it to sleep better at night

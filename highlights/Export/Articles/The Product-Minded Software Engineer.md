@@ -1,0 +1,35 @@
+# The Product-Minded Software Engineer
+
+## Meta Data
+
+Source:  https://blog.pragmaticengineer.com/the-product-minded-engineer/ 
+Author: Amsterdam Netherlands
+
+## Highlights
+
+### Highlights
+
+- Product-minded engineers are developers with lots of interest in the product itself. They want to understand why decisions are made, how people use the product, and love to be involved in making product decisions.
+- Once you have the product foundations, you need devs who engage with the 'why', actively. Engineers who have the thirst for using technologies to leapfrog human/user problems. Those with empathy to reach for magical experiences. That is what defined a product engineer in my books. Bad ones cut too many corners. Great product engineers know that minimum lovable products need the right depth to be considered during the build phase.
+- So, what are the key traits of product-minded engineers, and how can you work on becoming more product-minded? This article summarizes 9 traits I've observed these kinds of people share, and my suggestions for any engineer to grow their product-minded muscle.
+- 1. Proactive with product ideas/opinions
+- 2. Interest in the business, user behavior and data on this
+- They take the time to understand how the business works, how the product fits in, and what its goals are
+- 3. Curiosity and a keen interest in "why?"
+- Product-minded engineers like to understand the "why?" behind all things.
+- They are autonomous in finding answers they can, by themselves.
+- 4. Strong communicators and great relationships with non-engineers
+  
+- 5. Offering product/engineering tradeoffs upfront
+- Because they have a strong understanding of the product "why," as well as the engineering side of things, they can bring suggestions that few other people can.
+- Product-minded engineers attack this problem from both angles: both looking for engineering tradeoffs and what the product impact is
+- Juggling both the product and engineering tradeoffs and the impact of each is a unique strength product-minded engineers have
+- 6. Pragmatic handling of edge cases
+- Product-minded engineers quickly map out edge cases and think of ways to reduce work on them: often bringing solutions that require no engineering work.
+- 7. Quick product validation cycles
+- 8. End-to-end product feature ownership
+- 9. Strong product instincts through repeated cycles of learning
+- product-minded engineers find creative ways to get early feedback.
+- Most experienced engineers own their work end-to-end: from getting the specification, through implementing it, all the way to rolling it out and validating that it works correctly. Product-minded engineers often go a step beyond this.
+  They consider their work done only after getting results on user behavior and business metrics.
+- they make checking on the results one of their top priorities.

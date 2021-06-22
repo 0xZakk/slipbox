@@ -1,0 +1,30 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Career]] [[Meaningful Work]]
+- **Source:** https://www.youtube.com/watch?v=jVA-tr_euKU
+- **Author:** [[Thomas Frank]]
+- **Summary:** 
+- **Highlights:**
+    - We all get asked, "What do you want to be when you grow up?" For most of us, the answer has to do with a specific job role (firefigher, CEO) or a specific company (Apple, Tesla, etc)
+    - When it comes to the figuring out what to do with your life, these answers are incomplete
+    - Thomas Frank has done a lot of very interesting and fulfilling. If he had gone to a career counselor with any one of them, he would have gotten a lot of different career options
+    - Which should he do? It doesn't matter
+    - Do what interests you now.
+        - Most of the jobs we have now haven't existed for that long. Youtuber has only been a "career" for like 10 years,
+    - [[Self-determination theory]] (from Deep Work by Cal Newport) [[🟨 Self-determination theory]]
+        - There are three things that make work satisfying
+        - **Autonomy** - your level of control over time and actions
+        - **Competence** - you are skilled in non-trivial work
+        - **Relatedness** - your connections to other people. Do you feel loved and respected by your coworkers?
+    - Seven Qualities that Thomas looks for?
+        - Are you building or are you maintaining? - He needs to be building; maintaining gets boring really quickly
+        - Are you using your current skills or are you learning new ones? - Does this project force you to learn something new
+        - How much creative autonomy do you have? - How many of the decisions do you get to make?
+        - Interaction with others - Amount of interaction and type of relationships
+        - Level of authority over other people - do you want to manage other people or sit down and do your work?
+        - Do you like being in the spotlight? Do you want to be in it or not? Related, do you want credit
+        - Work-life balance? How much do you prioritize your work over your friends and family?
+    - So how do you know what to do with your life?
+        - Simply pursue your interests and work hard at doing that [[🟨 Pursue your intererests]]
+            - you can't pick your passions out of a hat
+            - go and get as much experience as possible
+        - Be observant
+            - keep a journal, keep track of what is interesting and what you like and don't like

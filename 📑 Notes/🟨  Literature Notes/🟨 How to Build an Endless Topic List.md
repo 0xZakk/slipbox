@@ -1,0 +1,8 @@
+- **Type:** #[[🟨 Literature Note]] | #Writing
+- **Source:**  [[🟦 How I Never Stop Writing]]
+- Building an Endless Topic list is pretty straight forward.
+- First, you have to pick the constraints that you're going to apply to your writing.
+- You can do this by opening a new document and writing down 5-10 topic areas that you'd like to write about.
+- Once you have your list of constraints (topics), you need to generate a list of articles under these topics.
+- Pick one of the topics you listed in the previous step. Then, set a timer for 3 or 5 minutes and during that time only let yourself think of article ideas for that one topic. Your goal is to come up with as many ideas as possible, so don't filter yourself
+- Repeat this step for each topic in your topic list and in 15-30 minutes, you should be able to generate 50-100 ideas

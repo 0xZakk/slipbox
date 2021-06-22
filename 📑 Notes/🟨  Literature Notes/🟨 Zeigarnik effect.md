@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Productivity]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- The Zeigarnik effect shows that an open task will occupy a "slot" of short term memory until it is considered closed, regardless of how important or unimportant the task is.
+- The effect was observed by Bluma Zeigarnik.While at a restaurant, she noticed that the waiter was able to recall everyone's orders without writing anything down. Zeigarnik later went back to the restaurant to get a jacket she had left there and learned that the waiter didn't recognize her or remember meeting her. When she questioned the waiter, he said that he and the other waiters could all easily recall who ordered what. But as soon as the diners left the restaurant, the waiters all completely forgot about them.
+- It was additionally observed that we don't have to finish a task in order to convince our brains to stop thinking about it. Writing something down is often enough to convince our brains that it has been taken care of.
+- This is the basis of [[David Allen]]'s [[Getting Things Done]] system as well as [[Albert Einstein]]'s "Don't think about it" lists

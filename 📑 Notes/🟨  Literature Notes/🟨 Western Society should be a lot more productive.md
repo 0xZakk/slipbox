@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Society]]
+- **Source:** [[🟦 We Really Should Be in The middle of a golden age of productivity]]
+- We should be in a "Golden Age" of productivity
+- Our grandparents worked without computers, photocopiers, backspace, and many of the other technologies that we take advantage of today. They were able to build railroads, skyscrapers, airplanes, and automobiles without computers or the internet and to build them fast.

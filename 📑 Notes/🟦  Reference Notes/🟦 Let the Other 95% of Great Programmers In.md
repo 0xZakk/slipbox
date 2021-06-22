@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Hiring]]
+- **Source:** http://paulgraham.com/95.html
+- **Author:** [[Paul Graham]]
+- **Summary:** Immigration law should favor letting talented and ambitious people from other countries move to the United States. In many ways, this has been America's competitive advantage compared to other countries.
+- **Highlights:**
+    - 

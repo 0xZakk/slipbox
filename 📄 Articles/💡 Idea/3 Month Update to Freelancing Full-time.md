@@ -1,0 +1,7 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Update on three months of freelancing full time:
+    - What is going well
+    - What needs improvement
+    - How are my metrics going
+- **Related Notes and Sources:**
+    - 

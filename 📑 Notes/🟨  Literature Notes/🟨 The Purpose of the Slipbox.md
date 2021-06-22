@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] |  [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- The Slipbox helps you avoid [[🟨 The Myth of the Blank Screen]]. By taking smart notes as you read and connecting those notes to other related notes in your Slipbox, you'll never have to face the Blank Screen again.
+- It starts by understanding that writing is not the product of research and learning, but the __means__ or research and learning.
+- By using the Slipbox, you can avoid the blank screen entirely because you'll have done a lot of writing on a topic __before deciding to write about it__.

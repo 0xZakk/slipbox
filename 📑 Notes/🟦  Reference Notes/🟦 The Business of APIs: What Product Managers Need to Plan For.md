@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API
+- **Source:** https://danielelizalde.com/the-business-of-apis-what-product-managers-need-to-plan-for/
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

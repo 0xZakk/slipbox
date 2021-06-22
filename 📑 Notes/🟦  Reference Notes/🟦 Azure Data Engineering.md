@@ -1,0 +1,14 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #[[Data Engineering]] #Azure
+- **Source:** PDF
+- **Author:** [[Vlad Riscutia]]
+- **Summary:**
+    - __Azure Data Engineering__ is a guide to building scalable and robust data platforms according to industry best practices and standards. It teaches the techniques that the author, Vlad Riscutia, users with his team at Microsoft. This includes: automation and DevOps, running machine learning pipelines, and managing data inventory.
+    - At the end of this book, developers should be able to:
+        - Apply DevOps best practices like source control, automated deployment, and monitoring to data science functions like data movement, analytics, and machine learning.
+        - Handle implementing data ingestion and distribution and data modeling to support analytics and machine learning
+        - Handle aspects of data governance like compliance, privacy, security, data inventory, and data quality
+        - Be able to build a custom data platform to meet an organization's needs
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

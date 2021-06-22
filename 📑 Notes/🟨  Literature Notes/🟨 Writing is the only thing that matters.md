@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] |  [[Writing]]
+- **Source:** [[🟦 How to Take Smart Notes]] p35-38
+- People tend to approach writing with a very linear process: they come up with a question or problem, research it, then write about it. There are a number of flaws in this, but one of the biggest is that writing comes at the end as if it is a product of research when it fact is the medium of research (see [[🟨 Learning requires writing]]).
+- Researching, studying, and learning all require writing, so it makes sense to treat writing as the only thing that matters.

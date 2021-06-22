@@ -1,0 +1,33 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Slipbox]]
+- **Source:** https://fortelabs.co/blog/how-to-take-smart-notes/
+- **Author:** [[Tiago Forte]]
+- **Summary:** 
+- **Highlights:**
+    - The evidence is clear: Instead of squeezing as many pages as possible out of one idea, How To Take Smart Notes squeezes as many ideas as possible onto every page. Every paragraph has a point, and I struggled to leave anything out of this summary.
+    - By identifying the principles that stand the test of time despite huge changes in the underlying technology, we can better understand the essential nature of the creative process. We can focus our efforts on mastering the art of creative note-taking, producing more insightful writing, and fulfilling our full potential.
+    - What the book is about
+        - How To Take Smart Notes is a book on note-taking for students, academics, and non-fiction writers.
+        - It promises to help readers adopt “a reliable and simple external structure to think in that compensates for the limitations of our brains.” By adopting such a system, Ahrens promises that we will be able to “efficiently turn our thoughts and discoveries into convincing written pieces and build up a treasure of smart and interconnected notes along the way.”
+    - **Luhmann’s slip-box**
+        - Ahrens’ approach to note-taking was inspired by the 20th-century German sociologist Niklas Luhmann (1927-1998). Luhmann was a prolific note-taker, writer, and academic. Early in his academic career, Luhmann realized that a note was only as valuable as its context – its network of associations, relationships, and connections to other information.
+        - He developed a simple system based on paper index cards, which he called his “slip-box” (or zettelkasten in German). It was designed to connect any given note to as many different potentially relevant contexts as possible.
+        - He designed his slip-box as a research database made up of index cards (zettel) that were “thematically unlimited” and could be infinitely extended in any direction.
+        - Although it appeared to be just a simple filing system made up of index cards, Luhmann’s slip-box grew to become an equal thinking partner in his work. He described his system as his secondary memory (zweitgedächtnis), alter ego, or reading memory (lesegedächtnis). He reported that it continuously surprised him with ideas he’d forgotten he had.
+        - Over his 30-year career, Luhmann published 58 books and hundreds of articles on the way to completing his two-volume masterwork, The Society of Society (1997). It presented a radical new theory that not only changed sociology but also provoked heated discussions in philosophy, education, political theory, and psychology.
+        - Until recently, no one believed that such a simple system could produce such prolific output. We are so used to the idea that great outcomes require great (and complicated) efforts.
+        - But Luhmann often remarked that he never forced himself to do anything he didn’t feel like doing: “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else” (Luhmann et al., 1987, 154f).
+    - **Principle 1: Writing is not the outcome of thinking; it is the medium in which thinking takes place**
+        - Writing doesn’t begin when we sit down to put one paragraph after another on the screen or page. It begins much, much earlier, as we take notes on the articles or books we read, the podcasts or audiobooks we listen to, and the interesting conversations and life experiences we have.
+        - These notes build up as a byproduct of the reading we’re already doing anyway. Even if you don’t aim to develop a grand theory, you need a way to organize your thoughts and keep track of the information you consume.
+        - If you want to learn and remember something long-term, you have to write it down. If you want to understand an idea, you have to translate it into your own words. If we have to do this writing anyway, why not use it to build up resources for future publications?
+        - Writing is not only for proclaiming fully formed opinions, but for developing opinions worth sharing in the first place.
+        - Writing works well in improving one’s thinking because it forces you to engage with what you’re reading on a deeper level.
+        - The challenge of writing as well as learning is therefore not so much to learn, but to understand, as you will already have learned what you understand. When you truly understand something, it is anchored to a latticework of related ideas and meanings, which makes it far easier to remember.
+        - The problem is that the meaning of something is not always obvious. It requires elaboration – we need to copy, translate, re-write, compare, contrast, and describe a new idea in our own terms. We have to view the idea from multiple perspectives and answer questions such as “How does this fact fit with others I already know?” and “How can this phenomenon be explained by that theory?” or “How does this argument compare to that one?”
+        - Completing these tasks is exceedingly difficult inside the confines of our heads. We need an external medium in which to perform this elaboration, and writing is the most effective and convenient one ever invented.
+    - **Principle 2: Do your work as if writing is the only thing that matters**
+        - The second principle extends the previous one even further: Do you work as if writing is the only thing that matters.
+        - But the important part is the principle: Work as if writing is the only thing that matters. Having a clear, tangible purpose when you consume information completely changes the way you engage with it.
+        - Almost every aspect of your life will change when you live as if you are working toward publication. You’ll read differently, becoming more focused on the parts most relevant to the argument you’re building. You’ll ask sharper questions, no longer satisfied with vague explanations or leaps in logic. You’ll naturally seek venues to present your work, since the feedback you receive will propel your thinking forward like nothing else.
+        - Deliberate practice is the best way to get better at anything, and in this case, you are deliberately practicing the most fundamental skill of all: thinking.
+    - **Principle 3: Nobody ever starts from scratch**

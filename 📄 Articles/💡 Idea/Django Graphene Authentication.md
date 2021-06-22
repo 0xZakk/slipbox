@@ -1,0 +1,22 @@
+- **Type:** #[[__ 📦 Projects]] [[🌱 Seed]] | [[Django]] [[Python]] [[Authentication]]
+- **Summary:** Soup to nuts implementation of Authentication with Graphene, Django, and React
+- **Related Notes and Sources:**
+    - 
+- **Outline:**
+    - **Background and Setup**
+        - Explain at a high level what we'll be implementing and how
+        - How a soup-to-nuts authentication system works (all the features involved, with simple mock ups)
+        - How we'll set up the project
+            - Django
+            - Graphene
+            - React
+            - Apollo
+            - CSRF Token and cookies
+    - **Graphene Authentication**
+        - Implementing Authentication with Graphene
+    - **Front end setup**
+        - `useAuth`
+        - Managing the token with Apollo
+    - **Sign Up and Sign In**
+    - **Verify Account**
+    - 

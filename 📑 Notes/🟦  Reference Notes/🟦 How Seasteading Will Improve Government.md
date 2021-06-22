@@ -1,0 +1,31 @@
+- **Type:** #[[🟦 Reference Note]] | #Seasteading #Government
+- **Source:** https://www.youtube.com/watch?v=migPgiSr7cU&ab_channel=seasteading
+- **Author:** [[Dr. Mohammed Al Zarooni]]
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - What if two of the largest problems facing humanity today (Sea-level change and lack of innovation in governance) could be solved with one solution?
+    - [[Seasteading Institute]] started by [[Peter Thiel]]
+    - [[Seasteading]]
+        - Build politically independent cities that float on the ocean
+        - Why build start up nano-nations?
+        - Humanity has figured out how to change the world. Not through control, but by providing platforms for people to experiment. Arguments don't change the world; start ups do
+    - [[Hong Kong]]
+        - In-practice, a start up government
+        - 1961: British colony with British rule of law in Chinese culture
+        - Wealth of the average person grew by x87 in 34 years
+        - Started a trend for pre-steads
+    - [[Shenzhen]]
+        - Chinese government was so impressed by the growth of Hong Kong that they tried to replicate. Picked a fishing village that didn't even have a traffic light
+        - 25 years later:
+            - manufactures 90% of keyboards and mice for computers
+            - Per-person GDP is the highest in all of mainland China
+        - Chinese government has decided to create even more of these [[special-economic zones]]
+    - Hong Kong persuaded China to create wealth through start-up government
+    - Dubai is the most recent example - anything is possible if you start over
+    - What is the well-spring of wealth for countries? Natural resources, production? It's the source-code
+        - The thing that makes countries rich is the rule of law there (how the society is governed)
+    - The greatest start up opportunity in the world is start up countries
+    - You need 1000s of start up societies exploring the future of governance

@@ -1,0 +1,29 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #Podcasting
+- **Source:** https://www.youtube.com/watch?v=-osVNiP-ZX0
+- **Author:** [[Pat Flynn]]
+- **Summary:** 
+- **Notes:**
+    - 5 things they don't tell you about starting a podcast
+        - 1. Podcast analytics are terrible
+            - Downloads, plays - that's kind of it
+            - You want more downloads over time. This will vary from episode to episode, but you want an overall upward trajectory
+        - 2. Starting a podcast does not mean you're going to get listeners
+            - It used to be really easy to get listened to. Now, there are millions of podcasts, so you have to put effort into marketing
+            - When you launch, make a big deal out of it
+            - Be a guest on other shows
+            - It's going to take some time
+        - 3. Creating content consistently is really hard
+            - Honeymoon period: the first 10 episodes
+            - Pod-fade: fading away and losing consistency
+            - You need to keep at it for a long time. You can do this by planning ahead
+                - Create your content calendar way in advance
+                - Book your guests way in advance
+            - Planning ahead is really, really important
+        - 4. Social media is a bad strategy for audience growth
+            - Definitely share your episodes on social media, but social media is not going to give you the growth you're looking for. The people seeing what you post on social media are the people who are already following you
+            - To get new people, you need to go elsewhere (new audiences)
+        - 5. Reviews are really tough to get
+            - It's really hard to get people to review your podcast
+    - How do you get reviews?
+        - Step 1 - ask social media for a key lesson they took away from your last episode
+        - Step 2 - reach out to those people directly and __send them a video__ asking them to post a review (higher response rate)

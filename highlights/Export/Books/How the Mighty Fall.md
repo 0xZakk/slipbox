@@ -1,0 +1,270 @@
+# How the Mighty Fall
+
+## Meta Data
+
+Source:  kindle 
+Author: Jim Collins
+
+## Highlights
+
+### Highlights
+
+- The origins of this work date back to more than three years earlier, when I became curious about why some of the greatest companies in history, including some once-great enterprises we’d researched for Built to Last and Good to Great, had fallen. The aim of this piece is to offer a research-grounded perspective of how decline can happen, even to those that appear invincible, so that leaders might have a better chance of avoiding their tragic fate.
+- Decline can be avoided. The seeds of decline can be detected early. And as long as you don’t fall all the way to the fifth stage, decline can be reversed. The mighty can fall, but they can often rise again.
+- Is America renewing its greatness, or is America dangerously on the cusp of falling from great to good?
+- Athens fell. Rome fell. Even Britain, which stood a century before as a global superpower, saw its position erode. Is that America’s fate? Or will America always find a way to meet Lincoln’s challenge to be the last best hope of Earth?
+- “When you are at the top of the world, the most powerful nation on Earth, the most successful company in your industry, the best player in your game, your very power and success might cover up the fact that you’re already on the path to decline. So, how would you know?”
+- I’ve come to see institutional decline like a staged disease: harder to detect but easier to cure in the early stages, easier to detect but harder to cure in the later stages. An institution can look strong on the outside but already be sick on the inside, dangerously on the cusp of a precipitous fall.
+- If a company as powerful and well positioned as Bank of America in the late 1970s can fall so far, so hard, so quickly, then any company can fall. If companies like Motorola and Circuit City—icons that had once served as paragons of excellence—can succumb to the downward forces of gravity, then no one is immune. If companies like Zenith and A&P, once the unquestioned champions in their fields, can plummet from great to irrelevant, then we should be wary about our own success.
+- Breaking the Bank: The Decline of BankAmerica.
+    - **Tags:** #read
+    - **Note:** .read
+- Surrounded by research papers at our dining room table one day, clicking away on my laptop while trying to make sense of the chronologies of decline, I commented to my wife, Joanne, “I find this much harder to get my head around than studying how companies become great.” No matter how I assembled and reassembled conceptual frameworks to capture the process of decline, I’d find counterexamples and different permutations of the pattern. Joanne suggested I look at the first line of Tolstoy’s novel Anna Karenina. It reads, “All happy families are alike; each unhappy family is unhappy in its own way.” In finishing this piece, I kept coming back to the Anna Karenina quote. Having studied both sides of the coin, how companies become great and how companies fall, I’ve concluded that there are more ways to fall than to become great. Assembling a data-driven framework of decline proved harder than constructing a data-driven framework of ascent.
+- The model consists of five stages that proceed in sequence.
+- STAGE 1: HUBRIS BORN OF SUCCESS.
+- Great enterprises can become insulated by success; accumulated momentum can carry an enterprise forward, for a while, even if its leaders make poor decisions or lose discipline.
+- When the rhetoric of success (“We’re successful because we do these specific things”) replaces penetrating understanding and insight (“We’re successful because we understand why we do these specific things and under what conditions they would no longer work”), decline will very likely follow.
+- STAGE 2: UNDISCIPLINED PURSUIT OF MORE.
+- Companies in Stage 2 stray from the disciplined creativity that led them to greatness in the first place, making undisciplined leaps into areas where they cannot be great or growing faster than they can achieve with excellence, or both.
+- When an organization grows beyond its ability to fill its key seats with the right people, it has set itself up for a fall.
+- Although complacency and resistance to change remain dangers to any successful enterprise, overreaching better captures how the mighty fall.
+- STAGE 3: DENIAL OF RISK AND PERIL.
+- In Stage 3, leaders discount negative data, amplify positive data, and put a positive spin on ambiguous data. Those in power start to blame external factors for setbacks rather than accept responsibility. The vigorous, fact-based dialogue that characterizes high-performance teams dwindles or disappears altogether.
+- STAGE 4: GRASPING FOR SALVATION.
+- The critical question is, How does its leadership respond? By lurching for a quick salvation or by getting back to the disciplines that brought about greatness in the first place? Those who grasp for salvation have fallen into Stage 4.
+- Common “saviors” include a charismatic visionary leader, a bold but untested strategy, a radical transformation, a dramatic cultural revolution, a hoped-for blockbuster product, a “game changing” acquisition, or any number of other silver-bullet solutions.
+- Initial results from taking dramatic action may appear positive, but they do not last.
+- STAGE 5: CAPITULATION TO IRRELEVANCE OR DEATH.
+- In Stage 5, accumulated setbacks and expensive false starts erode financial strength and individual spirit to such an extent that leaders abandon all hope of building a great future. In some cases, their leaders just sell out; in other cases, the institution atrophies into utter insignificance, and in the most extreme cases, the enterprise simply dies outright.
+- First, we do ourselves a disservice by studying only success. We learn more by examining why a great company fell into mediocrity (or worse) and comparing it to a company that sustained its success than we do by merely studying a successful enterprise. Furthermore, one of the keys to sustained performance lies in understanding how greatness can be lost. Better to learn from how others fell than to repeat their mistakes out of ignorance.
+- Great companies can stumble, badly, and recover. While you can’t come back from Stage 5, you can tumble into the grim depths of Stage 4 and climb out. Most companies eventually fall, and we cannot deny this fact. Yet our research indicates that organizational decline is largely self-inflicted, and recovery largely within our own control.
+- Just because you may have made mistakes and fallen into the stages of decline does not seal your fate. So long as you never fall all the way to Stage 5, you can rebuild a great enterprise worthy of lasting.
+- As you read the following pages, you might wonder, but what should we do if we find ourselves falling? It turns out that much of the answer lies in adhering to highly disciplined management practices, and we’ll return to the question of recovery at the end of this piece.
+- Stage 1: Hubris Born of Success
+- Motorola’s arrogance gave competitors an opening, and Motorola fell from being the #1 cell phone maker in the world, at one point garnering nearly 50 percent market share, to having only 17 percent share by 1999.18 Motorola’s fall from greatness began with Stage 1, Hubris Born of Success.
+- Dating back to ancient Greece, the concept of hubris is defined as excessive pride that brings down a hero, or alternatively (to paraphrase classics professor J. Rufus Fears), outrageous arrogance that inflicts suffering upon the innocent.
+- We will encounter multiple forms of hubris in our journey through the stages of decline. We will see hubris in undisciplined leaps into areas where a company cannot become the best. We will see hubris in a company’s pursuit of growth beyond what it can deliver with excellence. We will see hubris in bold, risky decisions that fly in the face of conflicting or negative evidence. We will see hubris in denying even the possibility that the enterprise could be at risk, imperiled by external threats or internal erosion. And we will encounter one of the most insidious forms of hubris: arrogant neglect.
+- The Next Big Thing.
+    - **Note:** One reasson leadership gets distracted
+- Once an organization gets one flywheel going, it might create a second or third flywheel. But to remain successful in any given area of activity, you have to keep pushing with as much intensity as when you first began building that flywheel,
+- In this analysis of decline, only one company, Zenith, fell largely because it stayed focused on its core business too long and failed to confront its impending demise.
+- The real lesson is that Circuit City left itself exposed by not revitalizing its electronics superstores with as much passion and intensity as when it first began building that business two decades earlier. The great irony is that one of its biggest opportunities for continued growth and success lay in its core business, and the proof rests in two words: Best Buy.
+- In 1981, a tornado touched down in Roseville, Minnesota, blasting to pieces the showroom of the local Sound of Music store. Customers hurled themselves away from the windows as shards of glass and splintered wood flew about in the gale. Luckily, the storeroom remained largely undamaged, leaving founder Richard Schulze with boxes of stereos and TVs, but no storefront. A resourceful entrepreneur, he decided to throw a “Tornado Sale” in the parking lot. He spent his entire marketing budget on a local ad blitz that created a two-mile traffic jam as droves of customers converged on the lot. Schulze realized that he’d stumbled upon a great concept: advertise like crazy, have lots of name-brand stuff to sell in a no-frills setting (albeit a step up from a parking lot), and offer low prices. Based on his discovery, he invested all his money into creating a consumer electronics superstore that he dubbed Best Buy.
+- To disrespect the potential remaining in your primary flywheel—or worse, to neglect that flywheel out of boredom while you turn your attention to The Next Big Thing in the arrogant belief that its success will continue almost automatically—is hubris. And even if you face the impending demise of a core business, that’s still no excuse to let it just run on autopilot. Exit definitively or renew obsessively, but do not ever neglect a primary flywheel.
+- If you’re struggling with the tension between continuing your commitment to what made you successful and living in fear about what comes next, ask yourself two questions: 1. Does your primary flywheel face inevitable demise within the next five to ten years due to forces outside your control—will it become impossible for it to remain best in the world with a robust economic engine? 2. Have you lost passion for your primary flywheel? If you answer no to both these questions, then continue to push your primary flywheel with as much imagination and fanatical intensity as you did when you first began.
+- This does not mean static, unimaginative replication. Quite the opposite: it means never-ending creative renewal, just as Best Buy moved from Concept I to Concept II to Concept III and beyond. It’s like being an artist. Picasso didn’t renew himself by abandoning painting and sculpture to become a novelist or a banker; he painted his entire life yet progressed through distinct creative phases—from his Blue Period to cubism to surrealism—within his primary activity.
+- Like an artist who pursues both enduring excellence and shocking creativity, great companies foster a productive tension between continuity and change. On the one hand, they adhere to the principles that produced success in the first place, yet on the other hand, they continually evolve, modifying their approach with creative improvements and intelligent adaptation. Best Buy understood this idea better than Circuit City, when it kept morphing its superstores yet did so in a manner consistent with the primary insight that produced success in the first place (customers really like having lots of name-brand stuff in an easy-to-navigate, low-price, and friendly environment).
+- The Rise and Decline of The Great Atlantic & Pacific Tea Company,
+    - **Tags:** #read
+    - **Note:** .read
+- Now you might be wondering, “How do you know if you’re right about the underlying causes of your success?” The best leaders we’ve studied never presume that they’ve reached ultimate understanding of all the factors that brought them success. For one thing, they retain a somewhat irrational fear that perhaps their success stems in large part from luck or fortuitous circumstance. Compare the downside of two approaches: APPROACH 1: Suppose you discount your own success (“We might have been just really lucky or were in the right place at the right time or have been living off momentum or have been operating without serious competition”) and thereby worry incessantly about how to make yourself stronger and better positioned for the day your good luck runs out. What’s the downside if you’re wrong? Minimal; if you’re wrong, you’ll just be that much stronger by virtue of your disciplined approach. APPROACH 2: Suppose you attribute success to your own superior qualities (“We deserve success because we’re so good, so smart, so innovative, so amazing”). What’s the downside if you’re wrong? Significant; if you’re wrong, you just might find yourself surprised and unprepared when you wake up to discover your vulnerabilities too late.   Like inquisitive scientists, the best corporate leaders we’ve researched remain students of their work, relentlessly asking questions—why, why, why?—and have an incurable compulsion to vacuum the brains of people they meet.
+- To be a knowing person (“I already know everything about why this works, and let me tell you”) differs fundamentally from being a learning person. The “knowing people” can set companies on the path to decline in two ways. First, they can become dogmatic about their specific practices (“We know we’re successful because we do these specific things, and we see no reason to question them”) as we saw with A&P. Second, they can overreach, moving into sectors or growing to a scale at which the original success factors no longer apply (“We’ve been so successful that we can really go for the big bet, the huge growth, the gigantic leap to exciting new adventures”), as we’ll see in the following contrast between two companies, one that became the largest company in America and the other, its competitor, that died.
+- Wal-Mart’s success worried Walton. He fretted over how to instill his sense of purpose and humble inquisitiveness into the company beyond his own lifetime, as Wal-Mart grew to hundreds of billions of dollars of annual revenue.
+- MARKERS FOR STAGE 1
+- SUCCESS ENTITLEMENT, ARROGANCE: Success is viewed as “deserved,” rather than fortuitous, fleeting, or even hard earned in the face of daunting odds; people begin to believe that success will continue almost no matter what the organization decides to do, or not to do.
+- NEGLECT OF A PRIMARY FLYWHEEL: Distracted by extraneous threats, adventures, and opportunities, leaders neglect a primary flywheel, failing to renew it with the same creative intensity that made it great in the first place.
+- “WHAT” REPLACES “WHY”: The rhetoric of success (“We’re successful because we do these specific things”) replaces understanding and insight (“We’re successful because we understand why we do these specific things and under what conditions they would no longer work”).
+- DECLINE IN LEARNING ORIENTATION: Leaders lose the inquisitiveness and learning orientation that mark those truly great individuals who, no matter how successful they become, maintain a learning curve as steep as when they first began their careers.
+- DISCOUNTING THE ROLE OF LUCK: Instead of acknowledging that luck and fortuitous events might have played a helpful role, people begin to presume that success is due entirely to the superior qualities of the enterprise and its leadership.
+- Stage 2: Undisciplined Pursuit of More
+- In 1988, Ames bought Zayre department stores, with self-proclaimed expectations to more than double the size of the company in a single year.
+- In Ames’s case, the Zayre acquisition destroyed the momentum built over three decades. While Wal-Mart continued to focus first on rural and small town areas before making an evolutionary migration into more urban settings, the Zayre acquisition revolutionized Ames, making it a significant urban player overnight. And while Wal-Mart remained obsessed with offering everyday low prices on all brands all the time, Ames dramatically changed its strategy with Zayre, which relied on special loss-leader promotions. Ames more than doubled its revenues from 1986 to 1989, but much of its growth simply did not fit with the strategic insight that produced Ames’s greatness in the first place. From 1986 through 1992, Ames’s cumulative stock returns fell 98 percent as the company plunged into bankruptcy.44 Ames emerged from bankruptcy, but never regained momentum and liquidated in 2002.45 Meanwhile, Wal-Mart continued its relentless march across the United States—step by step, store by store, region by region—until it reached the Northeast and killed Ames with the very same business model that Ames pioneered in the first place.
+- We anticipated that most companies fall from greatness because they become complacent—they fail to stimulate innovation, they fail to initiate bold action, they fail to ignite change, they just become lazy—and watch the world pass them by. It’s a plausible theory, with a problem: it doesn’t square with our data.
+- But, and this is the surprising point, the companies in our analysis showed little evidence of complacency when they fell. Overreaching much better explains how the once-invincible self-destruct.
+- Only one case showed strong evidence of complacency: A&P. (A&P followed a pattern of Hubris → Complacency → Denial → Grasping for Salvation.) In every other case, we found tremendous energy—stimulated by ambition, creativity, aggression, and/or fear—in Stage 2.
+- From 1994 to 1998, Rubbermaid raced through the stages of decline so rapidly that it should terrify anyone who has enjoyed a burst of success.
+- In his 1995 annual letter to shareholders, Merck’s chairman and CEO Ray Gilmartin delineated the company’s #1 business objective: being a top-tier growth company. Not profitability, not breakthrough drugs, not scientific excellence, not research-driven R&D, not productivity (although Gilmartin did highlight these as essential elements of Merck’s strategy), but one overriding business objective: growth.
+- In 1999, Merck received FDA approval and launched Vioxx, touting it as a potentially huge blockbuster, emblazoning the front cover of its annual report with “Vioxx: Our biggest, fastest and best launch ever.”
+- By 2002, Vioxx sales had climbed to $2.5 billion, and by 2004 it had generated more than one hundred million prescriptions in the United States,
+- Meanwhile, outside critics continued to raise questions about Vioxx.
+- Then, in mid-September 2004, the safety monitors for the Vioxx study of colon-polyp prevention received Federal Express deliveries containing alarming data. According to Brooke Masters and Marc Kaufman, who covered the story for the Washington Post, the safety-monitor team pored over the data for several days and couldn’t escape a frightening conclusion, later summarized in Merck’s annual report: “there was an increased relative risk for confirmed cardiovascular events, such as heart attack and stroke, beginning after 18 months of treatment in the patients taking Vioxx compared to those taking placebo.”
+- My point, rather, is that Merck committed itself to attaining such huge growth that Vioxx had to be a blockbuster, which, in turn, positioned the company for a gigantic fall if Vioxx failed to live up to its promise.
+- If Merck had underpromised and overdelivered as a consistent practice, we might not be writing about Merck’s spectacular tumble. But that’s the problem; hubris can lead to making brash commitments for more and more and more. And then one day, just when you’ve elevated expectations too far, you fall. Hard.
+- It’s not that Merck abandoned this core purpose (indeed, Gilmartin drew inspiration from it when he removed Vioxx from the market), so much as it appears to have been relegated to more of a background role, a constraint on growth rather than the company’s fundamental driving force.
+- All three companies from Built to Last that fell in this analysis—Merck, Motorola, and HP—pursued outsized growth to their detriment.
+- George Merck II, Paul Galvin, Bill Hewlett, and David Packard—they viewed expanding and increasing scale not as the end goal, but as a residual result, an inevitable outcome, of pursuing their core purpose. Later generations forgot this lesson. Indeed, they inverted it.
+- Public corporations face incessant pressure from the capital markets to grow as fast as possible, and we cannot deny this fact. But even so, we’ve found in all our research that those who resisted the pressures to succumb to unsustainable short-term growth delivered better long-term results by Wall Street’s own definition of success, namely cumulative returns to investors.
+- Those who built the great companies in our research distinguished between share value and share price, between shareholders and shareflippers, and recognized that their responsibility lay in building shareholder value, not in maximizing shareflipper price. The greatest leaders do seek growth—growth in performance, growth in distinctive impact, growth in creativity, growth in people—but they do not succumb to growth that undermines long-term value. And they certainly do not confuse growth with excellence. Big does not equal great, and great does not equal big.
+- To be clear, the problems of Stage 2 stem not from growth per se, but from the undisciplined pursuit of more.
+- Packard’s Law states that no company can consistently grow revenues faster than its ability to get enough of the right people to implement that growth and still become a great company.
+- Any exceptional enterprise depends first and foremost upon having self-managed and self-motivated people—the #1 ingredient for a culture of discipline.
+    - **Note:** #Hiring
+- You break Packard’s Law and begin to fill key seats with the wrong people; to compensate for the wrong people’s inadequacies, you institute bureaucratic procedures; this, in turn, drives away the right people (because they chafe under the bureaucracy or cannot tolerate working with less competent people or both); this then invites more bureaucracy to compensate for having more of the wrong people, which then drives away more of the right people; and a culture of bureaucratic mediocrity gradually replaces a culture of disciplined excellence.
+- When bureaucratic rules erode an ethic of freedom and responsibility within a framework of core values and demanding standards, you’ve become infected with the disease of mediocrity.
+- As Bank of America rose to greatness, the responsibility for sound loan decisions lay squarely on the shoulders of loan managers distributed across California; the loan manager in Modesto or Stockton or Anaheim had nowhere to look but in the mirror to assign responsibility for the quality of his or her loan portfolio. As Bank of America began to fall, however, a complex layering of about one hundred loan committees and as many as fifteen required signatures subverted the concept of responsibility. Who is the one person responsible for a loan decision?
+    - **Note:** Accountability book - if more than one person os reaponsible, then no one is responsible
+- “Emperors of Rome,” Professor Garrett G. Fagan
+    - **Tags:** #read
+    - **Note:** .read
+- In all but one case in our analysis of decline (the one exception being Circuit City), we observed signs of a problematic succession of power by the end of Stage 2.
+- Over the years of conducting my research, I’ve been a leadership skeptic, influenced by the evidence that complex organizations achieve greatness through the efforts of more than one exceptional individual. The best leaders we’ve studied had a peculiar genius for seeing themselves as not all that important, recognizing the need to build an executive team and to craft a culture based on core values that do not depend upon a single heroic leader. But in cases of decline, we find a more pronounced role for the powerful individual, and not for the better. So, even though I remain a leadership skeptic, the evidence leads me to this sobering conclusion: while no leader can single-handedly build an enduring great company, the wrong leader vested with power can almost single-handedly bring a company down. Choose well.
+    - **Note:** Asymmetry (like luck, happiness)
+- MARKERS FOR STAGE 2
+- UNSUSTAINABLE QUEST FOR GROWTH, CONFUSING BIG WITH GREAT: Success creates pressure for more growth, setting up a vicious cycle of expectations; this strains people, the culture, and systems to the breaking point; unable to deliver consistent tactical excellence, the institution frays at the edges.
+- UNDISCIPLINED DISCONTINUOUS LEAPS: The enterprise makes dramatic moves that fail at least one of the following three tests: 1. Do they ignite passion and fit with the company’s core values? 2. Can the organization be the best in the world at these activities or in these arenas? 3. Will these activities help drive the organization’s economic or resource engine?
+- DECLINING PROPORTION OF RIGHT PEOPLE IN KEY SEATS: There is a declining proportion of right people in key seats, because of losing the right people and/or growing beyond the organization’s ability to get enough people to execute on that growth with excellence (e.g., breaking Packard’s Law).
+- EASY CASH ERODES COST DISCIPLINE: The organization responds to increasing costs by increasing prices and revenues rather than increasing discipline.
+- BUREAUCRACY SUBVERTS DISCIPLINE: A system of bureaucratic rules subverts the ethic of freedom and responsibility that marks a culture of discipline; people increasingly think in terms of jobs rather than responsibilities.
+- PROBLEMATIC SUCCESSION OF POWER: The organization experiences leadership-transition difficulties, be they in the form of poor succession planning, failure to groom excellent leaders from within, political turmoil, bad luck, or an unwise selection of successors.
+- PERSONAL INTERESTS PLACED ABOVE ORGANIZATIONAL INTERESTS: People in power allocate more for themselves or their constituents—more money, more privileges, more fame, more of the spoils of success—seeking to capitalize as much as possible in the short term, rather than investing primarily in building for greatness decades into the future.
+- Stage 3: Denial of Risk and Peril
+- MAKING BIG BETS IN THE FACE OF MOUNTING EVIDENCE TO THE CONTRARY
+- As companies move into Stage 3, we begin to see the cumulative effects of the previous stages. Stage 1 hubris leads to Stage 2 overreaching, which sets the company up for Stage 3, Denial of Risk and Peril.
+- The point is not that Motorola erred in its early development of Iridium or that TI had greater prescience in developing DSP. If you always knew ahead of time which new ideas would work for sure, you would invest in only those. But you don’t. That’s why great companies experiment with a lot of little things that might not pan out in the end. At the start of Iridium and DSP, both Motorola and TI wisely invested in small-scale experimentation and development, but TI, unlike Motorola, bet big only once it had the weight of accumulated empirical evidence on its side. Audacious goals stimulate progress, but big bets without empirical validation, or that fly in the face of mounting evidence, can bring companies down, unless they’re blessed with unusual luck. And luck is not a reliable strategy.
+- And in fact, the greatest danger comes not in ignoring clear and unassailable facts, but in misinterpreting ambiguous data in situations when you face severe or catastrophic consequences if the ambiguity resolves itself in a way that’s not in your favor.
+- The Challenger story highlights a key lesson. When facing irreversible decisions that have significant, negative consequences if they go awry—what we might call “launch decisions”—the case for launch should require a preponderance of empirical evidence that it’s safe to do
+- Bill Gore, founder of W. L. Gore & Associates, articulated a helpful concept for decision making and risk taking, what he called the “waterline” principle. Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor.
+- To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.
+- When making risky bets and decisions in the face of ambiguous or conflicting data, ask three questions: 1. What’s the upside, if events turn out well? 2. What’s the downside, if events go very badly? 3. Can you live with the downside? Truly?
+- Of course, probabilities play a role in this thinking. If the probability of events going terribly awry is, for all practical purposes, zero, or if it is small but stable, that leads to different decisions than if the probability is high, increasing, unstable, or highly ambiguous.
+- A CULTURE OF DENIAL
+- Of course, not every case of decline involves big launch decisions like Iridium, or lethal decisions like going for the summit on a dangerous rock climb. Companies can also gradually weaken, and as they move deeper into Stage 3, they begin to accumulate warning signs.
+- What indicators should you most closely track? For businesses, our analysis suggests that any deterioration in gross margins, current ratio, or debt-to-equity ratio indicates an impending storm. Our financial analyses revealed that all eleven fallen companies showed a negative trend in at least one of these three variables as they moved toward Stage 4, yet we found little evidence of significant management concern and certainly not the productive paranoia they
+- One common behavior of late Stage 3 (and that often carries well into Stage 4) is when those in power blame other people or external factors—or otherwise explain away the data—rather than confront the frightening reality that the enterprise may be in serious trouble.
+- One final manifestation of denial deserves special attention: obsessive reorganization.
+- Reorganizations and restructurings can create a false sense that you’re actually doing something productive. Companies are in the process of reorganizing themselves all the time; that’s the nature of institutional evolution. But when you begin to respond to data and warning signs with reorganization as a primary strategy, you may well be in denial. It’s a bit like responding to a severe heart condition or a cancer diagnosis by rearranging your living room.
+- MARKERS FOR STAGE 3
+- AMPLIFY THE POSITIVE, DISCOUNT THE NEGATIVE: There is a tendency to discount or explain away negative data rather than presume that something is wrong with the company; leaders highlight and amplify external praise and publicity.
+- BIG BETS AND BOLD GOALS WITHOUT EMPIRICAL VALIDATION: Leaders set audacious goals and/or make big bets that aren’t based on accumulated experience, or worse, that fly in the face of the facts.
+- INCURRING HUGE DOWNSIDE RISK BASED ON AMBIGUOUS DATA: When faced with ambiguous data and decisions that have a potentially severe or catastrophic downside, leaders take a positive view of the data and run the risk of blowing a hole “below the waterline.”
+- EROSION OF HEALTHY TEAM DYNAMICS: There is a marked decline in the quality and amount of dialogue and debate; there is a shift toward either consensus or dictatorial management rather than a process of argument and disagreement followed by unified commitment to execute decisions.
+- EXTERNALIZING BLAME: Rather than accept full responsibility for setbacks and failures, leaders point to external factors or other people to affix blame.
+- OBSESSIVE REORGANIZATIONS: Rather than confront the brutal realities, the enterprise chronically reorganizes; people are increasingly preoccupied with internal politics rather than external conditions.
+- IMPERIOUS DETACHMENT: Those in power become more imperious and detached; symbols and perks of executive-class status amplify detachment; plush new office buildings may disconnect executives from daily life.
+- Stage 4: Grasping for Salvation
+- While I do not share the assessment of Platt as a failure, he did make one misstep that set HP and himself up for a fall: trying to grow an increasingly large company at an unsustainable rate. It had taken HP more than half a century to reach $15 billion in annual revenues; under Platt, it took only four years to break $30 billion and only three additional years to surpass $45 billion. Unable to sustain its torrid growth rate, HP hit a wall in 1998 and disappointed Wall Street for five quarters. If Platt had left some growth on the table, thereby making it easier to maintain a smooth growth trajectory, HP might have soared right through the late 1990s as a success story. Instead, Platt was out of a job.
+- Backfire by Peter Burrows and Perfect Enough by George Anders,
+    - **Tags:** #read
+    - **Note:** .read
+- The descent into Stage 4 didn’t begin with HP’s slow response to the dot-com bubble or its falling below Wall Street expectations, but in how the board reacted to falling behind.
+- Stage 4 begins when an organization reacts to a downturn by lurching for a silver bullet. This can take a wide range of possible forms, such as betting big on an unproven technology, pinning hopes on an untested strategy, relying upon the success of a splashy new product, seeking a “game changing” acquisition, gambling on an image makeover, hiring consultants who promise salvation, seeking a savior CEO, expounding the rhetoric of “revolution,” or in its very late stages, grasping for a financial rescue or buyout. The key point is that they go for a quick, big solution or bold stroke to jump-start a recovery, rather than embark on the more pedestrian, arduous process of rebuilding long-term momentum.
+- Stage 4 grasping can produce a brief improvement, but the results do not last. Dashed hope follows dashed hope follows dashed hope yet again. Companies stuck in Stage 4 try all sorts of new programs, new fads, new strategies, new visions, new cultures, new values, new breakthroughs, new acquisitions, and new saviors. And when one silver bullet fails, they search for another and then yet another. The signature of mediocrity is not an unwillingness to change. The signature of mediocrity is chronic inconsistency.
+- In looking at companies in decline, I’m struck by this lesson again: by grasping about in fearful, frantic reaction, late Stage 4 companies accelerate their own demise.
+- MARKERS FOR STAGE 4
+- A SERIES OF SILVER BULLETS: There is a tendency to make dramatic, big moves, such as a “game changing” acquisition or a discontinuous leap into a new strategy or an exciting innovation, in an attempt to quickly catalyze a breakthrough—and then to do it again and again, lurching about from program to program, goal to goal, strategy to strategy, in a pattern of chronic inconsistency.
+- GRASPING FOR A LEADER-AS-SAVIOR: The board responds to threats and setbacks by searching for a charismatic leader and/or outside savior.
+- PANIC AND HASTE: Instead of being calm, deliberate, and disciplined, people exhibit hasty, reactive behavior, bordering on panic.
+- RADICAL CHANGE AND “REVOLUTION” WITH FANFARE: The language of “revolution” and “radical” change characterizes the new era: New programs! New cultures! New strategies! Leaders engage in hoopla, spending a lot of energy trying to align and “motivate” people, engaging in buzzwords and taglines.
+- HYPE PRECEDES RESULTS: Instead of setting expectations low—underscoring the duration and difficulty of the turnaround—leaders hype their visions; they “sell the future” to compensate for the lack of current results, initiating a pattern of overpromising and underdelivering.
+- INITIAL UPSWING FOLLOWED BY DISAPPOINTMENTS: There is an initial burst of positive results, but they do not last; dashed hope follows dashed hope; the organization achieves no buildup, no cumulative momentum.
+- CONFUSION AND CYNICISM: People cannot easily articulate what the organization stands for; core values have eroded to the point of irrelevance; the organization has become “just another place to work,” a place to get a paycheck; people lose faith in their ability to triumph and prevail. Instead of passionately believing in the organization’s core values and purpose, people become distrustful, regarding visions and values as little more than PR and rhetoric.
+- CHRONIC RESTRUCTURING AND EROSION OF FINANCIAL STRENGTH: Each failed initiative drains resources; cash flow and financial liquidity begin to decline; the organization undergoes multiple restructurings; options narrow and strategic decisions are increasingly dictated by circumstance.
+- Stage 5: Capitulation to Irrelevance or Death
+- “Never forget,” Lazier would say. “You pay your bills with cash. You can be profitable and bankrupt.”
+- In the entrepreneurial phase, leaders struggle just to get enough cash to become self-sustaining, but as an organization becomes big and successful, cash consciousness atrophies. Leaders in successful companies worry more about earnings. But organizations do not die from lack of earnings. They die from lack of cash.
+- We found two basic versions of Stage 5.
+- In the first version, those in power come to believe that capitulation offers a better overall outcome than continuing to fight. In the second version, those in power continue the struggle, but they run out of options, and the enterprise either dies outright or shrinks into utter irrelevance compared to its previous grandeur.
+- You might think that companies fall all the way to the bottom because their leaders make just-plain-stupid decisions. But through Zenith’s story, we see how even some of the smartest and most capable leaders can find themselves unable to control their company’s destiny if the accumulated impact of Stages 1 through 4 destroys their cash position.
+- Not all companies deserve to last.
+- When should a company continue to fight, and when does refusal to capitulate become just another form of denial?
+- If you cannot marshal a compelling answer to the question, “What would be lost, and how would the world be worse off, if we ceased to exist?” then perhaps capitulation is the wise path. But if you have a clear and inspired purpose built upon solid core values, then the noble course may be to fight on, to reverse decline, and to try to rekindle greatness.
+- The point of the struggle is not just to survive, but to build an enterprise that makes such a distinctive impact on the world it touches, and does so with such superior performance, that it would leave a gaping hole—a hole that could not be easily filled by any other institution—if it ceased to exist. To accomplish this requires leaders who retain faith that they can find a way to prevail in pursuit of a cause larger than mere survival (and larger than themselves), while also maintaining the stoic will needed to take whatever actions must be taken, however excruciating, for the sake of that cause. This is the very type of leader who finds a path out of the darkness and gives us well-founded hope. And it is to that type of leadership that we now turn.
+- Well-Founded Hope
+- Xerox. Nucor. IBM. Texas Instruments. Pitney Bowes. Nordstrom. Disney. Boeing. HP. Merck. What do these companies have in common? Every one took at least one tremendous fall at some point in its history and recovered.
+- But in every case, leaders emerged who broke the trajectory of decline and simply refused to give up on the idea of not only survival, but of ultimate triumph despite the most extreme odds.
+- And if you’ve already taken a fall and you do face a genuine crisis, the sooner you break the cycle of grasping for salvation the better. The path to recovery lies first and foremost in returning to sound management practices and rigorous strategic thinking.
+- If you seek a refresher course on management discipline, it never hurts to review the classics, including Drucker, Porter, Deming, and Peters/Waterman.
+- If you’ve fallen into decline, get back to solid management disciplines—now! And if you’re still strong, be vigilant for early markers of decline. But above all, do not ever capitulate to the idea that an era of success must inevitably be followed by decline and demise brought on by forces outside your control.
+- circumstances alone do not determine outcomes.
+- The signature of the truly great versus the merely successful is not the absence of difficulty, but the ability to come back from setbacks, even cataclysmic catastrophes, stronger than before. Great nations can decline and recover. Great companies can fall and recover. Great social institutions can fall and recover. And great individuals can fall and recover. As long as you never get entirely knocked out of the game, there remains always hope.
+- In 1941, during England’s sternest days, Churchill returned to his old school, Harrow, where he’d received embarrassingly low scores, to give a commencement address. The headmaster cast worried glances at Churchill, who had fallen asleep, slumbering through most of the ceremony. But when introduced, Churchill made his way to the podium, stared out over the assemblage of boys, and gave his commencement message, “This is the lesson: never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy.”
+- Never give in. Be willing to change tactics, but never give up your core purpose. Be willing to kill failed business ideas, even to shutter big operations you’ve been in for a long time, but never give up on the idea of building a great company.
+- Be willing to evolve into an entirely different portfolio of activities, even to the point of zero overlap with what you do today, but never give up on the principles that define your culture. Be willing to embrace the inevitability of creative destruction, but never give up on the discipline to create your own future.
+- The path out of darkness begins with those exasperatingly persistent individuals who are constitutionally incapable of capitulation.
+- Failure is not so much a physical state as a state of mind; success is falling down, and getting up one more time, without end.
+- Appendix 3: Fannie Mae and the Financial Crisis of 2008
+- Financial institutions have a peculiar relationship relative to Stages 3, 4, and 5. Because of the high levels of leverage that financial enterprises often use, a relatively small set of losses can create a potentially catastrophic loss. Financial institutions caught in a risk-gone-bad downward spiral can crash downward from Stage 3 right into Stage 5, sinking so fast that there remains little time to grasp for salvation.
+- Companies already in the stages of decline are extremely vulnerable to turbulence. If the financial storm of 2008 had never happened, or if it hadn’t become so severe, perhaps Fannie Mae would have had an opportunity to reverse its own decline and return to greatness by its own efforts. It lost that opportunity in the calamity of September 2008.
+- Finally, there’s a provocative lesson: beware the hubris that can arise in conjunction with missionary zeal. In the Built to Last study, Jerry Porras and I found that enduring great companies passionately adhere to a set of timeless core values and pursue a core purpose beyond just making money. But there is also a risk to manage: having an almost righteous sense of one’s values and purpose (“We’re the good guys”) can perhaps make a company more vulnerable to Stages 1 to 3. Fannie Mae’s missionary zeal for expanding the American Dream of home ownership to as many Americans as possible contributed, in part, to its arrogance, its pursuit of growth, and even its increased risk profile. Whenever people begin to confuse the nobility of their cause with the goodness and wisdom of their actions—“We’re good people in pursuit of a noble cause, and therefore our decisions are good and wise”—they can perhaps more easily lead themselves astray. Bad decisions made with good intentions are still bad decisions.
+- Appendix 4.A: Evidence Table—Subverting the Complacency Hypothesis
+- Appendix 6.A: Decline and Recovery Case IBM
+    - **Tags:** #idea
+    - **Note:** .idea companies that bounce back
+- Who Says Elephants Can’t Dance?
+    - **Tags:** #idea
+    - **Note:** .idea compnies that get back their mojo
+      also corporate turn arounds
+- Joseph A. Tainter, The Collapse of Complex Societies
+    - **Tags:** #read
+    - **Note:** .read
+- Andrew Hill and John Wooden, Be Quick—But Don’t Hurry
+    - **Tags:** #read
+    - **Note:** .read
+- Gary Hector, Breaking the Bank: The Decline of BankAmerica
+    - **Tags:** #read
+    - **Note:** .read
+- George E. P. Box, J. Stuart Hunter, and William G. Hunter, Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition (Hoboken: John Wiley, 2005), 440.
+    - **Tags:** #read
+    - **Note:** .read
+- J. Rufus Fears, Books That Have Made History: Books That Can Change Your Life
+    - **Tags:** #read
+    - **Note:** .read
+- John R. Wells, “Circuit City Stores, Inc.: Strategic Dilemmas,” Harvard Business School, case study #9-706-419
+    - **Tags:** #read
+    - **Note:** .read
+- John R. Wells and Travis Haglock, “Best Buy Co., Inc.: Competing on the Edge,” Harvard Business School,
+    - **Tags:** #read
+    - **Note:** .read
+- William I. Walsh, The Rise and Decline of the Great Atlantic & Pacific Tea Company
+    - **Tags:** #read
+    - **Note:** .read
+- Clark Gilbert and Ratna G. Sarkar, “Merck: Conflict and Change,” Harvard Business School, case study
+    - **Tags:** #read
+    - **Note:** .read
+- Garrett G. Fagan, Emperors of Rome
+    - **Tags:** #read
+    - **Note:** .read
+- Sydney Finkelstein and Shade H. Sanford, “Learning from Corporate Mistakes: The Rise and Fall of Iridium,” Organizational Dynamics
+    - **Tags:** #read
+    - **Note:** .read
+- Caleb Pirtle III, Engineering the World: Stories from the First 75 Years of Texas Instruments (Dallas: Southern Methodist University Press, 2005),
+    - **Tags:** #read
+    - **Note:** .read
+- Edward R. Tufte, Visual Explanations: Images and Quantities, Evidence and Narrative
+    - **Tags:** #read
+    - **Note:** .read
+- Diane Vaughan, The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
+    - **Tags:** #read
+    - **Note:** .read breaking down a bad decision
+- Louis V. Gerstner, Jr., Who Says Elephants Can’t Dance? Inside IBM’s Historic Turnaround
+    - **Tags:** #read
+    - **Note:** .read
+- Albert J. Dunlap and Bob Andelman, Mean Business: How I Save Bad Companies and Make Good Companies Great
+    - **Tags:** #read
+    - **Note:** .read
+- Peter Burrows, Backfire: Carly Fiorina’s High-Stakes Battle for the Soul of Hewlett-Packard
+    - **Tags:** #read
+    - **Note:** .read
+- George Anders, Perfect Enough: Carly Fiorina and the Reinvention of Hewlett-Packard
+    - **Tags:** #read
+    - **Note:** .read
+- Carly Fiorina, Tough Choices: A Memoir
+    - **Tags:** #read
+    - **Note:** .read
+- David Packard, The HP Way: How Bill Hewlett and I Built Our Company
+    - **Tags:** #read
+    - **Note:** .read
+- John A. Byrne, Chainsaw: The Notorious Career of Al Dunlap in the Era of Profit-at-Any-Price
+    - **Tags:** #read
+    - **Note:** .read
+- Joseph A. Schumpeter, Capitalism, Socialism and Democracy
+    - **Tags:** #read
+    - **Note:** .read
+- William Manchester, The Last Lion: Winston Spencer Churchill, Visions of Glory 1874–1932
+    - **Tags:** #read
+    - **Note:** .read
+- J. Rufus Fears, Churchill
+    - **Tags:** #read
+    - **Note:** .read
+- “The Biggest Bank Bets More on High Risk,” Business Week, May 22, 1971, 80.
+    - **Tags:** #idea
+    - **Note:** .idea corporate investment arms are old
+- Jeffrey L. Rodengen, The Legend of Nucor (Ft.
+    - **Tags:** #read
+    - **Note:** .read
+- Rajiv Lal and Arar Han, “Nordstrom: The Turnaround,” Harvard Business School, case study #9-505-051
+    - **Tags:** #idea
+    - **Note:** .idea turnaround nordstroms
+- Robert Spector and Patrick McCarthy, The Nordstrom Way to Customer Service Excellence (Hoboken, NJ: John Wiley & Sons, Inc., 2005),
+    - **Tags:** #read
+    - **Note:** .read

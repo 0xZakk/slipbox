@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blogging]]
+- **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
+- It doesn't make sense to focus on SEO or traditional marketing when it comes to your personal site. If you're writing an article because you think it'll do well for SEO and not because you're interested in the topic, then you're probably not going to write a good article.
+- Instead of focusing on marketing or performing, **focus on being an interesting person.**
+- When it comes to marketing your personal site, first come up with things to write about. Then, once they're written, think about how you're going to market them.

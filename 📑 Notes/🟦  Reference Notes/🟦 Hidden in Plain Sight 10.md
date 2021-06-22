@@ -1,0 +1,17 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Quantum Physics]]
+- **Source:**  kindle
+- **Author:** Andrew Thomas
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - serial processing. 
+    - parallel processing. 
+    - quarks, 
+    - gluons. 
+    - quantum chromodynamics, 
+    - The Feynman Lectures on Computation. 
+    - There's Plenty of Room at the Bottom 
+    - Beyond Weird, Philip Ball 
+    - into two periods of time: 
+    - quantum state, 
+    - The Emperor's New Mind: 
+    - The Road to Reality: 

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[Success]]
+- **Source:**  pocket
+- **Author:** fs.blog
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - The three big ideas are (1) thinking on a different timescale, (2) putting the customer first, and (3) inventing. 

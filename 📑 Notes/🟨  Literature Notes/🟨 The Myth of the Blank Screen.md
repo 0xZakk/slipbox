@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]]
+- **Source:** [[🟦 How to Take Smart Notes]] p2-3
+- Typical writing advice falls into two categories: the formal requirements of writing, like syntax and punctuation, and the psychological requirements of writing, like how not to have a nervous breakdown. What they both assume, however, is that writing starts with a blank screen.
+- In reality, there are a number of steps that need to happen before you start writing. Steps that not only make writing possible, but easy. And they accomplish this by getting around the blank screen entirely. If you're staring at a blank screen, then you've already lost.
+- Most writers struggle because they believe that writing starts with a blank page when, in reality, writing starts long before that. Good writing is the product of good note-taking. 

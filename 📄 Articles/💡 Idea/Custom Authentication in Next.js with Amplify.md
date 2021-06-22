@@ -1,0 +1,12 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Long blog post articulating how to implement custom authentication flow in Next.js with AWS Amplify
+- **Related Notes and Sources:**
+	- https://dev.to/dabit3/the-complete-guide-to-next-js-authentication-2aco
+	- https://docs.amplify.aws/guides/authentication/managing-user-attributes/q/platform/js
+	- https://github.com/dabit3/next.js-authentication-aws
+	- https://docs.amplify.aws/lib/auth/emailpassword/q/platform/js
+	- https://github.com/dabit3/react-authentication-in-depth 
+	- https://docs.amplify.aws/guides/authentication/managing-user-attributes/q/platform/js
+
+- **Notes:**
+    - 

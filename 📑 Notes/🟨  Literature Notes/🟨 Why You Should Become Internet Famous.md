@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Building an Audience Online]]
+- **Source:** [[🟦 I Listened to @David_per...]]
+- 

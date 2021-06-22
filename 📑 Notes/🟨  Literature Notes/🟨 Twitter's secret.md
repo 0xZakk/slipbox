@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Building an Audience Online]] [[Twitter]]
+- **Source:** [[🟦 Welcome: How to Crush It on Twitter]]
+- Why does [[David Perell]] like Twitter so much? Because it feels like a secret
+- Yes, there are some 300 million people who use the platform. But of those people, only a very small fraction of them know how to use Twitter to make connections, improve their thinking, or accelerate their career.

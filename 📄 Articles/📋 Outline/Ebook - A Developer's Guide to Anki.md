@@ -1,0 +1,115 @@
+- **Type:** #[[__ 📦 Projects]] [[📋 Outline]] | [[Spaced Repetition]]
+- **Summary:** An ebook/course
+- **Related Notes and Sources:**
+    - [[🟦 Spaced Repetition for Efficient Learning]]
+- **Notes:**
+- Outline::
+    - **Intro to Spaced Repetition**
+        1. **Course Intro** {{word-count}}
+            - Welcome to this course.
+            - Our goal here is to make learning effortless. Whether it's a new API, framework, or even a new programming language, the system of learning we're going to introduce here is going to make it easy while also taking up less time.
+            - The way we're going to do this is by learning a tool called Anki. Anki has been around for a while and in some fields has been used to learn large quantities of information quickly and easily.
+            - Medical students use Anki to memorize the large amount of information they learn in medical school and professional translators, people who learn and translate foreign languages, use Anki to develop a very deep understanding of another language.
+            - As a law student, I used Anki to help me learn the legal cases we studied in my courses. A law student takes 4 or 5 classes a semester and each class could review 100 different cases, on top of the various statutes and regulations you might learn in a class. For each case, you need to know the parties, the nature of the dispute, the facts of the case, the arguments of each side of the dispute, how those arguments developed over time, as well as the relevant statutes, and the history of those statutes. It's a lot of information and to do well you need to be able to use it all in conversations and on tests.
+            - Now, thankfully I did not end up pursuing work in the legal field. But the demands of programmer aren't so different. We often have to learn a lot of information in a really short time frame. What we have to deal with that most other professions do not, is how dynamic our field is.
+            - You could learn a framework and need to deep proficiency and understanding of that framework and a year later, need to work in a completely different framework in a completely different language.
+            - Similarly, you could learn how to work with an API and build out a feature using that API and then not touch that code for a year. But, after that year, a bug appears out of nowhere and now you have to return to that code, that is now a year old, and to that API, which you haven't thought about in a year.
+            - With the tool and methods that we're going to learn in this class, none of that will phase you. If you decide you want to learn a new framework, it wont take you long before you're up to speed with how to use it. If you want to learn a new programming language, it wont take you long to master the basics and over time you'll be able to easily learn the ins and outs of that language. If it's your current favorite programming language you want to learn in-depth, then this course will help you do that too.
+        2. **Intro to Spaced Repetition** {{word-count}}
+            - [[Illusions of Competence]] [[Spaced Repetition]] [[🟦 A Mind for Numbers]]
+            - **The Illusion of Competence:**
+            - How many times have you thought you knew how to use an API or library only to find that, when you went to use it, you were constantly fumbling on the syntax or having to look up a method for the 10th time?
+            - We've all experienced this phenomenon, and it has a name: the illusion of competence.
+            - The illusion of competence is when we are familiar with a concept we've learned, and our brains trick us into believing that familiarity is knowledge.
+            - So, we are familiar with an API, meaning we know generally how it works or what it does, and our brains trick us into believing that means we know how to use the API.
+            - It can be the same with a module in the standard library of your programming language of choice - you are familiar with the library and what it's methods are and your brain tricks you into believing that you know it.
+            - Why does your brain do his? To preserve resources! Your brain burns a lot of calories and uses a lot of energy. By taking shortcuts, your brain is trying to reduce the amount of work it has to do.
+            - **Testing Recall**
+            - How can we get past the illusion of competence? Well it's actually pretty simple. When do you realize you've been tricked into this illusion? When you actually go to recall the information you've "learned".
+            - It turns out, the way to get past the illusion of competence is to practice recalling information you've learned. And we can practice that information in a really targeted way using Spaced Repetition.
+            - **Spaced Repetition**
+            - Fundamentally, spaced repetition is about recalling information. But there's a really important twist to this - we want to recall information at the optimal time based on the spacing effect, which spaced repetition is based on.
+            - The spacing effect basically says that our brains forget and discard information at certain intervals. If we meet for the first time and I tell you my name, if you don't recall my name again then you're going to forget it in about 20 minutes. Does that sound familiar?
+            - But if I remind you of my name 18 minutes after I first tell it to you, then you'll remember it for longer! Now, if you don't recall the information, you're like to forget it in 40 minutes.
+            - The effect goes on like this:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FZakk%2FlOggQHwtKR.png?alt=media&token=af9b6fed-37a1-4a4b-8919-32a4621bfcd0)
+            - This turns out to be really powerful. If prompted, each time you recall my name will take you a few seconds. If you do this at the best intervals over the course of a few days, you can spend maybe 5 minutes remembering something and effectively never forget it again.
+            - That's the promise of spaced repetition. In this course, we're apply spaced repetition to learning to program. Rather than reviewing the documentation for a common library over and over again, we're going to leverage this powerful tool to review the documentation once, add that information to Anki, spend a few minutes reviewing the information every day and never forget it again.
+        3. **Spaced Repetition and Programming** {{word-count}}
+            - Tutorial Purgatory, Tutorial Hell
+        4. **Installing Anki**
+            - Mac
+            - iPhone
+        5. **Setting Up Anki**
+            - Recommended Settings
+            - Setting up Card HTML and CSS
+            - Recommended Ad-ons
+                - Code formatting
+        6. **Unit Outro**
+    - **The Anki Interface**
+        - **Unit Intro**
+        - **Decks**
+            - Creating a deck
+            - Managing decks
+        - **Tags**
+        - **Cards**
+        - **Card Interface**
+            - set it up to show the tag and tag all cards
+        - **Review**
+        - **Unit Outro**
+    - **Card Types in Anki**
+        - **Unit Intro**
+        - **Basic**
+            - Most of your cards will probably be of this category
+        - **Basic and Reverse**
+            - Great for learning things like vocabulary
+            - For instance, you might have a card like this:
+                - Front: What is an array?
+                - Back: What is a data structure in JavaScript for holding items in a list?
+        - **Basic type in the Answer**
+            - Perfect for learning short commands or small pieces of syntax
+            - Avoid having to type in long snippets of code, especially if you plan to review on your phone
+        - **Cloze**
+        - **Unit Outro**
+    - **Reviewing**
+        - How to review cards
+    - **How to Learn Programming with Anki**
+        - **Unit Intro**
+            - This is the most important segment of the course and what we've been building towards in all the previous unit
+            - In this unit, we're going to learn two things:
+                - How to create cards
+                - How to review cards
+            - Now that we know the interface and the different card types, it's time to learn how we cna use Anki to supercharge our learning.
+        - **Creating Cards from Books**
+            - Using Anki should change the way you read technical books
+            - Most people read technical books the same way they would read a fiction or nonfiction book. This is great if you enjoy reading technical books and is something you should continue doing.
+            - But now that you're using Anki to aid your learning, I'm going to recommend a slight change to the way you read technical books.
+            - The change I recommend is this: do an extraction pass through the book as a whole or through just the next chapter you're going to read
+            - What do I mean by this?
+            - Rather than read the book word for word, skim it and underline or highlight the things you want to make Anki cards for. Then go through and read the chapter as you normall would, making sure to understand the material covered in the book.
+            - After that, come back through the chapter to create Anki cards for the material you annotated in the first pass.
+            - Let's see this together:
+                - __SN: Have a kindle book open on the kindle app. Skim through a chapter and highlight parts that seem interesting that you want to make cards for later. Take ~2 minutes to do this and narrate your process as you go.
+
+Then, split the screen with kindle one side and Anki on the other. Go back through the chapter and stop at each highlight or note to create Anki cards.__
+        - **Creating Cards from Conferences and Videos**
+        - **Creating Cards from Documentation**
+        - **Reviewing on Mobile**
+        - **Reviewing on Desktop**
+    - **Bonus: Making good cards**
+        - **Unit Intro**
+        - **What makes a good card**
+            - Conditions of a good card:
+                - Descrete: only one piece of knowledge
+                - Small: very focused on small piece of a subject
+            - Question your knowledge from as many angles as possible:
+                - I.e. for an Anki novice learning JavaScript's array methods, they may make one card per array method. Based on my experience, this is really ineffective. Instead, make close to 10 cards per array method
+                    - What does Array.filter() do?
+                    - What array method would you use to create a subset of an existing array, based on a condition?
+                    - What is the argument to Array.filter()?
+                    - What argument is passed into the callback to Array.filter()?
+                    - How do you add an item to the array created by Array.filter()?
+                    - How do you exclude and item from the array created by Array.filter()?
+        - **Unit Outro**
+    - **Conclusion**
+        - **Course Outro**

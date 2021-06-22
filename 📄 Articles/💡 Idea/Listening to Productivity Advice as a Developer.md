@@ -1,0 +1,6 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article on how to take productivity advice as a developer. 
+- **Related Notes and Sources:**
+    - 
+- **Notes:**
+    - Not all productivity advice applies to developers, because our work is so different from most other knowledge work. For instance, I have an article on [[📦 Article: A Developer's Guide to Time Blocking]] for developers, but it really only applies to developers who are working on multiple projects at a time. If you work in an Agile environment where you're assigned or grab tickets, then you don't need to worry about time blocking - just the ticket(s) you've been assigned.

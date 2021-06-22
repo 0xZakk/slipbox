@@ -1,0 +1,61 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Blockchain]] [[Designing for Blockchain]]
+- **Source:**  medium
+- **Author:** Kalina Dimova
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - And last but not least, consider the aesthetics of your app. Using a beautiful interface is pleasing for all users. “Form follows function” has been my mantra since the beginning of my design career, but the style of an app is what makes people connect with it on an emotional level. Beauty is the trigger that brings users back and makes them enjoy working with your app. 
+    - In terms of UX, Blockchain and DLT apps are very similar to other enterprise solutions. 
+    - Final Thoughts 
+    - Provide feedback on what happened after sending the form. Add details about what was sent and to whom. 
+    - Show a read-only preview of the filled information before sending the form. Changing the looks of the data helps users to see if there are any errors and be confident when sending. How many times have you seen your typo only after you’ve sent the email? 
+    - Help the user to fill out the form by showing the correct format for numeric and text fields. For example, each currency may have a different number of decimal places: EUR has 2, BTC has 8, and ETH has 16 — the field should automatically adjust the dps to the currency. 
+    - Split forms into steps even if they are short. This is a good practice when designing decisive forms. Let the user focus only on one thing at a step. For example, in the first step, enter the address and in the second select currency and amount. 
+    - First, help the user to understand what is required. Some of the concepts in Blockchain apps are entirely new and users will need help to understand them. Explain what the concept means and how to retrieve this kind of information. 
+    - Verification and Validation 
+    - Audit modules for supervising user actions and performance need tables too. It is crucial to design these modules right — people’s jobs depend on it. You can provide filtering by user, action, date or period, object, and so on. Summarise the data using a visual interpretation of the statistics. Charts and graphs help the user to spot patterns and issues in aggregate. 
+    - For large datasets, horizontal scroll is inevitable. Usually, the first column holds the identifier — lock it to help orientation 
+    - Provide an option for bulk editing 
+    - Column sorting enables prioritising the information 
+    - Filtering option grants quick access to any desired information 
+    - Fixed headers show column names at all time 
+    - Once again, the main purpose of DLT apps is the transfer of value. This means you’ll have to display historical records of transactions, events, actions, etc. To present this information, you’ll need to design efficient tables. At first, the task seems simple, but when you start designing with real data and functionalities, it could become quite a challenge. There is a lot that can be done to improve table usability 
+    - Event Records and Audit 
+    - What is special about states in Blockchain apps? You can make the users’ life a lot easier with some better design decisions. 
+    - UI States 
+    - Besides statuses, you should inform the user about other major events happening at the moment, or issues that have occurred while the user was away 
+    - As we all know, validating transactions in Blockchain may take some time. Users have to know the status of a transaction at all times. The basic statuses for most apps usually are: pending, successful, failed. Of course, there could be more. But let’s focus on those three. It’s always good to distinguish them by using colour. If there’s not enough space, you can present statuses using icons and show tooltips with the name on hover. 
+    - Appropriate feedback for a user action is perhaps the most basic guideline of user-interface design. It serves to keep users informed of the current status and to allow them to steer the interaction in the right direction, without wasting effort. 
+    - Statuses and System Feedback 
+    - In addition, you’ll probably need to design a user management interface for the superuser. 
+    - User Management 
+    - The main purpose of DLT apps is the secure, frictionless transfer of value. 
+    - In most of the enterprise Blockchain apps, you would find similar user roles. 
+    - User Roles 
+    - Roles and User Management 
+    - So at the beginning of a project, the first thing to do is to create your personas. 
+    - Having the end user in mind when building a new product is a general rule that applies when designing all kinds of software. Unfortunately, when it comes to Blockchain and DLT, UX specialists are invited almost at the end of the party. Usually, this happens because stakeholders are very tech-oriented. They are focused on solving the new technological challenges. Sooner or later, the UX pro comes and starts asking questions, and the first one would always be “Who is the user?”. And that’s where things get interesting. 
+    - User Types 
+    - Verification and validation 
+    - Event records and audit 
+    - States 
+    - Statuses and system feedback 
+    - Roles and user management 
+    - User types 
+    - Key Factors 
+    - Those goals apply to most apps, but when developing Blockchain and DLT apps, we need to be extra careful. Many of those solutions are built for the finance, insurance, and supply chain industries where often transactions are of hundreds of thousands and millions. The potential cost for a simple mistake could be tremendous and to prevent such, you have to pay special attention to several fundamental aspects of your design. 
+    - Аwareness 
+    - Trust 
+    - Transparency 
+    - Security 
+    - Goals 
+    - this app will need at least three different interfaces for its users. The design has to ensure safe, fast and easy interaction for each of the users. 
+    - What’s important for the UX of Blockchain and DLT apps and how to do things the right way? 
+    - Let’s take the roles in a simple Corda payment app for example: 
+    - The vast majority of use cases include separate nodes for a superuser, a regulatory user, a basic user. 
+    - Our clients are genuinely fascinated by the capabilities of the technology, but something appears to be missing. They all want to “touch the Blockchain”. 
+    - You can read a lot about creating better crypto wallets, but there is almost nothing on designing complex enterprise solutions. 
+    - During these journeys, we’ve learned a lot. One of the main lessons is that Blockchain and DLT apps desperately need better UX design. 
+    - A typical node for a superuser embodies several different roles: issuer, notary, and oracle. 
+    - Thinking about your user first could save you hundreds of hours spent on code change and adjustments. And it will definitely help you build a better app. 
+    - Of course, the best thing to do is to test your design at least 3 times with real users. 
+    -  Usually, you have at least 3 users with completely different goals, tasks, and mindsets, thus your app should have a separate design for each one of them. 

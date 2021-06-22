@@ -1,0 +1,6 @@
+- **Type:** #[[🟨 Permanent Note]] | #Blockchain
+- **Sources:** [[🟦 The Truth Machine]]
+- **Notes:**
+    - The UN High Commission for Refugees piloted a program that uses blockchain to track food distributions in a refugee camp.
+    - The Syrian refugee camp is just outside Amman and houses 32,000 refugees in pre-fabricated shelters. Food and other supplies are brought in by the World Food Program and other UN agencies. Given that few people have personal identifying documents and theft is rampant, distributions to refugees are tracked using a blockchain.
+    - To pay a merchant, a refugee scans their iris. Their eye acts like a digital identifier and wallet, eliminating the need for cash, vouchers, debit cards, or smartphones. It also reduces the likelihood of theft. Each payment transaction is recorded to a public blockchain where it can be audited and read by anyone.

@@ -1,0 +1,15 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]] | [[JavaScript]]
+- **Summary:** Article that walks through examples of how to use the `reduce` array method in JavaScript as well as how to implement it it
+- **Related Notes and Sources:**
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+- **Notes:**
+- **Outline**
+    - **Introduction**
+        - **Description:** __What the method is used for and what it does__
+    - **How it works**
+        - **Description:** __3-4 samples of the method working, starting from very simple to a little complex__
+        - Think about `map`. `reduce` is just a slightly modified version of `map`.
+        - `map` takes an array and a function and returns a new array. The empty array that gets populated and returned is effectively a starting value. `reduce` lets you pick the starting value. It can be an array, an object, a number, or a boolean value.
+        - 
+    - **Implementing our own**
+        - **Description:** __Step by step, implement a version of this method. Start with the tests, then implement the code.__

@@ -1,0 +1,8 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article that explains what a Slipbox is
+- **Related Notes and Sources:**
+    - [[🟨 The Purpose of the Slipbox]]
+    - [[🟨 Thinking with the Slipbox]]
+    - [[🟨 Four Underlying Principles of the Slipbox]]
+    - [[🟨 Writing a Paper Step by Step with a Slipbox]]
+    - [[🟨 How to know if your Slipbox is working for you]]

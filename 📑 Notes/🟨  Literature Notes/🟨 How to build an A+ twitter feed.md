@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Twitter]] [[Building an Audience Online]] [[Writing]]
+- **Source:** [[🟦 Building an A+ Twitter Feed]]
+- The experience you have on Twitter will greatly depend on your feed:
+    - "When you follow somebody on Twitter, you agree to be brainwashed by their worldview, 280 characters at a time. "
+- So you have to shift how you think about following someone. Think about following someone in the same way you'd think about nutrition: you watch the food that you put in your body, so watch the tweeters you put in your feed.
+- In the age of abundance, it's just as important to chose what you ignore as it is to chose what you pay attention to. If you're not careful with your Twitter feed, you'll be bombarded with negativity, toxicity, and meaningless stimulation. If you selectively filter who you allow into your Twitter feed, it can be filed with inspiration.
+- To achieve this, you'll occasionally have to trim the list of people you follow. You can do this periodically, but you can also do this proactively by muting keywords and by unfollowing anyone who pollutes your feed. When you see someone tweet something petty or toxic, unfollow them. 

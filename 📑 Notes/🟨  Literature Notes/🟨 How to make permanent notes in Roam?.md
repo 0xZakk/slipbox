@@ -1,0 +1,15 @@
+- **Type:** #[[__ 🟨 Literature Note]] |  [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes | Zettelkasten Method in Roam Research]]
+- **Making Permanent Notes is the most important step in the entire method.**
+- Go back through your literature notes and try to think of connections that can be made between that note and other notes in your database. **Your goal isn't to create as many Permanent Notes as possible, but to add notes that are valuable for your research, thinking, problems you're facing, etc.**
+- The actual process is pretty straightforward. You want to create a new page for the Permanent note.
+- At the top of this new page you want to add a reference to the source, keywords related to this note, and links to any relevant notes.
+    - **Source**
+        - This should just link back to where you got this information. Shu links to the Roam pages for the author and the book, article, or source.
+    - **Keywords**
+        - Keywords and Relevant Notes are the two most important parts of this and what makes this such a powerful approach.
+        - Add links to keywords related to the current note. It's really important that you think of keywords in the right way. Many people think of keywords in terms of categorizing the note. Instead, you want to think about the circumstances in which you would want to find this note again and/or how you want to use the idea expressed in the note.
+    - **Relevant Notes**
+        - Making connections to relevant notes is what will ultimately fuel your learning and writing.
+        - Open the page with all your perrmanent notes on it and look for connections that you can make to this current note.
+- Once you've done the above, go through and write in your notes. **It's really important that you write in full sentences with appropriate references to texts. Your goal here is to write sentences that you could basically just drag and drop into an article.**

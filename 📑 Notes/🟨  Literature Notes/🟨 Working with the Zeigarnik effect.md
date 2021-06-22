@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Productivity]]
+- **Source:** [[🟦 How to Take Smart Notes]] 
+- See: [[🟨 Zeigarnik effect]]
+- There are a couple of things we can do so that we don't forget things and so they don't occupy parts of our minds when we're trying to concentrate.
+- The first is to break up amorphous tasks like "writing" and "coding" into discrete and atomic tasks that can be easily finished.
+- The second is to write down where we are in our thinking, including any open loops or unresolved questions.
+- The value of writing down where we are and what has to happen next is that it lets us more easily come back to work and pick up a task. Reading the note we left to ourselves helps us bootstrap the task without having to keep it in mind.

@@ -1,0 +1,30 @@
+# Meander, Spiral, Explode
+
+## Meta Data
+
+Source:  kindle 
+Author: Jane Alison
+
+## Highlights
+
+### Highlights
+
+- I love how Eileen Gray designed, and really love how much it maddened the bombastic Corbu. I think that Gray’s way of working from life to art could describe writing, too.
+- We writers go about our observing, imagining lives, moving onward day by day but always alert to patterns—ways in which experience shapes itself, ways we can replicate its shape with words. We create passages for a reader to move through, seeing and sensing what we devise on the way. And when the reader’s done—levitation! She looks down and sees how she’s traveled, sees the pattern of the whole.
+- Given all of this, my writer self thinks two things: first, being aware of visual elements such as texture, color, or symmetry can open windows and let us design as much as write. Text comes from texere, after all: to weave. Next, we can be conscious, deliberate, innovative, in the paths we carve through our words.
+- For centuries there’s been one path through fiction we’re most likely to travel—one we’re actually told to follow—and that’s the dramatic arc: a situation arises, grows tense, reaches a peak, subsides.
+- If you ask Google how to structure a story, your face will be hammered with pictures of arcs. And it is an elegant shape, especially when I translate arc to its natural form, a wave. Its rise and fall traces a motion we know in heartbeats, breaking surf, the sun passing overhead. There’s power in a wave, its sense of beginning, midpoint, and end; no wonder we fall into it in stories. But something that swells and tautens until climax, then collapses? Bit masculo-sexual, no? So many other patterns run through nature, tracing other deep motions in life. Why not draw on them, too?
+- The famous arc came from drama. Twenty-five hundred years ago, Aristotle dissected the structures of tragedies such as Sophocles’ Oedipus the King to find their common features, much as he might dissect snakes to see if their spines were alike. He found that powerful dramas shared certain features, including a particular path. Here’s (some of) what he wrote in Poetics:
+- Just as . . . a beautiful living creature must be of . . . a size to be taken in by the eye, so a story or Plot must be of . . . a length to be taken in by the memory.
+- Every tragedy is in part Complication and in part Dénouement; the incidents before the opening scene, and often certain also of those within the play, forming the Complication; and the rest the Dénouement. By Complication I mean all from the beginning of the story to the point just before the change in the hero’s fortunes; by Dénouement, all from the beginning of the change to the end.
+- W. G. Sebald’s The Emigrants.
+- Parataxis is linear and sequential: he got up and walked to the window and looked down and decided to go out, etc. Hypotaxis is more spatial, foregrounding some parts of the sentence and letting others recede, more interested in comparative relations among elements than in straight temporality: It was only after he’d woken up and lain in bed awhile, wondering whether he’d look out the window or instead ignore the world outside and step into the closet, that he finally decided to get up. In this sentence you have to wait until the end for the next action: the rest is a mental suspension, considering possibilities, not just watching what happens next.
+- The point now: Sebald’s Emigrants was the first book to show me a way beyond the causal arc to create powerful forward motion in narrative: motion less inside the story than inside your mind as you construct sense. This motion involved pattern, arising (I later learned) “from the spatial interweavings of images and phrases independent of any time-sequence of narrative action” (Joseph Frank, “The Idea of Spatial Form”). The Butterfly Man was that image.
+- Matter fills space according to a host of natural laws that again and again yield the same patterns. This I did not know until recently, when I read Peter Stevens’s brilliant 1974 book Patterns in Nature while riding the Amtrak to New York.
+- Arcs or waves exist all around as waves of light and sound. They can create powerful narratives, but it might be more freeing, as writers, if we think not of a story always following an arc, but of a reader’s experience absorbing the story as doing so.
+- Meander, spiral, radial, fractal, cell. Perhaps there are even correlations between kinds of stories and certain patterns, like tragedians following the arc.
+- This way of seeing structure in narrative might seem reductive; that’s partly my point. And you might see slightly different patterns from those I see in the narratives examined in the coming pages. But what I hope is that thinking about patterns other than the arc will become natural, that evolving writers won’t feel oppressed by the arc, that they’ll imagine visual aspects of narrative as well as temporal, that they’ll discover ways to design, being conscious or playful with possibilities.
+- This is the first way we move through a story: one-way motion, word after word until the end. Narratologists call it movement on the discourse or textual level.
+- David Foster Wallace’s “Forever Overhead.”
+- Raymond Carver’s “Why Don’t You Dance”:
+- Joyce Carol Oates’s Black Water,

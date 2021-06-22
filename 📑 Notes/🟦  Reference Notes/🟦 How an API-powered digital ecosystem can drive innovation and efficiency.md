@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API
+- **Source:** https://cloud.google.com/blog/products/api-management/new-research-on-digital-business-ecosystems
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API
+- **Source:** https://cloud.google.com/blog/products/api-management/api-first-digital-transformation
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

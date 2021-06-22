@@ -1,0 +1,4 @@
+- **Type:** #[[🟨 Literature Note]] #[[📥 Inbox]] | #[[Arrays and Slices in Go]] #[[Data Structures]] 
+- **Source:** [[🟦 Go_in_Action.pdf]] 
+- Maps are a way to structure data where the index is not an integer (like with Arrays and Slices). Maps are similar to Structs in that way and comparable to objects or associative arrays from other languages.
+- 

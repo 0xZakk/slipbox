@@ -1,0 +1,7 @@
+- **Type:** #[[🟦 Reference Note]]
+- **Source:** https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/
+- **Author:** [[Balaji S. Srinivasan]]
+- **Project(s):** [[📦 Article: Sovereign Publishing]]
+- **Summary:** 
+- **Highlights:**
+    - 

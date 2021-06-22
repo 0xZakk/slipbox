@@ -1,0 +1,32 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]] p23 - 26
+- There are eight steps to writing a paper with a Slipbox.
+- You will roughly follow these steps in order per manuscript or article and you will likely work on multiple articles at a time.
+- The Eight Steps:
+    - 1. Make fleeting notes
+        - 1. You should always have some way of capturing ideas and thoughts. If an idea occurs to you as you're standing in line at the grocery store, you should be able to save it and not lose it.
+        - 2. As you read a book, highlight important passages and make notes and marginalia about the concepts so that you can turn these sections into literature notes.
+    - 2. Make literature notes
+        - 1. As you read a book, take notes of the things that you (a) don't want to forget or (b) think you might use in your writing.
+        - 2. You should be very selective about the things you record as literature notes. They should answer the following question: "Will I use this in my writing?"
+        - 3. If you decide to make a literature note about something you read, you should keep the note very short and write the note in your own words.
+    - 3. Make permanent notes
+        - 1. You want to take your fleeting notes and literature notes and turn them into permanent notes on a regular basis. Do this soon after creating the notes, so you don't forget what they mean.
+        - 2. Permanent notes should be written as if you are writing them for someone else: use full sentences and proper citations. Keep your notes brief and clear. The goal of your permanent notes is that you could copy the sentences in the note into a draft manuscript and use them with only a little editing.
+        - 3. Additionally, the point of collecting permanent notes is to develop ideas and discussions and support arguments, not to collect an archive of notes. Keep this in mind when you create permanent notes!
+    - 4. Give your permanent notes a home
+        - 1. You want to add your permanent notes to the slipbox and place them in a context where you'd like to discover them again. This means adding the appropriate keywords as well as connecting each permanent note to other related notes.
+        - 2. It is the quality of your permanent notes and the nuber of connections between permanent notes that makes the Slipbox a valuable tool for writing.
+    - 5. Develop your topics, questions and research projects bottom up from within the system
+        - 1. This is about (1) letting the notes in your Slipbox compound and (2) using your interest to contribute back to the Slipbox.
+        - 2. The more high-quality notes you add to the Slipbox, the more connections you can make between notes.
+        - 3. As you interact with the Slipbox, seek out places where you can add more notes by continuing to read on a subject that is interesting to you.
+        - 4. You should constantly be searching through your Splipbox for places where clusters of notes have developed. These will be questions or topics you've spent a lot of time reading and thinking about and will be promising candidates for manuscripts.
+    - 6. After a while, you have developed ideas far enough to decide on a topic to write about
+        - 1. Rather than trying to come up with topics out of thin air, look at your slipbox and see where there are clusters of notes that can be organized, synthesized, and turned into a draft.
+        - 2. If you've followed the previous steps well, then this part becomes really easy. You wont have to come up with topics on your own or brute force your way through researching topics. You can just look at what you already have in the Slipbox and go from there.
+        - 3. When you find a cluster, organize the notes into a project "desktop" (a project note or somewhere you can keep track of these notes). Organize these notes and look for holes and redundancies. You can afford to take projects at a slow burn and go back and read to fill any holes you might have in your argument or outline.
+    - 7. Turn your notes into a rough draft
+        - 1. Once you have a good collection of notes that is ready to become a manuscript, write out a draft. Don't copy your notes into a draft though. instead, __translate__ your notes into something new and coherent.
+    - 8. Edit and proofread your manuscript
+        - 1. Give it a final edit. Solicit and implement feedback. When it's ready, hit publish. Then, give yourself a pat on the back. 

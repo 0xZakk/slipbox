@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Attention]] [[Focus]]
+- **Source:** [[🟦 How to Take Smart Notes]] p63-64
+- Reminds me of focused and diffuse modes of thinking from [[🟦 A Mind for Numbers]]
+- A lot of people hold the assumption that scientific work is primarily based on focused attention, while creative work is primarily focused on floating attention. We know now that both kinds of attention are required in both science and art.
+- [[Oshin Vartanian]] studied the workflows of Nobel Prize winners and other eminent scientists and determined that it wasn't an enormous capacity for focused attention that differentiated them from other scientists, but heir ability to apply flexible attention:
+    - __"Specifically, the problem-solving behavior of eminent scientists can alternate between extraordinary levels of focus on specific concepts and playful exploration of ideas. This suggests that successful problem solving may be a function of flexible strategy application in relation to task demands.__
+- In summary: really effective scientists are able to move fluidly between extremely focused attention and floating attention. The takeaway is that successful work is more about applying the right strategy just-in-time than about applying one strategy with intense focus.

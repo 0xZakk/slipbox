@@ -1,0 +1,7 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article walking through deploying a web app to Azure App Services using 3 different ways:
+    - GitHub CI/CD
+    - Local Git
+    - FTP?
+- **Related Notes and Sources:**
+    - [[🟦 Host a web application with Azure App service]]

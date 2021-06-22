@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blogging]]
+- **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
+- The thing that will have the biggest affect on the success of your personal site is how often you publish. You have to continue to publish to this site regularly for a long time.
+- You will occasionally have a single article that makes a big difference. But the real value of a personal blog is the long-term, compounding affect.
+- In the 6 years that [[Nat Eliason]] has been publishing to his personal site, he's published 172 articles, 263 notes from books and 215 newsletters, or 650 pieces of content in 2,100 days. That works out to something every 3-4 days. 

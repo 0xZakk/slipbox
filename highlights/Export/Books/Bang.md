@@ -1,0 +1,18 @@
+# Bang
+
+## Meta Data
+
+Source:  kindle 
+Author: Roosh V
+
+## Highlights
+
+### Highlights
+
+- The alpha male, on the other hand, lives much differently. First and foremost, he does what he wants to do. He doesn’t concern himself with personal rejection or social failure. His needs, wants, and feelings come before anyone else’s. No one’s judgment, dirty looks, opinions, or laughter is going to stop him from getting what he wants. He doesn’t ask for permission. If he wants to have sex with a girl, he uses his knowledge and skills to try to make it happen. His actions stem from desire instead of insecurity. The alpha male doesn’t qualify himself. He doesn’t explain his faults or failures. He accepts himself, for better or worse. He doesn’t brag about his success. He doesn’t need to be validated by a woman because he knows that she can’t give him what he can’t give himself. Criticism or praise has only a temporary effect on him because he has already accepted his strengths and weaknesses. The alpha male doesn’t care about what other people think of him. He presents himself in a way that makes him feel most comfortable. He picks up on something because he likes it and it fits him, not because it’s a trend or something he is “supposed” to do. He doesn’t look in the mirror every ten minutes to fix his hair. He doesn’t concern himself with getting fake tans or body hair waxes. The alpha male doesn’t make apologies for being a man who has sexual needs. He doesn’t hide his intentions with women, so they know how to provide him with what he wants. If a woman isn’t comfortable with sex, he moves on and finds one who is. He isn’t going to wait for a woman to serve his needs. He’s not concerned if a woman rejects him in the bedroom—if he doesn’t get it from her, he’ll get it from someone else. As a sexual being, he expects women to be sexual as well. The alpha male lives in his own reality. He leads interactions the way he prefers by controlling the tempo and initiating the escalation. He believes it’s in a woman’s nature to submit to a strong man. He understands that if he doesn’t worry about his needs, a girl won’t worry about them either. He doesn’t let the woman lead the interaction because it will result in her getting what she wants (attention and validation) at his expense. The alpha male has high expectations of women. He doesn’t do nice things for them without expecting something in return. He expects a girl who has his attention to be physically attractive, interesting, and sexually secure. If a girl tells him she’ll only have sex after months of dating, he won’t pursue her. He makes it clear that he’s not on this Earth to service her with free alcohol or food. Everything she gets from him must be earned. Most importantly, the alpha male is always willing to walk away. His power over women lies in the time and energy he chooses to spend with them. He understands that such a mindset will be noticed by the women he meets, and they will treat him with care and respect as a result. He makes it clear, by controlling the amount of attention he…
+- As Teddy Roosevelt once said, “Do what you can, with what you have, where you are.”
+- “Hey, you look like you’re having the most fun here out of anyone.”
+- “I thought I was having the most fun here, but then I saw you. Do you like this bar?”
+- “Hey, let me guess. You’re from ________.”
+- “Hey, I was wondering if you can help me out. My friends and I are looking for the best spot here where we can pose.”
+- “false time constraint,”

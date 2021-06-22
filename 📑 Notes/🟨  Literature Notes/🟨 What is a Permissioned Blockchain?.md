@@ -1,0 +1,9 @@
+- **Tags:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]]
+- **Source:** [[🟦 Introduction to Permissioned Blockchains]]
+- **Project(s):** [[📦 Grokking Blockchain]] 
+- A permissioned blockchain is one that is closed to a limited set of authorized parties. The goal is to take advantage of the benefits of blockchain without sacrificing the authority and legitimacy provided by a centralized system.
+- Permissioned blockchains contrast to permissionless (public) blockchains by introducing a control layer on top of the blockchain that governs who can participate and what actions different types of participants can perform.
+- In addition to restrictions on who can participate, permissioned blockchains also often have restricted or customized ways of establishing consensus among participants. This could mean that some members have more weight than others, for example.
+- In summary, a permissioned blockchain is a blockchain or distributed ledger with two key differences from a public blockchain:
+    - Access and participation in the blockchain network is limited
+    - Consensus is established differently based on the specific needs of the implementation

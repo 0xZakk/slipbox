@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API
+- **Source:** https://cloud.google.com/files/apigee/apigee-api-product-mindset-ebook.pdf
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

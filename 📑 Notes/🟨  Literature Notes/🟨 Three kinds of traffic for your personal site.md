@@ -1,0 +1,19 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blogging]]
+- **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
+- There are there kinds of promotion traffic for a personal site:
+- **Surge Traffic**
+    - Surge traffic is the huge spikes you get when a lot of people discover your site all at once.
+    - This traffic is valuable for getting new people to discover your work. However, it is always short-lived. A surge in traffic will last a few days, at most.
+    - Surge traffic is the least repeatable and useful form of traffic, so it doesn't make sense to focus on it.
+    - Surge traffic comes from one of three places:
+        - Social vitality - You write a post that goes viral and gets shared a lot on social media
+        - Influencers - Someone with a really large audience likes what you write and decides to share it with their audience
+        - Communities - Your piece was well received by an online community with an active user base. 
+    - Viral and influencer traffic comes from writing a great post at the write time.
+    - Community traffic comes from being an active part of a community and sharing your work there. You can engineer community traffic to an extent by sharing your writing on Reddit and in other communities. 
+- **Evergreen Traffic**
+    - Every article you write should have some evergreen value.
+    - If you can write an evergreen article that performs well in SEO (shows up in the first few results), then you'll keep getting traffic for a long time.
+- **Audience Traffic**
+    - Audience traffic is people reading your content because you wrote it. This is the most valuable form of traffic by far and is the ultimate goal of a personal site. Audience traffic is also how you monetize your site.
+    - To get audience traffic, you need a way for people to get regular updates on whatever you're doing. The best way to do that is through one social media platform and an email newsletter.

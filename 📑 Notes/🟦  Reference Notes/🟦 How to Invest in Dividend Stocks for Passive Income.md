@@ -1,0 +1,39 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Investing]] [[wealth-accumulation]]
+- **Source:**  https://www.youtube.com/watch?v=tYfuEF9IYuA
+- **Author:** [[Nate O'Brien]] 
+- **Project(s):** 
+- **Summary:** 
+- **Highlights:**
+    - How to earn passive income by investing in dividend stocks - Dividend Investing
+    - Earn extra cash on a monthly basis
+    - Two ways to create passive income:
+        - Time upfront - You invest time in order to reap the rewards later. Turn time into repeat money
+        - Money upfront - You invest money. Turn money into repeat money
+    - Don't have to start with a lot
+    - Dividend:
+        - A payment the company gives you for owning some of their stock
+        - Will get paid monthly, quarterly, or annually
+        - Paid out in cash
+    - Why companies pay dividends:
+        - Some companies do and some dont (Pepsi v Amazon)
+        - Companies that reinvest the money back into the company wont pay out dividends
+        - Companies that are more established; they want to attract more/new investors
+    - Example:
+        - Pepsi Co (PEP) - As of Jun 14, 2019
+        - $132.85 per share
+        - 2.98% dividend, paid quarterly
+        - That works out to ~$3.82 per share
+        - Per share, it's not a lot. But, if you accumulate a lot of shares over time, then you can earn a lot of passive income
+    - What to look at:
+        - Payout Ratio - dividends as a percentage of earnings
+            - A high number is bad. Means they may not be able to sustain those dividends
+        - Dividend History - what is the history of their payments
+        - Look at dividend rate to growth rate
+            - 6% dividend to 4% growth rate
+            - 4% dividend to 6% growth rate
+        - Price to Earnings Ratio
+        - Earnings Per Share
+    - A lot of dividend payments are seen at long-term capital gains (Check with accountant on this)
+    - Think long term - accumulating a lot of shares in dividend paying stocks
+    - Reinvest dividends until you've accumulated enough stocks
+    - Can also use the the Vanguard dividend ETF

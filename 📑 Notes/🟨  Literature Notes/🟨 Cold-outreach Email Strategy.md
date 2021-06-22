@@ -1,0 +1,13 @@
+- **Type:** #[[🟨 Permanent Note]] | #Sales
+- **Sources:** [[🟦 The cold outreach lead gen script that's made me over 300k]]
+- **Notes:**
+    - This cold outreach strategy lead to over 300k in sales for the author.
+    - Steps:
+        - 1. Open your email with a comment on something the recipient is involved in: news about their company or side project. 
+        - 2. Establish your credibility and explain the benefits you offer in one sentence
+        - 3. "Do you have time for a quick discussion this week?"
+    - You want to send this message to them from multiple angles: LinkedIn, email, etc
+    - Keep following up with them through these channels each day with a new message until they respond.
+    - Some other tips:
+        - Try the value-added brag: give a detailed description of a project you completed for another client and the tangible results of that project
+        - Play on their fears and jealousy: Think of something you can offer them that could give them a leg-up on their competitor. How could they pull users from their competitor?

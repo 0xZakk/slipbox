@@ -1,0 +1,29 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #[[AWS AppSync]] #[[AWS Amplify]]
+- **Source:** https://theburningmonk.thinkific.com/
+- **Chapter 1: AppSync 101L**
+    - **What is GraphQL**
+        - Query Language for your APIs
+        - Runtime that can take query and fulfill it with your data
+    - **What is AppSync**
+        - Managed AWS GraphQL Service, replaces GraphQL server
+        - Supports 5 data sources:
+            - HTTP request (ie for a REST API)
+            - Dynamo DB
+            - RDS (Relational Database Service)
+            - ElasticSearch
+            - Lambda - catch all, write a function that connects to any other service
+        - $4.00 per million Query/Mutations
+        - Built-in caching support, mo
+        - Monitoring, logging (CloudWatch logs), and debugging (X-ray)
+        - Integrates with Web Application Firewall
+        - Websockets through subscriptions
+- **Chapter 4: Building an AppSync Backend (Part 1)**
+    - **Designing the GraphQL Schema**
+        - Ever schema has to have the following:
+Where `Query` and mutations are `type`s
+        - 
+        - schema {
+            - query: Query
+            - mutation: Mutation
+        - }
+        - 

@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]] p38-47
+- What's powerful about the Slipbox is that it is a simple system, where as most note-taking systems are complicated.
+- Most note-taking systems have you categorize notes, which quickly becomes difficult. How do you decide on whether a note fits into one category if it could reasonably belong in multiple? Do you duplicate the note? Do you only place it under a single category? With the Slipbox, the question is no longer "How should I categorize this note." Instead, the question is, "In what context would I like to find this note in the future?"  Additionally, every note follows the same standardized format making them easier to create and easier to work with.
+- The __value__ of working with a simple system is that it frees up our limited brain capacity to do the important part (the thinking) while deferring the less important part (the storage) to tools more aptly suited for that task (ie your computer).

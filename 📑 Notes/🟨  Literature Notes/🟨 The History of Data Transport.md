@@ -1,0 +1,13 @@
+- **Type:** #[[🟨 Permanent Note]] | #GraphQL #Software
+- **Sources:** [[🟦 Learning GraphQL]]
+- **Project(s):** 
+- **Notes:**
+    - Data transport is all about passing data back and forth between the client and the server (two computers). One computer requests something from another and expects a response.
+    - **Remote Procedure Call**
+    - RPC was invented in the 1960s. 
+    - The requesting computer sent a message to a remote computer, asking it to do something. The remote computer would send a response to the client.
+    - **Simple Object Access Protocol**
+    - Microsoft created SOAP in the late 1990s.
+    - Soap encoded messages in XML and transported them over HTTP. It used a type system too and is the protocol that introduced the concept of resource-oriented data calls.
+    - **Representational State Transfer**
+    - REST implemented a resource-oriented approach (like SOAP). Users would make structured requests over HTTP using specific verbs to perform certain actions (GET, PUT, POST, DELETE, etc)

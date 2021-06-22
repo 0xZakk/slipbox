@@ -1,0 +1,13 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | < context tags >
+- **Source:**  twitter
+- **Author:** @yawyr_vk on Twitter
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - On silence: 
+    - https://t.co/GsaOCqqWD5 
+    - https://t.co/fnwDCyhj9o 
+    - https://t.co/L3FTODWkVG 
+    - https://t.co/WD0qUUsV08 
+    - https://t.co/MQ68BRo4Do 
+    - https://t.co/OuWYe3rIA6 
+    - https://t.co/rFtzIIEyJx 

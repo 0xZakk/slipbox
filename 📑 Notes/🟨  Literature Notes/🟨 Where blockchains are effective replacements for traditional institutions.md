@@ -1,0 +1,6 @@
+- **Type:** #[[🟨 Permanent Note]] | #Blockchain
+- **Sources:** [[🟦 The Truth Machine]]
+- **Notes:**
+    - We have traditionally relied on third-party institutions (government and private) to keep track of our social interactions. But the digital revolution has brought us to a place where the incentive to lie or cheat is too high for our traditional institutions.
+    - This is where blockchain-based institutions shine.
+    - Rather than trust traditional third-party institutions to keep a valid record of transactions or events, they can be recorded to a decentralized network of ledgers that's virtually impossible to hack or modify. This record of transactions is visible to all, so it's verifiable by all. And it's not controlled by a centralized authority, so it can't be manipulated by one.

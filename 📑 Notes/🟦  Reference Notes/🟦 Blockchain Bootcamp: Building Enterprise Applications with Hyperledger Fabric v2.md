@@ -1,0 +1,6 @@
+- **Type:** #[[🟦 Reference Note]] | #Blockchain #[[Hyperledger]] #[[Hyperledger Fabric]]
+- **Source:** https://www.youtube.com/watch?v=q05Q0gNj3H8 
+- **Author:** [[Chainstack]] 
+- **Summary:** 
+- **Highlights:**
+    - 

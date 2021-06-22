@@ -1,0 +1,10 @@
+- **Type:** #[[__ 📦 Projects]] [[🌱 Seed]]
+- **Summary:** Article on how to set New Years Resolutions
+- **Related Notes and Sources:**
+    - 
+- **Notes:**
+    - Did you know that trees talk to each other? They defend each other from attacking pests and will pool their nutrients to help nurture a family member who needs some additional support to grow. They're incredible and, while I would encourage you to consider planting actual trees, in this case the tree is a metaphor.
+    - If you're reading this, then it's probably late December or early January and you feel forced to set a New Years resolution
+    - Focus on who you're becoming, who you're growing in to
+    - A S.M.A.R.T. goal you might set is to run 10 miles every week. If you break it up over the course of a couple of days, this shouldn't be too challenging (2 miles a day, 5 days a week). But why do you want to run? Do you enjoy running? A better question is do you want to be a runner? or do you want to be active? These are character traits - they're ways you could describe yourself. Most likely, you want to be active or be healthy, so why not "set the goal" (plant the tree) of becoming someone who is active?
+    - An active person doesn't go for a long run every day. If an active person gets injured running, they could take time off from running and swim while they recuperate.

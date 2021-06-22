@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Focus]] [[Attention]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- Writing can be broken up into different kinds of tasks, each of which requires a different kind of attention.
+- **Proofreading** When proofreading, we should read critically. Our goal is to spot errors so that they can be fixed, so our attention has to be distanced from the written work.
+- **Outlining** We consider the entire piece when outlining, so our attention has to be focused on a higher level.  
+- **Reading** We don't want to read every text in the same way. Reading in general requires a different kind of focus, but individual texts may also require their own form of attention too

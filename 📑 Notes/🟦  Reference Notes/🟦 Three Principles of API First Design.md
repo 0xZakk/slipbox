@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API
+- **Source:** https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

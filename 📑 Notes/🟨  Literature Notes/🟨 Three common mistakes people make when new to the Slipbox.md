@@ -1,0 +1,6 @@
+- **Type:** [[__ 🟨 Literature Note]] | [[Slipbox]]
+- **Source:**  [[🟦 How to Take Smart Notes]]
+- There are three common mistakes that a lot of newcomers make when they start working with a Slipbox.
+- The first mistake is to treat every note as a permanent note. People who do this write everything down and add everything to their Slipbox. While this seems like it'd be a good idea, because you'd be accumulating a lot of notes, it actually becomes counterproductive. All the quality notes that can be used for projects get lost among all the meaningless notes and the overall body of your notes gets diluted.
+- The second mistake is to only collecting notes for very specific projects. [[Ryan Holiday]] does this and at first it makes sense: decide on your project and then start collecting notes on things that help you with that project. There are two drawbacks to this approach though. The first is that you have to start each new project completely from scratch and the second is that you aren't ever able to build up promising sub-collections of notes that can later become new projects.
+- The third mistake is treating every note as if it is a fleeting note. This builds up a messy pile of unorganized and unprocessed notes. The chaos of this will drive you to want to start over from scratch.

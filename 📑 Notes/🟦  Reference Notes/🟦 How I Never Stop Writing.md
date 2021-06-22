@@ -1,0 +1,29 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]]
+- **Source:** https://www.youtube.com/watch?v=Nnp9V7iLgGo&list=WL&index=2 
+- **Author:** [[Nat Eliason]] 
+- **Summary:** 
+- **Highlights:**
+    - Nat has published over 700 pieces of writing over the last 6 year
+    - He doesn't follow an editorial calendar or set aside time each week to write
+    - Instead, he has the writing itch
+    - **Developing the Writing Itch**
+        - When you are first getting started with writing, sitting down to actually write probably feels like a chore
+        - There are a few things you can do to get over the initial hump and develop the writing itch
+    - **Building an Endless Topic List**
+        - Coming up with new ideas is easier if we add constraints
+        - Open up a new document and write down 5-10 topic areas that you'd like to write about - these are the constraints we're going to place on ourselves
+        - Set a timer for 3 minutes and during that time, only let yourself think of article ideas for one of the topic areas. Try to come up with as many ideas as possible and don't worry about filtering these ideas. Repeat this for every topic area.
+        - This should only take 15-30 minutes, but you should be able to generate 50-100 ideas
+    - **Publish 5 Rough Articles**
+        - Take your idea list and publish 50 of the articles on that list
+        - Take a year to do this if you have to
+        - The point is to publish as many articles as you can and to get into the habit of writing and publishing
+        - The pot study
+    - **Work on Multiple Articles at Once**
+        - You want to find ways to make writing more enjoyable and one way to do that is to work on multiple articles at once
+        - Then on any given day you can pick the article that resonates with you
+        - The goal is to never stop writing
+        - The most common reason to stop writing is because you're bored of a particle article.
+    - **Test Ideas Publicly**
+        - i.e. post ideas on twitter and see how people respond to them
+        - You'll be able to get a good conversation going around the topic

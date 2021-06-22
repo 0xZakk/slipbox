@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Reading]]
+- **Source:**  pocket
+- **Author:** Nat Eliason
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Which necessarily leads to a philosophical shift in your perception of time. There’s nothing you don’t have time for. There are only things you don’t allocate time for. Elon Musk is CEO of two companies at once. He has the same 24 hours in his day. He just allocates them differently. 
+    - You can never find time. You can only allocate time. And your allocation of time will determine how close you come to hitting any big goal you have. 

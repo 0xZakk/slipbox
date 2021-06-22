@@ -1,0 +1,36 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Author:** [[Monica Lent]]
+- **Project(s):** 
+- **Summary:** 
+- **Highlights:**
+    - It's Day 4, and by now, you should have the following pieces of the blog post puzzle:
+        - A **main keyword** you want to write about
+        - A list of **tail keywords and topics** to include for a complete post
+        - A list of **external sites** you can link to
+        - An **outline of your post** with headlines and subheadlines
+        - A couple of **ideas for your headline**
+    - These are my top 8 tips for writing content that holds people's attention online:
+        - **1. Headline is king**
+            - But headlines are also important for promoting content on social media: **You might have awesome content inside, but if your headline sucks, no one is gonna see it.**
+            - **My Number 1 Tip: Always come up with MULTIPLE VERSIONS of your headline before you choose one! **It's worth it to get it right. It is a __game-changer__.
+        - **2. Make your post easier to scan with varied formatting**
+            - I know that blog post might feel like your __magnum opus__, but tragically, if you publish it online, no one is going to read every word.
+            - **The Internet __skims.__**
+            - **Try techniques like:** Call-out boxes for important points and take-aways, shorter sentences and paragraphs, lists and summarizes (think: TLDR), plenty of headlines and sub-headlines, and bolding key phrases.
+        - **3. Shorten the intro (and the whole post)**
+            - Get to the good stuff, faster. Establish the answer to "Why should I care?" at the beginning and then dive into the valuable content people clicked-through for.
+        - **4. Internal cliff-hangers**
+            - A cliff-hanger works like that: it's a short, standalone sentence that surprises people or draws them to read the next sentence or paragraph for an explanation. Used sparingly, you can create suspense as you tell your story. Used excessively, it can get annoying.
+        - **5. Make it relatable**
+            - This is the number one thing I've learned about developers, especially from conference speaking:
+            - **Developers love relatable content. __Especially__ if it involves one of the unique forms of misery that all developers share.**
+            - You don't need to go overboard or make it "your thing" that you're constantly complaining about a job you theoretically like doing.
+            - But a bit of relatability, vulnerability, and being open can go a long way with establishing trust. **You don't need to "perfect" in the eyes of your readers.**
+        - **6. Use humor**
+            - **Great content entertains, educates, and inspires. **Humor is a big part of that. But you don't have to be "traditionally funny" to make people laugh.
+        - **7. Be specific**
+            - One of the big blogging mistakes I see is blog posts filled with generalizations without any stories to back it up.
+            - Avoid writing about hypotheticals and talking about "some people". Find a balance between sharing your story and specific experience and bringing value to your reader in an actionable format.
+        - **8. End with a call-to-action**
+            - My last tip, but one of the most important.
+            - **End your blog posts with a call-to-action! **Don't just leave them hanging wondering, "What's next?" or they'll just close the browser tab. You can ask them to follow you on twitter, share your post, or even leave a comment.

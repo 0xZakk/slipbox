@@ -1,0 +1,4 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #[[masculinity]]
+- **Author:** [[Ryan Michler]]
+- **Notes:**
+    - 

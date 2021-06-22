@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]]
+- **Source:**  instapaper
+- **Author:** Taylor Pearson
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Over the course of our lifetimes, the size of multinational businesses will approach that of small, local businesses. 

@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Arrays and Slices in Go]]
+- **Source:** [[🟦 Go In Action (Preview)]]
+- Arrays and slices are both powerful parts of Go. While they are very similar, there are a few key differences:
+    - **Arrays are of a fixed length while the length of a Slice can be increased and decreased dynamically.** When you create an array, you either provide it's length (ie `a := [3]string{"one", "two", "three"}`) or let the Go compiler determine it's length for you (ie `a := [...]string{"one", "two", "three"}`). However you determine the length, once it is set, you cannot change it. Slices can increase and decrease in length dynamically as you add or remove items.
+    - **Arrays are passed by value while Slices are passed by reference.** When you pass a Slice into a function, you pass the memory address. This means that changes you make to a Slice within a function affect the original Slice outside of the function. It also means that Go does not need to make a copy of the Slice (making it faster).

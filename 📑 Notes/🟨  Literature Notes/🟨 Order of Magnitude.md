@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] | #[[Big-O Notation]]
+- **Source:** [[🟦  Algorithms and Data Structures in Action]]
+- In addition to [[🟨 The RAM Model]], we need a way of comparing two algorithms based not just on the number of steps for each algorithm, but the number of steps for a given number of inputs. This is the foundation of big-O notation.

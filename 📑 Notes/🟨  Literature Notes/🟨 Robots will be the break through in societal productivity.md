@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Society]]
+- **Source:** [[🟦 We Really Should Be in The middle of a golden age of productivity]]
+- Given the incredible gains in technology, Western society should be a lot more productive than it is. See [[🟨 Western Society should be a lot more productive]]
+- While there are theories for why ([[🟨 Theories for why modern society isn't more productive]]), perhaps the issue is in how we interface with these increases in productivity
+- Where something can be done completely on a computer, productivity is 100x; where something has to translate from digital to analog, productivity is still relatively low. So maybe humans implementing digital products is the bottleneck.
+- If that is the case, then robots will be what unleashes the huge advances in productivity

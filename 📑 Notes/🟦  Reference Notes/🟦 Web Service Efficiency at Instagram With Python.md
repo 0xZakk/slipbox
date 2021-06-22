@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Python]]
+- **Source:**  pocket
+- **Author:** Instagram Engineering
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - our philosophy of “do the simple thing first.” 

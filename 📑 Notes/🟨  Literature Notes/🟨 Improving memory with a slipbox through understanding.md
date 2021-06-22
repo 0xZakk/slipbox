@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Memory]] [[Learning]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- The slipbox is a great way to externalize our memory out of our brain, but it also has the advantage of helping us remember information. We are better at remembering things we understand and have connected to other pieces of knowledge, which is a natural part of working with the slipbox.
+- When we go to add information to the slipbox, we have to filter it, add context to it, and wrestle with our understanding of it. 

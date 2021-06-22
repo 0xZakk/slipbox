@@ -1,0 +1,6 @@
+- **Type:** #[[🟨 Literature Note]] #[[📥 Inbox]] | #Twitter
+- **Source:** [[🟦 A video walkthrough of how to cleverly use Twitter]]
+- Instead of following people on Twitter, or even reading tweets in the main Twitter interface, [[Julian Shapiro]] ^^**uses TweetDeck**^^.
+- **If he finds someone interesting he wants to follow, he** ^^**ads them to a curated list**^^. This lets him see only tweets he's actually interested and to ^^**view Twitter in a structured way.**^^
+- **His first list is of people who typically say interesting things.** It's filtered for tweets that have a lot of activity (likes and retweets), so he knows that list will probably have lots of interesting things in it at any given time.
+- He also uses it for managing his own tweeting. He has one list of all the tweets he has published recently. He has another list that searches for keywords for everything he's working on.

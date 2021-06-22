@@ -1,0 +1,11 @@
+- **Type:** #[[🟨 Permanent Note]]  | #GraphQL #REST
+- **Sources:** [[🟦 Learning GraphQL]]
+- **Project(s):** 
+- **Notes:**
+    - Despite the influence of REST, it does have some drawbacks. GraphQL is meant as a resolution to those drawbacks.
+    - **Overfetching**
+    - The first drawback of REST is that the response objects tend to be really large, exceeding the client's needs. It's very common to make a request to an endpoint for only a couple pieces of data, but get a lot of data back.
+    - **Underfetching**
+    - In addition to overfetching, REST also suffers from under fetching (at the same time). That's because REST doesn't give us related objects or let us easily query for additional data. We often have to make one request to get an object, then use the data in that request to make multiple more requests, before we finally have all the data we need.
+    - **Managing REST Endpoints**
+    - Another limitation of REST is the lack of flexibility. As the client application gets more and more complex, it's common to just create new endpoints. Endpoints tend to multiple quickly and you end up with multiple endpoints that return similar data. 

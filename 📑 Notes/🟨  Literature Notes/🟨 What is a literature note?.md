@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes | Zettelkasten Method in Roam Research]]
+- Literature notes are things you don't want to forget or notes that you may want to use later in your writing
+- There are two rules to taking literature notes. First, your literature notes should be brief. This forces you to be selective in what you take notes on. Second, your literature notes have to be in your own words. You are not allowed to quote!
+- Rewriting your notes in your own words forces you to really understand what you're reading, which is ultimately what you want. By quoting, you don't get the benefit of taking literature notes, which is to learn and understand.

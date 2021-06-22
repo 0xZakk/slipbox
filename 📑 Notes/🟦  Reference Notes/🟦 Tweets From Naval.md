@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Mindset]]
+- **Source:**  twitter
+- **Author:** @naval on Twitter
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Changing your interpretation of your past is often just as good as changing your past. https://t.co/0bz7q00Lh8 

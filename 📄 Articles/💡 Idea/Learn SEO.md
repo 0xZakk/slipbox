@@ -1,0 +1,4 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Learn about SEO and how SEO Works
+- **Related Notes and Sources:**
+    - 

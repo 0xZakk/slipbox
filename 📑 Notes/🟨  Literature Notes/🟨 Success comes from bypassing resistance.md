@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Success]]
+- **Source:** [[🟦 How to Take Smart Notes]] p.16-17
+- There are many studies that have shown that successful people are able to achieve great results by avoiding resistance in the first place, rather than overcoming resistance through willpower or self-discipline.
+- Rather than brute force you way through resistance, you should seek to remove the need to fight resistance entirely from your workflow. Your workflow and the tools you use are essential for making this possible. 

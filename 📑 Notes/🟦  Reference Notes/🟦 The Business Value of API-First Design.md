@@ -1,0 +1,9 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #API 
+- **Source:** https://auth0.com/blog/the-business-value-of-api-first-design/#Success-Stories-of-API-First-Companies
+- **Author:** 
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

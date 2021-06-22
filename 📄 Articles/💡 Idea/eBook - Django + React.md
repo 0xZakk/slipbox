@@ -1,0 +1,19 @@
+- **Type:** #[[__ 📦 Projects]] [[🌱 Seed]]
+- **Summary:** eBook on building an application from start to finish with Django and React
+- **Stack:**
+    - Django
+    - Poetry
+    - Graphene
+    - React (create-react-app)
+    - Apollo
+- **Related Notes and Sources:**
+    - 
+- **Outline:**
+    - **Introduction**
+    - **Project Setup**
+    - **Authentication**
+        - It's a lot easier to do authentication first in Django than to try and add it on later
+        - This will also be one of the most challenging parts of the application, so it's good to get it out of the way from the beginning
+    - **Authorization**
+    - **Background jobs with Celery**
+    - **File Upload**

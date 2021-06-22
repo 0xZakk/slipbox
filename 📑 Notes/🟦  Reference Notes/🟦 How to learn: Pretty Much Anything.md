@@ -1,0 +1,51 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Learning
+- **Source:** https://www.youtube.com/watch?v=Z2N5a7XZWg8&ab_channel=MattiasPilhede
+- **Author:** [[Mattias Pilhede]]
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - We all want to learn new things, but we often lack the motivation do do so
+    - How should you learn something new?
+    - Ch 1: Procrastination
+        - You want to learn something new, but your brain doesn't want to
+        - Learning something new stresses your brain (like building your muscle)
+        - The best solution is to just start doing it
+        - You'll tell yourself that you need to be in the right mood, but just move past that by getting started
+        - Overtime, it'll get easier to get started
+        - At some point, you'll get distracted by a quick dopamine hit. You'll need to bring yourself
+    - Ch 2: How to remember what you learn
+        - Your brain is made up of neurons and these neurons are connected to other neurons through synapses. Together, these create a web of connections that map what you know. Learning is the process of creating and connecting neurons.
+        - You brain has billions of these neurons, so you wont run out. There isn't a limit to what you can learn, but there is a limit to the throughput (how much you can stress your brain and create new connections). So you have to give your brain rest.
+        - Learning is repetition over time
+        - Your brain is really good at remembering things, but it only remembers things that are important
+        - Sleep is extremely important in this process. It cleans your synapses in addition to helping you form new ones
+        - Exercise and social contact also helps with this
+    - Ch 3: You have to do everything yourself
+        - Your brain has two modes of operating:
+            - Focused mode
+                - Brain is focused on a single task
+                - Concentration and building new connections
+                - Requires no distractions so your brain can focus
+            - Diffused mode
+                - Brain is free to wander
+                - Not so much learning something new, but more reinforcing what you learned in Focused mode
+        - You aren't completely left or right brained - you shift back and forth between these
+        - You will have to do it yourself - you can't learn to paint by watching someone else paint, you have to pick up a paintbrush and do it yourself
+        - Learning is about doing and building synapses
+    - Ch 4: It gets tough and that's how it gets easier
+        - Learning something different is hard because you don't have anything to relate to it
+        - You have to push through learning something until it becomes familiar to you and isn't so abstract
+        - Learning to draw an eye is hard, but you can think of an eye as a marble with some cloth over it
+        - The important thing is to get across the major idea and don't get lost in the details
+            - Then you'll have something that is relatable
+        - 
+    - Ch 5: You still have to do a lot of studying
+        - You have to test yourself and make it important to you
+        - Try to recall and see what you learn. When you realize you don't know something as well, review it before testing yourself again
+        - You have to set aside time for deliberate practice so that you don't become over-dependent on your intuition
+        - Mix things up so that your brain is able to shift focus and do this over time so that the things you want to learn are reinforced
+    - Ch 6: Everything is about the process
+        - It's normal to procrastinate because things that are new to us are challenging. Focus on what you can learn right now and find a way to make it fun.
+        - It all comes back to taking the initiative and getting started.

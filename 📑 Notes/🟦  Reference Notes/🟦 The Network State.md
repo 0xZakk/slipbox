@@ -1,0 +1,30 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Sovereignty #[[🟪 Sovereign Tribes]]
+- **Source:** https://1729.com/book/
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - ### Abstract
+        - Technology has allowed us to start new companies, new communities, and new currencies. But can we use it to create new cities, or even new countries?
+        - In part one of this manuscript we introduce the concept of the network state: a city-state in the cloud, a country you can start from your computer, a body based on math rather than science, a group organized by geodesic rather than geographic distance, a community that prizes exit above voice, a state that recruits like a startup, a nation built from the internet rather than disrupted by it.
+        - In part two we provide a roadmap for how to build the first network state, an open source project we call 1729, which starts with a virtual university, bootstraps a digital economy, and can be forked to create new opt-in polities.
+    - ### Foundations
+        - 1729 is the first Network State, just like Bitcoin was the first cryptocurrency.
+        - the concept of a network state is a general concept, while 1729 is a specific instantiation of that general concept.
+        - If you're a software engineer, you're familiar with this idea. A network state is a class and 1729 is an [instance](https://stackoverflow.com/a/19482299) of that class. Certain aspects of 1729 are shared by all network states, while others are specific to 1729.
+        - But here's our first shot at outlining the general foundations of Network States, and then the specific philosophical foundations of 1729 itself.
+    - ### Foundations of the Network State
+        - Leviathan - [God, State, Network](https://book.1729.com/god-state-network/)
+        - Alignment - [Inheritance, Incentives, Ideology](https://book.1729.com/inheritance-incentives-ideology/)
+        - Legitimacy - [Founding vs Inheriting](https://book.1729.com/founding-vs-inheriting/)
+        - Structure - [Social Trees and Network Unions](https://book.1729.com/social-trees-and-network-unions/)
+    - ### Foundations of 1729
+        - Purpose - [Infinite Frontier, Immutable Money, Eternal Life](https://book.1729.com/infinite-frontier-immutable-money-eternal-life/)
+        - Creed - [All Must Become Excellent](https://book.1729.com/all-must-become-excellent/)
+    - ### Apply
+        - New chapters will be released online twice-per-week according to the schedule below, followed by meetings in [VR](https://vr.1729.com/) to coordinate development. That is: our goal is not merely to describe what a network state looks like but to actually build the first one, an open source project we're calling 1729. If you are interested in joining us, please apply to become a 1729 contributor [here](https://1729.com/apply).
+    - ### Audience
+        - Our text is aimed at an international audience of people who are technically and scientifically literate. We try not to overcomplicate things, but we won't dumb them down either.
+        - Just a few years ago it was considered impossible to start a new global currency. Now anyone can do it from a laptop. We are looking for the kinds of people who are interested in extending the ideas behind cryptocurrencies to cryptocountries.
+        - Our goal is not merely to describe what a network state looks like but to actually build the first one, an open source project we're calling 1729.

@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Writing]] [[Building an Audience Online]]
+- **Source:** [[🟦 I Listened to @David_per...]]
+- Writing online is an effective way of building an audience by creating value, developing authority, and communicating openly
+- Doing this consistently over a period of time will create writer-audience fit

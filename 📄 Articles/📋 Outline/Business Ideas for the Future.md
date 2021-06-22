@@ -1,0 +1,166 @@
+# Business Ideas for the Future
+
+## Meta Data
+
+[[__ 📦 Projects]]
+[[📋 Outline]]
+
+## Summary:
+
+- [[🟦 I've Spoken to 1,500+ Pe...]]
+- [[🟨 Chris Herd's predictions for the next decade of remote work]]
+- [[Chris Herd]]	
+- 
+## Notes:
+
+## Outline
+
+- "**Rural Living:** Smart, talented, and skilled people will move to smaller cities looking for a lower cost of living and a higher quality of life."
+    - Who will benefit?
+        - Relocation Agency 2020
+            - Imagine an agency where I or my family can meet with someone like a travel agent to talk about the costs, benefits, and trade-offs of different communities
+            - This agency could collect the incentives that different cities, states, and countries are offering, information on schools and school districts, neighborhoods, real estate, etc
+            - The agency could also then help me and my family make the move
+                - Coordinate moving services
+                - Applying for and working on visas if applicable
+                - Coordinating a house hunt
+                - etc
+        - If there's a gold rush of __municipal and state governments trying to attract highly paid millennials__, what shovels and pick axes do they need? 
+            - Local governments will want to attract people who can work remotely to their city or town
+            - Co-working space as a service:
+                - Come in and set up small- to medium-sized co-working spaces for small towns and cities
+            - Marketing towns: agency that specializes in marketing towns to people
+        - Internet Service Providers focused on small cities.
+            - They're relatively unattended to by the larger companies and most small regions like this have their own.
+            - Opportunity exists to buy up and consolidate these and achieve economies of scale, but by focused on smaller communities
+        - Hybrid or online schools.
+            - The best teachers are also concentrated in cities. It seems more likely that private companies will develop using a hybrid model of teaching. Or towns could provide a "school" where students are attending their own schools online
+            - Schools would become more like libraries. You would have people who work there for the city/town that attend to the kids learning there. Students have their own computers or iPads and attend their own school online
+        - Small farms and the food industry.
+            - Shipping food to large cities is a lot easier than shipping to a ton of smaller towns and communities. Small farms and food producers near the cities will likely benefit from this.
+            - Interestingly, could be a return to geographic monopolies, like we used to have with news papers
+        - Music industry
+            - Right now, managers and venues book concerts in cities that make up a whole tour. However, this is based on the fact that a band can make up a profitable tour with 20-30 stops, mostly of mid- to large-sized cities.
+            - If the population is more evenly distributed around smaller cities, that number could climb to 50-75 stops, causing a huge shift in how tours are booked and concerts are put on
+            - It could be that venues become more like rented spaces (like the conference rooms at co-working spaces) that can be booked online
+            - More of the marketing could shift to the band and manager who would need to become more audience savvy
+            - Auto-generate the tour based on dynamic pricing and demand
+                - A band announces a tour and people bid for how much they'll pay and how far they'll travel and then some software generates the tour automatically
+        - Travel
+            - There are really two kinds of airports: major international airports near large cities and then small, mostly domestic airports
+            - If people are moving to mostly small- and mid-sized cities, then those airports will likely need to expand in size while your JFKs will need to adapt somehow
+            - You could end up with a system where it's more common to go from Charlottesville to JFK to Paris (ie multiple stops, kind of like we have now but with more traffic) OR smaller airports could adapt so that you can just go direct from Charlottesville to Paris
+            - This means that the model for smaller airports becomes different
+            - Also means that airlines and air plane companies (ie Boeing) will have to shift their model
+            - Could be an opening for something like a Tesla for airplanes - focused on smaller, fuel-efficient, affordable airplanes 
+        - Remote working hobby site
+            - People may start to treat their home office and work from home setups the way hobby car owners treat their cars or hobby musicians treat their gear
+            - There will be a large group of people who invest a lot of money into work from home gear
+                - Nice desks, good monitors, interesting design or ornamentation
+            - Offer setup packages - buy this big box of stuff and we'll ship it to you and it's like work-from-home-office-in-a-box
+            - Offer really niche gear - a monitor switcher/activator: like a keypad that lets you turn on and activate different monitors
+            - 
+- "**Asynchronous Work:** Offices are currently built around a synchronous mode of work, but will migrate to an asynchronous form"
+    - I actually think there won't be that much innovation here, as these tools already exist
+    - Many of the remote working startups that exist today are trying to take in-personal collaborative work and replicate it remotely and synchronously (i.e. Miro and standing around a white board)
+    - Rather than new tools developing, I think existing tools that allow for asynchronous work will become more common
+    - Rather than something like Miro and Figma, you'll see something like Sketch and Adobe XD paired with something like Twist and Dropbox Paper
+    - What may be more likely is that more tools will need ways to accommodate asynchronous collaboration (something like git for everything - version control and branching and merging)
+        - This could become a competitive advantage for new SaaS products
+    - I honestly think email and wiki-style documentation will reign supreme here and that a lot of the companies trying to make remove, synchronous collaboration happen will just die out
+- "**Hobby Renaissance:** Remote work will give people time to invest in hobbies and activities and connect them to their local community"
+    - I think the business here will be in online schools and something akin to YouTube channels for every hobby
+    - We're already seeing this this to a large extent
+        - X number of major gardening channels on YouTube
+        - Y number of major channels around Z thing
+    - I think this will become even more common
+    - Hobbyist websites and companies
+        - Niche marketplaces that sell and distribute things to support particular hobbies
+        - Also "promote the lifestyle of hobbies"
+    - Something that cities can offer is space for hobbies
+        - i.e. a communal wood working workshop as part of the community for people who are really into wood working (or metal working, or anything that requires space and expensive equipment)
+        - Private companies could develop around this - sort of like a gym, but instead of a bunch of exercise equipment, you have woodworking equipment, or practice space for instruments
+- "**Diversity & Inclusion:** Talent will compete globally, leading to the most diverse and inclusive teams in history"
+    - Remote Team Setup
+        - If your startup is distributed by default, you can have founders in large markets (i.e. US, EU, China, India, Brazil, etc) and employees in cheap markets (i.e. Ukraine)
+        - There could be a company for someone with connections in these cheaper markets to place developers in roles with global companies
+    - Software/design agency with distributed structure
+        - Designers and developers in the US and EU take on more of a sales role where they:
+            - Managing the project with the client. The designer and developer should be the ones interfacing directly with the client 
+            - Setting the direction with the doers of the work
+    - Global talent agencies
+        - Reminds me of [[🟦 Let the Other 95% of Great Programmers In]]
+    - International benefits
+    - Easy ways to pay across borders and banking systems
+    - International hiring and managing
+        - Something like And.Co and these other companies that exist to help small business managing hiring, benefits, taxes etc
+        - They'll need to work internationally, especially along these lines:
+            - International Benefits
+                - How do you provide health insurance in multiple countries? (when you need to)
+                - How do you pay your staff when they're distributed across multiple currencies and banking systems?
+                - How do you hire and manage staff across multiple different kinds of employment laws
+    - Infrastructure and Talent races
+        - Developing countries will have to race to develop infrastructure and talent to compete globally
+        - Developed countries will have to do something to compete as increased supply pushes wages down
+- "**Output Focus:** Rather than an emphasis on time spent working, performance will be based on output"
+    - Roles will shift to be more sales-y
+    - Leverage will become the most important skill
+        - When you're performance is measured by your output, the people who can dramatically increase their output without changing their inputs will be the most rewarded
+- "**Private Equity:** There will be a lot of money made by purchasing companies and shifting them to remote-first"
+    - If I could do this once, then I could turn around and start a fund that does this at a larger scale
+        - Start by buying nclud, building it up following this method and then turning around and starting a private equity firm that does this for more software businesses
+        - Could also buy my own company with an SMB loan and try this that way
+    - There will be a lot of money made consulting and advising private equity firms that attempt this
+        - Similar models:
+            - Call-centers
+            - 24 hour Partner model. At White & Case, there was a project that was "lead" by 3 Partners, one in the US, one in Europe, and one in Shanghai. That was there was always at least 1 partner awake and leading the project at all times
+        - Time-zone configuration - find talent in the same time-zone but in a cheaper market (i.e. Chile, Brazil, Columbia, etc)
+            - Easier to set up with lots of cost savings
+        - Multi-zone configuration - find talent in three "day zones". One team works in the US-day zone (i.e. Chile, Brazil, Columbia, etc) and another "night" team works when it's night-time in the US (Japan, China, India, Ukraine, etc)
+            - Harder to set up and coordinate between teams
+            - 24 hours of productivity
+            - Would need 3 teams with 3 managers coordinating together to ensure continuous progress
+- "**Working Too Much:** At first, people will work too much and burn out"
+- "**Remote Retreats:** An industry will develop around leading remote retreats for large companies. They'll have purpose-built destinations that would allow entire companies to fly in for a synchronous week"
+    - Could build a company that organizes and hosts these
+        - Draw from corporate retreats as a model
+        - Retreat center would need:
+            - Multiple working spaces of different sizes. Probably multiple small spaces, some medium-sized spaces, and 1-2 large spaces
+            - Individual sleeping spaces (like dorms, but more comfortable)
+            - Large Eating, lounging area
+            - Nearby attractions
+            - Organized fun (experiences with multiple levels)
+                - Smaller, executive experiences
+                - Lots of fun but affordable cheaper experiences
+            - Easy to reach with international flights
+            - Some kind of cool schtick (A castle in the highlands of Scotland, an oasis in Morocco, a tropical paradise in Mexico)
+- "**Life-Work Balance:** People's priorities will change and shift more towards life over their work. Rather than organizing their life around work, they'll do the opposite (organize work around their life)"
+- "**Bullshit Tasks:** People won't need to pad their day to reach 8 hours. Instead, they'll work on clear tasks and have specific responsibilities"
+    - I think this will increase the use of virtual assistants and other forms of work assistance
+    - More people will outsource parts of their job
+    - Will increase the importance of knowledge work and having significant experience
+    - More people will find work supporting high-performing, high-leverage workers
+- "**Health & Wellbeing:** By not having to commute, workers will have a lot more time to dedicate to their health and well being. "
+    - People probably wont do this. They will have more time, I definitely agree with this. But the incentives on how they use their time wont change, so they'll probably spend it on entertainment (Tik Tok, Netflix, etc)
+    - This means that social and entertainment is likely to get a lot bigger, so there's room for Tik Tok, Snapchat, Netflix, Instagram, Facebook etc to grow. There's also room for new players
+- "**Personal RPA:** No-code tools and robotic process automation will transform how people work, empowering them to automate the drudge work for themselves"
+    - No-code training courses
+    - No-code tools
+    - Consulting/agency companies that implement no-code solutions
+- "**Death of HQ:** Some form of HQ offices will persist, but they'll be rarely used. Instead, people will use co-working spaces and working from home for most of their time"
+- "**Remove Living:** Work from anywhere RVs and RV parks will become a huge business"
+    - RV Park company
+        - Build or buy an RV park aimed at this market.
+        - You'd need good wifi throughout the park
+        - Fun experiences near by
+        - Rent the land under your RV as well as other services (i.e. utilities)
+        - Make it turn key - no human contact needed to check in and register
+    - Affordable RVs
+    - RV financing and sales
+    - Retrofit old/vintage RVs
+- "**Life-work Balance:** More and more people will freelance and work part-time"
+- "**Community Led SaaS:** As the barrier to entry for building a competitive SaaS product continue to lower, the tech won't be the important part - the community will be"
+- "**Remote Visas:** Small nations will offer special visas for people who want to work remotely"
+- "**Meeting Death:** People won't travel to long meetings anymore because the benefits of meeting in-person will erode quickly"
+- "**Personal Choice:** People will have the choice to work remotely"
+- "**Written over Spoken:** Documentation and other forms of written communication will become crucial for the success of any remote team. People who are more likely to succeed in a remote-first world will be great writers"

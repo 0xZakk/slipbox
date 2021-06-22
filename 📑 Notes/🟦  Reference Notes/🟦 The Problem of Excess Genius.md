@@ -1,0 +1,355 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Scenius]]
+- **Source:** https://groups.google.com/g/humanities.philosophy.objectivism/c/Et6esZjljt4
+- **Author:** [[David Banks]] 
+- **Project(s):** [[📦 Book: How to Build a Mafia]]
+- **Summary:** 
+- **Contents:**
+    - The most important question we can ask of historians is "Why are some
+    - periods and places so astonishingly more productive than the rest?" It
+    - is intellectually embarrassing that this is almost never posed
+    - squarely -- I can think of only two articles (Gray, 1958 and 1961) and
+    - two books (Kroeber, 1944 and McClelland, 1961) that tackle this
+    - directly. But Gray is a lunatic, Kroeber waffles vaguely, and
+    - McClelland veers off into a fascinating but incomplete assessment. The
+    - question has never been the focus of professional attention in social
+    - history, although its answer would have thrilling implications for
+    - education, politics, science and art.
+    - The Problem
+    - Geniuses are not scattered uniformly through time and space. Some
+    - cultures have many more than one would expect, even after making
+    - sensible allowance for imperfect records, biased perspectives and such
+    - gross factors as famine, war, and the magnetic effect of libraries and
+    - patronage. Obvious clumps of geniuses occur in
+    - Athens, from about 440 BCE to 380 BCE,
+    - Florence, from about 1440 to 1490,
+    - London, from about 1570 to 1640.
+    - If the reader agrees that these three societies show such a remarkable
+    - excess of creative accomplishment that explanation is demanded, skip
+    - on to section 2. The remainder of this section is just a borderline
+    - pretentious argument to convince rational skeptics that random chance
+    - is an inadequate explanation for the intellectual inhomogeneity that
+    - history records. First, the three cities and times listed above are
+    - not unique -- there are many other accumulations, although these are
+    - particularly conspicuous. One can spend pleasant postprandial hours
+    - noting similar clusters in Weimar, Paris (twice), London (again),
+    - Vienna, Japan (late Heian period), Persia (just before Genghis Khan),
+    - the T'ang dynasty, and New York, at times that I hope most readers can
+    - discern for themselves. My sense is that there is a continuum of
+    - remarkability, from the three stellar cases listed first through the
+    - slightly humbler collections indicated in this paragraph, and the
+    - degree of remarkability shades imperceptibly into average societal
+    - behavior. (There are also major vacuums in intellectual achievement --
+    - the Dark Ages were notoriously weak, and one should recall Orson
+    - Welles' comment that 500 years of Swiss peace produced only the cuckoo
+    - clock.)
+    - But let us focus on the first list. Were general citizens asked to
+    - name famous Athenians, the handful of names produced would come
+    - entirely from the indicated period. Even were an academic
+    - interrogated, the list would surely lean (list?) towards this period
+    - (Euripides, Sophocles, Aeschylus, Aristophanes, Plato, Socrates,
+    - Thucydides, Herodotus, Xenophon, Anaxagoras, Demosthenes, Pericles,
+    - Aspasia, Alcibiades, Praxiteles, Phidias, Protagoras, Aristippus,
+    - Isocrates, Lysias, Lycurgos, Polygnotos, . . .). The suggested dates
+    - are obviously approximate, but I defy anybody to name an Athenian who
+    - amounted to anything that was born after 380 BCE (well, Kazantzakis
+    - will get a footnote, and if anyone were foolish enough to put forward
+    - Pseudo-Dionysius the Areopagite, I remind them that the extant
+    - writings are of Alexandrian origin).
+    - So what happened to the cultural IQ of Athens over the last 23
+    - centuries? The genetics didn't change appreciably (at least until
+    - 1398, when Nicopolis fell to the Turks). Why did such vitality
+    - stagnate?
+    - Florence is almost as compelling. There is an early bump of
+    - productivity with Dante and Boccaccio and Giotto and Cimabue, but it
+    - faded out (perhaps as a subtle consequence of the the Black Plague).
+    - Then came a new lot, with Michelangelo, Leonardo Da Vinci,
+    - Machiavelli, Botticelli, Donatello, Politian, Mirandola, Lorenzo the
+    - Magnificent, and so forth. But before the birth of Cimabue (1240) and
+    - after the death of Galileo (1642), not much happened in the city. How
+    - was it that all its achievements were concentrated into such a
+    - relatively small proportion of its span? The question is particularly
+    - puzzling when one realizes that today, in all of Italy, the standard
+    - of education is higher, the promotion of merit is easier, and the
+    - population is enormously greater; nonetheless, there is no one that
+    - could seriously be compared to Dante or Leonardo or Michelangelo.
+    - Elizabethan London is the third example. Marlowe and Shakespeare and
+    - Jonson and Raleigh and Bacon and Spenser laid the foundation for
+    - English writing, and there are a host of lesser luminaries whose hands
+    - helped. But their momentum ended with the coming of Cromwell (Milton
+    - stands alone). From the close perspective of college courses in the
+    - Restoration and Neoclassical periods, we can name many well-regarded
+    - writers (Dryden, Pope, Wycherly) before the Romantic poets burst
+    - forth, but the central point is that English talent isn't evenly
+    - sprinkled like pepper on potatoes; rather, it clots inhomogeneously.
+    - If these litanies of names have not persuaded the skeptical reader
+    - that geniuses are sometimes superabundant, then a more formal debate
+    - is needed. To pursue that dialogue, I would ask such readers to decide
+    - how they would plan to calculate the numbers of geniuses they'd expect
+    - to see under their models, in order that we may compare their figures
+    - to the historical record. But for me, that smacks of straining at
+    - gnats when there are important camels to swallow.
+    - There is much else one could say. It is interesting to compare the
+    - primary modes in which these societies operated (Athens did plays and
+    - philosophy, Florence did painting and sculpture, London did poetry and
+    - plays), and speculate upon the modern roles of television, performance
+    - art, and rap. Also, scientific progress seems slightly less likely to
+    - concentrate than do the arts and letters, and this can be tediously
+    - delineated at some future time.
+    - Previous Answers
+    - Having posed the problem, let's proceed to a catalogue of some of the
+    - stock answers that have been given previously. The following four can
+    - be rejected out of hand.
+    - Hegel, in his The Philosophy of Right, proposed the Zeitgeist theory
+    - of genius. But this, at best, is description masquerading as
+    - explanation. As good empirics, we seek a more specific understanding
+    - of the problem.
+    - Kroeber (1944) listed many cases of apparent accumulation, and lists
+    - all the obvious factors (economy, education, world leadership, etc.)
+    - that might play a role. His perspective is anthropological and
+    - psychological, and he weaves in a fashionable amount of Toynbee. But
+    - he confesses that he is unsatisfied with his treatment, and I concur.
+    - Gray (1958, 1961) believes that geniuses arrive according to
+    - numinously perfect mathematical cycles. He identifies three distinct
+    - periodicities, and shows that when all simultaneously peak, high
+    - culture hits the jackpot; when all three trough, the world's culture
+    - is comparable to an Alabama high school's. The man is insane. (Readers
+    - who disagree with this casual dismissal of his lifework are invited to
+    - respond, but I shan't waste essay space on empty scholarly courtesy.)
+    - McClelland (1961) counted the numbers of achievement images (e.g.,
+    - "the farmer wrests his livelihood from the soil" vs. "the farmer sows
+    - and reaps his sustenance") that appear in samples of text from periods
+    - of artistic creativity and periods of artistic decline. He finds
+    - statistically significant differences, argues that these reflect
+    - important psychological differences, and speculates that the engine of
+    - cultural enrichment is emphasis upon individual success.
+    - Asimov (1951) suggested that psychohistorical forces could cause the
+    - cultural florescences, but, after all, this is only science fiction.
+    - And he never specifies the mechanisms that drive the advanced
+    - mathematics.
+    - Except for McClelland, these treatments suffer from vagueness. We want
+    - explanations that make sense, and which can be corroborated by
+    - specific historical research.
+    - What type of explanation is adequate? My sense is that high points in
+    - cultural history require the confluence of many factors; some of these
+    - are more important than others. When all or most of the factors
+    - coincide, then one has a Periclean Athens, Laurencian Florence or
+    - Elizabethan London. When only several factors combine, the cultural
+    - eruption is more humble -- one gets Goethe's Weimar, or the Lake
+    - Poets. Things trail off gradually; if virtually none of the factors
+    - obtains, then we call it a Dark Age. From this perspective, the
+    - sought-for answer is a list of factors that facilitate/militate the
+    - occurrence of genius, with some understanding of their relative
+    - importance. In a crudely statistical way (retrodiction rather than
+    - prediction), one can test hypothetical factors by determining whether
+    - their presence is associated with higher measurements on some suitable
+    - index of a society's florescence.
+    - In general, it is statistically (and epistemologically) impossible for
+    - the historical record to suggest the factors (this entails technical
+    - statistical details; epexegesis is deferred). The researcher must make
+    - clever guesses, which are then corroborated by the record. The next
+    - section describes factors that have been proposed, and various
+    - strategies for discovering plausible factors.
+    - Searching for Factors
+    - When I beard social historians at cocktail parties, they usually
+    - dismiss the problem of explaining excess genius as complex and
+    - ill-posed. But when coaxed into conversation, several ideas for
+    - facilitating factors come forward:
+    - Prosperity. They submit that a florescent culture needs the economic
+    - wherewithal to support the arts.
+    - Peace. They suggest that a climate of peace is also conducive to
+    - philosophical, artistic and (perhaps) scientific progress. (But recall
+    - Welles' comment on Switzerland.)
+    - Freedom. They believe that artistic freedom from state or religious
+    - control enables new growth.
+    - Social Mobility. They think that when class distinctions are
+    - relatively permeable, then there is greater inducement for artists to
+    - excel.
+    - The Paradigm Thing. They suppose that when a new medium or perspective
+    - arises, then art flourishes until the vein of originality is worked
+    - out.
+    - All of these are good ideas, and superficially plausible. But most
+    - contradict the historical record.
+    - To be specific, the prosperity suggestion fails for Athens, Florence
+    - and London. Athens spent its boom period in combat with Sparta; the
+    - income from the Delian League went to the fleet. Athenian farmers
+    - could not tend their crops (cf. The Acharnians), and such staples as
+    - grain had to be imported. Similarly, quatrocento Florence was poor
+    - compared to pre-plague Florence. The Medici bank had about half the
+    - capital of the Peruzzi bank in 1340, and Lopez (1970) documents other
+    - indications of reduced standards of living. A symptom of this
+    - desperation was the revolt of the populo minuto, which pushed the
+    - Medici into prominence. And Elizabethan London suffered "dearness
+    - without scarcity" (inflation); this fell most heavily on the
+    - aristocracy and the very poor. Then the wool trade collapsed, England
+    - entered "the worst economic depression in history" (Wilson, 1965), and
+    - Parliament anxiously debated means of averting a Bellum Rusticum.
+    - Regarding the peace hypothesis, it clearly fails for Athens. Florence
+    - was torn by internal factions (e.g., il popolo grosso vs. il popolo
+    - minuto, the assassination of Giuliano de Medici, Savonarola). London
+    - had to contend with the Armada, the war with Spain in Holland, and
+    - internal religious dissent.
+    - Regarding artistic freedom, the Athenian plays were written for
+    - religious festivals, and the prize was awarded according to the taste
+    - of respectable, pious and civic-minded judges (this caused
+    - Aristophanes and Euripides no end of trouble). In Florence, art was
+    - commissioned largely by the Church, sometimes by a patron, and had to
+    - voice themes prescribed in the contract. In London, note that
+    - Shakespeare's plays avoid all mention of religion and contemporary
+    - politics; Marlowe and Jonson were similarly cautious (in literature,
+    - not in their personal lives).
+    - Regarding social mobility, this hypothesis seems borne out by our
+    - three primary examples. Athens and Florence were both devaluing the
+    - aristocracy and promoting mercantilism. In London, the early part of
+    - the period clearly shows the rise of the middle class.
+    - Regarding the emergence of a new paradigm, this is difficult to judge
+    - concisely. Much of the problem involves distinguishing a perturbation
+    - from an innovation. Did the introduction of a second on-stage
+    - character in Athenian plays represent a new paradigm? Was Plato's
+    - decision to record philosophical discussion a minor influence on the
+    - content of the debate? Similarly, in Florence, painting and sculpture
+    - were well-established before the peak occurred, but the invention of
+    - perspective and the rediscovery of the classical period may have
+    - constituted a paradigm shift. Finally, in London, the key change seems
+    - to have been that small groups of strolling players discovered they
+    - could pack a hall in a city, and people would stroll to them. This
+    - enabled more elaborate props and larger companies, while pressing the
+    - need for a larger repertoire. But this kind of change is not
+    - especially Kuhnian in spirit, and the problem merits more lengthy
+    - consideration.
+    - One could propose other factors. It seems to me that each of the three
+    - societies under consideration enjoyed a substantial military victory
+    - in the generation preceding their florescence. Athenians whose names
+    - shine today are reported to have prided themselves on being the sons
+    - of the men who fought at Marathon. Florence was not a military force
+    - (the Italian city-states relied upon mercenary condottieri in time of
+    - war) but in 1254 they conquered Pisa and Lucca. This secured an outlet
+    - to the sea, which was essential to their economic expansion. And in
+    - 1588, England conquered the Spanish Armada. This made the seas safe
+    - for colonial empire, and was a watershed for British morale.
+    - Also, the great minds in each of these societies tended to hang out
+    - together. Socrates spoke with everyone. The playwrights talked shop,
+    - and the orators honed themselves upon each other. In Florence, artists
+    - trained under an apprentice system that pulled talents together, and
+    - Vasari describes frequent visits by the greats to each other's
+    - studios. Leonardo and Michelangelo held a public contest over The
+    - Battle of Anghiari; meanwhile, the poets and philosophers clubbed
+    - together at Lorenzo's mansion. In London, much of the theater circle
+    - met for drinks at the Mermaid Tavern, and one expects that their
+    - common profession ensured their lives crossed even more regularly.
+    - Aubrey reports that Bacon visited the Mermaid Tavern too, and
+    - doubtless Bacon knew Raleigh, who was sufficiently friendly with
+    - Marlowe to rise to the Shepherd/Nymph bait. Does the social
+    - intercourse of good minds produce great minds?
+    - A third possible factor is education. In each of the three societies,
+    - education tended to be as personal as a punch in the nose. In Athens,
+    - the upper class had tutors and the lower classes shopped for their
+    - educations among various freelance teachers. In Florence, the upper
+    - class had tutors and the masses learned as apprentices. In England,
+    - the upper class had tutors and the commoners learnt to write plays and
+    - poetry from each other, insofar as I can tell. All three of these
+    - systems emphasize individual instruction over the currently popular
+    - cattle drive approach. And there is ancillary evidence (cf. the lives
+    - of Wiener, Maxwell, Dirac, Russell, Mill, Malthus, Arnold, Feynman)
+    - that tutoring is enormously effective.
+    - One can postulate many other factors. For example, it is suggestive
+    - that all three of Athens, Florence, and London had populations near
+    - 300,000. Also, all three had relatively democratic styles of
+    - government, and all three's florescences were ended by right-wing
+    - revolutions (the Rule of the 400, Savonarola, and Cromwell). Finally,
+    - each of the three were in the process of reinventing their language --
+    - Periclean Athens defined the conventions of Attic Greek, Dante made
+    - Tuscan the foundation of modern Italian, and the linguistic gap from
+    - Chaucer to Shakespeare is enormously larger than the gap from
+    - Shakespeare to us (but this could be due to selection bias, since
+    - language might gel around great writings, rather than great writings
+    - arise from volatile language).
+    - There is never any shortage of hypotheses. The useful trick is to know
+    - how to test them. In this case, one could rank a sample of cities in
+    - terms of their cultural IQ, and then decide whether the hypothesized
+    - factor obtains for each of the cities. If the factor is more common
+    - for the florescent cities than for the average or below average
+    - cities, then the hypothesis is supported (this can be made formally
+    - statistical). To an extent, this style of reasoning is what is used in
+    - this section, except that I haven't elaborated the comparison by
+    - listing cities which have made meager cultural contributions.
+    - The Individual
+    - There is an alternative strategy for studying the problem of excess
+    - genius. Instead of focusing upon the society that produced them, one
+    - can study the minutiž of geniuses' lives, looking for commonalities
+    - that might suggest cultural forces. For example, if a study of many
+    - geniuses finds that disproportionate numbers were tutored, then one
+    - might guess that creative societies were those in which tutoring was a
+    - prevalent means of education.
+    - Hayes and Simon (1985) report a study of composers. After sifting
+    - through much biographical material, they conclude that a minimum of
+    - ten years of serious study is required before anyone begins to produce
+    - important music. And subsequent research suggests that this ten year
+    - rule applies to many different disciplines, including mathematics,
+    - chess and poetry (though possibly not philosophy). Allen Newell is
+    - alleged to have proffered an explanation of this regularity:
+    - Greatness is relative, and humans compete against other humans. If
+    - intelligence is not a major factor, and if ten years represents the
+    - amount of time an exceptionally dedicated human is willing to invest,
+    - then, ceteris paribus, world class geniuses will be those who've
+    - marinated in a subject for ten years.
+    - Clearly, the controversial element in this line of research is its
+    - underemphasis of the importance of native intelligence and skill.
+    - In a similar mood, I undertook a study of 100 eminent men and women of
+    - Victorian science and letters. With the help of 11 undergraduates, I
+    - compiled a database that recorded 56 traits for each of the people
+    - chosen. We then applied a laundry list of semi-sophisticated
+    - statistical procedures to look for hidden patterns in the data. One
+    - particular question of interest was whether there were biographical
+    - traits that discriminated the artists from the scientists.
+    - To give a better flavor of the project, the first twenty people in the
+    - database are: Arthur Conan Doyle, Andrew Lang, Matthew Arnold, Jane
+    - Austen, Charles Babbage, James Barrie, Jeremy Bentham, Sir Richard
+    - Francis Burton, Charlotte Bronte, Thomas Carlyle, Arthur Cayley,
+    - Charles Lamb, Samuel Taylor Coleridge, Charles Darwin, Thomas
+    - DeQuincey, Benjamin Disraeli, Charles Dodgson, Elizabeth Barrett
+    - Browning, Robert Browning, and Michael Faraday. (The list is only
+    - partially alphabetical, for technical reasons related to the software
+    - and our occasional use of initials to distinguish some subjects.)
+    - Similarly, some of the biographical traits that were examined included
+    - birth order, family status, number of spouses, number of siblings, age
+    - at father's death, age at mother's death, whether or not the subject
+    - loved the father, ditto the mother, whether the subject was thrifty,
+    - whether the subject was gay, an estimate of the subject's sexual
+    - appetite, an estimate of the subject's precocity, a description of the
+    - kind of schooling the subject received, the intensity of the subject's
+    - religiosity, whether the subject had a sense of humor, whether the
+    - subject drank, the age at which the subject first produced good work,
+    - and so forth.
+    - Unfortunately, the results of the analyses so far have been
+    - unilluminating. It appears that Romantic poets tended to have been
+    - raised by their mothers, and that scientists tended to come from
+    - happy, stable families. However, the statistical support for both of
+    - these conclusions is small (a=0.05), and the reliance upon
+    - undergraduates for the gathering of information ensures that, despite
+    - substantial efforts at data cleaning, the accuracy of the records is
+    - not beyond question.
+    - Conclusions
+    - The problem of excess genius is one of the most important questions I
+    - can imagine, but very little progress has been made. It surprises me
+    - that essentially no scholarly effort has been directed towards it. I
+    - warmly solicit any suggestions from readers that may help me to
+    - clarify my own confusion and uncertainty regarding this.
+    - References
+    - Asimov, I. (1951). Foundation, Panther: London.
+    - Gray, C. E. (1958). "An Analysis of Graeco-Roman Development,"
+    - American Anthropologist, 60, 15-27.
+    - Gray, C. E. (1961). "An Epicyclical Model for Western Civilization,"
+    - American Anthropologist, 63, 1036-1054.
+    - Hayes, J. R. and Simon, H. A. (1985). "Three Problems in Teaching
+    - Problem Solving Skills," Thinking and Learning Skills, Vol. 2, edited
+    - by J. W. Sega and R. Glases, Erlbaum: Hillsdale, NJ.
+    - Kroeber, A. L. (1944). Configurations of Culture Growth, University of
+    - California Press: Berkeley.
+    - Lopez, R. S. (1970). The Three Ages of the Italian Renaissance,
+    - University Press of Virginia: Charlottesville.
+    - McClelland, D. (1961). The Achieving Society, D. Van Nostrand:
+    - Princeton.
+    - Wilson, C. (1965). England's Apprenticeship, 1603-1763, St. Martin's
+    - Press: New York.
+- **Highlights:**
+    - 

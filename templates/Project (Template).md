@@ -1,0 +1,7 @@
+# {{title}}
+
+## Summary:
+	
+## Notes:
+
+## Outline

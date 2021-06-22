@@ -1,0 +1,41 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #NFTs
+- **Source:** https://www.youtube.com/watch?v=XDTXuQSRm6E
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - [[ERC-721]]
+        - Token standard that lets you create unique tokens on [[Ethereum]]
+        - [[ERC-720]] - identical tokens
+        - [[ERC-721]] each token is unique
+        - That's the key difference between these two tokens
+        - Zora, Foundation, and Superrare all exist as marketplaces for buying, selling, and trading these unique tokens (like art or trading cards)
+    - Marketplaces:
+        - Superrare - rare NFT artwork
+        - OpenSeas - all things NFTs
+            - They sell art, virtual worlds, collectibles, etc
+    - Crypto Art projects:
+        - Zora
+            - Trying to solve [[The Yeezy Problem]]
+                - When Kanye drops a limited edition pair of sneakers for $250, in theory everyone is able to get them for that price
+                - However, scrapers and bots are able to buy up a whole bunch and then resells them on the secondary market for a lot more
+                - While this drives the price up, creators don't realize the benefit of that increase an price and true supports of the creator end up having to pay a lot more. The middleman (the bots and scrapers) are the ones who benefit
+            - **Zora solves this with a currency that's redeemable on their marketplace for a physical product**
+            - Product prices can fluctuate with supply and demand
+            - People can speculate on the price
+            - The creator benefits from each sale
+            - Each token represents one physical pair of sneakers. With Zora you can then sell the token (and sneakers) back to the market for a profit (or a loss)
+        - Foundation
+            - Creator can sell design, art, and fashion
+            - Users can buy the token and redeem them for physical items whenever you want
+    - The Future
+        - Creators as a crypto primitive (Brian Flynn)
+        - Zora and Foundation are the first types of applications that bring creators into crypto. But they're really just the first stage
+        - There will be a second stage that will bring even more
+        - Creators to earn and users to speculate
+        - APIs
+            - TheGraph - getting data
+            - Torus - signing in in a way that users are familiar with
+            - Wyre - trading/exchanging with cheaper fees
+        - Developers will build around creators (and their audience) rather than the other way around (as they do in Web2)

@@ -1,0 +1,8 @@
+- **Type:** #[[🟨 Literature Note]] | #[[Building an Audience Online]] #Twitter
+- **Source:** [[🟦 Growing Your Follower Count]] 
+- Growing your audience on Twitter is different from Facebook and LinkedIn. Facebook is based on your friends and family, while LinkedIn is based on your professional network. Your follower count, on the other hand, isn't based on people you know outside of Twitter.
+- Here are three suggestions for growing your follower count:
+- First, reply to big accounts. Follow accounts with large followings and when they post a tweet, reply to it. Twitter's algorithm ranks replies by their engagement. So if your reply is insightful and provides value, it will get a lot of attention.
+- Second, use more periods and fewer commas. Writing on Twitter is different from other platforms. It rewards brevity and clarity. You can improve the brevity and clarity of your tweets by writing sentences that are short and clear.
+- Third, write tweetstorms. Tweetstorms let you share your expertise and communicate with more depth than a single tweet. Use tweetstorms to share your expertise and explain confusing topics in a simple and interesting way.
+- Bonus: share your epiphanies. 

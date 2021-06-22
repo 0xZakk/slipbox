@@ -1,0 +1,290 @@
+# Blockchain Basics
+
+## Meta Data
+
+Source:  kindle 
+Author: Daniel Drescher
+
+## Highlights
+
+### Highlights
+
+- 1. Thinking in Layers and Aspects
+- Do you have a mobile phone? I would guess yes, as most people now have at least one. How much do you know about the different wireless communication protocols that are used to send and receive data? How much do you know about electromagnetic waves that are the foundation of mobile communication? Well, most of us do not know very much about these details because it is not necessary to know them in order to use a mobile phone and most of us do not have the time to learn about them. We mentally separate the mobile phone into the parts we need to know and the parts that can be ignored or taken for granted. This approach to technology is not restricted to mobile phones.
+- Layers of a Software System
+- The following two ways of partitioning a system are used throughout this book: Application vs. implementation Functional vs. nonfunctional aspects
+- Application vs. Implementation
+- Mentally separating the user’s needs from the technical internals of a system leads to a separation of the application layer from the implementation layer.
+- Everything that belongs to the application layer is concerned with the user’s needs
+- Everything that belongs to the implementation layer is concerned with making these things happen
+- Functional vs. Nonfunctional Aspects
+- Distinguishing between what a system does and how it does what it does leads to the separation of functional and nonfunctional aspects.
+- There is a nice way to remember the difference between functional and nonfunctional aspects of a system by referring to grammar usage in the English language: verbs describe actions or what is done, while adverbs describe how an action is done.
+- Integrity
+- Integrity is an important nonfunctional aspect of any software system. It has three major components
+- Data integrity : The data used and maintained by the system are complete, correct, and free of contradictions.
+- Behavioral integrity : The system behaves as intended and it is free of logical errors.
+- Security : The system is able to restrict access to its data and functionality to authorized users only.
+- 2. Seeing the Big Picture Software architecture and its relation to the blockchain
+- The two major architectural approaches for software systems are centralized and distributed.
+- In centralized software systems , the components are located around and connected with one central component. In contrast, the components of distributed systems form a network of connected components without having any central element of coordination or control.
+- The Advantages of Distributed Systems
+- The major advantages of a distributed system over single computers are2: Higher computing power Cost reduction Higher reliability Ability to grow naturally
+- Higher Computing Power
+- The computing power of a distributed system is the result of combining the computing power of all connected computers.
+- Cost Reduction
+- Since distributed systems consist of many computers, the initial costs of distributed systems are higher than the initial costs of individual computers. However, the costs of creating, maintaining, and operating a super computer are still much higher than the costs of creating, maintaining, and operating a distributed system.
+- Higher Reliability
+- The increased reliability of a distributed system is based on the fact that the whole network of computers can continue operating even when individual machines crash.
+- If one element fails, the remaining elements can take over.
+- Ability to Grow Naturally
+- The computing power of a distributed system is the result of the aggregated computing power of its constituents. One can increase the computing power of the whole system by connecting additional computers with the system.
+- The Disadvantages of Distributed Systems
+- The disadvantages of distributed systems compared to single computers are: Coordination overhead Communication overhead Dependency on networks Higher program complexity Security issues
+- Coordination Overhead
+- Distributed systems do not have central entities that coordinate their members. Hence, the coordination must be done by the members of the system themselves.
+- Communication Overhead
+- Coordination requires communication. Hence, the computers that form a distributed system have to communicate with one another. This requires the existence of a communication protocol and the sending, receiving, and processing of messages, which in turn costs effort and computing power that cannot be spend on the genuine computing task, hence, the term communication overhead.
+- Dependencies on Networks
+- Computers in distributed systems communicate by means of messages passed through a network.
+- Higher Program Complexity
+- Security Issues
+- Distributed Peer-to-Peer Systems
+- Peer-to-peer networks are a special kind of distributed systems. They consist of individual computers (also called nodes), which make their computational resources (e.g., processing power, storage capacity, data or network bandwidth) directly available to all other members of the network without having any central point of coordination.
+- Peer-to-peer systems have interesting applications such as file sharing, content distribution, and privacy protection. Most of these applications utilize a simple but powerful idea: turning the computers of the users into nodes that make up the whole distributed system. As a result, the more users or customers use the software, the larger and more powerful the system becomes. This idea, its consequences, and it challenges are discussed in the following steps.
+- Centralized and distributed systems are architectural antipodes. Technical antipodes have always inspired engineers to create hybrid systems that inherit the strength of their parents.
+- If you are in doubt whether or not a system is distributed, look for a single component (e.g., a database, a name or user registry, a login or logoff component, or an emergency switch-off button) that could terminate the whole system. If you find such a component, the system under consideration is not distributed.
+- The architectural decision can be done independently from the functional aspects of the application layer. As a result, one can create distributed as well as centralized systems with identical functionality on the application layer. The architecture is only a means to an end when it comes to implementing a system.
+- Choosing a specific architecture has consequences on how you will achieve the functional and nonfunctional aspects of a system. In particular, both architectural concepts have very different approaches to ensure integrity. And this is the point where the blockchain enters the picture. The blockchain is a tool for achieving integrity in distributed software systems.
+- Tanenbaum, Andrew S., and Maarten Van Steen. Distributed systems: principles and paradigms
+    - **Tags:** #read
+    - **Note:** .read
+- 3. Recognizing the Potential How peer-to-peer systems may change the world
+- The Napster case taught us that peer-to-peer systems have the potential to reshape whole industries based on a simple idea: replacing the middleman with peer-to-peer interactions. In the case of the music industry, the traditional studios and their marketing and distribution channels that acted as the middlemen between artists and consumers have been replaced by peer-to-peer file sharing systems. The major characteristics that made the music industry so vulnerable to being replaced by peer-to-peer systems are the immaterial nature of music and the low costs of copying and transferring data.
+- The power of peer-to-peer systems is not restricted to the music industry . Each industry that mainly acts as a middleman between producers and customers of immaterial or digital goods and services is vulnerable to being replaced by a peer-to-peer system. This statement may sound a bit abstract, but you may discover many middlemen for immaterial and digital goods and services around you once you recognize the largest of them all: the financial industry.
+- What is it that you have in your bank account or on your credit or debit card? Is it really money? The money you own has been turned into immaterial bits and bytes long ago. Only a small amount of actual money exists as physical banknotes and coins.
+- Banks and many other players of the financial industry are just middlemen between producers and consumers of bits and bytes that make up our money and our wealth.
+- It is amazing how many middlemen are involved in seemingly simple transactions
+- As a result, something as simple as transferring an amount of money from one bank account to another in a different country involves a long processing time and incurs high transactions costs. In a peer-to-peer system, the same transfer would be much simpler and it would take less time and costs since it could be processed as what it is: a transfer of bits and bytes between two peers or nodes, respectively.
+- The advantage of peer-to-peer systems over centralized systems is that direct interactions occur between contractual partners instead of indirect interactions through a middleman, hence, there is less processing time and lower costs.
+- The advantages of peer-to-peer systems are not restricted to money transfer . Every industry that mainly acts as a middleman between producers and customers of immaterial or digital goods and services is vulnerable to being replaced by a peer-to-peer system.
+- Replacing the middleman is also called disintermediation
+- systems are distributed software systems that consist of nodes (individual computers), which make their computational resources (e.g., processing power, storage capacity, or information distribution) directly available to another.
+- systems are distributed computer systems by construction since they are made of individual nodes that share their computational resources among others. However, there are also peer-to-peer systems that still utilize elements of centralization. Centralized peer-to-peer systems maintain central nodes to facilitate the interaction between peers, to maintain directories that describe the services offered by the peer nodes, or to perform look-ups and identification of the nodes.
+- Purely distributed peer-to-peer systems may use the blockchain in order to achieve and to maintain system integrity. Hence, the link between purely distributed peer-to-peer systems and the blockchain is its usage for achieving and maintaining integrity in purely distributed systems.
+- The relation between purely distributed peer-to-peer systems to the blockchain is that the former uses the latter as a tool to achieve and maintain integrity. Hence, the argument that explains the excitement about and the potential of the blockchain is: Purely distributed peer-to-peer systems have a huge commercial potential as they can replace centralized systems and change whole industries due to disintermediation. Since purely distributed peer-to-peer systems may use the blockchain for achieving and maintaining integrity, the blockchain becomes important as well.
+- Eberspächer, Jörg, and Rüdiger Schollmeier. First and second generation of peer-to-peer systems. In Peer-to-peer systems and applications. Berlin Heidelberg: Springer Verlag, 2005: 35–56.
+- Part II Why the Blockchain Is Needed
+- 4. Discovering the Core Problem How to herd a group of independent computers
+- It turned out that maintaining integrity in distributed systems is the major purpose of the blockchain. But why is maintaining integrity in distributed systems and purely distributed peer-to-peer systems in particular such a challenge?
+- the subtle relation between trust and integrity of purely distributed peer-to-peer systems.
+- Many languages have a pictorial saying for describing the situation when someone tries to organize a chaotic group of individuals. For example, in English one would describe such a situation as trying to herd cats,
+- It happens that this is exactly the situation of a purely distributed peer-to-peer system, which consists of individual and independent nodes without having any kind of central control or coordination.
+- Trust and integrity are two sides of the same coin. In the context of software systems, integrity is a nonfunctional aspect of a system to be safe, complete, consistent, correct, and free of corruption and errors. Trust is also the firm belief of humans in the reliability, truth, or ability of someone or something without evidence, proof, or investigation. Trust is given in advance and will increase or decline based on the results of interactions on an ongoing basis.
+- Due to the importance of trust for the existence of peer-to-peer systems, the major question is: How do we achieve and maintain integrity in a purely distributed peer-to-peer system?
+- Achieving and maintaining integrity in purely distributed systems depends on a variety of factors, some of the most important are: Knowledge about the number of nodes or peers Knowledge about the trustworthiness of the peers
+- The chances of achieving integrity in a distributed peer-to-peer system are higher if the number of nodes as well as their trustworthiness is known.
+- For simplicity, one can consider two major integrity threats in peer-to-peer systems: Technical failures Malicious peers
+- Technical Failures
+- of a computer system as well as any component of a computer network have the immanent risk of failing or creating errors.
+- Malicious Peers
+- Malicious members are the second integrity threat in peer-to-peer systems. This source of untrustworthiness is not a technical problem, but rather a problem caused by the goals of the individuals who decide to exploit the system for their own purposes.
+- The Core Problem to Be Solved by the Blockchain
+- Achieving integrity and trust in the best of all conditions is easy. The real challenge is to achieve integrity and trust in a distributed system in the worst of all conditions. And this is the problem that the blockchain is supposed to solve.
+- The core problem to be solved by the blockchain is achieving and maintaining integrity in a purely distributed peer-to-peer system that consists of an unknown number of peers with unknown reliability and trustworthiness.
+- It is actually a well-known and widely discussed problem in computer science. By utilizing a metaphor from the military, the problem is widely regarded as the Byzantine general problem.
+- 5. Disambiguating the Term Four ways to define the blockchain
+- In this discussion about the blockchain, the term is used as follows: As a name for a data structure As a name for an algorithm As a name for a suite of technologies As an umbrella term for purely distributed peer-to-peer systems with a common application area
+- A Data Structure
+- When used as a name for a data structure, blockchain refers to data put together into units called blocks
+- One can think of these blocks much like pages in a book. These blocks are connected to one another like a chain, hence the name blockchain.
+- In relation to a book, the words and sentences are the information to be stored. They are written on different pages instead of being written on a large spool. The pages are connected with one another via their position in the book and via the page numbers. You can determine if someone removed a page from the book by checking whether the page numbers continue without leaving out a number. Furthermore, the information on the pages as well as the pages within the book are ordered. The ordering is an important detail, which will be used extensively. Additionally, the chaining of the data blocks in the data structure is achieved by using a very special numbering system , which differs from the page numbering in ordinary books.
+- An Algorithm
+- When used as a name for an algorithm, blockchain refers to a sequence of instructions that negotiates the informational content of many blockchain-data-structures in a purely distributed peer-to-peer system, similar to a democratic voting schema.
+- A Suite of Technologies
+- When used to refer to a suite of technologies, blockchain refers to a combination of the blockchain-data-structure, the blockchain-algorithm, as well as cryptographic and security technologies that combined can be used to achieve integrity in purely distributed peer-to-peer systems, regardless of the application goal.
+- An Umbrella Term for Purely Distributed Peer-to-Peer Systems with a Common Application Area
+- Blockchain can also be used as an umbrella term for purely distributed peer-to-peer systems of ledgers that utilize the blockchain-technology-suite.
+- The blockchain is a purely distributed peer-to-peer system of ledgers that utilizes a software unit that consist of an algorithm, which negotiates the informational content of ordered and connected blocks of data together with cryptographic and security technologies in order to achieve and maintain its integrity.
+- The truth is, managing ownership of cryptographic money is a very prominent and natural application case of the blockchain, but it is not the only one. The blockchain has a wide and diverse range of applications.
+- However, there are two reasons why the management of ownership of digital goods is the most discussed application of the blockchain. First, it is the easiest to understand and to explain. Second, it is the use case with the most impact on the economy.
+- 6. Understanding the Nature of Ownership Why we know what we own
+- Imagine the following situation. At home you are packing an apple into your bag for lunch. On your way to the office, you decide to go into a supermarket to buy a sandwich and some cookies. At the checkout point, you are opening your bag to collect the items you are buying. Just in this moment the employee of the supermarket is looking at you and sees the apple in your bag, which happens to be the same kind of apples sold at the supermarket. What would the employee of the supermarket be thinking in this moment? He could falsely conclude from his observation that you may have stolen the apple from his store. Unfortunately, that supermarket does not have any supervision cameras or any security personnel, and you are the only customer at this moment. So how could you prove that you did not steal the apple?
+- So imagine you are in front of a court that disputes your alleged apple-theft case. How would you prove that you are the owner of the apple?
+- So this comes down to a basic principle: having one witness is good, but having many independent witnesses is the key to convincing the prosecutor of your innocence.
+- The more independent witnesses who testify to the same fact, the higher the chance that this fact is indeed true. It turns out that this idea will be one of the core concepts of the blockchain.
+- Foundations of Ownership
+- Taking the findings of the previous section to a more abstract level, one can state that proving ownership involves three elements: An identification of the owner An identification of the object being owned A mapping of the owner to the object
+- The mapping between owners and objects is typically done with a ledger or register
+- Every transfer of ownership needs to be documented in such a register because an outdated register or ledger cannot be a trustworthy witness for testifying ownership.
+- A ledger can be seen as a concrete implementation of a mapping between owners to their property.
+- Identification
+- Identification just means to claim to be someone by stating a name or anything else that could be used as an identifier.
+- Identification does not prove that you really are who you claim to be.
+- Authentication
+- The purpose of authentication is to prevent someone from claiming to be someone else. Authentication means verifying or proving that you really are who you claim to be
+- Authorization
+- Authorization means granting access to specific resources or services due to the characteristics or properties of one’s identity
+- Authorization is the consequence of both a successful authentication and evaluation of one’s characteristics or rights.
+- Purposes and Properties of a Ledger
+- The major lesson to be learned from Figure 6-2 is the fact that a ledger has to fulfill two opposing roles. On the one hand, a ledger serves as a means for proving ownership, which relies on reading historic data preserved in the ledger . On the other hand, the ledger has to document any transfer of ownership, which in turn implies that new data are produced and written to the ledger. One of the most important differences of these two purposes can be summarized in the opposing nature of transparency and privacy.
+- A proof of ownership has three elements: Identification of the owner Identification of the object being owned Mapping the owner to the object
+- Having only one ledger is risky since it can be damaged, destroyed, or forged. In this case, the ledger is no longer a trustworthy source for clarifying ownership.
+- Instead of using only one central ledger, one can utilize a group of independent ledgers for documenting ownership and clarify requests concerning the ownership on that version of the reality on which the majority of ledgers agrees.
+- 7. Spending Money Twice Exploiting a vulnerability of distributed peer-to-peer systems
+- Counterfeiting bank notes is a severe crime in any country because it undermines the foundation and functioning of the economy by creating purchasing power that is not backed up by valuable resources.
+- The Double Spending Problem
+- Let’s consider a peer-to-peer system for managing ownership of real estate . In such a system, the ledgers that keep track of ownership information are maintained by the individual computers of its members instead of being maintained in a central database. Hence, each peer maintains his or her own copy of the ledger. As soon as the ownership of a house is transferred from one person to another, all the ledgers of the system need to be updated in order to contain the latest version of reality.
+- As soon as the ownership of a house is transferred from one person to another, all the ledgers of the system need to be updated in order to contain the latest version of reality. However, passing information forward among peers and updating the individual ledgers require time.
+- passing information forward among peers and updating the individual ledgers require time.
+- The fact that not all ledgers have up-to-date information makes them prone to be exploited by anyone who already has the latest information.
+- the term double spending is ambiguous as it is used to refer to the following concepts: A problem caused by copying digital goods A problem that may appear in distributed peer-to-peer systems of ledgers An example of violated integrity in purely distributed peer-to-peer systems
+- Part III How the Blockchain Works
+- 8. Planning the Blockchain The basic concepts of managing ownership with the blockchain
+- There are seven major tasks that need to be addressed
+- Describing ownership Protecting ownership Storing transaction data Preparing ledgers to be distributed in an untrustworthy environment Distributing the ledgers Adding new transaction to the ledgers Deciding which ledgers represents the truth
+- Task 1: Describing Ownership
+- Since you will want to design a software system that manages ownership, you have to decide how to describe ownership first.
+- It turns out that transactions are a good way to describe any transfer of ownership, and the complete history of transactions is the key to identifying the current owners.
+- Task 2: Protecting Ownership
+- Moreover, you need a way to prevent people from accessing the property of others.
+- In real life, you can easily prevent people from using your car or from entering your house by using doors with locks. It turns out that cryptography provides a way to protect transactions on an individual level, similar to the way doors with locks protect your individual car or house.
+- Protecting ownership has three major elements: identifying and authenticating owners as well as restricting access to the property to its owners.
+- Task 3: Storing Transaction Data
+- Describing ownership by means of transactions and having security measures that protect ownership on the level of individual transactions are important steps toward the goal of designing a software system that manages ownership.
+- However, you need a way to store the whole history of transactions, as this history is used to clarify ownership.
+- Task 4: Preparing Ledgers to Be Distributed in an Untrustworthy Environment
+- you will have copies of the ledger running on untrustworthy nodes in an untrustworthy network.
+- The result is a blockchain-data-structure that is append-only: it is possible to add new transactions, but it is nearly impossible to change data that were added in the past.
+- Task 5: Distributing the Ledgers
+- A distributed system that manages ownership involves interaction between the peers or nodes, respectively.
+- Task 6: Adding New Transactions to the Ledgers
+- Since the data structure allows you to add new transaction data , you will have to ensure that only valid and authorized transactions are added. It turns out that this is possible by allowing all members of the peer-to-peer system to add new data and additionally turning each member of the peer-to-peer system into supervisors of their peers
+- Task 7: Deciding Which Ledgers Represent the Truth
+- Since the transaction history is the basis for identifying lawful owners, having different conflicting transaction histories is a serious threat to the integrity of the system.
+- As a result, you need a criterion for how to find and choose one transaction history that represents the truth.
+- It turns out that one can solve that problem by making every node in the peer-to-peer system decide on its own which transaction history represents the truth in a way that the majority of the peers independently agree on that decision.
+- 9. Documenting Ownership Using the course of history as evidence for the current state of ownership
+- The goal is the documentation of ownership in a transparent and comprehensible way.
+- The challenge is to find documentation of ownership that not just claims that someone is the owner of something, but also provides evidence of ownership and hence serves as proof of ownership.
+- Instead of describing the current state of ownership by inventory data (i.e., by listing the current possessions of all owners), one maintains a list of all transfers of ownership in a ledger in an ongoing fashion. Every transfer of ownership is described by transaction data that clearly point out which owner hands off ownership of what item and to whom at what time. The whole history of transaction data stored in a ledger becomes an audit trail that provides evidence of how everyone achieved his or her possession.
+- There are two competing ways to describe ownership—through inventory data or transaction data. Inventory data describe the current state of ownership. They are similar to a bank account statement that just displays the amount of money that is currently available. Transaction data describe transfers of ownership. They are similar to a bank account statement that lists every withdrawal, deposit, and transferal of money.
+- Besides the fact that both inventory data and transaction data describe ownership, their underlying philosophy differs dramatically. Inventory data just state or claim ownership, while transaction data explain and thereby justify ownership.
+- Documenting ownership with the blockchain involves the following aspects: Describing the transfer of ownership Maintaining the history of transfers
+- A transaction is the act of transferring ownership from one owner to someone else. The act of transferring ownership relies on data that descibe the intended transfer. These data contain all information necessary to execute the transfer of ownership.
+- In a similar fashion, the information used by the blockchain to describe a transaction are: An identifier of the account that is to hand off ownership to another account An identifier of the account that is to receive ownership The amount of the goods to be transferred The time the transaction is to be done A fee to be paid to the system for executing the transaction A proof that the owner of the account that hands off ownership indeed agrees with that transfer
+- Transaction data provide the mandatory information necessary to execute a transfer of ownership as intended. Executing a transaction means making the transfer of ownership happen as described by the transaction data. Executing a transaction means adding the transaction data to a ledger.
+- It is important to recognize that the order in which the transactions occurred must be preserved in order to arrive at the identical result every time the data are aggregated.
+- Without exaggeration, one can state that the history of transaction data is the heart of any blockchain that manages ownership because it is the basis for reconstructing the state of ownership.
+- Examining validity of transaction data involves three aspects: Formal correctness Semantic correctness Authorization
+- Formal correctness means that the description of a transaction contains all required data and that the data are provided in the correct format.
+- Semantic correctness focuses on the meaning of transaction data and their intended effect.
+- Examining semantic correctness of transaction data is often done based on business rules, such as: Ensuring that an account does not hand off more than it currently owns Preventing double spending Limiting the amount of items that can be transferred in a single transaction Limiting the number of transactions per user Limiting the total amount of items spent in a given time period Enforcing that an account keeps an item for a minimum time period before it can be transferred further
+- Only the owner of the account who hands off ownership should be allowed to advise the blockchain to execute a transaction on his or her behalf.
+- 10. Hashing Data Identifying data from their digital fingerprint
+- In the distributed peer-to-peer system, you will deal with a huge number of transaction data. As a result, you will need to identify them uniquely and compare them as quickly and as easily as possible.
+- Hash functions are small computer programs that transform any kind of data into a number of fixed lengths, regardless of the size of the input data.
+- An important group of hash functions is called cryptographic hash functions, which create digital fingerprints for any kind of data.
+- Cryptographic hash functions have the following properties2: Providing hash values for any kind of data quickly Being deterministic Being pseudorandom Being one-way functions Being collision resistant
+- Providing Hash Values for Any Data Quickly
+- First, the hash function is able to calculate hash values for all kinds of data. Second, the hash function does its calculation quickly.
+- Deterministic
+- Deterministic means that the hash function yields identical hash values for identical input data.
+- Pseudorandom
+- Being pseudorandom means that the hash value returned by a hash function changes unpredictably when the input data are changed. Even if the input data were changed only a little
+- One-Way Function
+- A one-way function does not provide any way to trace its input values by its outputs.
+- To put it differently, it is impossible to recover the original input data based on the hash value.
+- Collision Resistant
+- A hash function is called collision resistant if it is very hard to find two or more distinct pieces of data for which it yields the identical hash value.
+- A hash collision is the digital equivalent to having two people with identical fingerprints . Being collision resistant is mandatory for hash values to be usable as digital fingerprints.
+- Hash values are often regarded as hash numbers since they use not only the digits 0 to 9 but also the letters A to F, which represent the values 11 to 16 in order to express numerical values. Those numbers are called hexadecimal numbers
+- Patterns of Hashing Data
+- But what would you do if you were asked to provide one single hash value for a bunch of independent pieces of data? Remember, hash functions only accept one piece of data at a given time.
+- The answer is to utilize one of the following patterns in applying hash functions to data: Independent hashing Repeated hashing Combined hashing Sequential hashing Hierarchical hashing
+- Independent hashing means applying the hash function to each piece of data independently.
+- Repeated hashing is the repeated application of a hash function to its own outcome.
+- The goal of combined hashing is to get a single hash value for more than one piece of data in one attempt. Combining all independent pieces of data into one piece of data and calculating its hash value afterward is the way to achieve this.
+- Note that the hash value of the combined data critically depends on the way the data are combined.
+- The goal of sequential hashing is the incremental update of a hash value as new data arrive. This is achieved by using combined and repeated hashing at the same time. The existing hash value is combined with new data and is then handed over to the hash function in order to get the updated hash value.
+- The application of combined hashing to a pair of hash values forms a small hierarchy of hash values with a single value on its top. Similar to combined hashing, the idea of hierarchical hashing is the creation of one single hash value for a collection of data.
+- In B. Roy and W. Meier (eds.), Fast software encryption. FSE 2004. Lecture Notes in Computer Science, vol. 3017.
+    - **Tags:** #read
+    - **Note:** .read
+- 11. Hashing in the Real World A tale of comparing data and creating computational puzzles
+- Comparing Data Because it is the most straightforward use case of hash values, comparing data based on their hash values is considered first.
+- The goal is to compare data (e.g., files or transaction data) without comparing their content piece by piece and to make comparing any kind of data, regardless of their size and content, as easy as comparing two numbers.
+- Instead of comparing data by explicitly comparing their content piece by piece, you compare their cryptographic hash values.
+- Detecting Changes in Data The idea of comparing data based on their hash values can be easily extended to the case of detecting changes.
+- The goal is to determine whether data (e.g., a file or transaction data) that is supposed to stay unchanged was changed after a certain date or after sending it to someone or after it was stored in a database.
+- Referring to Data in a Change-Sensitive Manner Comparing data and detecting changes based on their hash values can be considered basic use cases of hash values. A slightly more advanced application case of hash values is hash references,
+- The goal is to refer to data (e.g., transaction data) that are stored somewhere else (e.g., on a hard disk or in a database) and ensure that the data have remain unchanged.
+- The idea is to combine the cryptographic hash value of the data being stored with information about the place where the data are located. If the data were changed, both pieces of information would no longer be consistent and hence the hash reference would become invalid.
+- References to data are the digital equivalent to cloakroom tickets. Cloakroom tickets point to the physical location at which your jacket is stored in the cloakroom.
+- References to data in computers work the same way: they are pieces of data that refer to other data.
+- Hash references refer to other data, and they additionally verify that the data being referred to were not changed since the reference was created.
+- The key point of hash references is the fact that they utilize cryptographic hash values , which can be seen as unique fingerprints of data. Hence, it is very unlikely to have two different pieces of data that have an identical hash value. As a result, a broken hash reference is considered to be evidence that the data were altered after the hash reference was created.
+- Storing Data in a Change-Sensitive Manner
+- The goal is to store a large amount of data e.g., transaction data that are supposed to stay unchanged. Any changes to these data are to be detected quickly and easily.
+- Cloakroom tickets point to coat hooks that carry jackets. This is simple and straightforward. But what precludes you from putting a cloakroom ticket in the pocket of another jacket and storing that second jacket in the cloakroom as well? As a result, the latter cloakroom ticket points to a jacket that contains a cloakroom ticket, which in turn points to another jacket. Actually you can create long and complicated chains of jackets that have cloakroom tickets in their pockets, which point to other jackets, which also have a cloakroom ticket in their pockets, and so on and so forth.
+- In a similar fashion, one can store data together with hash references that point to other data, which in turn store hash reference that refer to further data, and so on and so forth. If any of the data or hash references is changed after their creation, all the hash references are broken. Since broken hash references serve as evidence that data were changed after the reference was created, the whole construct stores data in a change-sensitive manner.
+- Causing Time-Consuming Computations
+- For reasons that will become understandable in later steps of this book, you may need to create puzzles that require computational resources in order to be solved. It should not be possible to solve these puzzles based on knowledge or data stored somewhere or by means of thinking, like an IQ test or a knowledge test. The only way to solve these puzzle is by sheer computational power and hard computational work.
+- Hash puzzles are computational puzzles that can be seen as the digital equivalent to the task of opening a combination lock by trial and error.
+- Elements of a hash puzzle are4: Given data that have to be kept unchanged Data that can be freely changed, the so-called nonce The hash function to be applied Restrictions on the hash value of the combined hashing, also called the difficulty level
+- Combined hashing is applied to the data and the nonce. The resulting hash value has to fulfill the given restrictions.
+- 12. Identifying and Protecting User Accounts A gentle introduction to cryptography
+- Mailboxes functioning like trapdoors. By design, it is easy to insert a letter through the letter slot, but it is very hard to pull a letter out that way because taking out letters is supposed to be done only by the addressee who owns the key necessary to open the mailbox.
+- In all these cases, the security concept is based on a separation of two kinds of information: first, publicly known information that serves as an address to a trapdoor-like box; and second, private information that serves as the key for opening the box and accessing the things it contains.
+- The goal is to identify owners and property uniquely and to ensure that only the lawful owner can access his or her property
+- The idea is to treat accounts like mailboxes : everyone can transfer property to it, but only the owner of the account can access the things that are collected inside. The major characteristic of a mailbox is that its location is known and hence anyone can put something in but only the owner can open it with a key. The duality of a public mailbox, on the one hand, and a privately held key, on the other hand, has an equivalent in the digital world: public-private-key encryption. One uses public keys for identifying accounts to which everyone can transfer ownership, while access is restricted to those who possess the corresponding private keys.
+- A Short Detour to Cryptography
+- The Major Idea of Cryptography
+- The major idea of cryptography is to protect data from being accessed by unauthorized people.
+- Similar to locks and keys in the physical world, cryptography also uses keys to protect data.
+- Terminology
+- The digital equivalent to closing a lock is encryption, while the digital equivalent to opening a lock is decryption.
+- Symmetric Cryptography
+- For many years people utilized methods of cryptography where the identical key was used to do both the encrypting and decrypting of data. Hence, everyone who was able to encrypt data with such a key was automatically able to decrypt cypher text created with that key as well. Since the identical key was used for both methods, this was called symmetric cryptography
+- However, it turned out that having one key for encryption and decryption was not always desirable. As a result, asymmetric cryptography was invented.
+- Asymmetric Cryptography
+- Asymmetric cryptography always uses two complementary keys . But there is a trick to this: cypher text created with one of these keys can only be decrypted with the other key and vice versa.
+- Van Tilborg, Henk, and Sushil Jajodia, eds. Encyclopedia of cryptography and security.
+- 13. Authorizing Transactions Utilizing the digital equivalent to handwritten signatures
+- The blockchain needs to ensure that only the lawful owner can transfer his or her property to other accounts. This is the point were the concept of authorization enters the scene.
+- This step explains the concept of stating agreement with transactions in an electronic ledger that is similar to handwritten signatures.
+- Transaction data are the foundation of describing and clarifying ownership.
+- Only the lawful owner of an account should be able to transfer property or ownership rights associated with his or her account to another account.
+- The main idea of ensuring that only the lawful owner can transfer ownership is to utilize a digital security measure that is equivalent to handwritten signatures and serves the same purpose: identifying an account, stating the agreement of its owner with the content of specific transaction data, and approving its execution by allowing the data to be added to the history of transaction data.
+- Digital signatures are the equivalent of handwritten signatures. They utilize cryptographic hashing and the private-to-public information flow of asymmetric cryptography.
+- three major elements of digital signatures: Creating a signature Verifying data by using the signature Identifying fraud by using the signature
+- Creating a Signature
+- create the hash value of the greeting, which is 7F83B165, and encrypt it with my private key. The cypher text of the greeting’s hash value (the black box containing white letters)
+- It is unique with respect to two aspects: First, it can be traced back to me uniquely because I created it with my unique private key . Second, it is unique regarding the text of the greeting because it is based on the digital fingerprint of the greeting.
+- The message, that is, my greeting together with the digital signature, is sent to the whole world. Everyone can verify that I authorized this message by utilizing my public key.
+- The process starts with the greeting. At first the recipient of the message calculates the hash value of the greeting by himself, which yields the value 7F83B165. Then the recipient of my message decrypts the attached cypher text (the digital signature) with my public key. Doing so yields the value 7F83B165, which is the hash value of that version of the greeting I wanted to send to the world. Comparing both hash values completes the verification. Since both hash values are identical, the recipient correctly concludes, first, that the message was signed by me, because he was able to decrypt the signature with my public key, and second, that the greeting text found in the message is indeed the one I wanted to send because the decrypted cypher text is identical with the hash value of the greeting in the message.
+- Digital signatures in the blockchain fulfill the following requirements : They state agreement of the owner of the account who hands off ownership with specific transaction data. They are unique for the whole content of transaction data in order to prevent it from being used to authorize other transactions without the agreement of its author. Only the owner of the account who hands off ownership can create such a signature. They are easy to verify by everyone.
+- There are two use cases of digital signatures in the blockchain: Signing a transaction Verifying a transaction
+- Signing a Transaction
+- In order to create a digital signature for a transaction, the owner of the account who hands off ownership performs the following steps: 1. Describes the transaction with all necessary information such as the involved account numbers, amount being transferred, and so on except the signature itself as it is not yet available.   2. Create the cryptographic hash value of the transaction data.   3. Encrypt the hash value of the transaction with the private key of the account that hands off ownership.   4. Add the cypher text created in point 3 to the transaction as its digital signature.
+- Verifying a Transaction
+- In order to verify a transaction, the following steps must be performed: 1. Create the hash value of the transaction data to be verified except the signature itself.   2. Decrypt the digital signature of the transaction under consideration with the account number that hands off ownership.   3. Compare the hash value of step 1 with the value gained in step 2. If both are identical, the transaction is authorized by the owner of the private key that corresponds to the account that hands off ownership, otherwise it is not.
+- Why It Works
+- Digital signatures of transaction data are a combination of the following: Cryptographic hash values of transaction data Cypher text that can be traced back to the corresponding private key of an account
+- Due to the fact that cryptographic hash values can be considered digital fingerprints, they are unique for each transaction.
+- A constituting property of public-private-key cryptography is that cypher text created with one key can only be decrypted with the corresponding key. The association of both keys is unique. Hence, a successful decryption of cypher text with a specific public key serves as proof that it was created with the corresponding private key.
+- This property make digital signatures suitable to serve as proof that the owner of the private key that was used to create the digital signature indeed agrees with the content of the transaction.
+- 14. Storing Transaction Data Building and maintaining a history of transaction data
+- 15. Using the Data Store Chaining blocks of data
+- 16. Protecting the Data Store Discovering the power of immutability
+- 17. Distributing the Data Store Among Peers When computers gossip
+- 18. Verifying and Adding Transactions Ruling a group of computers with carrot and stick
+- 19. Choosing a Transaction History Let computers vote with their feet
+- 20. Paying for Integrity Neither integrity nor the creation of trust is without costs
+- 21. Bringing the Pieces Together More than just the sum of its pieces
+- Part IV Limitations and Their Solutions
+- 22. Seeing the Limitations Even a perfect machine has limitations
+- 23. Reinventing the Blockchain The emergence of four different kinds of blockchain
+- Part V Using the Blockchain, Summary, and Outlook
+- 24. Using the Blockchain A tool with thousands of applications
+- 25. Summarizing and Going Further Further developments, alternatives, and the future of the blockchain

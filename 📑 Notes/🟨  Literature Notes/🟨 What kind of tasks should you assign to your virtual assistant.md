@@ -1,0 +1,15 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Virtual Assistant]]
+- **Source:** [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]]
+- **Project(s):** [[📦 Freelance Software Engineer's Guide to Hiring a Virtual Assistant]]
+- The key thing to managing a virtual assistant is to assign them a variety of different tasks. You want to give them a good mix of administrative work, long-term projects, and projects that will level them up.
+- Having a good mix of projects means that they will always have something to work on, even if there isn't a project with an immediate deadline.
+- **Administrative projects**
+    - These are the kinds of projects that you probably think of when you think of working with a virtual assistant. Things like:
+        - Transcribing client meetings and sending notes around to all attendees
+        - Researching something for you
+        - Fixing small technical issues or billing issues
+- **Long-term Projects**
+    - These are projects that are a high priority but aren't urgent; things you want to complete eventually. Think of things like:
+        - Researching and creating a list of conferences and speaking engagements with their application deadlines, as well as applying for them.
+- **Learning Projects**
+    - These are projects that will improve what your VA is capable of over time.

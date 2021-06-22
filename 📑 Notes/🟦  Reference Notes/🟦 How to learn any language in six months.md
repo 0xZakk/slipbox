@@ -1,0 +1,27 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Learning #Language
+- **Source:** https://www.youtube.com/watch?v=d0yGdNEWdn0&ab_channel=TEDxTalks
+- **Author:** [[Chris Lonsdale]]
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - If you can learn really quickly, you can limit the amount of time spent in school and schooling environments and get people up to speed on something quickly
+    - What started as a desire to learn more quickly, turned into a desire to learn languages, specifically, more quickly
+    - Set a goal of achieving native-level fluency in Chinese in two years (at the time, people generally thought this would take 10 years). Achieved fluency in 6 months and native-level in about a year.
+    - How is this possible?
+    - Modeling: you find people that are already doing it, you identify the principles, and apply them
+    - Chris believes that it is possible to take any normal adult and bring them up to fluency in any language in six months.
+    - History of human progress is all about expanding limits
+        - Human history is about expanding the limits of what is possible
+        - For most of human history, people thought a sub-four minute mile was completely impossible. Then [[Roger Bannister]] did it in 1956 and since, the world record for the mile has gotten shorter and shorter.
+        - One hundred years ago, everyone thought that human flight was impossible, especially what we would now call cargo flight (airplanes carrying really big things). Now this is extremely commonplace. While the technology is still very early, we even have flying cars now!
+    - How to learn any language in 6 months: 2 myths, 5 Principles, and 7 Actions
+    - 2 Myths:
+        - Talent doesn't matter - there is no "born in to it," typically when someone is struggling to learn something it's because they're using an ineffective strategy
+        - Immersion per se doesn't work - a drowning man can't learn to swim
+    - Attention - Meaning - Relevance - Memory
+    - 5 Principles:
+        - Focus on language content that is relevant to you
+            - We master tools by using them and learn how to use them when they're relevant to us
+            - 

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Azure]] [[Docker]] [[Azure Container Registry]]
+- **Source:** [[🟦 Deploy and run a containerized web app with Azure App Service]]
+- **Project(s):** [[📦 Article: Containerizing and Deploying a Django app to Azure]] 
+- Azure Container Registry (ACR) is a service provided by Azure to make working with container images easier.
+- It is similar to Docker Hub, in that it works by creating a repository of one or more Docker images for each registry. You can keep registries of images private or make them public.
+- You can also integrate ACR registries with other Azure services. This is helpful for doing things like redeploying a web application whenever an image is rebuilt.

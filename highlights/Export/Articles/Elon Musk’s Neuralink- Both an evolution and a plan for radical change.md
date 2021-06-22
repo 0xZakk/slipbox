@@ -1,0 +1,49 @@
+- **Type:** [[__ 🟦  Reference Note]] | [[Neuralink]] [[Neuroscience]] [[Elon Musk]]
+- **Source:** https://arstechnica.com/science/2019/08/elon-musks-neuralink-both-an-evolution-and-a-plan-for-radical-change/
+- **Author:** [[Ars Technica]] [[John Timmer]]
+- **Summary:** 
+- **Highlights:**
+    - The company, he said, was **motivated by his concerns about AI ending up hostile to humans: providing humans with an interface directly into the AI's home turf might prevent hostilities from developing**.
+    - Musk also suggested that he hoped to avoid any electrodes implanted in the brain, since that might pose a barrier to adoption.
+    - Instead, we got a detailed technical description of the hardware behind Neuralink's **brain-computer interface**, which would rely on surgery and implanted hardware. In the process, Neuralink went from something in the realm of science fiction to a company that would be pushing for an aggressive evolution of existing neural-implant hardware.
+    - So, how precisely is Neuralink pushing the envelope on what we can already do in this space? And does it still veer a bit closer to science fiction in some aspects?
+    - The big picture
+        - The plan is to access the brain via a hole less than eight millimeters across. This small hole would allow Neuralink to implant an even smaller (4mm x 4mm) chip and its associated wiring into the brain.
+        - The chip will get power from, and communicate with, some wireless hardware located behind the ear, much like current cochlear implants.
+        - Inside the brain, the chip will be connected to a series of small threads that carry electrodes to the relevant area, where they can listen in on the electrical activity of neurons. These threads will be put in place using a surgical robot, which allows the surgeon to insert them in a manner that avoids damaging blood vessels.
+        - The chip will take the raw readings of neural activity and process them to a very compact form that preserves key information, which will be easier for their wireless hardware to transmit back across the skull.
+        - Electrical impulses can also be sent to the neurons via the same electrodes, stimulating brain activity. Musk thinks that it would be safe to insert as many as 10 of these chips into a single brain, though Neuralink will obviously start testing with far fewer.
+        - All of that is an evolution of some of the existing work on brain-computer interfaces. But the details behind some of these features provides a better sense of how Neuralink is pushing the field forward.
+        - The electrodes
+            - In existing systems, the electrodes are their own distinct hardware component, but Neuralink is seeking to change this.
+            - In use, multiple electrodes will be combined into a single "thread," with polymer layers providing insulation to avoid cross-talk.
+        - The chip
+            - According to Neuralink's DJ Seo, the company is iterating chip designs at a three-month pace and has brought the size down by a factor of seven over multiple generations.
+            - Neural signals are both analog and extremely noisy. But in the systems we've looked at so far, information is carried by what are called "spikes." These involve a dramatic change in voltage that quickly returns to background levels.
+            - Neuralink's chip is designed to take the raw input from its electrodes, filter out some of the noise, and then identify the spikes. It then registers the spikes in an extremely compact data format (Seo said compression is about 200-fold) and sends it along to the controller sitting outside the skull.
+    - An evolution
+        - A lot of Neuralink's vision may sound difficult to believe, but the company's roadmap, in many ways, starts as an extension of existing work.
+        - We have surgically implanted electrodes in both humans and animal subjects, and we have successfully read neural activity. In some cases, we've even used those readings to perform tasks, like controlling a mouse cursor or even a robotic arm
+        - But there appear to be a number of key advances in what Neuralink is working on, one obvious, the others less so.
+        - The obvious Neuralink advance is the size of the implant. As you could see in that video, existing electrodes are hooked up to a substantial box that protrudes from the skull, needed in part because the electrodes need adaptors before they can talk to any other hardware.
+        - Neuralink wants to get rid of all of that.
+        - It wants the surgery to be elective and outpatient, and it wants the recipients of its hardware to be able to go home with it and go about their lives as normal.
+        - The chip, and the fact that it is integrated with its electrodes, is the key to this advance.
+        - While there has been some hardware demonstrated in academic labs that allows mice and rats to move freely with implanted electrodes, that hardware's still quite a bit bulkier, and the animals are undoubtedly aware of its presence. If Neuralink gets its wireless connection working, the results would be somewhat better than the cutting edge present in research labs, and made in volume.
+        - But Neuralink wants its hardware to be approved for use in humans, where it would represent a much more dramatic advance.
+        - Use in humans, however, will require extensive testing of everything. The safety of the electrodes and their lifespan within the brain environment, the surgical robot and implantation process, and the chip itself (which is meant to be implanted under the skull) will all need extensive validation.
+        - What's less clearly an advance is the data coming out of this system.
+        - From the images shown during Neuralink's presentations, the raw data is relatively noisy, and it seems to have a lot of drift where the entire pattern of neural activity shifts up and down somewhat.
+    - Revolution or science fiction?
+        - Overall, if things work as they're expected to, the system currently in development by Neuralink represents a significant advance over existing brain-computer interfaces.
+        - At over 1,000 electrodes in a compact format, there are plenty of existing use cases, both in humans and in animal research, that could benefit from something like a near-future iteration of this hardware.
+        - But Musk and the Neuralink execs aren't interested in existing use cases. Their goal is to make this so simple to implant that it can be done on an outpatient basis. Implantees would be sent home with an app on their phone that monitors the device and lets them control it.
+        - Why would you need more than one implant? Because some of the things Musk is talking about will require talking with different parts of the brain. For example, he mentioned giving an artificial limb haptic feedback, an excellent goal.
+        - But controlling the limb would require a connection to the motor cortex, while the feedback would have to be fed in to the sensory processing system. These are in distinct areas of the brain and would therefore require separate sets of electrodes to communicate with.
+        - There's no reason in principle this couldn't be done, but it hasn't yet been tried. In part, that's because any one implant creates the risk of damage to neurons, the connections among them, and the tissues that support them. Each additional implant would increase that risk.
+        - As we mentioned in our [earlier analysis of Neuralink](https://arstechnica.com/science/2019/07/musks-newest-startup-is-venturing-into-a-series-of-hard-problems/), there's also the coding problem. For any of this to work, we have to understand how the information transmitted by neurons is encoded. This will vary among different regions of the brain; a set of signals traveling along the optical nerve won't mean the same thing as an identical set of signals flowing around the hippocampus as it tries to dredge up a memory.
+        - Even when implants target the same brain region, there's going to be variation from implant to implant and patient to patient. That's because a given brain region contains a large population of neurons that often do distinct or partially overlapping of things.
+        - For example, in the visual cortex, some groups of cells will register the presence of vertical features; others horizontal ones; still others pick up motion; and so on. Each set of electrodes will pick up signals from different subsets of these populations, meaning each individual's system will have to learn to understand the particular intricacies of the brain activity it's listening in on. Sending signals back will probably require learning by both the implant controller and the person implanted.
+    - Aiming for science fiction can find (science) fact
+        - None of these challenges is insurmountable. But they're all real, and they're what stands between an obvious extension of existing technology and Musk's mid-term vision.
+        - That vision is currently in the science fiction realm: multiple implants, put in place through elective outpatient surgery, communicating wirelessly with a small bit of hardware behind the ear, and it's all controlled by a cellular phone. No individual part of that vision is too far beyond existing technology, but assuming that all of these individual challenges can be overcome (or at least overcome in a specific, convenient manner) is extraordinarily optimistic.

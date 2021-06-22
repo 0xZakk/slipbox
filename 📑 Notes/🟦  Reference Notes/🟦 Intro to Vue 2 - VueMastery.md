@@ -1,0 +1,6 @@
+- **Type:** #[[🟦 Reference Note]] | #VueJS #JavaScript
+- **Source:** https://www.vuemastery.com/courses/intro-to-vue-js/
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - 

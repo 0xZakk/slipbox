@@ -1,0 +1,51 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Author:**  [[Monica Lent]]
+- **Project(s):** [[📦 Learn SEO]]
+- **Summary:** 
+- **Highlights:**
+    - **Because SEO means free, __recurring__ traffic!**
+    - **So what is SEO exactly?** SEO is a way of making sure that search engines can understand what your page is about, that it contains quality up-to-date information from an authoritative source, and will answer the question that the searcher had in mind (reader intent!!!).
+    - It's Day 3 of our blogging challenge, and I'm going to walk you through **my basic on-page SEO process** so you can see how easy it can be to make your blog search-friendly, from keyword research to content.
+    - It includes these steps:
+        - Discover keywords
+        - Niche down to a main keyword you can rank for
+        - Find related tail keywords
+        - Write the post and include those keywords in strategic places
+        - Craft an __excellent __title people will want to click on
+    - **EXAMPLE**: In today's email, I'll walk you through my process of how to write a post that's __generally__ about **"how to use react router"**.
+    - **Step 1. Discover keywords**
+        - First thing I'll do is think about keywords. I'll open up Google and search for "react router".
+        - [Keywords Everwhere](https://keywordseverywhere.com/) browser extension
+        - Next I'll double-check the data in my favorite keyword research tool for beginners, **KeySearch.**
+        - Video: https://www.loom.com/share/774171439d7b44c98d440810c3dc4de5
+    - **Step 2. Niche down to a keyword you can rank for**
+        - Now, first thing you might notice is that the top 3 results for "React Router" are, well, the official website for the project. Chances are I can't (and shouldn't) outrank them for a term like "react router".
+        - But what other topics are currently **__underserved__ **about React Router, which I could write about, and rank for?
+        - What I can see is that it's extremely hard to rank for. But what I want to do is find some terms that are not THAT hard. **And I can see two here: "react router link" and "react router typescript".**
+        - Now, 37 is not a "low score" (you can get as low as 10-20, those results will be a bright blue). But it's more attainable, and if you create multiple bits of content around React Router, you have a better chance of ranking for all of them!
+        - If I search for "react router typescript", I can see that the content is not that great and the search results page isn't over-saturated with videos, and some of the page 1 results are from Stackoverflow instead of tutorials. **I believe I can do it better :)**
+        - So now I've decided, I want to try for the __main__ keyword "**react router typescript**".
+    - **Step 3. Find tail keywords**
+        - Tail keywords are basically like **related keywords** that can help you make a more COMPLETE blog post. So if I see people search for "react router params" and "react router link", i should definitely include those in my post with e.g. sub-sections titled "How to use React Router Params with TypeScript".
+        - It's also a chance to "double dip", just in case I might rank for a more competitive search term.
+        - Just make a list of those related keywords as bullet points in your post for future reference. Aim for 10-20 tail keywords at a minimum, they don't all need to be sections or perfectly related to your topic.
+    - **Step 4. Write the post and include those keywords in strategic places**
+        - You should __naturally__ use those keywords in some places, such as:
+            - Your meta title and description
+            - Your subheadlines
+            - Your first sentence or sentences
+            - As the anchor texts on internal links from your other related posts to the post you're writing
+            - Your image file names and alt tags (just remember the alt tag's primary use is for accessibility reasons)
+            - Throughout your paragraphs
+        - **However, there are other important tactics for ranking besides pure quality, **especially for competitive search terms
+        - Luckily, as I will mention later, **most developers don't optimize their content for SEO** whatsoever, the competition is lower than you might expect.
+    - **Step 4b. External links**
+        - You should also link to websites with more resources on related topics, but not necessarily to content that is competing with you for the top spot.
+        - For example, React Training doesn't have any content about "react router typescript". So I can "safely" link to them, as a major authority about React Router, without __competing__ with them. **This tells Google I'm a complete resource on the topic and doesn't hurt my chance at ranking. **(That's because, as I just mentioned, Google uses links as a way to determine a website's authoritativeness on a topic)
+    - **Step 5. Craft an excellent title people will want to click on**
+        - It doesn't need to be__ clickbait__ to be a compelling headline. It should be descriptive, succinct, and accurate. Here are just a few ideas for our example:
+            - **React Router with TypeScript: The Complete Guide** - Completion is important!
+            - **How to use React Router with TypeScript **- Simple and straightforward
+            - **Step-by-step: How to use React Router with TypeScript **- Promises to approach the topic in small steps
+            - **Use React Router with TypeScript (2020 Guide)** - Tells you the material is up-to-date
+        - The reason the title is so important is a) Google uses your click through rate as a ranking factor b) If no one clicks on your post by reading the title, your effort is kind of wasted. Always write multiple headlines before deciding one!

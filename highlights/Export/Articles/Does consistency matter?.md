@@ -1,0 +1,34 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Author:** [[Monica Lent]]
+- **Project(s):** 
+- **Summary:** 
+- **Highlights:**
+    - "You have to write consistently to get results." You've heard it before, right? "Consistently, ideally daily" — It's the writing tip that accomplished authors all seem to agree on. But is it __really__ true?
+    - This week, I want to spark a discussion with you about:
+        - Why writing daily **won't work** for most people
+        - How to form a writing habit you'll **actually keep**
+        - 3 highly **practical ways** to get yourself to write more often (without relying on sheer willpower)
+    - **Why writing daily won't work for most people**
+        - Odds are that writing and growing your blog isn't your number one priority; so you can't really commit to writing every day
+    - **How to form a writing habit you'll actually keep**
+        - One of the books I enjoyed reading this year was __The Compound Effect__ by Darren Hardy. A section that's stuck with me is the following story:
+        - Darren helped his co-worker gradually quit smoking. She felt amazing. Like a completely new person. Limitless like her newfound lung capacity! And she wanted to take advantage of how great she felt. So she told Darren about her plans to start going to the gym five days a week 💪
+        - His advice? **Start with a goal you can sustain.**
+        - He knew that if she put those expectations on herself, she'd fail, quit, and get demoralized. Because the habit was too big __to sustain __after the initial enthusiasm wears off.
+        - The question is, how can we increase our frequency over time **without burning out?**
+    - **3 highly practical ways to write more (without relying on sheer willpower)**
+        - **1. Find a way to make money from blogging or writing**
+            - Here's the thing: I would be lying if I told you that making money from blogging had nothing to do with publishing over 100 long-form articles in the last four years. My most prolific year of writing turned my annual blogging income into its monthly figure. It's not a coincidence.
+            - Concretely, here are a few ways to start thinking about earning an income from writing online:
+                - **A monetized blog****.** Sponsorships, ads, and affiliate links are the most popular ways to monetize openly accessible writing. Don't forget that there are dev-friendly options for all of these, like [Carbon Ads](https://click.convertkit-mail2.com/4zugonk5lpiehw3ne7ux/owhkhqh8zem3oebv/aHR0cHM6Ly93d3cuY2FyYm9uYWRzLm5ldC9ibG9ncw==) and affiliate programs like [Webflow](https://click.convertkit-mail2.com/4zugonk5lpiehw3ne7ux/z2hghnhdgz29wgup/aHR0cHM6Ly93ZWJmbG93LmNvbS9hZmZpbGlhdGVz) and [Namecheap](https://click.convertkit-mail2.com/4zugonk5lpiehw3ne7ux/p8heh9h7vewk8kaq/aHR0cHM6Ly93d3cubmFtZWNoZWFwLmNvbS9hZmZpbGlhdGVzLw==).
+                - **A paid newsletter. **Want a double-whammy way to make money __and__ be consistent? A paid, weekly newsletter could be the solution.
+                - ** blog that drives readers to a paid product.** As we talked about recently, you can use a blog to attract the right kind of reader to your website, who might be interested in something else you've created: an ebook, course, a SaaS, consulting, freelance services, etc.
+        - **2. Get accountable to your readers**
+            - While making money from blogging helped me produce the __most __writing, starting this newsletter has made me the most __consistent__.
+            - Find a way to get accountable to your readers. This can be in the form of:
+                - **A challenge you announce publicly. **Want to write daily for the next 30 days? Write an article about your plan, and then go do it.
+                - **A newsletter you publish on a set frequency.** Honestly, I was not in the mood to write today, but here I am. Because I feel accountable to create something useful for you on a weekly basis
+            - Working in public is not just great for that extra social pressure to keep you going, but when you "do something interesting" and talk about it online, people will want to follow your journey and connect with you.
+        - **3. Joining a community**
+            - This is last on the list, but the previous two points **wouldn't have been possible** without it: Being a part of a communities.
+            - The reason is, communities are a **sustainable and realistic** way to learn and work towards a long-term goal.

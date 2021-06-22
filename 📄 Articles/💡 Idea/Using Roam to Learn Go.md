@@ -1,0 +1,16 @@
+- **Type:** \#[[__ 📦 Projects]] \#[[🌱 Seed]]
+- **Summary:** Article on how I used Roam to learn Go
+- **Related Notes and Sources:**
+	\- 
+- **Notes:**
+	- Learning from books
+		- Follow a Zettelkasten method - __describe this__
+	- Reviewing code and CodeWars
+		- Review a challenge, review the code for a few of the sample applications and describe how each one works
+		- Then solve the challenge myself
+	- Create projects
+		- Roam is the medium of learning, thinking, and writing - but there has to be some output
+		- For me that was:
+			- Solved challenges on CodeWars
+			- Articles and vlogs teaching people what I had learned about Go
+			- A technical review for the book Go in Action

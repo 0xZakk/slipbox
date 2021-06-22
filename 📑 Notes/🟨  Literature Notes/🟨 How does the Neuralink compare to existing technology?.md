@@ -1,0 +1,11 @@
+- **Type:** [[__ 🟨 Literature Note]] |  [[Neuralink]] [[Neuroscience]] [[Elon Musk]]
+- **Source:** [[🟦 Elon Musk Announces Neuralink Advance Toward Syncing Our Brains With AI]] [[🟦 Elon Musk’s Neuralink: Both an evolution and a plan for radical change]] 
+- Given it's size and relative complexity, the Neuralink represents a pretty big advance over current brain-computer interface technology.
+- The Neuralink:
+    - Size: 23mm x 8mm (about the size of 5 US quarters)
+    - Fit: replaces a pieces of the skull (which is about 10mm thick) and flush with the outer edge of the skull. It's then covered back up with the skin from the scalp, leaving only a small scar.
+    - Number of electrodes: 1024
+- The Utah Array:
+    - Size: 4mm x 4mm
+    - Fit: Sits in the skull with the main hardware component protruding out from the skull.
+    - Number of electrodes: 100

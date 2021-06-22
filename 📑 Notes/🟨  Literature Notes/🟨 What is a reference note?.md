@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] |  [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes | Zettelkasten Method in Roam Research]]
+- This step is pretty short, since most of the work happens in the Literature Notes and Permanent Notes steps.
+- To create Reference Notes, simply add information at the top of the pages for the author and the book.
+- This is also where you would add notes to an index.

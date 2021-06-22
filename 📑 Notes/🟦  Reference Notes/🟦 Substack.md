@@ -1,0 +1,8 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]]
+- **Source:**  pocket
+- **Author:** reading.substack.com
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - truth is that which has predictive power. 
+    - The more accurately you can use it to predict the future, the more true it is. 
+    - I think hard work is an effect of something that you know needs to be done. 

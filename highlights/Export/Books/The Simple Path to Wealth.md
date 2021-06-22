@@ -1,0 +1,15 @@
+# The Simple Path to Wealth
+
+## Meta Data
+
+Source:  kindle 
+Author: JL Collins
+
+## Highlights
+
+### Highlights
+
+- Here’s an important truth: Complex investments exist only to profit those who create and sell them. Further, not only are they more costly to the investor, they are less effective. Here are a few key guidelines to consider: Spend less than you earn—invest the surplus—avoid debt. Do simply this and you’ll wind up rich. Not just in money. Carrying debt is as appealing as being covered with leeches and has much the same effect. Take out your sharpest knife and start scraping the little bloodsuckers off. If your lifestyle matches—or god forbid exceeds—your income, you are no more than a gilded slave. Avoid fiscally irresponsible people. Never marry one or otherwise give him or her access to your money. Avoid investment advisors. Too many have only their own interests at heart. By the time you know enough to pick a good one, you know enough to handle your finances yourself. It’s your money and no one will care for it better than you. You own the things you own and they in turn own you. Money can buy many things, but nothing more valuable than your freedom. Life choices are not always about the money, but you should always be clear about the financial impact of the choices you make. Sound investing is not complicated. Save a portion of every dollar you earn or that otherwise comes your way. The greater the percent of your income you save and invest, the sooner you’ll have F-You Money. Try saving and investing 50% of your income. With no debt, this is perfectly doable. The beauty of a high savings rate is twofold: You learn to live on less even as you have more to invest. The stock market is a powerful wealth-building tool and you should be investing in it. But realize the market and the value of your shares will sometimes drop dramatically. This is absolutely normal and to be expected. When it happens, ignore the drops and buy more shares. This will be much, much harder than you think. People all around you will panic. The news media will be screaming Sell, Sell, Sell! Nobody can predict when these drops will happen, even though the media is filled with those who claim they can. They are delusional, trying to sell you something or both. Ignore them. When you can live on 4% of your investments per year, you are financially independent.
+- Three things saved us: Our unwavering 50% savings rate. Avoiding debt. We’ve never even had a car payment. Finally embracing the indexing lessons Jack Bogle—the founder of The Vanguard Group and the inventor of index funds—perfected 40 years ago.
+- Money can buy many things, none of which is more important than your financial independence.
+- Here’s the simple formula: Spend less than you earn—invest the surplus—avoid debt

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Habits]]
+- **Source:**  pocket
+- **Author:** blog.andymatuschak.org
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - smoothly ratcheted targets, in moving weekly windows, with teeth 

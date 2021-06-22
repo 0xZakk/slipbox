@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Attention]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- Focused attention is when we narrow our mind's focus to a single task or problem.
+- We can typically only concentrate like this for a few seconds, at most.

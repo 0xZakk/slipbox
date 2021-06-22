@@ -1,0 +1,8 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[Psychology]] [[wealth-accumulation]]
+- **Source:**  pocket
+- **Author:** fs.blog
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - “What’s not going to change in the next ten years?” 
+    - Answers to what’s going to stay the same in the next ten years, while boring, offer the best investment opportunities. 
+    - Predicting what’s going to change is hard. Predicting what’s going to stay the same is relatively easy. 

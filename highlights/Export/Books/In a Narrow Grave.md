@@ -1,0 +1,69 @@
+# In a Narrow Grave
+
+## Meta Data
+
+Source:  kindle 
+Author: Larry McMurtry
+
+## Highlights
+
+### Highlights
+
+- I STARTED, INDEED, TO CALL this book The Cowboy in the Suburb, but chose the present title instead because I wanted a tone that was elegiac rather than sociological. Nonetheless, I think it is essentially that movement, from country to subdivision, homeplace to metropolis, that gives life in present-day Texas its passion. Or if not its passion, its strong, peculiar mixture of passions, part spurious and part genuine, part ridiculous and part tragic.
+- Living here consciously uses a great deal of one’s blood; it involves one at once in a birth, a death, and a bitter love affair. From the birth I expect very little: the new Texas is probably going to be a sort of kid brother to California, with a kid brother’s tendency to imitation. The death, however, moves me—the way of life that is dying had its value. Its appeal was simple, but genuine, and it called to it and is taking with it people whom one could not but love. The last, the affair of the heart and blood, is really more physical than would have seemed possible, with a land so unadorned; but the quality of one’s intimacy with a place seems to depend as little on adornment as the quality of one’s intimacy with a woman. One should not, perhaps, call it a bitter love affair—merely one that has become a little too raw, too real, too stripped of fantasy. The time may have come to part or marry, but, for myself, I put no trust in either alternative. Parting would not leave me free, nor marriage make me happy.
+- When I think about the passing of the cowboy, my mind inappropriately hangs on the poem of Cavafy’s, from the scene in Shakespeare, from the sentence of Plutarch’s: the poem in which the god abandons Antony. I like Cavafy’s treatment best, with Antony at his window at night in Alexandria, bidden to drink past all deceiving while the god and his retinue file away. In Shakespeare only the guards hear the strange music that marks the god’s departure, but it is still a telling moment—indeed, a telling fancy. I can believe I have heard such music myself, in Fort Worth, Houston, Dallas; by the Rio Grande and the Brazos; in the brush country and on the Staked Plains. The music of departure is now rather faint, the god almost out of hearing. The god who abandoned Antony was Hercules—what is the name of the god who now abandons Texas?
+- The Winning of the West is a romantic subject—doing the cowboy realistically would have amounted to a sort of alchemical reverse English: it would have meant turning gold into lead. As a figure of high romance, the cowboy has remained compelling.
+- Still, the appeal can’t last forever. The West definitely has been won, and the cowboy must someday fade. Indeed, a certain change has already taken place, and was taking place when Warshow wrote his essay (1954). If one can apply to the Western the terminology Northup Frye develops in his essay on fictional modes, we might say that in the fifties the Western began working its way down from the levels of myth and romance toward the ironic level which it has only recently reached.
+- NO DOUBT HIGH MIMETIC Westerns will continue to be made as long as John Wayne is acting—he wouldn’t fit in any other mode—but in number they are declining, and the figure of the Westerner is gradually being challenged by more modern figures. At the moment, the Secret Agent seems to be dominant. In time, of course, we can expect to see the conquest of space (if we really conquer it) take over the place in the American mythos now held by the winning of the West, but that day has not yet come.
+    - **Tags:** #idea
+    - **Note:** .idea us is a country without a modern hero. Need pioneers and national missio s (conquer the west, defeat germany, defeat the soviets, rebuild europe, win space). Goal now should be to set a new frontier
+- An Urban Age demands an urban figure: the Secret Agent is an updated Gunfighter. James Bond has appropriated the skills of the Gunfighter and added urbanity and cosmopolitanism.
+- Adventures With a Texas Naturalist.
+    - **Tags:** #read
+    - **Note:** .read
+- The Immediate Experience,
+    - **Tags:** #read
+    - **Note:** .read
+- He seemed to have been plagued by a persistent sense that his books were a reduction of life, rather than an amplification of it.
+- We Pointed Them North
+    - **Tags:** #read
+    - **Note:** .read
+- Literature has coped fairly well with the physical circumstances of life in Texas, but our emotional experience remains largely unexplored, and therein lie the dramas, poems, and novels.
+- Three Men in Texas: Bedichek, Webb, and Doble. Ed. Ronnie Dugger.
+    - **Tags:** #read
+    - **Note:** .read
+- The Great Plains,
+    - **Tags:** #read
+    - **Note:** .read
+- Guide to Life and Literature of the Southwest,
+    - **Tags:** #read
+    - **Note:** .read
+- Some Part of Myself,
+    - **Tags:** #read
+    - **Note:** .read
+- The Ben Lilly Legend,
+    - **Tags:** #read
+    - **Note:** .read
+- A Vaquero of the Brush Country,
+    - **Tags:** #read
+    - **Note:** .read
+- Tongues of the Monte,
+    - **Tags:** #read
+    - **Note:** .read
+- Charles Goodnight: Cowman and Plainsman,
+    - **Tags:** #read
+    - **Note:** .read
+- There are times when one just feels like driving.
+- The Texan may prefer his politicians a little oozy, but he likes his women green and his cities as raw as possible, so as to allow free play to what’s left of the frontier spirit.
+- The old, loud, vulgar, groin-scratching Texan is rapidly giving way to a quieter sort of citizen, one who knows how to live with his itch.
+- Houston may be one of the last places left where men so simply go for their guns when an argument gets hot.
+- Houston is open, an opportunist’s delight.
+- HOLDING UP THE HEAD had its importance too, for with horsemanship went pride, and with that, stoicism. The cowboy, like Mithridates, survived by preparing for ill and not for good—after all, it sometimes took only a prairie-dog hole to bring a man down. Where emotion was concerned, the cowboy’s ethic was Roman: emotion, but always emotion within measure.
+- Texas is rich in unredeemed dreams, and now that the dust of its herds is settling the writers will be out on their pencils, looking for them in the suburbs and along the mythical Pecos. And except to paper riders, the Pecos is a lonely and a bitter stream.
+- I have that from men who rode it and who knew that country round—such as it was, such as it can never be again.
+- We Pointed Them North,
+    - **Tags:** #read
+    - **Note:** .read
+- Somebody in Boots.
+    - **Tags:** #read
+    - **Note:** .read

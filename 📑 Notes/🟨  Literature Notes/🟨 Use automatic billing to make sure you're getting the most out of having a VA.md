@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Virtual Assistant]]
+- **Source:** [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]] 
+- **Project(s):** [[📦 Freelance Software Engineer's Guide to Hiring a Virtual Assistant]] 
+- Whichever option you go with, you should set up automatic billing for a fixed-price. This way you're automatically charged the same amount ever 2-4 weeks, even if you didn't give your VA enough work to fill those hours.
+- You should do this so that the pressure is on you to constantly be giving your VA work and "upgrading" what your VA can do for you.
+- For your first few weeks with a virtual assistant, it will take you longer to package and assign work than it would take you to do the work yourself. But you want to avoid doing work that could be done by an assistant at all costs.
+- Setting up automatic billing shifts the incentives slightly so that the VA is getting paid even if you do a bad job of delegating, so don't waste your money and do a good job of delegating.

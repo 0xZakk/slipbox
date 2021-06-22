@@ -1,0 +1,9 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]]
+- **Source:** [[🟦 Introduction to Permissioned Blockchains]]
+- **Project(s):** [[📦 Grokking Blockchain]]
+- Permissioned blockchains are not without their disadvantages.  There are two that are important to consider: Security and Control.
+- **Security:**
+    - Fully public and fully private blockchains tend to offer better security because of how nodes/participants achieve consensus. In permissioned blockchains, it can be easier for a section of the network to work together to modify the network (either the rules or the ledger).
+    - This potential security vulnerability can be resolved by establishing permissions and rules so that it's difficult for bad actors to merge together
+- **Control and Censorship:**
+    - Control is a defining feature of permissioned blockchain, but it also acts as a form of censorship. The regulations of the blockchain can restrict transactions and control them from happening.

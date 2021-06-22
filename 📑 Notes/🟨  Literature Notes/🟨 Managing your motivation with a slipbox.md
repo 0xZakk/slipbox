@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Motivation]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- Motivation, or will power, is a limited cognitive resource, just like our attention and our short-term memory.

@@ -1,0 +1,11 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Virtual Assistant]]
+- **Source:** [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]]
+- **Project(s):** [[📦 Freelance Software Engineer's Guide to Hiring a Virtual Assistant]]
+- The first thing to consider when it comes to cost is how much you'll be paying the virtual assistant. 
+- You can easily find a virtual assistant in Asia or Eastern Europe who will work for a few dollars an hour. However, Tiago strongly recommends against doing this. The hidden cost of hiring a cheaper VA is that you may have to deal with things like checking their writing, correcting their mistakes, and worrying about whether or not you can trust them to complete projects that are non-trivial.
+- Going with a more expensive option can mean you get someone who speaks English well, has experience as a virtual assistant, and is familiar with US business cultural practices like time management.
+- These benefits are somewhat hidden in the extra $15-20 dollars per hour that you'll pay, but you will absolutely feel the rewards.
+- The second thing to consider is how many hours per week the virtual assistant will be helping you.
+- Tiago recommends a minimum of 10 hours per week for your virtual assistant. 10 hours per week is the minimum time you can request and have it so you are their only client and they are able to be engaged and up to speed with everything you have going on.
+- So if you're hiring someone for between $20 and $30 per hour for a minimum of 10 hours per week, then you're looking at $200 to $300 per week or $10,400 to $15,600 per year. This would be just for the virtual assistant. If you go with a service, then they will likely add some additional fee on top of this.
+- Tiago paid $19,315 for the year for a virtual assistant from Belay

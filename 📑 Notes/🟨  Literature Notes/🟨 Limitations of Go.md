@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Arrays and Slices in Go]]
+- **Source:** [[🟦 Go In Action (Preview)]]
+- While Go has many advantages, there are some areas where it isn't applicable or the best option. Some things to consider when using Go:
+- Go does not support Object-oriented Programming. It doesn't have an object type. You can mimic this behavior with structs and methods, but it isn't quite as easy as in OOP languages.
+- Goroutines are powerful and lightweight, but not as fully featured as OS threads that you might work with in another systems language. One crucial limitation is that goroutines can't communicate with each other the way OS threads can.
+- Go's built-in garbage collection is very fast and powerful and suitable for most applications, except where you need to allocate and de-allocate memory manually, which Go does not allow you to do.

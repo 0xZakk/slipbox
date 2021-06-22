@@ -1,0 +1,69 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #NFTs
+- **Source:** https://www.youtube.com/watch?v=U3JuLLSsEJQ
+- **Summary:**
+    - 
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - Motivations and details of Zora
+    - Why of Zora
+        - Platforms are everywhere - they're powerful and they're bad
+        - They generally dictate how people interact with the internet (and interact with each other on the internet)
+        - This is especially true for creators. Platforms have created really large social graphs that force creators to play by the platform's rules
+        - Zora and NFTs is about giving power back to individuals and creators
+    - [[ERC-721]]
+        - Standard API for ownership of NFTs on Ethereum
+        - Create and transfer the ownership of digital goods on the internet
+        - As of 2020: marketplaces sat on top of ERC-721, but there wasn't native monetization built into the standard. This lead to centralized marketplaces (OpenSea, SuperRare, etc) --> Lead to platform lock in and reproducing the same problem in the decentralized world
+            - Lock in, platform fees, etc
+        - Zora: How can we improve upon 721 to have value accrue to owners and creators of NFTs (instead of the marketplaces)
+    - Zora
+        - Unifying the media and the market by embedding the market inside the token
+        - Zora is a protocol that builds upon the 721 standard
+        - Extension of ERC-721 that embeds royalty and auction logic into the smart contract
+    - Zora Market
+        - Perpetual
+            - Existing marketplaces have reserve prices that have to be met and the highest bidder wins
+            - Zora market is perpetual. Someone can bid on it, which goes into a bid liquidity. When the creator accepts a bid, the liquidity stays in the contract unless the bidders remove it.
+            - It's like transferring ownership of the order book and the NFT
+        - Multi-currency
+            - Any ERC 720 token can be accepted as a bid token
+            - You'll see bids in lots of different tokens
+        - Open 
+            - Generally, the highest bidder wins
+            - In Zora, the owner of the NFT has control over which bid to accept
+        - Sell On Share
+            - A bidder is able to create a sell on share as part of their bid
+            - This is generally used in professional soccer for transferring players. When you transfer a player to another team, you can specify the sell on share. When that player gets transferred, you get a kick back
+            - Creator gets a kick back on each sale of the NFT
+        - Creator Share
+            - Sort of like royalties - you can specify some percentage of equity that you always own of the NFT
+            - Every time the NFT gets sold, the creator gets some percentage of the sale price
+            - Doesn't work (yet) if someone goes and sells the NFT on a different market
+        - Trustless
+            - Zora is deployed as a smart contract with no privileges or admins
+    - Other Updates to [[ERC-721]]
+        - Decoupling of content and metadata
+            - Existing standard has an optional metadata standard, includes a `tokenURI`
+            - Ethereum is really bad at storing data. So most NFTs are tokens that point to the file stored somewhere (hopefully on [[IPFS]], but could be on a private server somewhere)
+            - The `tokenURI` contains a reference to some JSON metadata that contains the link to the raw file
+            - This feels kinda weird, so Zora split these
+            - The `tokenURI` points to the actual content of the NFT, typically an IPFS hash
+            - Zora adds the `tokenMetadataURI` that points to the metadata as a separate IPFS hash
+            - The `tokenURI` is also updatable in Zora (which isn't the case with typical NFTs)
+                - NFT includes a `contentHash` and a `metadataHash` which makes it possible to change the location of the content without changing the value of the NFT (like swapping Beeple's 500 Days for the Rick roll video)
+                - The hash lets you verify that the thing you're buying is the thing created by the creator
+                - zNFT Validator
+                - This also lets Zora enforce content uniqueness
+                    - A hash on Zora can only be minted once
+                    - This ensures no fakes or copies
+        - Updatable URIs
+        - Hash Integrity
+        - Meta Transactions
+    - Building on Zora
+        - Zora is open and permissionless, so anyone can build marketplaces, galleries, and other experiences on top of Zora NFTs
+        - https://zora.engineering
+        - Zora provides the ZDK (development kit)
+        - Some projects that have been built on Zora:
+            - Mirror
+            - Catalog

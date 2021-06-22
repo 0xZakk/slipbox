@@ -1,0 +1,26 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #[[Blockchain]]
+- **Source:** https://www.amazon.com/Blockchain-Developers-Guide-applications-technologies-ebook/dp/B07KSWLJVV/ 
+- **Author:** [[Brenn Hill]] [[Samanyu Chopra]] [[Paul Valencourt]] [[Narayan Prusty]] 
+- **Project(s):** 
+- **Summary:** 
+- **Description:**
+    - **Build real-world projects like a smart contract deployment platform, betting apps, wallet services, and much more using blockchain**
+    - **Key Features**
+        - Apply blockchain principles and features for making your life and business better
+        - Understand Ethereum for smart contracts and DApp deployment
+        - Tackle current and future challenges and problems relating to blockchain
+    - **Book Description**
+    - Blockchain applications provide a single-shared ledger to eliminate trust issues involving multiple stakeholders. It is the main technical innovation of Bitcoin, where it serves as the public ledger for Bitcoin transactions.
+    - Blockchain Developer's Guide takes you through the electrifying world of blockchain technology. It begins with the basic design of a blockchain and elaborates concepts, such as Initial Coin Offerings (ICOs), tokens, smart contracts, and other related terminologies. You will then explore the components of Ethereum, such as Ether tokens, transactions, and smart contracts that you need to build simple DApps.
+    - Blockchain Developer's Guide also explains why you must specifically use Solidity for Ethereum-based projects and lets you explore different blockchains with easy-to-follow examples. You will learn a wide range of concepts - beginning with cryptography in cryptocurrencies and including ether security, mining, and smart contracts. You will learn how to use web sockets and various API services for Ethereum.
+    - By the end of this Learning Path, you will be able to build efficient decentralized applications.
+    - This Learning Path includes content from the following Packt products:
+        - Blockchain Quick Reference by Brenn Hill, Samanyu Chopra, Paul Valencourt
+        - Building Blockchain Projects by Narayan Prusty
+    - **What you will learn**
+        - Understand how various components of the blockchain architecture work
+        - Get familiar with cryptography and the mechanics behind blockchain
+        - Apply consensus protocol to determine the business sustainability
+        - Understand what ICOs and crypto-mining are, and how they work
+    - **Who this book is for**
+    - Blockchain Developer's Guide is for you if you want to get to grips with the blockchain technology and develop your own distributed applications. It is also designed for those who want to polish their existing knowledge regarding the various pillars of the blockchain ecosystem. Prior exposure to an object-oriented programming language such as JavaScript is needed.

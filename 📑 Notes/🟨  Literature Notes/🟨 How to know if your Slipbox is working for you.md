@@ -1,0 +1,4 @@
+- **Type:** [[__ 🟨 Literature Note]] | [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- The common thread of the [[🟨 Three common mistakes people make when new to the Slipbox]] is that the system becomes more difficult to work with and less beneficial with the more notes you add into the system. That is the opposite of what we want.
+- Therefore, the way to know if your Slipbox is working is if it becomes more helpful with the more notes you add to it. This is how you develop a positive, symbiotic feedback loop between you and your Slipbox. You'll know it is working if it becomes more useful to you the more you learn, the more you read, and the more you add notes to the Slipbox. 

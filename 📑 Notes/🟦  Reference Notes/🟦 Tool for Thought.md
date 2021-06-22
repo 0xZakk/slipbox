@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Thinking]]
+- **Source:**  instapaper
+- **Author:** Steven Johnson
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Changing the way we think, of course, was the cardinal objective of many early computer visionaries: Vannevar Bush's seminal 1945 essay that envisioned the modern, hypertext-driven information machine was called "As We May Think"; Howard Rheingold's wonderful account of computing's pioneers was called "Tools for Thought." Most of these gurus would be disappointed to find that, decades later, the most sophisticated form of artificial intelligence in our writing tools lies in our grammar checkers. 

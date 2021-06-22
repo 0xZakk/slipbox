@@ -1,0 +1,8 @@
+- **Type:** #[[__ 🟨 Literature Note]] |  [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]] p35-56
+- There are four principles that you should keep in mind when working with the Slipbox. These four principles will guide you as you interact with your Slipbox and as you grow its capacity.
+- The four principles are:
+    - [[🟨 Writing is the only thing that matters]]
+    - [[🟨 Simplicity is paramount]]
+    - [[🟨 Nobody ever starts from scratch]]
+    - [[🟨 Let the work carry you forward]]

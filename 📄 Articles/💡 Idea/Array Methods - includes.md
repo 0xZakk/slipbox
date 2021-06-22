@@ -1,0 +1,12 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]] | [[JavaScript]]
+- **Summary:** Article that walks through examples of how to use the `includes` array method in JavaScript as well as how to implement it it
+- **Related Notes and Sources:**
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+- **Notes:**
+- **Outline**
+    - **Introduction**
+        - **Description:** __What the method is used for and what it does__
+    - **How it works**
+        - **Description:** __3-4 samples of the method working, starting from very simple to a little complex__
+    - **Implementing our own**
+        - **Description:** __Step by step, implement a version of this method. Start with the tests, then implement the code.__

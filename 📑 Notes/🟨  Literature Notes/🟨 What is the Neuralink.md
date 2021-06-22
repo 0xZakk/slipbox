@@ -1,0 +1,4 @@
+- **Type:** [[__ 🟨 Literature Note]] | [[Neuralink]] [[Neuroscience]] [[Elon Musk]]
+- **Source:** [[🟦 Elon Musk Announces Neuralink Advance Toward Syncing Our Brains With AI]] [[🟦 Elon Musk’s Neuralink: Both an evolution and a plan for radical change]]
+- Neuralink (the company) was founded by Elon Musk to build a brain-computer interface that would eventually allow humans to interact and work with the brain through a computer.
+- Neuralink (the implant) is a small device that can be implanted in the skull and connected to the brain to read electrical signals created by the brain. The device can send brain activity wirelessly to external hardware, where it can be read and processed. 

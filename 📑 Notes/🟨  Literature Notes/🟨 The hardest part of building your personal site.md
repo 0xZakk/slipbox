@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blogging]]
+- **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
+- The hardest part of building up a successful personal site is having patience. It takes a long time to build up a meaningful audience and at first it won't be rewarding.

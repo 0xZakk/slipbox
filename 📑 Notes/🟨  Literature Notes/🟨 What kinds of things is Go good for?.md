@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Arrays and Slices in Go]]
+- **Source:** [[🟦 Go In Action (Preview)]]
+- Go is a general purpose programming language with broad applications, but it has primarily been used for systems programming, web applications, and command line applications.
+- Go can be used to build web applications and services, networking tools, back-end applications, command line applications (like docker and hugo), applications that send or receive JSON, compilers and interpreters, as well as database systems (CockroachDB)
+- 

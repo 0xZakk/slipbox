@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Thinking]]
+- **Source:** [[🟦 How to Take Smart Notes]] p22
+- What makes the Slipbox so effective for knowledge work (like writing) is that it becomes a thinking partner for us. We offload the storage component of our brains into the Slipbox, which frees up our brains for the creative component of working. 

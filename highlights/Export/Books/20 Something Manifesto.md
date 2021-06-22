@@ -1,0 +1,46 @@
+# 20 Something Manifesto
+
+## Meta Data
+
+Source:  kindle 
+Author: Christine Hassler
+
+## Highlights
+
+### Highlights
+
+- “Twenties Triangle”: Who am I? What do I want? How do I get it?
+- The twenty-something years are a rather messy rite of passage without any fancy ceremonies or parties to mark that you are through it.
+- This is a time between being a kid and being a real, full-fledged grown-up.
+- Expectation Hangovers.
+- Anxiety (anticipation about something yet to happen) lives in the future; depression (sadness over things that you did or didn’t do) signs a lease in the past. That is why, if you are a checklister, you probably suffer from a mixed bag of anxiety and depression. Checklisters and planners are consumed with worry about achieving everything on their list and then heavy with regret as they think about things they are missing out on.
+- If you are an anxious and confused checklister, get into the present!
+- If you do find yourself envious of someone else’s job or life, use the person as a source of motivation and information. Ask the person specific questions that may spark insight about your own path and rescue you from comparison land. For example: “What is the most significant event or decision in your life that has gotten you to where you are today?” “What qualities do you attribute to your success?” “What have you had to sacrifice?” “What has surprised you about your job?” “What do you really enjoy?” “What challenges do you face?” If you cannot directly communicate with the person, write down all the things you admire and respect about them that inspire you. What qualities do you notice? What specifically do you want to emulate? As you learn more about what inspires you, you will gain insight into what truly moves you, and this will help you carve your own path. Allow inspiration to be a form of investigation rather than comparison.
+- We were a group of young people who didn’t have a cause. We were so different from our parents’ generation.
+- “the Entitlement Generation.”
+- “The most difficult thing about being a twenty something is being okay with the fact that your first job, your first apartment, your love life, your finances, your family and friends are not going to be at all what you hoped or expected, and instead of worrying about it, enjoy it.”
+- “Expectation Hangover,”
+- the myriad undesirable feelings or thoughts present when a desired result is not met or an undesired, unexpected event occurs.
+- Like a splinter, Expectation Hangovers get worse the longer they remain
+- but with the right tools you can recover from them quickly, or better yet, prevent them in the first place.
+- “helicopter parents” (parents who were overinvolved in their child’s life).
+- They were overscheduled, overstimulated, overanalyzed, and often overprotected. With all this “overing” and “hovering,” it’s no wonder that they may feel a bit separated from the rest of the world. And if you did not have parents who made you the center of their world, you are still influenced by the “me” mentality of today’s culture.
+- every Peter Pan eventually wakes up. In fact, underneath, these Peter Pans feel a twinge of fear and long for a sense of purpose. Living
+- Balance your trips to never-never land with reality checks.
+- “boomerangers”
+- DECLARATION: I tell myself that I still have plenty of time to change my life and figure out what I want to do, but I lack the desire to start that process.
+- A common trend I see in twenty somethings today, especially among those with parents who are “friends” with their children, is the tendency to lean on their parents a little too much. This makes it hard to have your own life, relationships, opinions, and independence. If you are financially or emotionally dependent on your parents, recognize it’s time to grow up and become your own parent. It’s understandable if you need to live at home; just make it temporary. Create an “exit strategy.” Start by paying rent for your room, and set a move out date. Then create a plan and budget for living on your own. Roommates, second jobs, and fewer shopping sprees may be the not-so-fun price for independence, but they are also great motivators for improving your situation. Living at home may be easy, but it’s not your home. Get out of never-never land — reality may sometimes bite, but you can’t stay a kid forever.
+- The symptoms that accompany Expectation Hangovers are as miserable as those from a hangover from alcohol. You feel lethargic, down in the dumps, and regretful. You wish you could turn back time and would do anything to end your suffering. Your level of performance at work may suffer, your creativity is stifled, you may withdraw from your social life, and your self-esteem plummets.
+- majority of disappointment stems from career, relationship, and money issues.
+- If you are not where you want to be in your life and you feel like there is nothing you can do about it, let me remind you that this is your life. It’s not a dress rehearsal, and you don’t get a twenty-something do-over. If you want to be happier, more focused, more decisive — you have that choice. Remember, you cannot completely control your external world, but you do have power over your thoughts. As Victor Frankl says in Man’s Search for Meaning, “The last of one’s freedoms is to choose one’s attitude in any given circumstance.”
+- The key to overcoming an Expectation Hangover is to change the way you respond to Hangovers and eventually free yourself from expectations.
+- A goal is defined as “the end to which effort is directed,” while to expect is defined as “to anticipate or look forward to.” Notice that the definition of a goal involves action intended to achieve a tangible outcome. Whereas expectation is more of an emotion, one that waits to be fulfilled.
+- We identify goals whenever we say, “I want to,” while expectations are often prefaced by “I have to,” “I should,” or “I expect to.”
+- I have an answer to Erin’s question: “How do I stop feeling so regretful and like I failed?” It’s very profound, so brace yourself and grab a notebook. Ready? Just stop. Stop feeling regretful and start feeling more positive. Okay — I realize “just stop” may not seem like a very helpful answer, but it is the only answer. The reason twenty somethings get so frustrated and despairing is that they haven’t yet learned how to just stop an Expectation Hangover.
+- When we focus on actions rather than on our emotions, and when we learn from our experience rather than constantly measuring it against our expectations, we can avoid major Hangovers and keep moving forward.
+- The present is the result of the past, not a predictor of the future.
+- emotionally paralyzed in classic twenty-something domino fashion: pursing dance means moving, which means she can’t pursue a serious romance, and a dancing life also seems to threaten any chance at future motherhood. These are serious issues, but they are not issues she is facing, or can do anything about, at the current moment.
+- A better rehab program, as Lisa is discovering, is to commit to living a healthier lifestyle — physically, mentally, and fiscally. Exercise is a wonderful way to release endorphins (the “feel-good” hormone) and combat Hangover symptoms. Take care of your body by eating healthy, which provides a sense of empowerment over your own physical domain when everything else may seem out of control. Maintain a healthy work/life balance. When you are at work, be present. Don’t spend time IM’ing your friends about your Expectation Hangover. Focus on what you are paid to do, and at the end of the day, leave your work at work. Fill your personal life with nourishing social and creative activities. Keep your home neat and organized so that you have a sanctuary to return to. And finally, stick to a budget so that you are conscious about where you are spending your money. Debt is a common unpleasant side effect of many Expectation Hangovers.
+- Remember the “90/10” rule when dealing with an Expectation Hangover. Only 10 percent of our symptoms are dictated by what actually happened; 90 percent of how we feel is determined by how we react to what happened.
+- COMMITMENT CONTRACT A commitment to your goals is much more powerful than an expectation to achieve them. It’s important that your focus be on your intention, not the outcome. For instance, commit to an exercise program and make your goal sticking to it rather than how much weight you may lose. Committing to altering your thoughts and behaviors is something you can do right now and will immediately alleviate your Hangover symptoms. Break away from expectations and commit to your action steps. Commit to becoming more aware of your internal dialogue and refocus it in a more positive direction. Commit to specific thoughts and behaviors that move you away from expectations.
+- three common developmental stages that twenty somethings evolve through as they investigate the question, “Who Am I?” I call this evolution the “Self-Awareness Continuum,” and it’s the process by which we understand, assess, and develop our identities. I call the three phases of the Self-Awareness Continuum (which we will cover in the next three chapters): Basic, Investigative, and Integrated (see the diagram on page 61).

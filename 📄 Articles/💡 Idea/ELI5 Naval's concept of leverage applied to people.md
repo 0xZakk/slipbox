@@ -1,0 +1,21 @@
+ [[ELI5]] definitions of [[Naval Ravikant]]'s forms of leverage [[🟦 The Almanack of Naval Ravikan]]
+    - Land
+    - People [[📦 Article: ELI5 Naval's concept of leverage applied to people]]
+        - Understanding people as a form of leverage is perhaps one of the simplest to explain
+        - Let's say you own a business and you work 40 hours a week. You want to earn more money, but you get paid by the hour. So to start earning more, you work more and bump your hours up to 50 per week.
+        - After a few weeks, you decide you want to earn more, so you start working 60 hours a week.
+        - After working 60 hours a week for a few weeks, you get tired and start to feel burned out. You still want to earn more though, so what can you do?
+        - Most people's natural response is to hire someone.
+        - If you hire one person (making your company 2 people) you can split your current hours (30 hours per person). Now, you've now leveraged yourself and so you have room to grow. You take on more work and now you and your employee are both working 40 hours a week for a combined 80 hours per week.
+        - Let's say each additional person you take on adds an additional 40 hours a week of output:
+            - O = 40n
+        - This is essentially how leveraging yourself with people works
+        - __It's not an unlimited option though. Each additional person you bring on needs training and managing.__
+        - Let's say every person you bring on requires 5 hours per week to manage. Now, when you hire someone for the first time, you're getting 75 hours per week. Now our formula looks like this:
+            - 40n - 5(n - 1)
+        - If that's the case, what is the most number of people you can hire?
+            - 8 - it takes you 5 hours per week to manage someone and can work 40 hours per week. 40 / 5 = 8
+        - If you max out the number of people you can hire, then you'll work 40 hours a week managing a team of 8, who will produce 320 hours of output per week. Your time is exclusively spent managing those 8 people and their output.
+        - The next step is to introduce a layer of management. This way, you're managing managers (up to 8) who are each managing workers (also up to 8). If you hire 8 managers, each of whom is managing 320 hours per week of output, you'll then have 2,560 hours of output per week, with 360 hours a week of management.
+        - What ever profits you make has to be spread across the total number of hours (2,920 hours per week)
+        - This is essentially how most companies are organized.

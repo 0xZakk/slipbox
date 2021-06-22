@@ -1,0 +1,198 @@
+# Go_in_Action.pdf
+
+## Meta Data
+
+Source:  pdf 
+Author: None
+
+## Highlights
+
+### Highlights
+
+- Go is a Modern Open Source Systems Programming Language developed as an internal Google project that went public back in 2009. The spiritual fathers of Go are Robert Griesemer, Ken Thomson and Rob Pike.
+- Figure 1. 1. The origins of Go
+- Although Go is a general purpose programming language, it is primarily being used for writing system tools, complex command line utilities, web services and software that works over networks.
+- Go can help you develop the following kinds of applications: • Professional Web Services • Networking tools and servers • Backend systems • System utilities • Powerful command line utilities such as docker and hugo • Applications that work with JSON data • Applications that process data from Relational databases, NoSQL databases or other popular data storage systems • Compilers and interpreters for programming languages you design • Database systems such as CockroachDB
+- There are many things that Go does better than other programming languages, including the
+- following:
+- The Go compiler can catch many silly errors that might result in bugs because the Go compiler is here to help.
+- Go uses fewer parentheses than C, C++ or Java and no semicolons, which makes the look of Go source code more pleasant.
+- Go comes with a rich standard library.
+- Go has support for concurrency out of the box through goroutines and channels.
+- Although goroutines are not as powerful as OS threads, they are really lightweight. You can easily run thousands of goroutines on any modern machine without any performance issues.
+- Unlike C, Go supports functional programming.
+- Unlike C or C++, Go can work efficiently with JSON records.
+- Go code is backwards compatible, which means that newer versions of the Go compiler accept programs that were created using a previous version of the language without any modifications.
+- Although Go is a very practical and competent programming language, it is not perfect:
+- Go has no direct support for object oriented programming.
+- Although goroutines are lightweight, they are not as powerful as OS threads and they cannot communicate directly with each other.
+- Although garbage collection is fast enough most of the times and for almost all kinds of applications, there are times where you need to handle memory allocation manually – Go cannot do that.
+- Advantages of Go
+- Although Go is not perfect, it comes with some important advantages for developers starting with the fact that it was designed by real programmers and not by a committee as it happens with C++.
+- Go is also easy to learn
+- Go code is good
+- looking
+- Go code is also easy to read
+- Go also comes with concurrency capabilities using a simple concurrent model that is implemented using goroutines and channels.
+- Figure 1. 2. How a RESTful server developed in Go works
+- What we have here is a RESTful server implemented as an executable Go binary. When a client connects to the RESTful server using an HTTP request and optionally sending JSON data, the server process creates a new goroutine and forwards the HTTP request and the JSON data to that goroutine. The JSON data needs to be decoded and become a Go structure that the goroutine can work with. The goroutine checks the data from the HTTP request and based on that data, it decides what action to trigger and how to process the Go
+- structure with the JSON data. It will most likely need to interact with the database used for storing the data of the RESTful service. Once it gets the desired data from the database, the goroutine will process it and convert it into the JSON format, encode it and send it back to the client. When a goroutine finishes its job, it exits. As each client request is served by a different goroutine, if the client needs more information from the RESTful server, it will have to make more requests that will trigger the creation and execution of additional goroutines.
+- Figure 1. 4. How goroutines exchange data via channels
+- Channels cannot process data but can send data to goroutines or receive data from
+- goroutines or have some other special purpose
+- When you combine multiple channels and goroutines you can create data flows, which in Go terminology are also called pipelines.
+- You can consider channels as the glue that allows Go code to build pipelines with goroutines
+- So you might have a goroutine that reads data from a database and sends it to a channel and a second goroutine that reads from that channel, processes that data and sends it to another channel in order to be read from another goroutine before making modifications to the data and storing it to a different database.
+- 1.3. Go versus other programming languages
+- Last, if you want to create complex command line utilities with many commands and command line options, Go is better than almost any other programming language, including C.
+- 1.4. When and where you should use Go
+- There exist many cases where you can choose Go, including the following: • Creating complex command line utilities with multiple commands, sub-commands and command line parameters • Developing RESTful servers and clients that interact using JSON data • Working with data from one or more data sources, provided that they have a Go driver • Developing WebSocket servers and clients • Developing gRCP servers and clients • Developing robust UNIX system tools • Learning programming
+- 2. Go Quick Start
+- The primary job of any programming language is to make difficult things easy and impossible things possible while keeping the developer happy and productive. Not all programming languages achieve the first two goals and therefore fail in the third one. Go looks like an exception as it is a very capable programming language that allows you to program difficult tasks such as developing concurrent applications, creating complex command line tools and developing network servers easily while making impossible tasks possible and keeping you happy with its easy to read code and its simple principles.
+- This chapter goes quickly through many Go features but it will return to most of them later on in other chapters. If you are an experienced programmer, you will find it very helpful as it will give you a quick introduction to Go. If you are an intermediate developer, it will help you get the big picture of Go before going into the gory details.
+- You should know that Go comes with some strict formatting and coding rules that help the developer avoid beginner mistakes and bugs – once you learn these few rules and Go idiosyncrasies as well as the implications they have on your code, you will be free to concentrate on the actual functionality of your code. Additionally, the Go compiler is here to help you follow these rules with its expressive error messages and warnings.
+- The following is a list of some important Go rules that will help you while reading this
+- chapter:
+- Go code is delivered in packages and you are free to use the functionality found in existing packages. However, if you are going to import a package, you should use some of this functionality – there are some exceptions to this rule that mainly have to with initializing connections but they are not important for now.
+- You either use a variable or you do not declare it at all.
+- There is only one way to format curly braces in Go.
+- Coding blocks in Go are embedded in curly braces even if they contain just a single statement or no statements at all.
+- Go functions can return multiple values.
+- same kind. You cannot automatically convert between different data types, even if they are of the
+- 2.1. Generating and processing files with random data
+- The scenario that is going to be implemented in this chapter will be about creating plain text files where every line of each file contains a randomly generated integer value at a given range. After that, these files are going to be read by another Go application that will do three things: remove duplicate values, calculate frequencies for the original data and sort the data of each file.
+- 2.2. Learning to Execute Go code
+- The two ways of executing Go code are the following: • Using go run • Using go build
+- 2.2.1. Go code is delivered in packages
+- Go programs are organized in packages – even the smallest Go program should be delivered as a package. The package keyword helps you define the name of a new package, which can be anything you want with just one exception: if you are creating an executable application and not just a package that will be shared by other applications or packages, you should name your package as main.
+- The import keyword is used for importing other Go packages in your Go programs in order to use some or all of their functionality.
+- 2.2.2. Hello World!
+- Each Go function definition begins with the func keyword followed by its signature and its implementation.
+- Listing 2. 1. The Go version of Hello World
+- 2.2.3. Using go run
+- The go run command builds the current Go project, which in this case is just a single file, creates a temporary executable file, executes that file and deletes it once it is done - to our eyes this looks like using a scripting language.
+- 2.2.4. Using go build
+- What go build does is creating an executable file for you to distribute and execute manually. This means that the go build command requires an additional step for running your code.
+- 2.2.6. Variables and variable initialization
+- Go offers multiple ways to declare new variables in order to make the variable declaration process more natural and convenient. You can declare a new variable using the var keyword followed by the variable name, followed by the desired data type. If you want you can follow that declaration with = and an initial value for your variable. If there is an initial value given, you can omit the data type and the compiler will guess it for you.
+- This brings us to a very important Go rule: if no initial value is given to a variable, the Go compiler will automatically initialize that variable to the zero value of its data type.
+- There is also the := notation, which can be used instead of a var declaration. := defines a new variable by inferring the data of the value that follows :=. The official name for := is short assignment statement and is very frequently used in Go, especially for getting the return values from functions and for loops with the range keyword.
+- Although you can declare local variables using either var or :=, only var works for global variables, which are variables that are defined outside of a function and are not embedded in curly braces. Global variables can be accessed from anywhere without the need to explicitly pass them to a function and can be changed unless they were defined as constants using the const keyword.
+- Listing 2. 2. Defining and using variables
+- 2.2.7. You cannot convert between different data types implicitly, even if they are of the same kind
+- As you saw in variables.go when using the math.Abs() function that expects a float64 value, an int value cannot be used when a float64 value is expected even if the conversion is straightforward and error free. The Go compiler will refuse to compile such statements. You should convert the int value to a float64 explicitly using float64() for things to work properly. 2.2.8. Go Control Structures
+- Go supports the if and switch control structures.
+- if statements use no parenthesis for embedding the conditions that need to be examined because Go does not use parenthesis in general. Additionally, if has support for else and else if statements.
+- The switch statement has two different forms. In the first form, the switch statement has an expression that is being evaluated whereas in the second form, the switch statement has no expression to evaluate. In that case, expressions are evaluated in each case statement, which increases the flexibility of switch.
+- The main benefit you get from
+- switch is that when used correctly it simplifies complex and hard to read if-else blocks.
+- There is a very common pattern in Go that is used almost everywhere. This pattern says that if the value of an error variable as returned from a function is nil, then everything is OK with the function execution. Otherwise, there is an error condition somewhere that needs special care. This pattern is usually implemented as follows:
+- Listing 2. 3. Go control structures in action
+- fallthrough tells Go that after this branch is executed, it will continue with the next branch, which in this case is the default branch
+- 2.2.9. Go functions
+- The func keyword is used for defining new functions in Go
+- Functions can accept multiple parameters and can return multiple values. However, it is allowed for a function to accept no parameter or return no values. Go functions can return multiple values that are separated by the , character and you are allowed to ignore some or all of them if you want. Go demands that you either use a variable or ignore it, which also applies to values returned by functions. The character, which is called the _blank identifier, is used for discarding values returned by functions or by the range keyword.
+- As functions are first class citizens in Go, Go has support for anonymous functions, which are functions without a name.
+- As a rule of thumb, anonymous functions are usually small and have a local focus. In any other case, you should better define a regular function.
+- • Using command line arguments • Reading user input with a Go function • Using environment variables • Using UNIX signals 2.3.1. Using command line arguments There exist many ways for getting user input or interacting with the user. The following is a list sorted by popularity and convenience: Although typing user input when needed might look like a nice idea, this is not how real software works. Usually, input is given in the form of command line arguments to the executable file. By default command line arguments are stored in the os.Args slice.
+- The first command line argument stored in os.Args is always the name of the executable.
+- 2.3.2. Reading user input with a Go function
+- The fmt.Scanln() function can help you read user input while the program is already running and store it to a string variable, which is passed as a pointer to fmt.Scanln().
+- It is a rational Go rule that when the main() function exits, the entire program terminates, which includes all goroutines associated to that program. As a result, we will have to have a way of telling main() to wait for goroutines to finish their jobs before exiting.
+- Put simply, a map is a data structure that associates a key with a value. This means that the key of a map can be anything you want as long as it is comparable, which is true for almost all data types.
+- In this subsection, we will present a way of reading a plain text file line by line, which is the most convenient way of reading a plain text file. You create a reader using a call to bufio.NewReader() that will read the desired file and tell that reader to read the file line by line – this is implemented by telling the reader to read from the current position until the next new line character, which is represented as \n (ReadString('\n')). The special io.EOF value signifies the end of a file, which is not an error condition but should be handled separately.
+- If you are developing relatively simple command line utilities, you will find the functionality offered by the flag package very handy. However, professional command line applications developed in Go are using more advanced packages for processing command line arguments and options.
+- Go slices support expressions that allow you to select a range of indexes and therefore the respective elements of a slice. So, in order to avoid processing the program binary, we use the [1:] notation on the for loop that processes the command line arguments of the presented utility. The [1:] notation means select everything from a slice except its first element, which is at 0 index.
+- Data is stored and used in variables and all Go variables should have a data type that is determined either implicitly or explicitly.
+- 3.1.1. The error data type
+- Go offers a special data type for representing error conditions and error messages named error – in practice, this means that Go treats errors as values.
+- if the value of an error variable is nil, then there was no error
+- (Atoi stands for ASCII to Int)
+- As specified by its signature strconv.Atoi() returns (int, error). Having an error value of nil means that the conversion was successful and that you can use the int value if you want. Having an error value that is not nil means that the conversion was unsuccessful and that the string input is not a valid int value.
+- Should you wish to return a custom error, you can use errors.New() from the errors package.
+- If you want to format your error messages in the way fmt.Printf() works, you can use the fmt.Errorf() function, which simplifies the creation of custom error messages – the fmt.Errorf() function returns an error value just like errors.New().
+- Go supports integers, floating point and complex numbers in various versions depending on the memory space they consume – this saves memory and computing time. Integer data types can be either signed or unsigned, which is not the case for the remaining numeric data types.
+- Table 3. 1. Basic Data Types
+- The int and uint data types are special as they are the most efficient sizes for signed and unsigned integers on a given platform and can be either 32 or 64 bits each – their size is defined by Go itself.
+- The int data type is the most widely used data type in Go due to its versatility.
+- As expected, Go offers the string data type for representing strings as well as the rune data type, which is a synonym for int32 and is used for representing runes. A rune is an int32 value that is used for representing a single Unicode code point. A Unicode code point is an integer value that is used for representing single Unicode characters or, less frequently, providing formatting information.
+- A single byte can store any ASCII character - however, multiple bytes are usually needed for storing a single Unicode character. As bytes are a universal unit among computer systems, Go uses byte slices for performing file I/O operations because they allow you to determine with precision the amount of data you want to read or write to a file – as the name implies, a byte slice is a slice that stores bytes ([]byte). You can create a new byte slice from a given string by using a []byte("A String") statement. Given a byte slice variable b, you can convert it into a string using the string(b) statement.
+- There are times that you want to keep multiple values of the same data type under a single variable and access them using an index number. The simplest way to do that in Go is by using arrays or slices.
+- Go offers an alternative to arrays that is called a slice.
+- 3.2.1. Arrays
+- When defining an array variable, you should define its size. Otherwise you should put […] in the array declaration and let the Go compiler find the length for you. So you can create an array with 4 string elements either as [4]string{"Zero", "One", "Two", "Three"} or as […]string{"Zero", "One", "Two", "Three"}. If you put nothing in the square brackets, then a slice is going to be created.
+- You cannot change the size of an array after you have created it.
+- data in both arrays and slices can be accessed the same way.
+- 3.2.2. Slices
+- Slices in Go are more powerful than arrays mainly because they are dynamic, which means that they can grow or shrink after creation if needed.
+- Slices are passed by reference (using the memory address of the slice variable) in functions whereas arrays are passed by value. In practice, this means that any changes you make to a slice inside a function also affect the original slice. A side effect of passing a slice by reference is that it is faster to pass a slice to a function because Go does not need to make a copy of the slice.
+- You can find the length of an array or a slice using len()
+- You can add new elements to a full slice using the append() function.
+- Both arrays and slices support the len() function for finding out their length. However, slices also have an additional property called capacity that can be found using the cap() function.
+- 3.2.4. Selecting a part of a slice Go allows you to select parts of a slice, provided that all desired elements are next to each other. This can be pretty handy when you select a range of elements and you do not want to give their indexes one by one. In Go you select a part of a slice by defining two indexes, the first one is the beginning of the selection whereas the second one is the end of the selection, without including the element at that index, separated by :.
+- However, there exist a variation where you can add a third parameter that controls the capacity of the resulting slice. So, using aSlice[0:2:4] selects the first 2 elements of a slice (at indexes 0 and 1) and create a new slice with a maximum capacity of 4.
+- 3.2.5. Deleting an element from a slice There is no default function for deleting an element from a slice, which means that if you need to delete an element from a slice, you must write your own code.
+- Deleting an element from a slice can be tricky, so this subsection presents two techniques for doing so. The first technique virtually divides the original slice into two slices, split at the index of the element that needs to be deleted. None of the two slices includes the element that is going to be deleted. After that, it concatenates these two slices and creates a new one. The second technique copies the last element at the place of the element that will be deleted and creates a new slice by excluding the last element from the original slice.
+- 3.2.6. How slices can be connected to arrays Behind the scenes, each slice is implemented using an underlying array. The length of the underlying array is the same as the capacity of the slice and there exist pointers that connect the slice elements to the appropriate array elements.
+- 3.2.7. The copy() function Go offer the copy() function that allows you to copy an existing array to a slice or an existing slice to another slice. However, the use of copy() can be tricky because the destination slice is not auto expanded if the source slice is bigger than the destination slice.
+- 3.2.8. Sorting slices
+- The sort package can sort slices of built-in data types. Additionally, Go provides the sort.Reverse() function for sorting in the reverse order than the default.
+- 3.2.9. Iterating over slices or arrays An example of Go simplicity is the fact that Go offers support for for loops only. However, depending on how you write a for loop, it can function as a while loop or an infinite loop. Additionally, for loops can implement the functionality of foreach loops when combined with the range keyword.
+- When used with the range keyword, for loops allow you to visit all the elements of a slice or an array without knowing the size of the data structure.
+- 3.3. Work with Dates and Times
+- The time.Since() function calculates the time that has passed since a given time and returns a time.Duration variable – the duration data type is defined as type Duration int64. Although a Duration is in reality an int64 value, you cannot compare or convert a duration to an int64 value implicitly because Go does not allow implicit data type conversions.
+- The single most important topic about Go and dates and times is the way Go parses a string in order to convert it into a date and a time. The reason that this is important is because usually such input is given as a string and not as a valid date variable. The function used for parsing is time.Parse() and its full signature is Parse(layout, value string) (Time, error) where layout is the parse string and value is the input that is being parsed.
+- This chapter covers • Maps • Structures • Pointers • Working with CSV data
+- Imagine that you want to create a phone book application in order to search existing entries or add new entries to it – this chapter will show how to create such an application in Go. However, before we end up having our phone book application fully working, we need to learn to perform the following tasks: • Work with complex and structured data • Work with CSV data and data files
+- Go offers support for maps and structures
+- Maps can use keys of different data types whereas structures can group multiple data types and create new ones
+- 4.1.1. Maps
+- Both arrays and slices are limiting you to using positive integers as indexes. Maps are pretty powerful data structures because they allow you to use indexes of various data types as keys to look up for your data as long as these keys are comparable. The general rule is that you should use a map when you are going to need indexes that are not positive integer numbers.
+- although floating point values are comparable, precision issues caused by the internal representation of such values might create bugs and crashes so you might want to avoid using floating point values as keys to Go maps.
+- You might ask, why do we need maps and what are their advantages. The following list is helping you clarify things:
+- Maps are very versatile. Later on in this chapter we are going to create a database index using a map, which allows us to search and access database records based on a given key or a combination of keys.
+- Although this is not always the case with maps, maps in Go are fast.
+- Maps are easy to understand which leads to clear designs.
+- You can create a new map variable using either make() or a map literal. Creating a new map with string keys and int values using make() is as simple as writing the make([string](int)) statement
+- On the other hand, if you decide to create a map using a map literal, you need to write something like the following:
+- m := map[string]int { "key1": -1 "key2": 123 }
+- The make() version is better at creating empty maps whereas the map literal version is better when you want to add data to a map at the time of creation.
+- WARNING You should make no assumptions about the order of the elements inside a map.
+- Additionally, you can tell whether a key k exists on a map named aMap by the second return value of the next statement:
+- v, ok := aMap[k]
+- If ok is set to true, then the k exists and its value is v. If it does not exist, v will be set to the zero value of its data type, which depends on the definition of the map.
+- You can delete an entry from a map using the delete() function that accepts two arguments: the name of the map and the name of the key, in that order.
+- 4.1.2. Iterating over maps
+- When for is combined with the range keyword it implements the functionality of foreach loops found in other programming languages and allows you to iterate over all the elements of a map without knowing its size or its keys. When range is applied on a map, it returns key and value pairs in that order.
+- range on maps returns key and value pairs.
+- 4.1.3. Structures
+- Structures in Go are both very powerful and very popular and are used for organizing and grouping various types of data
+- The single most popular use of structures in Go is for working with JSON data
+- Structures as well as other user defined data types are usually defined outside the main() function or any other package function so that they have a global scope and be available to the entire Go package.
+- 4.1.4. Defining new structures
+- When you define a new structure, you group a set of values into a single data type, which allows you to pass and receive this set of values as a single entity. A structure has fields and each field has its own data type, which can even be another structure or a slice of structures. Additionally, as a structure is a new data type, it is defined using the type keyword followed by the name of the structure and ending with the struct keyword that signifies that we are defining a new structure.
+- The type keyword allows you to define new data types or create aliases for existing ones.
+- Therefore, you are allowed to say type myInt int and define a new data type called myInt that is an alias for int. However, Go considers myInt and int as totally different data types that you cannot compare directly even though they hold the same kind of values. Each structure defines a new data type, hence the use of the type keyword.
+- The following code exempt defines a new structure named Entry:
+- type Entry struct { Name string Surname string Year int }
+- 4.1.5. Take advantage of Pointers Go has support for pointers but not for pointer arithmetic, which is the cause of many bugs and errors in programming languages like C. A pointer is the memory address of a variable – you need to dereference a pointer in order to get its value – dereferencing is performed using a * character in front of the pointer variable. Additionally, you can get the memory address of a normal variable using an & in front of it.
+- If a pointer variable points to an existing regular variable, then any changes you make to the stored value using the pointer variable will modify the regular variable.
+- The main benefit you get from pointers is that passing a variable to a function as a pointer (by reference) does not discard any changes you make to the value of that variable inside that function when the function returns. There exist times where you want that functionality because it simplifies your code – the price you pay for that simplicity is being extra careful with what you do with a pointer variable. Remember that slices are passed in functions by reference by default without having to use a pointer and there is no way to change that behavior.
+- Apart from reasons of simplicity, there exist 3 more reasons for using pointers:
+- Pointers allow you to share data between functions. However, when sharing data between functions and goroutines you should be extra careful with race condition issues.
+- Pointers are also very handy when you want to tell the difference between the zero value of a variable and a value that is not set. This is particularly useful with structures because pointers and therefore pointers to structures can have the nil value, which means that you can compare a pointer to a structure with the nil value, which is not allowed for normal structure variables.
+- Having support for pointers and more specifically pointers to structures allows Go to support data structures such as linked lists and binary trees that are widely used in Computer Science. Therefore you are allowed to define a structure field of a Node
+- structure as Next *Node, which is a pointer to another Node structure. Without pointers, this would have been difficult to implement and maybe slow.
+- 4.1.6. Creating new structures
+- There exist two ways to work with structure variables. The first one is as a regular variable and the second one is as a pointer variable that points to the memory address of a structure. Both ways are equally good and are usually embedded into separate functions because they allow you to initialize some or all of the fields of structure variables properly and/or do any other tasks you want before using the structure variable. As a result, there exist two main ways to create a new structure variable using a function. The first one returns a regular structure variable whereas the second one returns a pointer to a structure.
+- Each one of these two ways has two variations. The first variation returns a structure instance that is being initialized by the Go compiler whereas the second variation returns a structure instance that is initialized by the user.
+- 4.1.7. Slices of structures
+- You can also create slices of structures in order to group and handle multiple structures using a single variable. However, accessing a field of a given structure requires knowing the exact place of the structure in the slice.
+- 4.1.8. Using Reflection
+- You might ask what if I want to find out the names of the fields of a structure at execution time. In that case, you need to use reflection, which is an advanced Go feature. Apart from being able to print the fields and the values of a structure, this also allows you to explore and manipulate unknown structures like the ones created from decoding JSON data.
+- Reflection is a really advanced Go feature that you will not need to use on a daily basis
+- Reflection allows you to dynamically learn the type of an arbitrary object along with information about its structure. Go offers the reflect package for working with reflection.
+- reflection allows you to handle and work with data types that do not exist at the time you wrote your code but might exist in the future.
+- Additionally, reflection might come handy when you have to work with data types that do not implement a common interface and therefore have an uncommon behavior – this does not mean that they have a bad or an erroneous behavior, just an uncommon behavior.
+- The most useful parts of the reflect package are two data types named reflect.Value and reflect.Type. reflect.Value is used for storing values of any type, whereas reflect.Type is used for representing Go types. There exist two functions named reflect.TypeOf() and reflect.ValueOf() that return the reflect.Type and reflect.Value values, respectively. Note that reflect.TypeOf() returns the actual type of variable – if we are examining a structure, it returns the name of the structure.
+- 4.2. Work with CSV data and data files

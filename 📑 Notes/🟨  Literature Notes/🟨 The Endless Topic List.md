@@ -1,0 +1,3 @@
+- **Type:** #[[🟨 Literature Note]] | #Writing
+- **Source:**  [[🟦 How I Never Stop Writing]]
+- One of the things that [[Nat Eliason]] does to fuel his writing is keep what he calls an Endless Topic list - a never-ending list of things he would be interested in writing about.

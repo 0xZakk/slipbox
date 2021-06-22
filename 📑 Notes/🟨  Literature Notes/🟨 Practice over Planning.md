@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Expertise]] [[Learning]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- In order to become an expert at something, like writing, we need to stop planning and start practicing. Creating plans and trying to stick to them is a common practice in work. But it assumes that projects can be completed in a linear fashion, which is not the case when it comes to creative work relying on expertise.
+- Tasks that require creative application of expertise can't be completed by creating and executing on a plan. Instead, you need to develop your embodied experience: the finger feeling or intuition that comes from expertise. The only way to do that is to practice without a plan.
+- Think of riding a bike: the way you learned to ride your bike was to take off the training wheels and start riding.
+- The more you practice and gain experience, the more you develop your intuition and can rely on that instead. 

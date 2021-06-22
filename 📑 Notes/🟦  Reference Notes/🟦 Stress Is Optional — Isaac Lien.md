@@ -1,0 +1,32 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | < context tags >
+- **Source:**  instapaper
+- **Author:**
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - Much like this person’s laptop, many people are stressed because they aren’t fully charged and are spinning on too many things at once. 
+    - While it feels like the modern workplace is designed to make us feel stress, I’m here to tell you that it is possible to work an engaging and challenging job, and still remain stress-free. Stress is not something I experience on an ongoing or regular basis at work. It’s not that I don’t deal with things that could be stressful, but I have spent a disproportionate amount of time learning about the factors that cause me stress, and have systematically eliminated them 
+    - The first thing you need to learn is the hardest to accept: the only person who is in control of your stress level is you. 
+    - So, how can you systematically eliminate stress in your life? There are two main areas you need to adjust: behaviors and inputs. By adjusting what you do (behaviors) and what you consume (inputs) you can cultivate a state where you are in control of your stress level. 
+    - Behaviors 
+    - Sleep 
+    - When someone tells me they are stressed, the first thing I ask them is “How is your sleep?” Getting a good night's sleep is one of the biggest factors contributing to your mood, energy level, and susceptibility to stress. Lack of sleep may even increase your chances of developing dementia. 
+    - Sleep a full 7-8 hours nightly. Did you know that less than 1% of people can healthily function on 6 or less hours of sleep? 
+    - Go to bed at the same time every night to build a consistent sleeping schedule 
+    - Exercise 
+    - Everyone's body is different, but a sedentary lifestyle is not good for anyone. You don’t have to be a marathon runner, but make sure you move your body every day. That could just mean going for a brisk walk every morning or walking to lunch 
+    - Journaling 
+    - First of all, writing in a journal on a daily basis helps you create a process for clarifying your thoughts. It also feels good to put your feelings onto the page. In a way, you are “releasing” them from your mind. 
+    - Being able to empathize with your past self makes it easier to make tough life decisions that will be best for you in the long term, even if they are challenging in the short term. 
+    - Mindfulness 
+    - Learn to stop being so surprised 
+    - When you learn to accept and expect that things won’t always go perfectly, you stop being so surprised and offended when they inevitably don’t. 
+    - It certainly is hard to look at the world through this lens consistently, especially in the heat of the moment. Luckily, the centuries old practice of meditation can train us to do just that. Meditation is something I cover in more details in this article, but I’ve found it to be the most effective way to develop a more consistent state of mindfulness that can allow you handle situations without compulsive negative or angry reactions. 
+    - Inputs 
+    - Relationships 
+    - Spend time with people who give you energy. Spend time with people who fuel your passions and are optimistic about the future. Invest in the important relationships in your life. Give your friends a call. Make plans. Like you, they probably are looking for more social interaction, but have neglected to take the time to connect due to the everyday busyness of life. 
+    - Diet 
+    - Information 
+    - In the same way you need to be mindful of what food you consume, you should be mindful of the information you consume. 
+    - One of the most impactful things you can do is to turn off most notifications on your phone. 
+    - Your goal is to be stress-free, not to solve every problem. Sometimes the path of least resistance is the most effective 
+    - Staying stress-free is a continual practice, not a one time antidote 

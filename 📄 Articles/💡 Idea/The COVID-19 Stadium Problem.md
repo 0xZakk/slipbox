@@ -1,0 +1,15 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article + code challenge on the best way to organize groups of fans at a sports stadium so that each group is at least 6 feet apart.
+- **Related Notes and Sources:**
+    - 
+- **Notes:**
+    - **Problem statement:**
+        - What is the most efficient way to position groups of people in a stadium such that:
+            - Groups can be between 1 and 6 members
+            - Each seat is 2' wide
+            - Groups must be at least 6 feet apart (3 seats) in all directions
+            - The stadium is organized into sections of seats, each of it's own height and width
+            - **Bonus:**
+                - How do you account for priority seating? i.e. in the base case, groups select a section and are sorted into the section based on the algorithm. How would you account for the fact that some groups would pay more to sit closer to the field?
+    - **Limitations:**
+        - This algorithm places groups of n(1-6) size on a stadium of unknown height and width such that each group is 6 feet apart. It makes one very flawed assumption: fans won't need to use the restroom during the game and therefore won't need to move up or down an isle while staying 6' away from another group of fans.  ``

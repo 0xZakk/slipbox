@@ -1,0 +1,19 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Virtual Assistant]]
+- **Source:** [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]]
+- **Project(s):** [[📦 Freelance Software Engineer's Guide to Hiring a Virtual Assistant]] 
+- **Maintain a standing weekly video call**
+    - You should maintain a standing weekly call with your VA, the purpose of which is to check-in.
+    - This call can serve as a status update for any on-going projects that you're both working on.
+    - It's also a good idea to record these calls and save the video somewhere your VA can go back and re-watch the video. If they feel like they forgot something, then they can go back and watch the recording.
+- **Use a standing agenda**
+    - Use a Google Doc as your agenda and have a default agenda to start from each week. This will ensure each check-in is productive and your projects are moving forward.
+- **Use a password manager**
+    - A password manager is probably one of the most powerful tools you can use with a virtual assistant
+    - You should use a password manager and create a set of passwords that they will have access to. As you delegate more things to them, you can add more passwords to this vault.
+    - You can share more than just passwords with a password manager. You can share any sensitive information, like your passport number, driver's license number, social security number, etc.
+- **Schedule recurring tasks**
+    - It's a really god idea to have a shared calendar with your VA where you schedule meetings and block off time for recurring tasks you need them to do.
+    - Recurring tasks can be things like monitoring your email, publishing blog posts  and promoting them on social media, or checking that invoices have been paid.
+- **Record "how to" videos**
+    - Rather than writing long explanations or guides via email, consider recording videos of how to perform tasks. Writing can be time-consuming and error prone, where as a video is easier to produce and send.
+    - Hit record on Loom and then narrate your way through a task. Then post the video to a shared space where your assistant can access it.

@@ -1,0 +1,8 @@
+- Specific Knowledge [[📦 Article: ELI5 Naval's concept of leverage applied to specific knowledge]]
+	- Let's go back to the previous example, before you decide to hire someone.
+	- Let's say you're working 40 hours per week making $50 dollars per hour (that works out to $104,000 per year, which is a very good salary).
+	- If you want to earn more, as we discussed previously, the first and easiest option available to you is to work more hours. If you start working 60 hours per week instead of 40, you'll go from making $2000 per week to making $3000 per week ($156,000 per year - not a bad raise at all).
+	- Instead of hiring and leveraging people, you decide to take a class that makes you more specialized (better at what you do or able to do something for which their is less supply, so you can charge more). Now, instead of charging $50 per hour, you decide to charge $75 per hour. You're now making $3,000 per week, while still only working 40 hours.
+	- This is how you can leverage specialized knowledge. By increasing your specialization, you're effectively moving into markets where there is less supply, so you can charge more.
+	- Just like with leveraging people, there are limits to how much you can charge and how much you can specialize. In fact, you can perhaps argue that specialization works diminishing returns. There are more millionaires with masters degrees than there are with PhDs.
+		- [ ] There are diminishing returns to specialization. There are more millionaires with masters degrees than there are with PhDs.  #[[🐦 Tweets]]

@@ -1,0 +1,46 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Youtube]] [[Vlogging]]
+- **Source:** https://www.youtube.com/watch?v=_qmgl8vhrf4
+- **Author:** [[Jeven Dovey]]
+- **Project(s):** [[📦 Getting Started with Vlogging]]
+- **Summary:** 
+- **Highlights:**
+    - **Gear**
+        - **Essential Gear:** [Beginner Gear Kit](https://kit.co/JevenDovey/beginner-youtube-kit)
+            - Camera
+                - GoPro
+                - iPhone
+                - Panasonic GH4
+            - Stick / Tripod
+                - Jobi Tripod
+            - Microphone
+                - Rode Mic Pro
+    - **Shooting**
+        - No one cares about your day or your life. Vlogging is not about following along and seeing your life. Your vlog needs to have more to it. It needs to have a story.
+        - Think of your vlog as a mini-film
+            - Beginning, Middle, and End
+            - Include a plot
+            - What is the trajectory
+        - Vlogging is about sharing your story, so you'll be talking to the camera. Find creative ways to talk with and engage with your audience
+        - Capture a ton of cinematic B-roll that you can cut into your videos. You can do this by shooting the things around you.
+        - Shoot way more video than you think. Your video will be about the story that you tell and that will take a lot more footage than you think.
+    - **Editing**
+        - The first step to editing and creating your video is getting to know your footage. You can do this by loading up all your footage into your editing software and scrubbing through it.
+        - Most blogs are beginning to end, meaning your footage will be in the order that you want to cut it in. 
+        - Edit the footage objectively. Take out the footage that doesn't fit the story.
+        - Always be on the lookout for a hook
+            - A hook is a 10-20 second thing that is surprising or interesting that will capture people's attention
+    - **Final Touches**
+        - Create a compelling title and thumbnail
+            - Look at other youtubers to see the different styles people use for their title and thumbnails
+            - Try to capture the store and make something engaging
+        - Tubebuddy - Analytics, keywords, etc
+        - Share your post once it's live
+            - Instagram, twitter, reddit
+    - **What I've Learned**
+        - Has done over 200 vlogs
+        - Daily Vlogging
+            - Have to create a new story out of nothing, every day
+            - You're creating a mini-film every day
+            - It's worth doing for a short period of time (like a month)
+        - Explain everything to give it context; narrate the story or adventure
+        - 

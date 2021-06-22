@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Thinking]] [[Buddhism]]
+- **Source:**  kindle
+- **Author:** Hermann Hesse, SBP Editors
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - The word Siddhartha is made up of two words in the Sanskrit language, siddha (achieved) + artha (meaning), which together means ‘he who has found meaning (of existence)’ or ‘he who has attained his goals’. 

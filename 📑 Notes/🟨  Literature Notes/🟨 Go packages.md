@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Arrays and Slices in Go]]
+- **Source:** [[🟦 Go In Action (Preview)]]
+- Go code is organized in packages. This is the case even for small Go programs.
+- You define a new package with the `package` keyword. To import a package, you use the `import` keyword.
+- You can name your package anything, except under one condition: when you are defining a package that you intend to use as an executable application. In that case, you must name the package `main`.
+- 

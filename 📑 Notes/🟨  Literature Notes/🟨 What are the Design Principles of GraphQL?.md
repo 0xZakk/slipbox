@@ -1,0 +1,10 @@
+- **Type:** #[[🟨 Permanent Note]] | #GraphQL
+- **Sources:** [[🟦 Learning GraphQL]]
+- **Project(s):** 
+- **Notes:**
+    - While GraphQL isn't opinionated about how you implement the spec, it does provide the following design principles:
+    - **Hierarchical:** Fields can be nested inside of other fields. The structure of the query also makes an implicit request about the structure of the response.
+    - **Product Centric:** The language and runtime should support the client and it's data needs.
+    - **Strong Typing:** A GraphQL server must also adhere to the GraphQL type system. Each data point in the schema must have specific type definitions.
+    - **Client-specified Queries:** The server should give the client all the capabilities it needs.
+    - **Introspective:** The client should be able to query the server's type system using GraphQL.

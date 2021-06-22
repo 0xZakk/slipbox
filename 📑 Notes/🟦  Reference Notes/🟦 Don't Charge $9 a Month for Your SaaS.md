@@ -1,0 +1,26 @@
+- **Type:** #[[🟦 Reference Note]] | #[[Sales]] #SaaS #[[Startups]] #Pricing
+- **Source:** https://www.bannerbear.com/blog/don-t-charge-a-month-for-your-product/
+- **Author:** [[Jon Yongfook]], [[Bannerbear]]
+- **Summary:** 
+- **Highlights:**
+    - Today I increased pricing plans across Votemojo and Previewmojo. All plans now start at $49 a month. Here's why charging $9 a month for your indie SaaS product is a really silly idea.
+    - **What's changed?**
+        - Votemojo and Previewmojo now have new pricing pages with 3 tiers and a monthly billing / annual billing toggle.
+        - For Previewmojo in particular, this is a big jump from the previous pricing plan. Previewmojo's lowest pricing tier has increased from $9 to $49 a month. Votemojo's lowest pricing tier has increased from $19 to $49 a month.
+    - **Why I've changed pricing** [[🟨 Why Use Value-based Pricing for SaaS products]]
+        - There's no singular reason, although there was a tipping point
+        - It is my general feeling that I should be aiming higher in the value chain if I am going to turn Mojosaas into a sustainable business.
+        - Low pricing often means saturated markets with high churn, and this is not where I want to be aiming.
+        - Charging a higher price instantly moves the roadmap away from this space.
+        - Whereas previously it was tempting to look at my roadmap and think "what would people like me pay $9 for", now I am thinking more about what actual businesses would pay $50 to $100 a month for.
+        - This is a good thing because other indie hackers are not your target market.
+        - Businesses with money to spend on problems they need solved - that's your target market.
+        - The tipping point I mentioned above happened this week. Previewmojo acquired its first paying customer a few days after launch, on the $9 plan. A few days later, that same customer churned.
+    - **3 ways to price your SaaS** [[🟨 3 Ways to Price a SaaS Product]]
+        - there are roughly 3 ways to price something.
+        - Cost plus pricing - Where the price of a product is calculated by adding a markup to all variable costs involved in delivering it.
+        - Competitor based pricing - Where the price of a product is benchmarked against what other sellers are pricing at.
+        - Value based pricing - Where the price of a product is based on the value it delivers to the customer.
+        - I think indie hackers have the tendency to price out the gate based on a combination of cost and competitor pricing.
+        - That's why you see a lot of new products out there charging < $10 a month. They are charging that because everyone else is. Short term, you aren't going to earn a sustainable living from $9 subscriptions. Long term, it's going to damage the community. So this mentality has to change.
+        - Value based pricing solves that.

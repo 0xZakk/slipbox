@@ -1,0 +1,20 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Building an Audience Online]]
+- **Source:** David Grégoire in the Trends Facebook group on December 5, 2020 
+- **Summary:** 
+- **Highlights:**
+    - A lot of people have reacted about the Trends email regarding starting a Newsletter business. I had one paying newsletter for 2 years that reached 14k$ MRR within 3 months. We ended up making 200K$ in two years. Maybe you'll be interested in learning my best (and not so good) moves so you can learn and do it yourself. The order of my points are random
+    - 1. Unsubscription: offer them "next month free" on the unsubscribe screen. You will recoup 75% of the cancellations instantly
+    - 2. Offer a free trial at 1$ for 2 weeks that automatically convert to regular. 90% will stay are be committed because they paid $1
+    - 3. Insert in your daily discipline to work on the newsletter otherwise you’ll be tempted to postpone the work
+    - 4. Have clear refund and cancellation policy. And even if your are clear, some people will be angry at you. It’s ok. Don’t take it personal.
+    - 5. The first 1-3 email they get, make sure they are the same and that they are incredibly good. I mean, don’t send them the timely edition. Send them the very first 3 absolute best newsletter you’ve written. The first weeks are so are crucial for their engagement and you want to impress them.
+    - 6. If you do annual (and I strongly suggest you have annual package), a LOT of people will want to churn at the renewal. And get refunded. Don’t get it personal. Prepare yourself in advance.
+    - 7. Here is how I started the idea and test the waters... I posted on FB "If some of your would be interested into this, you can signup here". With a simple landing page and credit card form. Got 3 subscribers day one.
+    - Then I thought "there is something there", so i wrote the first email right away ahah.
+    - And the day after, same posting on FB, got 3 other subscribers.
+    - And so on....
+    - 8. Intially it was 1$/day. Billed monthly. But then I realized I couldn't do any offers. It's hard to lower 1$.......
+    - So i announced "ok guys, in two days, I'll increase the price to 3$/day as it takes a lot of time on my side to manage and you get so much value. Also, I answer each person's questions per email"
+    - So then I got like maybe 100 people signing up at 1$ in 2 days.
+    - And I was able to increase my price to 3$/day and make specials once in a while
+    - If you guys have questions, I'm here to help. I might add more points later so make sure to click on "save this post" if it is interesting to you

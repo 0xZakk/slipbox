@@ -1,0 +1,31 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Youtube]] [[Vlogging]]
+- **Source:** https://www.youtube.com/watch?v=7Lmo5qb3IkU
+- **Author:** [[Scott Wyden Kivowitz]] 
+- **Project(s):** [[📦 Getting Started with Vlogging]]
+- **Summary:** 
+- **Highlights:**
+    - How to create a desktop-based setup for recording YouTube videos
+    - Camera:
+        - First thing you need is a camera, and a webcam should be fine.
+        - Try the [Logitech HD Pro](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1489670983&sr=1-1&keywords=logitech+c920&linkCode=sl1&tag=scottkivowitz-20&linkId=ba9f7ccf81aa0ea53fc98945cbf78394)
+    - Camera Arm:
+        - You don't want to mount the camera to the desk, because your desk will shake which will lead to shaky footage. Instead, use a Magic Arm, like the [Neewer 11" Adjustable Magic Arm](https://www.amazon.com/Neewer-Adjustable-Friction-Articulating-Monitor/dp/B017NHZ2IC/ref=as_li_ss_tl?s=photo&ie=UTF8&qid=1489671171&sr=1-9&keywords=magic+arm&linkCode=sl1&tag=scottkivowitz-20&linkId=f560b52fde931b288e5c449e6a757247) (~$20)
+        - Mounted to a light stand and used to hold the camera so that it doesn't shake. These arms can clamp on to just about anything
+    - A mic - [Blue Yeti USB Mic](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S/ref=as_li_ss_tl?ie=UTF8&qid=1489670988&sr=8-2&keywords=blue+yeti&linkCode=sl1&tag=scottkivowitz-20&linkId=1be772532e20cec6169c6c39b05bbde7)
+        - Audio quality is good
+        - The further the mic is from your mouth, the more background noise there is.
+        - This can mount to a mic stand
+        - Don't talk into the top! Talk into the front
+    - A Mic Stand - RODE PSA1 Swivel Mount studio mic
+        - Solid mic mount that can clamp onto your desk and hold a mic
+        - If you can, get a shock mount to damper any shaking
+        - Same with a pop filter - not necessary, but a nice to have
+    - A good light stand
+        - This will hold the light but you can also clip other things to it, like your camera
+        - Cheap option: [Cowboy Studio](https://www.amazon.com/CowboyStudio-Aluminum-Adjustable-Light-Stand/dp/B003PEUA30/ref=as_li_ss_tl?ie=UTF8&qid=1489671023&sr=8-5&keywords=lumopro&linkCode=sl1&tag=scottkivowitz-20&linkId=acd937f4d7ee6e3375da5d84be3e031e)
+        - Better option: [LumoPro](https://www.amazon.com/LumoPro-10ft-Cushioned-Light-Stand/dp/B00EEA66I2/ref=as_li_ss_tl?ie=UTF8&qid=1489671023&sr=8-10&keywords=lumopro&linkCode=sl1&tag=scottkivowitz-20&linkId=55cae6c44afac13128506e90c152b03d)
+    - A light
+        - [Neewer Camera light](https://www.amazon.com/Neewer-36centimeters-Dimmable-Plastic-Universal/dp/B01FFNM6Y4/ref=as_li_ss_tl?ie=UTF8&qid=1489671047&sr=8-2-spons&keywords=led+ring+light&psc=1&linkCode=sl1&tag=scottkivowitz-20&linkId=dbc829731040c0adb19b2d22e2d36212)
+            - You can mount a camera to this one, in the middle of the light
+        - Focus light around your face
+        - Go with an LED option - wont flicker and color will be more consistent

@@ -1,0 +1,136 @@
+# The Gringo Guide to Moving to Mexico.
+
+## Meta Data
+
+Source:  kindle 
+Author: Raúl Jiménez and Felipe Vasconcelos
+
+## Highlights
+
+### Highlights
+
+- The country is geographically diverse, with lakes, mountains, jungles, remarkable beaches, incredible landscapes, lively, modern cities, and numerous vacation hotspots. This means that there is something for everyone in Mexico. Whether you want to live a modern lifestyle, a laid-back traditional lifestyle, or fast-paced, adventurous lifestyle, you will get it all in Mexico.
+- At the moment, there are close to two million US expats living all over Mexico.
+- In this book, I am going to tell you everything you need to know about moving to Mexico, including why Mexico is the right choice for you, the immigration process and documentation you need to settle in the country, the cost of living in the country, how to get a grasp of Mexican money, which places you should consider settling in, whether to rent or buy property, all you need to know about crime and narcos, how to handle things like transportation, education for your kids, and health, how to get a job and make a living in Mexico, how to deal with the culture shock and so on.
+- ## Chapter One: Taking The Decision To Go. Why Mexico?
+- Mexico has become a top expat destination of choice for a number of reasons, which include:
+- ### Friendly Locals
+- Being in the country almost feels like you travelled back in time to a time when people were friendly and courteous and cared about everyone else.
+- ## Getting Residence In Mexico Or Living There Without One Is Easy
+- One of the main reasons why there are so many foreigners living in Mexico is that getting residence in the country is quite easy.
+- To get into the country, all you need is your passport.
+- With this tourist card, you can live in the country for up to six months. Once the tourist visa nears its expiration, you just need to travel outside the country for over 72 hours (usually referred to as a border run) and you will be issued with a fresh tourist visa, allowing you to stay in the country for another six months.
+- Some people live in Mexico this way for years, only making border runs every six months to renew their tourist visa.
+- If you want to settle in the country on a more permanent basis, you should get either the temporary residency visa or permanent residency visa, both of which are quite easy to acquire.
+- ## Lower Cost Of Living
+- You can survive in Mexico with a lot less than you would need to survive in the United States, Canada, The United Kingdom, Sweden, and several other countries.
+- This means that by moving to Mexico, you can significantly lower your living costs while simultaneously increasing your quality of life.
+- ### Mexico Is A Modern Country
+- ## Climate
+- ### There Are Lots Of Fun Activities In Mexico
+- Mexican Food
+- Many Mexicans Speak English
+- home countries. This does not mean that there is no crime and violence in Mexico. The areas near the Northeastern border and areas around Sinaloa, where most of the drug cartels operate from, have very high crime rates, and it is best to avoid them. However, aside from these areas, most of the country is relatively safe.
+- Mexico Has A Rich Culture And History
+- Healthcare Is Affordable In Mexico
+- ## Chapter Two: Immigration And Documentation When Moving To Mexico
+- There are two types of Mexican residency visas.
+- ### Temporary Residence Visa
+- If you want to live in Mexico for a period of more than 180 days but less than 4 years, you should apply for the temporary residency visa.
+- While this visa allows you to live in the country for up to 4 years, it is good to note that you cannot get a 4-year temporary residency visa. Instead, it is issued for one year at a time.
+- Once your renewal for the fourth year expires, you will either need to leave the country or apply for a permanent residency visa. Fortunately, converting the temporary residency visa into a permanent residency visa is usually an easy process.
+- The temporary residency visa allows you to do some things that you might not be able to do with a tourist visa, such as opening a bank account, buying and registering a car with Mexican plates, importing household goods duty-free, bringing a vehicle with foreign plates into Mexico temporarily, coming and leaving Mexico as you please, and the possibility of upgrading to permanent residency after four years.
+- To apply for a temporary residency visa, you start by visiting the website of the closest Mexican Consulate in your home country.
+- Note that, except under very special circumstances, you cannot apply for the temporary residency visa in Mexico. You have to do it at a Mexican consulate outside Mexico.
+- fill the online application form.
+- After the form is processed, the consulate will email you to schedule an appointment for your in-person interview.
+- During the interview, an officer of the consulate will go through your documents and ask you a couple of questions regarding your current status, and why you want to move to Mexico.
+- Before being approved for the temporary visa, you have to prove your economic insolvency.
+- For the temporary residency visa, you must prove that you have savings of over $27,000 or a monthly income of $1620 per month, plus an extra $540 per month for every person who depends on you, such as a spouse, kids, or elderly parents.
+- After you receive the visa, the first step of getting temporary residency is complete. This visa expires in 180 days, which means you have to arrive in Mexico before the 180 days are over, else you will have to start the whole process again. Once you arrive in Mexico, you will have 30 days to visit a local immigration office and complete the process by applying for an official residency card.
+- Note that you become a legal resident of Mexico after receiving the official residency card.
+- Permanent Residency Visa
+- Citizenship
+- The CURP Card
+- If you intend to live in Mexico for an extended period and have already received your temporary or permanent residency visa, you also need to apply for a CURP card.
+- This is a card with a unique number that is issued to everyone living in Mexico, both citizens and foreigners, and acts as a proof of identity. It is similar to the United States’ Social Security Number.
+- You will need the CURP card in order to do various things within the country, such as applying for a Mexican driver’s license, applying for a tax identification number and filing your taxes, applying for employment, opening a bank account, starting a business, registering a vehicle in the country, or accessing any other government services.
+- Fortunately, obtaining the CURP card is pretty straightforward. You only need to walk to the nearest immigration office with the original and a copy of your passport, the original and a copy of your residency visa (temporary or permanent), and your CURP request letter. You will not be required to pay any fees to receive the CURP card.
+- ## Chapter Three: The Cost Of Living In Mexico
+- ## Chapter Four: Making Sense Of Money In Mexico
+- ## Chapter Five: Living In Mexico: To Rent Or To Buy?
+- One of the most common questions I get from foreigners looking to move and settle in Mexico is whether to rent or buy your own property in the country. While this is definitely a very important thing, it is not as straightforward as you might be tempted to think.
+- ### Renting A Property In Mexico
+- Fortunately, finding a rental property in Mexico is quite easy.
+- Finding a rental property in Mexico is pretty easy. Most agents list their vacant units in newspapers or online forums, so all you need to do is simply browse the paper or property forums.
+- If you find something that sounds like what you are looking for, get in touch with the owner or agent and make an appointment to go and view the property.
+- Aside from listings in newspapers and online forums, many landlords will also put up “For Rent” signs on the windows of buildings or outside their gates in case they have vacant units.
+- It is good to note that there are two major categories of rental markets in Mexico.
+- The first one is focused on tourists who prefer staying in a rental property instead of a hotel. Such rental properties usually accommodate visitors looking for short-term stays, typically a few days to a couple of weeks, and are therefore more expensive than long-term rentals.
+- The second and larger category of the rental market comprises properties that are focused on locals and residents and are meant for long term stays.
+- ### Buying A Property In Mexico
+- A lot of expats like the idea of owning property in Mexico, and if you have no financial limitations, buying has better benefits in the long term compared to renting.
+- While foreigners with temporary or permanent residency visas are allowed to own property in Mexico, there are some restrictions.
+- Specifically, foreigners are not allowed to directly own a residential property that is within 31 miles of the coastline or less than 62 miles from Mexico’s border with another country.
+- ## Chapter Six: Where To Live In Mexico
+- Mexico’s climate can be classified into three major zones, named in accordance with the geographical regions where the climate is most likely to be experienced.
+- The Hot Lands
+- This climate zone consists of areas along Mexico’s vast coastline, which range in altitude from sea level to about 2460 feet above sea level.
+- Areas within the hot lands are warm throughout the year, though it can get very hot and humid at certain times of the year.
+- The Temperate Lands
+- This climate zone consists of areas that lie between 2460 and 7550 feet above sea level.
+- As you might have inferred from the name, the climate in these regions is mild and moderate climate all around the year. Sometimes, however, the temperate lands may get very cold, though it is nothing to compare with winters up north in the United States or Canada.
+- Mexico’s three big cities–Guadalajara, Mexico City, and Monterrey–lie within the temperate lands, as well as a majority of Mexico’s attractive colonial cities, such as Campeche, Chihuahua, Guanajuato, Oaxaca, Puebla, and so on.
+- The Cold Lands
+- This climate zone consists of areas that exceed 7550 feet above sea level. These are the areas that are found within Mexico’s mountain ranges, including the Sierra Madre Oriental, Sierra Madre Occidental, and Sierra Madre del Sur. As the name suggests, these zones are very cold, and there are very few settled villages and towns at these very high altitudes.
+- ### Where To Settle In Mexico
+- Guadalajara
+- the second biggest city in Mexico
+- It is the birthplace of tequila and the famous Mariachi music.
+- If you want the excitement of living in a big city but don’t want to deal with overcrowding, pollution, and traffic of Mexico City, Guadalajara is the place for you.
+- Guadalajara is a modern, progressive city and a technological hub that has even been nicknamed the “Silicon Valley of Mexico.”
+- Guadalajara enjoys a humid subtropical climate, with temperatures that remain mildly warm (not as warm as coastal towns) throughout the year.
+- Oaxaca
+- There are a lot of things to love about living in Oaxaca. The weather is warm throughout the year, the food is awesome (Oaxaca has the best food in the whole of Mexico), there are lots of fantastic restaurants, there are some very nice parks, there is tons of culture, the people are very friendly, there are several markets where you can buy groceries at very low prices, there are some very nice craft beer bars, and the city generally has a very nice vibe.
+- ### Pueblos Magicos
+- While the towns and cities I covered above are some of the most popular with tourists and expats in Mexico, that’s not all there is to Mexico. A great deal of Mexico’s charm lies in what is known as Pueblos Magicos (Spanish for magical towns).
+- Pueblos Magicos are small towns and villages that are off the beaten path, hidden among the country’s mountains, foothills, and coastal plains.
+- ## Chapter Seven: Crime, Drug Cartels And Safety In Mexico
+- Yes, that’s right. When you tell people that you want to move to Mexico, one of their first questions will always have something to do safety.
+- The concerns about safety in Mexico can be greatly attributed to the sensationalist reporting by the media about the drug war that has been going on in Mexico for more than a decade now.
+- Trust me, Mexico is a lot safer than the media makes it appear.
+- Of course, this is not to say that Mexico is the safest country in the world. As an expat, if you want to remain safe, you will need to avoid certain areas and keep your wits around you.
+- ### Drug-Related Violence In Mexico
+- Crime and violence related to the drug trade is the biggest concern for  foreigners worried about their safety while in Mexico, so this is what I’ll start by addressing.
+- Mexico finds itself in a somewhat tricky situation. Owing to the fact that it shares a large border with the United States, and the fact that it is still a developing country where corruption is rife, it is the perfect place to act as the last handover point for drugs from Latin America into the United States.
+- Actually, according to a report by CNN, almost 90% of the cocaine sold in the United States gets into the country through Mexico.
+- According to CS Monitor, more than 90% of the people killed as a result of drug-related violence are people who were directly involved in the drug trade, while 7% of the deaths were officials of the Mexican government.
+- Therefore, if you are thinking of moving to Mexico, drug-related crime and violence should not really be a concern for you, provided you avoid the areas where the cartels operate.
+- So, what areas should you avoid? Drug-related violence is most widespread in the northern parts of the country, near the border with the United States, and particularly within the states of Tamaulipas, Nuevo Leon, and Chihuahua.
+- Other areas to avoid include the rural areas of northern Sinaloa, Durango, Guerrero, and southern Michoacán.
+- In a few cases, some innocent tourists and expats have found themselves becoming victims of drug-related violence, but these are usually cases of being in the wrong place at the wrong time, and thankfully, there have been very few such cases.
+- ### General Crime In Mexico
+- Apart from drug-related crime and violence, there are instances of general street crime in some of Mexico’s cities, and especially Mexico City, Mexico’s capital and its biggest city. However, these are the same kinds of petty street crimes you would expect in other big cities, and the best way to protect yourself is to use common sense.
+- Aside from petty street crime, one form of general crime that is a real issue in Mexico is express kidnappings. This is where criminals kidnap people for a period of 24 to 48 hours while they visit ATMs within the city with your cards and withdraw as much money from your bank account as they can. In most cases, the victim is released after his or her bank accounts have been emptied. The criminals will rarely hurt the victim unless you try to resist or fail to cooperate with their demands. To reduce the risk of being a victim of express kidnappings, avoid using street-side ATMs or ATMs in poorly lit areas or areas with low foot traffic. Opt for ATMs located within banking lobbies and huge malls.
+- ### Road Safety In Mexico
+- If you are driving by yourself, you should also be very vigilant and exercise extreme caution. This is because hijackings are also rife on Mexican roads.
+- Avoid driving at night, especially out in the countryside, and if possible, avoid the highways in the areas to the north of the country where drug cartels operate freely, such as the highways between Monterrey, Reynosa, and Nuevo Laredo. Only use toll roads and try as much as possible to avoid free roads. You should also be vigilant when stopping at traffic lights and give yourself ample space to avoid being boxed in.
+- ## Chapter Eight: Public Transport, Education And Healthcare In Mexico
+- ### Healthcare
+- Fortunately, Mexico has a high standard of healthcare that you will also find to be quite inexpensive compared to your home country.
+- The healthcare system in Mexico comprises three levels.
+- Seguro Popular
+- This is the first level of healthcare in Mexico. It is a form of public healthcare that is reserved for Mexican citizens without formal employment.
+- The IMSS
+- This is the second level of healthcare in Mexico, which is operated by the Mexican Social Security Institute
+- This program is open to citizens and expatriates working under the private sector.
+- It is also possible for retired expats to join the IMSS program, though you will need to make a monthly contribution to the program.
+- Private Healthcare
+- While public healthcare in Mexico is of high quality, a high number of expats prefer private healthcare because it offers the highest quality of medical care. However, private hospitals are way more expensive than public hospitals, even though they might still come across as cheap when compared to your home country.
+- Getting Health Insurance In Mexico
+- Most expats who opt for treatment in private hospitals usually pay for their minor bills from their pocket, while reserving private health insurance for emergency cases.
+- When it comes to private health insurance for in Mexico, there are two major plans. The first one is the national plan which is sold by local companies and will keep you covered as long as you are in Mexico. The other is the international plan which is sold by international insurance companies (most of them from the US) and keeps you covered all over the world.
+- Dental Care In Mexico
+- Receiving dental care in Mexico is a very easy and pretty straightforward affair. Just walk into the dentist’s office, explain your problem to the dentist, have your tooth filled or removed or whatever else is required, pay in cash and leave. That’s it.
+- ## Chapter Nine: Working In Mexico
+- ## Chapter Ten: Paying Taxes In Mexico

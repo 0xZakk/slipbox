@@ -1,0 +1,27 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Learning]] [[Spaced Repetition]]
+- **Source:**  instapaper
+- **Author:** View My Complete Profile
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - My 7 year old son is in grade 2. In the previous grade, despite his intelligence, he was significantly behind his class in handwriting, letter reversals, and spelling. He was getting extra help from his teacher, but he still had an uphill battle. So I decided to start a flashcard routine to assist. This solved the original problem. Here is a description of the current routine, and how it has evolved to this point. 
+    - I therefore settled on a variation of the Leitner system because that is easy to keep track of by hand. 
+    - To make things simple for me to track, I am doing things by powers of 2. Every day we do the whole first pile. Half of the second. A quarter of the third. And so on. 
+    - Cards that are done correctly move into the next pile. Those that he get wrong fall into the bad pile, which is the next day's every day pile. 
+    - So far, so good. I tried this. Then quickly found that I did an excellent job of sifting through all of the words he knew and getting the ones he didn't know into the bottom pile. But he wasn't learning those. This lead to frustration. Not good. 
+    - I then added an extra drill on the pile that he got wrong. At the end of the session, we do a quick drill with just the problem cards. 
+    - After I added this final drill on the problem cards, the "not learning" problem disappeared. 
+    - It is worth noting that at the end of grade 1 he took several tests, and we found that he was spelling at a grade 3 level. We have no direct measurement proving it, but I guarantee that he spells even better now. 
+    - This happiness lasted until he got used to doing well. 
+    - Then I had a great idea (which I borrowed from a speech therapist). The idea is that I'd mix a reward activity and flashcards. 
+    - Sometimes he would make a mistake on a card that he had known for a long time. Then he'd get upset. Once he got upset he'd get lots of others wrong. 
+    - The flashcard routine became a point of conflict. 
+    - We'd start on the reward, then do a pile, go back to the reward, then do another pile, go back to the reward, and so on. 
+    - With this shift, the motivation problem completely disappeared. He enjoys the reward. The flashcards are a minor annoyance that gets him the reward. If he goes off track, the reward restores his equilibrium. Intellectually he's happy that he's mastering the material. But the reward is motivation. 
+    - With this fix in place, we lasted several months. Then we developed an issue. A couple of words were sufficiently hard that they just stayed in the bad pile every day. 
+    - So I made a minor tweak. I had been doing his top pile, then his next, then his next, on down. But instead I do his every day pile. Then go into the top pile, next, next, etc. But after each of those groups I try him again on the every day words that he hasn't gotten right yet. Thus he is forced to get his trouble words right 2x per day. 
+    - Here are current issues: 
+    - One week is not enough. 
+    - But as anyone who has done spaced repetition knows, a week is not very long to master material. Spaced repetition excels for memorizing a body of data over years, not one week. 
+    - He's only learning what I know that he needs to. 
+    - Work is climbing again. 
+    - This takes my time. 

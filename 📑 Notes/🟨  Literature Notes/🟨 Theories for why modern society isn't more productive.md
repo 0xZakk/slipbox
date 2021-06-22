@@ -1,0 +1,13 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Society]]
+- **Source:** [[🟦 We Really Should Be in The middle of a golden age of productivity]]
+- [[Balaji S. Srinivasan]] offers five theories for why we aren't current in the middle of a golden age of productivity, despite all the technological advances that have happened in our lifetime.
+- The Great Distraction
+    - All the gains in productivity have been wasted on equal and opposite gains in entertainment, like social media, which distract from increased productivity
+- The Great Dissipation
+    - The gains in productivity have been dissipated through society with increases in compliance, process, forms, and red tape
+- The Great Divergence
+    - The gains in productivity are unequally distributed so as to be only harnessed by a few people and companies
+- The Great Dilemma
+    - Increases in productivity have been wasted or halted by increased red tape, making the cost of productivity relatively the same when adjusted
+- The Great Dumbness
+    - The West hasn't harnessed increased productivity as well as China

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Expertise]] [[Learning]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- Embodied experience is the unconscious skill and expertise that helps really high performers achieve virtuosity in a given field.
+- Through repetition and exposure to a very high quantity of data, experts develop an __intuition__ that pushes a lot of their processing and reaction to an unconscious level. They simply know what to do and how to do it.
+- People call this their "gut feeling" or intuition, which is a way of describing an incorporated history of experience.
+- For example, really talented chess players tend to think __less__ when playing than beginners to. Instead of having to think, they see patterns and can react by following their intuition and experience. 

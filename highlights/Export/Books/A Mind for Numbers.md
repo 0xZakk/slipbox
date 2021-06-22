@@ -1,0 +1,334 @@
+# A Mind for Numbers
+
+## Meta Data
+
+Source:  kindle 
+Author: Barbara Oakley
+
+## Highlights
+
+### Highlights
+
+- { 1 } open the door
+- { 2 } easy does it: Why Trying Too Hard Can Sometimes Be Part of the Problem
+- two different types of networks that the brain switches between—highly attentive states and more relaxed resting state networks.1 We’ll call the thinking processes related to these two different types of networks the focused mode and diffuse mode, respectively—these
+- Einstellung effect
+- you can remember Einstellung as installing a roadblock because of the way you are initially looking at something.)
+- If you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode, long enough to be able to latch on to a new, more fruitful approach.
+- The harder you push your brain to come up with something creative, the less creative your ideas will be.
+    - **Tags:** #favorite
+- EMBRACE BEFUDDLEMENT! “Befuddlement is a healthy part of the learning process.
+    - **Tags:** #favorite
+- when you procrastinate, you are leaving yourself only enough time to do superficial focused-mode learning.
+- In math and science in particular, this can create severe problems. If you cram for a test at the last minute or quickly breeze through your homework, you won’t have time for either learning mode to help you tackle the tougher concepts and problems or to help you synthesize the connections in what you are learning.
+- { 3 } learning is creating: Lessons from Thomas Edison’s Frying Pan
+- three B’s usually seems to do the trick: the bed, the bath, or the bus.
+- Once you are distracted from the problem at hand, the diffuse mode has access and can begin pinging about in its big-picture way to settle on a solution.
+- One way to think of the diffuse mode is as a base station when you are mountain climbing. Base stations are essential resting spots in the long journey to difficult mountaintops. You use them to pause, reflect, check your gear, and make sure you’ve got the right route picked out. But you would never confuse resting at a base station with the hard work of getting to the top of a mountain. In other words, just using your diffuse mode doesn’t mean you can lollygag around and expect to get anywhere.
+- You may be surprised to discover that learning slowly can mean you learn more deeply than your fast-thinking classmates.
+    - **Tags:** #favorite
+- long-term memory.
+- Working memory is the part of memory that has to do with what you are immediately and consciously processing in your mind.
+- long-term memory might be thought of as a storage warehouse.
+- spaced repetition
+- Creativity is a numbers game: The best predictor of how many creative works we produce in our lifetime is . . . the number of works we produce.
+- Dealing with fear: A motivational poster I received after giving a talk at Facebook headquarters reads: “What would you do if you weren’t afraid?”
+- Redos come with the territory: If you don’t like the way it turned out—do it again!
+- Criticism makes us better:
+- Be willing to be disagreeable. There is a negative correlation between the level of creativity and “agreeableness,” so those who are the most disagreeable tend to be most creative.
+- { 4 } chunking and avoiding illusions of competence: The Keys to Becoming an “Equation Whisperer”
+- Chunks are pieces of information that are bound together through meaning.
+- As it turns out, one of the first steps toward gaining expertise in math and science is to create conceptual chunks—mental leaps that unite separate bits of information through meaning.4 Chunking the information you deal with helps your brain run more efficiently. Once you chunk an idea or concept, you don’t need to remember all the little underlying details; you’ve got the main idea—the chunk—and that’s enough. It’s like getting dressed in the morning. Usually you just think one simple thought—I’ll get dressed. But it’s amazing when you realize the complex swirl of underlying activities that take place with that one simple chunk of a thought.
+- The first step in chunking, then, is to simply focus your attention on the information you want to chunk.
+- The second step in chunking is to understand the basic idea you are trying to chunk,
+- The third step to chunking is gaining context so you see not just how, but also when to use this chunk.
+- As you can see from the following “top-down, bottom-up” illustration, learning takes place in two ways. There is a bottom-up chunking process where practice and repetition can help you both build and strengthen each chunk, so you can easily gain access to it when needed. And there is a top-down “big picture” process that allows you to see where what you are learning fits in.9 Both processes are vital in gaining mastery over the material.
+- Attempting to recall the material you are trying to learn—retrieval practice—is far more effective than simply rereading the material.
+- illusions of competence
+- “Intention to learn is helpful only if it leads to the use of good learning strategies.”
+- Using recall—mental retrieval of the key ideas—rather than passive rereading will make your study time more focused and effective.
+- “Getting a concept in class versus being able to apply it to a genuine physical problem is the difference between a simple student and a full-blown scientist or engineer. The only way I know of to make that jump is to work with the concept until it becomes second nature, so you can begin to use it like a tool.”
+- You must have information persisting in your memory if you are to master the material well enough to do well on tests and think creatively with it.19
+- Law of Serendipity comes to play: Lady Luck favors the one who tries.
+- There are two ways to solve problems—first, through sequential, step-by-step reasoning, and second, through more holistic intuition. Sequential thinking, where each small step leads deliberately toward the solution, involves the focused mode. Intuition, on the other hand, often seems to require a creative, diffuse mode linking of several seemingly different focused mode thoughts.
+- Most difficult problems are solved through intuition, because they make a leap away from what you are familiar with.
+- But you can’t learn mathematics or science without also including a healthy dose of practice and repetition to help you build the chunks that will underpin your expertise.
+- In addition, recalling material when you are outside your usual place of study helps you strengthen your grasp of the material by viewing it from a different perspective.
+- Interleaving means practice by doing a mixture of different kinds of problems requiring different strategies.
+- You want your brain to become used to the idea that just knowing how to use a particular problem-solving technique isn’t enough—you also need to know when to use it.
+- Practice gives you the mental fluidity and agility you need for tests.
+    - **Note:** Specifically, practicing recall
+- { 5 } preventing procrastination: Enlisting Your Habits (“Zombies”) as Helpers
+- { 6 } zombies everywhere: Digging Deeper to Understand the Habit of Procrastination
+- Habits can be good and bad. Habit, after all, is simply when our brain launches into a preprogrammed “zombie” mode. You will probably not be surprised to learn that chunking, that automatically connected neural pattern that arises from frequent practice, is intimately related to habit.1 Habit is an energy saver for us. It allows us to free our mind for other types of activities.
+- Habits have four parts:
+- 1. The Cue: This is the trigger that launches you into “zombie mode.”
+- 2. The Routine: This is your zombie mode—the routine, habitual response your brain is used to falling into when it receives the cue.
+- 3. The Reward: Habits develop and continue because they reward us—give us a dollop of pleasure.
+- 4. The Belief: Habits have power because of your belief in them.
+- The trick to overwriting a habit is to look for the pressure point—your reaction to a cue. The only place you need to apply willpower is to change your reaction to the cue.
+- The key to rewiring is to have a plan. Developing a new ritual can be helpful.
+- Remember, habits are powerful because they create neurological cravings.
+- Only once your brain starts expecting the reward will the important rewiring take place that will allow you to create new habits.
+- learned industriousness
+- The most important part of changing your procrastination habit is the belief that you can do it.
+- mental contrasting.6 In this technique, you think about where you are now and contrast it with what you want to achieve.
+- Get into the Flow by Focusing on Process, Not Product If you find yourself avoiding certain tasks because they make you uncomfortable, there is a great way to reframe things: Learn to focus on process, not product. Process means the flow of time and the habits and actions associated with that flow of time—as in, “I’m going to spend twenty minutes working.” Product is an outcome—for example, a homework assignment that you need to finish. To prevent procrastination, you want to avoid concentrating on product. Instead, your attention should be on building processes—habits—that coincidentally allow you to do the unpleasant tasks that need to be done.
+- The essential idea here is that the zombie, habitual part of your brain likes processes, because it can march mindlessly along. It’s far easier to enlist a friendly zombie habit to help with a process than to help with a product.
+- By focusing on process rather than product, you allow yourself to back away from judging yourself (Am I getting closer to finishing?) and allow yourself to relax into the flow of the work.
+- Multitasking is like constantly pulling up a plant. This kind of constant shifting of your attention means that new ideas and concepts have no chance to take root and flourish.
+- A typical negative example of multitasking is that on average, students who allow themselves to multitask while studying or sitting in class have been found to receive consistently lower grades.
+- { 7 } chunking versus choking: How to Increase Your Expertise and Reduce Anxiety
+- once you start working on a math or science problem, you’ll notice that each step you complete signals the next step to you. Internalizing problem-solving techniques enhances the neural activity that allows you to more easily hear the whispers of your growing intuition.
+- STEPS TO BUILDING A POWERFUL CHUNK
+- 1. Work a key problem all the way through on paper.
+- 2. Do another repetition of the problem, paying attention to the key processes.
+- 3. Take a break.
+- 4. Sleep.
+- 5. Do another repetition.
+- 6. Add a new problem.
+- 7. Do “active” repetitions.
+- the generation effect. Generating (that is, recalling) the material helps you learn it much more effectively than simply rereading it.
+- The way in which musicians improve their ability to play an instrument can also be applied to learning math in this sense: A master violinist, for example, doesn’t just play a musical piece from beginning to end, over and over again. Instead, she focuses on the hardest parts of the piece—the parts where the fingers fumble and the mind becomes confused.
+- Remember, retrieval practice is one of the most powerful forms of learning. It is far more productive than simply rereading material.10 Building a chunked library of ways to solve problems is effective precisely because it is built on methods of retrieval practice.
+- “knowledge collapse” seems to occur when your mind is restructuring its understanding—building a more solid foundation.
+- one of the most important reasons to have well-chunked solution methods readily in mind: They help prevent choking on tests.
+- Choking—panicking to the point where you freeze—can happen when your working memory is filled to capacity, yet you still don’t have enough room for the additional critical pieces you need to solve a problem.
+- Practicing like this is a form of mini-testing. Research has shown that testing isn’t just a means of measuring how much you know. Testing in itself is a powerful learning experience. It changes and adds to what you know, also making dramatic improvements in your ability to retain the material.
+- testing effect. It seems to occur because testing strengthens and stabilizes the related neural patterns in your brain.
+- { 8 } tools, tips, and tricks
+- As noted management specialist David Allen points out, “We trick ourselves into doing what we ought to be doing. . . . To a great degree, the highest-performing people I know are those who have installed the best tricks in their lives . . . The smart part of us sets up things for us to do that the not-so-smart part responds to almost automatically, creating behavior that produces high-performance results.”
+- Buddha in Blue Jeans
+    - **Note:** Book introducing meditation
+- reframe your focus.
+- It’s normal to sit down with a few negative feelings about beginning your work. It’s how you handle those feelings that matters. Researchers have found that the difference between slow and fast starters is that the nonprocrastinating fast starters put their negative thinking aside, saying things to themselves like, “Quit wasting time and just get on with it. Once you get it going, you’ll feel better about it.”5
+- The Now Habit,
+    - **Note:** Book
+- The best way for you to gain control of your habits is simple: Once a week, write a brief weekly list of key tasks. Then, each day, write a list of the tasks that you can reasonably work on or accomplish. Try to write this daily task list the evening before.
+- It’s important to transform distant deadlines into daily ones. Attack them bit by bit. Big tasks need to be translated into smaller ones that show up on your daily task list.
+- the Law of Serendipity: Lady Luck favors the one who tries.
+- { 9 } procrastination zombie wrap-up
+- Pausing and reflecting are key, not only in stopping procrastination but in math and science problem solving in general. You may be surprised to learn that the difference in the way that math experts (professors and graduate students) and math novices (undergraduate students) solve physics problems is that experts are slower to begin solving a problem.6 Experts took an average of forty-five seconds to figure out how they would categorize a problem according to its underlying physics principles. Undergraduates, on the other hand, simply rushed right in, taking only thirty seconds to determine how they should proceed.
+- { 10 } enhancing your memory
+- SkillsToolbox .com
+    - **Note:** FUP
+- { 11 } more memory tips
+- One of the best things you can do to not only remember but understand concepts in math and science is to create a metaphor or analogy for it—often, the more visual, the better.
+- Focusing your attention brings something into your temporary working memory. But for that “something” to move from working memory to long-term memory, two things should happen: the idea should be memorable (there’s a gigantic flying mule braying f = ma on my couch!), and it must be repeated.
+- Writing appears to help you to more deeply encode (that is, convert into neural memory structures) what you are trying to learn.
+- Another key to memorization is to create meaningful groups that simplify the material.
+- Many disciplines use memorable sentences to help students memorize concepts; the first letter of each word in the sentence is also the first letter of each word in a list that needs to be memorized.
+- Storytelling in general has long been a vitally important way of understanding and retaining information.
+- many educators have observed that there seems to be a muscle memory related to writing by hand.
+- Here’s the bottom line. By using mental pictures instead of words to remember things, you can leap more easily into expert status. In other words, learning to process ideas visually in math and science is a powerful way to become a master of the material.13 And using other memory tricks can greatly enhance your ability to learn and retain the material.
+- What’s more, the memorization process itself becomes an exercise in creativity. The more you memorize using these innovative techniques, the more creative you become. This is because you are building wild, unexpected possibilities for future connections early on, even as you are first internalizing the ideas.
+- { 12 } learning to appreciate your talent
+- Remember—people learn by trying to make sense out of information they perceive. They rarely learn anything complex simply by having someone else tell it to them. (As math teachers say, “Math is not a spectator sport.”)
+- At some point, self-consciously “understanding” why you do what you do just slows you down and interrupts flow, resulting in worse decisions.
+- Teachers and professors can inadvertently get too caught up in following rules.
+- paramedic.
+    - **Note:** Fantastic study
+- Being smarter often equates to having a larger working memory.
+- 12
+- It is the practice—particularly deliberate practice on the toughest aspects of the material—that can help lift average brains into the realm of those with more “natural” gifts.
+- it seems that practice may help you expand your working memory.
+- { 13 } sculpting your brain
+- Anyone, Cajal noted, even people with average intelligence, can sculpt their own brain, so that even the least gifted can produce an abundant harvest.
+- “Deficiencies of innate ability may be compensated for through persistent hard work and concentration. One might say that work substitutes for talent, or better yet that it creates talent.”6 —Santiago Ramón y Cajal
+- It seems people can enhance the development of their neuronal circuits by practicing thoughts that use those neurons.
+- we can make significant changes in our brain by changing how we think.
+- A synthesis—an abstraction, chunk, or gist idea—is a neural pattern. Good chunks form neural patterns that resonate, not only within the subject we’re working in, but with other subjects and areas of our lives. The abstraction helps you transfer ideas from one area to another.
+- once you grasp a chunk in one subject, it is much easier for you to grasp or create a similar chunk in another subject.
+- This is why it can be easier for a physics or engineering major to earn a master’s in business administration than someone with a background in English or history.16
+- One important key to learning swiftly in math and science is to realize that virtually every concept you learn has an analogy—a comparison—with something you already know.18
+- { 14 } developing the mind’s eye through equation poems
+- “What, after all, is mathematics but the poetry of the mind, and what is poetry but the mathematics of the heart?” —David Eugene Smith, American mathematician and educator
+- thinking is nothing more than talking to yourself inside.
+- thoughts can be visual as well as verbal.2
+- There are hidden meanings in equations, just as there are in poetry.
+- One of the most important things we can do when we are trying to learn math and science is to bring the abstract ideas to life in our minds.
+- simple explanations are possible for almost any concept, no matter how complex. When you cultivate simple explanations by breaking down complicated material to its key elements, the result is that you have a deeper understanding of the material.
+- You’ll be surprised to see how often understanding arises as a consequence of attempts to explain to others and yourself, rather than the explanation arising out of your previous understanding.
+- Transfer is the ability to take what you learn in one context and apply it to something else.
+- { 15 } renaissance learning
+- Persistence is often more important than intelligence.
+- Research has shown that students learn best when they themselves are actively engaged in the subject instead of simply listening to someone else speak.
+- Student-centered learning, where students are challenged to learn from one another and are expected to be their own drivers toward mastery of the material, is extraordinarily powerful.
+- Learning on your own is one of the deepest, most effective ways to approach learning: It improves your ability to think independently. It can help you answer the strange questions that teachers sometimes throw at you on tests. In learning, persistence is often far more important than intelligence.
+- { 16 } avoiding overconfidence The Power of Teamwork
+- In some sense, when you whiz through a homework or test problem and don’t go back to check your work, you are acting a little like a person who is refusing to use parts of your brain. You’re not stopping to take a mental breath and then revisit what you’ve done with the bigger picture in mind, to see whether it makes sense.
+- People who haven’t felt comfortable with math often fall into the trap of “equation sheet bingo.” They desperately try to find a pattern in what the teacher or book did and fit their equations to that pattern.
+- Those you study with should have, at least on occasion, an aggressively critical edge to them. Research on creativity in teams has shown that nonjudgmental, agreeable interactions are less productive than sessions where criticism is accepted and even solicited as part of the game.
+- too much concern for creating a “safe environment” for criticism actually kills the ability to think constructively and creatively, because you’re focusing on the other people rather than the material at hand.
+- { 17 } test taking
+- Testing is itself an extraordinarily powerful learning experience.
+- hard-start–jump-to-easy
+- { 18 } unlock your potential
+- Sometimes, as we’ve discovered, your desire to figure things out right now is what prevents you from being able to figure things out.
+- Reshaping your brain is under your control. The key is patient persistence—working knowledgeably with your brain’s strengths and weaknesses.
+- central theme of this book is the paradoxical nature of learning. Focused attention is indispensable for problem solving—yet it can also block our ability to solve problems. Persistence is key—but it can also leave us unnecessarily pounding our heads. Memorization is a critical aspect of acquiring expertise—but it can also keep us focused on the trees instead of the forest. Metaphor allows us to acquire new concepts—but it can also keep us wedded to faulty conceptions.
+- Getting Things Done.
+    - **Tags:** #read
+    - **Note:** .read
+- Encyclopedia of the Sciences of Learning,
+    - **Tags:** #fup
+    - **Note:** .fup
+- Armstrong, JS. “Natural learning in higher education.”
+    - **Tags:** #read
+    - **Note:** .read
+- Baddeley, A, et al. Memory.
+    - **Tags:** #read
+    - **Note:** .read
+- Baumeister, RF, and J Tierney. Willpower.
+    - **Tags:** #read
+    - **Note:** .read
+- How People Learn.
+    - **Tags:** #read
+    - **Note:** .read
+- Brent, R, and RM Felder. “Learning by solving solved problems.” Chemical Engineering Education 46, 1 (2012): 29–30.
+    - **Tags:** #read
+    - **Note:** .read
+- Use Your Perfect Memory.
+    - **Tags:** #read
+    - **Note:** .read
+- Talent Is Overrated.
+    - **Tags:** #read
+    - **Note:** .read
+- The Talent Code.
+    - **Tags:** #read
+    - **Note:** .read
+- de Bono, E. Lateral Thinking. New York: Harper Perennial, 1970.
+    - **Tags:** #read
+    - **Note:** .read
+- Doidge, N. The Brain That Changes Itself.
+    - **Tags:** #read
+    - **Note:** .read
+- Duhigg, C. The Power of Habit.
+    - **Tags:** #read
+    - **Note:** .read
+- Eisenberger, R. “Learned industriousness.” Psychological Review
+    - **Tags:** #read
+    - **Note:** .read
+- Ellis, AP, et al. “Team learning: Collectively connecting the dots.”
+    - **Tags:** #read
+    - **Note:** .read
+- Emmett, R. The Procrastinator’s Handbook.
+    - **Tags:** #read
+    - **Note:** .read
+- Development of Professional Expertise.
+    - **Tags:** #read
+    - **Note:** .read
+- “The making of an expert.”
+    - **Tags:** #read
+    - **Note:** .read
+- The Way We Think.
+    - **Tags:** #read
+    - **Note:** .read
+- Moonwalking with Einstein.
+    - **Tags:** #read
+    - **Note:** .read
+- Gleick, J. Genius.
+    - **Tags:** #read
+    - **Note:** .read
+- “Chunking models of expertise: Implications for education.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Chunking mechanisms in human learning.”
+    - **Tags:** #read
+    - **Note:** .read
+- Graham, P. “Good and bad procrastination.”
+    - **Tags:** #read
+    - **Note:** .read
+- Greene, R. Mastery.
+    - **Tags:** #read
+    - **Note:** .read
+- Guida, A, et al. “How chunks, long-term working memory and templates offer a cognitive explanation for neuroimaging data on expertise acquisition: A two-stage framework.”
+    - **Tags:** #read
+    - **Note:** .read
+- James, W. Principles of Psychology.
+    - **Tags:** #read
+    - **Note:** .read
+- Talks to Teachers on Psychology: And to Students on Some of Life’s Ideals.
+    - **Tags:** #read
+    - **Note:** .read
+- Johansson, F. The Click Moment.
+    - **Tags:** #read
+    - **Note:** .read
+- Johnson, S. Where Good Ideas Come From.
+    - **Tags:** #read
+    - **Note:** .read
+- Kamkwamba, W, and B Mealer. The Boy Who Harnessed the Wind.
+    - **Tags:** #read
+    - **Note:** .read
+- Karpicke, JD. “Retrieval-based learning: Active retrieval promotes meaningful learning.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Retrieval practice produces more learning than elaborative studying with concept mapping.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Testing promotes long-term learning via stabilizing activation patterns in a large network of brain areas.”
+    - **Tags:** #read
+    - **Note:** .read
+- Sources of Power.
+    - **Tags:** #read
+    - **Note:** .read
+- Klingberg, T. The Overflowing Brain.
+    - **Tags:** #read
+    - **Note:** .read
+- Mastery.
+    - **Tags:** #read
+    - **Note:** .read
+- The Mind of a Mnemonist.
+    - **Tags:** #read
+    - **Note:** .read
+- Mastascusa, EJ, et al. Effective Instruction for STEM Disciplines.
+    - **Tags:** #read
+    - **Note:** .read
+- McGilchrist, I. The Master and His Emissary.
+    - **Tags:** #read
+    - **Note:** .read
+- Mrazek, M, et al. “Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering.”
+    - **Tags:** #read
+    - **Note:** .read
+- Noesner, G. Stalling for Time.
+    - **Tags:** #read
+    - **Note:** .read
+- Oettingen, G, et al. “Turning fantasies about positive and negative futures into self-improvement goals.”
+    - **Tags:** #read
+    - **Note:** .read
+- Pachman, M, et al. “Levels of knowledge and deliberate practice.” Journal of Experimental Psychology
+    - **Tags:** #read
+    - **Note:** .read
+- Prentis, JJ. “Equation poems.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Why testing improves memory: Mediator effectiveness hypothesis.”
+    - **Tags:** #read
+    - **Note:** .read
+- Rivard, LP, and SB Straw. “The effect of talk and writing on learning science: An exploratory study.”
+    - **Tags:** #read
+    - **Note:** .read
+- “The critical role of retrieval practice in long-term retention.”
+    - **Tags:** #read
+    - **Note:** .read
+- “The power of testing memory: Basic research and implications for educational practice.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Increasing retention without increasing study time.”
+    - **Tags:** #read
+    - **Note:** .read
+- “Learning to think mathematically: Problem solving, metacognition, and sense-making in mathematics.”
+    - **Tags:** #read
+    - **Note:** .read
+- Simon, HA. “How big is a chunk?”
+    - **Tags:** #read
+    - **Note:** .read
+- Simonton, DK. Creativity in Science.
+    - **Tags:** #read
+    - **Note:** .read
+- Scientific Genius.
+    - **Tags:** #read
+    - **Note:** .read
+- Sweller, J, et al. Cognitive Load Theory.
+    - **Tags:** #read
+    - **Note:** .read

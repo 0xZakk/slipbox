@@ -1,0 +1,4 @@
+- **Type:** #[[__ 📦 Projects]]  #[[🌱 Seed]]
+- **Summary:** This article covers the reasoning behind why I switched to freelancing full-time and why other developers should consider it too.
+- **Related Notes and Sources:**
+    - 

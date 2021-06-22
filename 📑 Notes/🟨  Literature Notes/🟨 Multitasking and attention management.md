@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Attention]] [[Focus]] [[Productivity]]
+- **Source:** [[🟦 How to Take Smart Notes]]  
+- According to multiple studies, people who multitask __feel__ more productive, but are actually substantially less productive. Not only does the number of things they finish drop significantly, the quality of their finished work suffers too.
+- Yet, people believe that multitasking will help them achieve more in the same amount of time (#[[🟨 The mere-exposure effect]]).

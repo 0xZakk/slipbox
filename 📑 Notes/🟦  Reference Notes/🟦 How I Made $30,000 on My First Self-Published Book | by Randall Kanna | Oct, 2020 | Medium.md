@@ -1,0 +1,11 @@
+- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Source:**  instapaper
+- **Author:** [[Randall Kanna]] randallkanna.medium.com
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - In 2019, I had a few hundred Twitter followers. In 2020, I reached 30,000 Twitter followers in just a few months. Thanks to building an audience first, my book made over $30,000 and sold over 1500 copies. 
+    - It was difficult to get my first product out there but the feeling of selling your first product online is indescribable. Focus on just getting your first product out there. 
+    - ## Selecting The Topic
+- ### New highlights added [[November 28th, 2020]] at 9:22 PM
+    - I started writing the book early in 2020 before the pandemic. I had some difficulty choosing a topic. I would write a few pages on one topic idea and then decide that I didn’t want to do that idea and switch again 
+    - Finally, I told myself that I had to commit to one idea and see it through. I had read something around that time that said pick a topic that you don’t have to research to write. Something that you know. 

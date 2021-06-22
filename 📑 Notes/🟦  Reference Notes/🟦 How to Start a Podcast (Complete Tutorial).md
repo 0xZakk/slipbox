@@ -1,0 +1,22 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #Podcasting
+- **Source:** https://www.youtube.com/watch?v=PIJpOcFf5h4&list=PLzJ1r4EGn-enCMU1kPstXd7e1SjI3jP_O&t=0s
+- **Summary:** 
+- **Notes:**
+    - The goal of this tutorial is to walk you through the things you need to start your podcast
+    - Equipment:
+        - Microphone
+            - Your podcast needs to sound good
+            - Audio Technica ATR 2100
+            - Boom arm
+            - Shock Mount
+            - Shield
+    - Software:
+        - GarageBand
+            - Record each input into separate tracks
+            - Change to time (from bars and beats) and turn off metronome
+            - Zoom in as much as you can when editing and cut out unnecessary parts
+    - Misc:
+        - Show Title - what's the name of your podcast?
+        - Show Description - why should people listen? What is your show about?
+        - Artwork - 3000 x 3000 pixel cover art
+        - 

@@ -1,0 +1,8 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]] [[Hyperledger Fabric]]
+- **Source:** [[🟦 Using the Fabric test network]]
+- **Project(s):** [[📦 Grokking Blockchain]] [[📦 Building Blockchain Applications with Hyperledger Fabric]] [[📦 Article: Setting up your computer for Hyperledger Fabric]] 
+- Once you have the Fabric test network installed ([[🟨 Installing Hyperledger Fabric]]), you can bring up the network and start interacting with it.
+- The [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) repository includes a script for starting and stopping the test network called `network.sh`, which you can find in the `test-network` directory.
+- To print the help text, run `./network.sh -h`
+- To start the test network, run `./network.sh up`
+- To stop the network and remove any containers from the network, run `./network.sh down`

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Attention]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- Sustained attention is the kind of attention we use when we focus on one task for a long period of time. It is necessary to learn new things and to finish large projects.
+- The average duration for which people can hold sustained attention has decreased significantly in recent years, likely due to the constant interruptions we face and short-attention spanned media we consume.
+- That said, it is possible to train our sustained attention to last longer. We can do this by focusing on a single task at a time (not multitasking), removing distractions, and separating different kinds of tasks.
+- Additionally, we can create workflows and operate within systems that we set up that make prolonged sustained attention easier for us.

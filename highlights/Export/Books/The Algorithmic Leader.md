@@ -1,0 +1,170 @@
+# The Algorithmic Leader
+
+## Meta Data
+
+Source:  kindle 
+Author: Mike Walsh
+
+## Highlights
+
+### Highlights
+
+- Giuseppe Tomasi di Lampedusa, Il Gattopardo
+- Munoz was an ideal leader for an era of maintenance schedules, quarterly budgets, cost reductions, sales quotas, and margin improvements. While those things are certainly important, they are no longer sufficient for survival. They are part of an analogue world of people, assets, and things.
+- Munoz ran into trouble when he didn’t recognize that the real driver of success or failure for an airline like United, and many other companies, is not its stuff but rather its algorithms. United didn’t have a customer service problem; it had an algorithmic design problem.
+- Algorithms are here to stay. The secret lies in knowing how to lead companies and organizations that use and depend on them;
+- The aim of this book is to explore the personal qualities, cognitive frameworks, and strategic approaches exhibited by a small but growing group of leaders who seem to thrive in this new environment, which is really about finding your own response to the algorithmic age.
+- An algorithmic leader is someone who has successfully adapted their decision making, management style, and creative output to the complexities of the machine age.
+- Those of you who are entrepreneurs or freelancers have an advantage:
+- When you are small, your value as a leader is defined not by your position in an organizational chart or a title on your business card, but by the map of your connections and relationships.
+- Insight is democratic.
+- You add the most value when you grow and feed your organizational network, not when you push your way to the top of the corporate pyramid.
+- Gilles Deleuze
+- Félix Guattari,
+- arborescent model)
+- the rhizome.
+- A rhizome is the tangled mass of roots of plants like bamboo, lotus, or ginger. Rhizomes are stems that run underground, striking new roots out of their nodes, down into the soil. They can also shoot new stems up to the surface. The rhizome is a complex network used not only for reproduction, but also for storing nutrients and energy for all new plants that are propagated from it. If you have ever tried to rid your garden of an invasive species like poison ivy or nettle, you have experienced the irrepressible power of a rhizome. Even a small piece left in the soil after you have dug out a weed will be enough for a new plant to emerge.
+- Whereas a tree has only one trunk and one entry point, a rhizome has lateral shoots and probing roots, and hence multiple entryways.
+- The rhizome is also a useful way of thinking about leadership in an algorithmic age.
+- Is Netflix successful because it runs on algorithms, or because it is run by algorithmic leaders?
+    - **Note:** compile a list of algorithmic leaders - ray dalio, reed hastings
+- Algorithmic leaders reveal themselves in the way they make decisions and solve problems.
+- I believe that the mistake I made then is one that many are making now. People who argue that robots will take away all our jobs assume that there is a simple relationship between automation and employment. They believe that just because you can automate part of a job, the entire job will be automated at some point. But sometimes technology has the effect of changing jobs rather than cutting them. As we will examine later in this book, the ATM didn’t mean the end of the bank teller. The number of bank tellers eventually increased, as it became cheaper to open up bank branches. The real impact of automation was to change the job of the bank teller from counting money to building relationships.
+    - **Note:** Blog post on bank tellers
+- An algorithm cannot be a stand-in for true leadership.
+- Anyone can be an algorithmic leader, even people who don’t work in what we might think of as a large, algorithmic organization like Amazon, Google, or Facebook. That is because big or small, traditional or technological, algorithms and data are changing every kind of business.
+    - **Note:** Pujll 10ks by industry nand analyze the discussion around tech adoption
+- The future of companies, regardless of size, will be shaped by algorithms.
+- For leaders, the real question is not how smart machines can be, but rather What does “smart” now mean when it comes to humans?
+- Surviving the algorithmic age doesn’t require you to be smarter than machines. You just need to know what it takes to be smart.
+- Being smart is about knowing the right way to do things; avoiding unnecessary steps; not wasting time or resources; and being open to new approaches and fresh ideas. It is not about blindly following trends. It is about knowing how to take advantage of the latest thinking and applying it effectively to practical problems. Being smart today is different than it was fifty—or even five—years ago.
+- I Change Your Mind II Change Your Work III Change the World
+- The 10 principles are: 1 Work backward from the future 2 Aim for 10x, not 10% 3 Think computationally 4 Embrace uncertainty 5 Make culture your operating system 6 Don’t work, design work 7 Automate and elevate 8 If the answer is X, ask Y 9 When in doubt, ask a human 10 Solve for purpose, not just profit
+- Life 3.0,
+- Max Tegmark
+- intelligence to be the ability to accomplish complex goals. He defines “complex goals” broadly, encompassing many possible aspects, including understanding, self-awareness, and problem-solving.
+- DeepMind,
+- But here is the important part of the story: while machines will get dramatically better at extracting insights from data, spotting patterns, and even making decisions on our behalf, only humans will have the unique ability to imagine innovative ways to use machine intelligence to create experiences, transform organizations, and reinvent the world.
+- The best way to imagine a future shaped by AI is not to focus on machines and their current capabilities, but to think about the potential interactions between algorithms, human behavior, and identity.
+- Masayoshi Son.
+- So, what did Masayoshi Son see in Jack Ma that others had missed? The answer to that lies in how Son makes his strategic bets. He doesn’t just invest in companies that he thinks might someday be successful or profitable; instead, he forms a very personal view of what the future might look like and works backward from there.
+- The idea struck a chord with Son because he was working on a blueprint of what life might be like in 2050.
+- Son, he said, frequently quips, “If it’s raining, open an umbrella.”
+- However, shifting your focus from keeping your current customers happy to thinking about what your future customers might want will ensure that you start to solve problems today that your competitors won’t be thinking about until tomorrow.
+- In a nutshell, what your kids already know, and what you are perhaps only now beginning to realize, is that the most interesting thing about the future will not be new devices or gadgets, but what happens next with our algorithmic experiences.
+- A useful way to start designing algorithmic experiences is by thinking about the relationships between intentions, interactions, and identity.
+- Nudge: Improving Decisions about Health, Wealth, and Happiness,
+- choice architecture
+- From one perspective, our growing reliance on algorithms to make decisions can be seen as a dangerous loss of personal autonomy. An alternative view is that we are witnessing the emergence of a new, symbiotic relationship with technology that allows us to augment and extend our five senses.
+- Although much of this chapter has focused on explaining what algorithms are, the real takeaway concerns what matters in the future. As you start to pull together your vision for where the world might go, remember to center your perspective on future customer behavior. In the long term, the real driver of business value will be the ways that algorithms and AI can create compelling customer experiences.
+- While leaders worry about the impact of disruptive ideas on their business or industry, what they should really be worrying about is whether their own ideas are disruptive enough.
+    - **Note:** Thinking in margins, not multipes
+- If you are simply automating your existing processes, adding a chatbot to your website, or updating your mobile app, then in all probability you are not thinking big enough about your future opportunities. Too often, digital transformation is just digital incrementalism.
+- The thing I remember most clearly from our meeting was Hoffman’s advice about growth. Hoffman explained that he only started or invested in companies that had a built-in, network growth model. If a company relied on traditional advertising to grow, it wasn’t for him. He sought opportunities that leveraged data, computation, and user networks to expand rapidly and thus gain a competitive advantage.
+- Blitzscaling.
+- Whereas a leader from the analogue era might have won acclaim by achieving small gains in operating margins through being disciplined about pricing, holding less inventory, or taking longer to pay suppliers, an algorithmic leader needs to think big just to survive.
+- However, the real reason algorithmic leaders need to think in multiples is not because of business risk but because twenty-first-century industries based on data and algorithms tend to operate in a “winner-takes-all” market.
+- The more your products or processes can improve through data and algorithmic learning, the harder it will be for new and small entrants to compete against you.
+- “flywheel of growth.”
+- a wider selection of products and services at lower prices leads to more traffic that in turn leads to more customers and sales, which supports the expansion into new categories of products and services, and so on.
+- Ballmer is a classic analogue-era leader.
+- When interviewed by McKinsey & Company for a podcast,
+    - **Note:** Find this podcast
+- What makes Nadella’s approach both powerful and pragmatic is how he distinguishes between capabilities and business units.
+- When companies do well, they tend to organize by business units. They do this because they believe it will provide efficiency, productivity, and lower transaction costs. Unfortunately, technology companies are driven by capability rather than structure. To chase new 10x opportunities, you can’t rely on your traditional silos and functional departments. Even if you know where the future of your business might be, getting there requires a more agile approach—in other words, allowing your teams and leaders to quickly adjust their plans, projects, responsibilities, and even job titles without adhering to rigid organizational structures and approval processes.
+- Your organization’s current most valuable asset is your data. And its value is only set to grow. To understand why, you have to appreciate the special significance data plays in the world of algorithms and AI.
+- In a blog post explaining his decision, Ng equated the development of AI with the rise of electricity.
+- There are no shortcuts to becoming an algorithmic organization.
+- Given the value of your data, the first step is to centralize your information in one place—virtually.
+- “data lake,”
+- Richard Socher,
+- That was a mistake that technology companies like Microsoft made for many years—their academics consistently came up with brilliant ideas that couldn’t be commercialized.
+    - **Note:** Blog history of corporate labs
+- For example, could you design a company that had no people in it and that existed as nothing more than lines of code?
+- “The Nature of the Firm” (1937),
+- companies exist to lower the transaction costs incurred should you need to use the market every time you need to get something done.
+- In the future, some firms may operate without people or locations. They will be “decentralized autonomous organizations” based entirely on smart contracts that react to data and other algorithms.
+- Wing has explained computational thinking as “the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can effectively be carried out by an information-processing agent.”
+- Analogies are a particular type of inductive argument in which perceived similarities are used to imply some further similarity.
+- understand the difference between reasoning by analogy and reasoning from first principles.
+- Algorithmic leaders take a different approach to evaluating problems and making decisions. They tend to approach strategic issues in a more structured way that allows them to use data and computation to augment their problem-solving capabilities.
+- Aristotle defined a first principle as “the first basis from which a thing is known.” First principles thinking is therefore the art of breaking a problem down to the fundamental parts that you know are true and building up from there.
+- To successfully reason from first principles, you first need to identify your current assumptions and then break them down into their fundamental truths before exploring how you might create new solutions from scratch.
+- (decomposition).
+- (algorithms),
+- (pattern recognition).
+- abstraction).
+- You can express these principles as a series of steps, applicable to any problem: 1 Break a problem into parts or steps 2 Recognize and find patterns or trends 3 Develop instructions to solve a problem or steps for a task 4 Generalize patterns and trends into rules, principles, or insights
+- One of the main advantages of computational thinking is that it offers the ability to separate the strategy (how to approach a problem) from the execution (crunching the data). When you get the combination right, you can tackle problems of a completely different order—like
+- A good AI team requires more than just a collection of AI experts; it requires a practical diversity of skills, knowledge, and perspectives.
+- The Right Stuff,
+- algorithm aversion.
+- In Narang’s view, the most highly compensated and coveted people in the future won’t necessarily be the most skilled programmers or the smartest MBA graduates. They will be the people who can live at the intersection of technology and business, who can devise and drive the domain-specific languages that will allow them to shape and reshape their business model.
+- the most effective leaders of the future will not only need to think computationally, they will also have to be able to express their ideas directly in algorithmic language.
+- One of the unfortunate side effects of living in an age of accelerating technology is having to deal with increased uncertainty.
+- We tend to see situations in one of two ways: either events are certain and can therefore be managed by planning, investment, and reliable budgets; or they are uncertain, and we cannot manage
+- Thomas Bayes,
+- Pierre-Simon Laplace
+- Bayes Theorem.
+- Beginning with a provisional hypothesis about the world, assign to it an initial probability of that event happening, called the prior probability or simply the prior. After collecting new, relevant evidence, recalculate the probability of the hypothesis in light of the new evidence. This revised probability is called the posterior probability.
+- Bayes is relevant to modern leaders because it can help them develop an approach to uncertainty that is less deterministic and more probabilistic. Even when events are determined by an infinitely complex set of factors, probabilistic thinking can help you identify the likeliest outcomes and so make the best decisions. Viewing the information probabilistically enables you to describe one of many possible outcomes, some more or less likely than others.
+- Rasmus Ankersen.
+- Matthew Benham.
+- Tony Bloom,
+- as you automate more decisions and processes, the quality time that humans spend together on strategic and complex issues becomes even more critical.
+- Perhaps the simplest way to improve a meeting is to keep it brief.
+- Brian Robertson,
+- Holacracy,
+- Do you know the purpose of this meeting? Do you have an agenda? Do you know your role? Do you follow the rules for good minutes?
+- At Intel, a decision was said to reflect one of four styles: authoritative (the leader has full responsibility); consultative (the leader makes a decision after weighing group input); voting; or consensus.
+- Amazon also has a unique way of running meetings. For starters, they have banned slide decks. If you want to get a decision made, you need to bring a memo, no more than six pages long, structured in a logical way, with supporting data in the appendices. Every meeting at Amazon generally begins with fifteen minutes of silent reading time, followed by the attendees making high-level comments about an idea before going through the memo page by page, providing feedback.
+- the most significant attribute of a successful team was not the number of geniuses in it, but the degree of emotional safety.
+- decision audit.
+- For Bezos, there are two categories of decisions. Type 1 decisions are the mission-critical, high-impact choices that influence higher-level strategy and can determine your future; Type 2 decisions are the lower-stakes choices that can be reversed if need be. You are better off acting on or even automating Type 2 decisions as quickly as possible. By making a quick decision you can gather the data you need in order to work out if you were correct or not.
+- “wicked problems,”
+- If the best way to make decisions in ambiguous conditions is to continuously update your knowledge with new data, then how you handle and share data also becomes vital.
+- “brain trust”
+- take ideas and learnings about the effective use of data from one part of the business, transform them into an algorithmic system, and apply that system elsewhere.
+- In an algorithmic organization, experiments don’t provide answers; their intent is not just to prove whether bold or italic on a landing page will sell more product. They validate questions; they are used to demonstrate that typographic choices are a key variable in sales growth.
+- the more we automate work and decision making, the more important it becomes to thoughtfully manage and support the remaining human-based activities.
+- You can’t buy your way into the twenty-first century. Sure, you can spend millions on upgrading your systems, but nothing will change if you don’t put in the hard work of thinking about how your people should interact with each other, solve problems, and generate ideas. Technology may have changed the hardware of your business, but culture is your true operating system.
+- Netflix Culture: Freedom & Responsibility
+- Powerful,
+- Principles rather than processes are what matter.
+- Amazon’s 14 Leadership Principles
+- the ultimate meaning of life is to maximize happiness and minimize its suffering. In short, the meaning of life is to maximize good.
+- leaders to act as humble gardeners rather than prison guards.
+- In an organizational context, that means giving people information and resources, and allowing them to figure out how to allocate their time and attention in a way that benefits both them and the company.
+- Ali Parsa,
+- “Leaders have to be with the squads and the squads have to be in a location.”
+- “If we have the data, let’s look at the data. If all we have are opinions, let’s just go with mine.”
+- Changing behavior in an organization is not easy unless you can have a fact-based conversation about it. If you try to transform your culture with only anecdotes, tribal knowledge, and opinions to back you up, the chances are it won’t go so well.
+- Ben Waber
+- the cohesiveness of a group, or how much people talked to each other, was by far the strongest predictor of performance across almost every attribute being measured.
+- Part of being an algorithmic leader means being able to constantly step back from the task, activity, or mission at hand and ask yourself: Is this the smartest way of doing this? Rather than just trying to improve a score, time, or some other indicator, an algorithmic leader takes a meta-perspective and questions the ultimate premise of the job itself.
+- The question you should be asking is not Are we getting results? but Do we have the right approach?
+- Reengineering the Corporation.
+- “work design”
+- Analogue leaders look for a profitable way to run their business, to make a reasonable return on people and assets. Algorithmic leaders try to design a model that allows them to deliver their service on a truly global scale.
+- CognitiveScale,
+- Robotic process automation, which essentially replaces a human operator with an algorithm that replicates their activities on a computer terminal, is a rules-based system. It takes a routine task that a human normally performs, whether it be filing documents or completing forms, and automates
+- Basically, your team needs the ability to track, share, and automate processes in a way that they can adapt themselves, as your business and data change, without relying on your technology department to keep pace.
+- digital twin.
+- A digital twin is a digital model of a physical object or process that allows you to optimize its performance.
+- The final step in “designing work” rather than “doing work” is thinking about the digital version of what you do.
+- The issue for algorithmic leaders, then, is not automation but what comes after.
+- Rather than wondering if your job will disappear, ask yourself, What is the new job inside my old one? And as a leader, Do I decimate or elevate the people around me?
+- James Bessen,
+- In Bessen’s view, the key question is how technology boosts productivity—that is, how the economy produces goods and services in the most efficient way possible.
+- cotton industry,
+- ATMs
+- The impact of automation is rarely as simple as machines replacing humans. Generally it is humans with the ability to leverage technology replacing other humans, argues Bessen.
+- In essence, by de-risking the business process, they can automate more of the business process, create a better experience for everyone, and allow employees to do more interesting work.
+- Automation might not entirely eliminate traditional jobs from your company, but it will absolutely change the nature of those jobs and the skills required to do them.
+- Einstein by Salesforce,
+- David Autor
+- our challenge is to find a way to teach people to do non-routine, non-repetitive work.
+- However, training is not enough, unless it helps employees migrate to a new way of working and thinking.
+- The challenge for companies building retraining programs is that AI is evolving so rapidly, it will be hard to pin down the skills and capabilities that people will need. Even worse than not training an employee for a future job is training them for a job that no longer exists by the time they are ready. Workers will need to constantly upgrade themselves as machines evolve. Algorithmic leaders will have a responsibility, and an incentive, to ensure that both they and the people around them are able to stay just a little further ahead on the curve of the AI revolution in order to remain relevant and valuable.
+- Another way of elevating, or upgrading, the people who work around you is to create teams to rethink teams.
+- The primary function of these meta-teams is to support and augment a traditional business function with data, algorithms, and other forms of technological infrastructure.

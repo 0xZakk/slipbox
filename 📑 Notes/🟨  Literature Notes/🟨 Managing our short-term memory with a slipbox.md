@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Memory]] [[Learning]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- We've discussed at length how the slipbox helps you manage your attention, but it also helps you manage your short-term memory.
+- Like attention, your short-term memory is a limited cognitive resource. Most studies show that you are capable of keeping about four things in mind at a time. With a slipbox, we can externalize the storage of items and save them in the slipbox instead.
+- By offloading storage of knowledge to our slipbox, we can free up our mind to focus on what it is uniquely capable of doing: synthesizing knowledge into new insights.

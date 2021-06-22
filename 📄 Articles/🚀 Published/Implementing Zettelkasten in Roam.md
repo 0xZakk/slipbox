@@ -1,0 +1,45 @@
+- **Type:** #[[__ 📦 Projects]] #[[🚀 Published]] | [[Slipbox]]
+- **Related Notes and Sources:**
+    - [[🟨 Thinking with the Slipbox]]
+    - [[🟨 Overview of the Zettlekasten process]]
+    - [[🟨 The Purpose of the Slipbox]]
+    - [[🟩 Definition of a Reference Note]]
+    - [[🟨 What is a reference note?]]
+    - [[🟩 Creating literature notes]]
+    - [[🟩 Definition of a Literature Note]]
+    - [[🟩 Rules for making good literature notes]]
+    - [[🟩 How to make permanent notes in Roam]]
+    - [[🟨 What is the purpose of permanent notes?]]
+    - [[🟨 Writing a Paper Step by Step with a Slipbox]]
+    - [[🟨 Discovering ideas and writing topics with the Slipbox]]
+    - [[🟨 How the Slipbox Helps You Succeed at Writing]]
+    - [[🟨 Three common mistakes people make when new to the Slipbox]] 
+- **Outline:**
+    - **Introduction**
+        - I started using Roam in January, 2020
+        - I accumulated over 3,000 notes in less than 6 months
+        - Having a lot of notes is great, but I don't have any structure or organization to these notes. So finding valuable ideas or information is really difficult
+        - The goal of this article is to be a practical walk through for implementing a Zettelkasten or Slipbox system in Roam
+    - **Getting Started**
+        - Create a new database in Roam, rather than trying to add this system to an existing database of notes
+        - It all starts by reading with a pen in hand
+    - **Reference Notes**
+        - "A reference note is a note in your Slipbox that performs two functions:"
+            - "Save the reference information for some information or knowledge"
+            - "Store highlights from a reference source"
+    - **Literature Notes**
+        - "Once you have all the reference notes, it's time to create literature notes for them. It's really important to follow the rules of literature notes ([[🟩 Rules for making good literature notes]]):"
+            - "First, the notes must be in your own words. You cannot copy and paste, quote, or export. The goal of writing literature notes is to help you understand and elaborate on what you're reading and writing these notes in your own words is the only way to do that."
+            - "Second, the notes must be brief. This is to prevent pollution. The goal of this slip box isn't to have a million notes, but to have valuable notes, each with valuable connections to other notes. The value is in the quality of the notes and in their connection to other notes, not in the quantity of notes."
+        - "Then go through your highlights in the reference note and summarize the key points in the literature notes. This can mean summarizing highlights in your own words. It can also mean organizing your notes into your own index."
+    - **Permanent Notes**
+        - "The quality of your slipbox depends on the number of well written permanent notes you have. They are the most important part of your slipbox as they are what ultimately makes it possible to connect ideas and produce written works."
+        - "To create permanent notes, you simply need to go back through your literature notes and summarize them in your own words. Think of this as building the lego pieces or bricks that will eventually become an article or some other completed project."
+        - "Because you want you want your permanent notes to become the building blocks of future ideas, it's really important that you write out your ideas in full sentences with appropriate references to texts. Think of it as writing a sentence that you could just drag and drop into an article. "
+    - **Writing**
+        - "By using the Slipbox, you can avoid the blank screen entirely because you'll have done a lot of writing on a topic __before deciding to write about it__."
+        - "1. Rather than trying to come up with topics out of thin air, look at your slipbox and see where there are clusters of notes that can be organized, synthesized, and turned into a draft."
+        - "2. If you've followed the previous steps well, then this part becomes really easy. You wont have to come up with topics on your own or brute force your way through researching topics. You can just look at what you already have in the Slipbox and go from there."
+        - "3. When you find a cluster, organize the notes into a project "desktop" (a project note or somewhere you can keep track of these notes). Organize these notes and look for holes and redundancies. You can afford to take projects at a slow burn and go back and read to fill any holes you might have in your argument or outline."
+    - **Parting Thoughts**
+        - "What makes the Slipbox so effective for knowledge work (like writing) is that it becomes a thinking partner for us. We offload the storage component of our brains into the Slipbox, which frees up our brains for the creative component of working. "

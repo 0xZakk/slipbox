@@ -1,0 +1,306 @@
+# Ebook - Using Roam as a Zettelkasten
+
+## Meta Data
+
+[[__ 📦 Projects]]
+[[📋 Outline]]
+[[Slipbox]]
+
+https://docs.google.com/document/d/1FR9u6O1avOOloii6IipLyUmIdryUCu2tRB9z8Ku3wUc/edit?usp=sharing
+
+## Summary:
+
+This ebook serves as an introduction to working with a Zettelkasten or Slipbox.
+
+## Notes:
+
+- [[🟨 Thinking with the Slipbox]]
+- [[🟨 Overview of the Zettlekasten process]]
+- [[🟨 The Purpose of the Slipbox]]
+- [[🟨 Four Underlying Principles of the Slipbox]]
+- [[🟨 Writing a Paper Step by Step with a Slipbox]]
+- [[🟨 Three common mistakes people make when new to the Slipbox]]
+- [[📦 Article: What is a Slipbox and Why should you use one]]
+
+## Feedback:
+- What is the framing? __Need to focus more on that__
+	- A lot of this bleeds into what Roam is or is too theoretical
+	- If I want the article to be more implementation focused, then I should
+	- I.e. When I explain what a block is. The readers will know what a block is, but I should focus that on why blocks are useful in a Zettelkasten
+- If key argument is to use __some__ structure in Roam, then I should bring that up in the introduction
+- Go through something from start to finish - maybe add this as a section of the article
+	- Maybe provide this starter kit through Gumroad
+- Mention what the other articles are in the series
+- Try to come up with a way to make the names more sticky
+	- Remembering what notes are what isn't super intuitive
+	- Maybe an acronym RLP
+	- Or create a visual map of the whole process through
+- **Feedback from Michael:**
+	- This is a good overview of your system. ==I'm most curious to understand the implementation of this==, which could be what your newsletter/further writing covers.
+	- ==What % of your reference notes have been squeezed into literature notes, and what % is waiting to be processed?==
+	- ==Is it okay to have a massive backlog?==
+	- Do you carve out time to move notes through the pipeline? Or do you only dip in to touch older reference notes when you are working on an essay that uses that material?
+	- I set up a similar system in Notion when I started Write of Passage. It went from Sources > Atomic Notes > Essays. I found myself spending a lot of time going through sources, and creating Atomic notes from them, and then linking those into Essays. I didn't find that it helped my writing though.
+	- I'm sure many who read this will struggle with spending more time maintaining and designing systems than executing with them. It might be good for you to address if/how this system leads to X instead of Y.
+	- FYI - right now, I dump everything into a database called "Notes," then I either associate it with a "Tag," which is my long term searchable storage, or a "Project" which is something short-term and actionable.
+	- A Note could technically be a book, or a chapter of a book, a quote from a book, a summary of the book, my interpretation of a book, a podcast about a book, or someone recommending me a book. So there's no "architecture" to identify a note by it's scale or by it's phase in the pipeline.
+	- But I find that if it's in the right Project, the right info surfaces when I'm in action mode, and if it's in the right Tag, then the right info surfaces when I'm trying to recall something.
+	- I remember reading about Zettlekasten, building a system around it, and then failing. I'm sure others have struggled with implementing. Should everyone build a Zettlekasten, or are there only certain cases where it makes sense? Are there any common pitfalls that people make when setting up a Zettlekasten than lead to a system failure?
+
+## Outline
+
+- **Introduction**
+	- Have been using Roam since January and have written about it previously. I love how powerful and simple the tool is.
+	- I've made the decision to migrate to a different Roam database as my second brain, slowly abandoning my first attempt at Roam. I've learned a lot in the 10 months that I've been using Roam and I'm ready to try again
+	- This time I'll be focusing on implementing a Zettelkasten-like system in Roam.
+	- Many people are familiar with Zettelkasten and aware that Roam makes a great system for the Zettelkasten method. But there is not a comprehensive guide to using Roam as a Zettelkasten, walking through how to set it up and how to work through the process.
+	- The purpose of this article is to walk through how to implement Zettelkasten in Roam.
+	- I'll provide a brief primer on the Zettelkasten method, but I assume you're somewhat familiar with the main concepts. I'll then elaborate on why Roam makes a good tool for implementing a Zettelkasten as well as my Zettelkasten is a good system to use in Roam. Finally, I'll walk through the process, step by step and in a lot of detail, of working with a Zettelkasten implemented in Roam.
+	- **Who is this book for**
+	- **How to use this book**
+- **Part 1: Zettelkasten**
+	- **Zettelkasten: A Quick Primer**
+		- **Topic:** __What is Zettelkasten? What are the core principles?__ 
+		- **Notes:** [[🟨 Overview of the Zettlekasten process]] [[🟨 The Purpose of the Slipbox]]
+		- I've landed on a very simplified version of the Zettelkasten or Slipbox method. 
+		- If you're not familiar, the Slipbox is a method of note-taking created by Nicholas Luhmann, a very prolific Sociologist.
+		- His system was already very simple. He would take notes while he read, in his own words, and add these to a database of notes he called literature notes.
+		- These literature notes would get turned into permanent notes - succinct notes describing a unique idea. Permanent notes would then get compiled and organized into an outline that he would draft into a manuscript.
+		- [ ] **Graphic of Luhmann's process**
+		- Briefly, the Slipbox method is a note-taking and writing process that naturally leads to new ideas of things to write about.
+		- We'll go into a lot of detail for each step in later sections. But for now, at a high level, the four steps are:
+			- Step 1: Make Fleeting Notes
+				- These are the highlights you make in books and articles or notes you jot down as you go about your day.
+				- If you have a flash of insight in the shower, hop out and write it down in a fleeting note!
+				- Most of your fleeting notes will be notes you take while reading, including any passages that you highlight
+			- Step 2: Make Reference Notes
+				- Your reference notes are for storing the reference information for an article, book, youtube video, or other source of text
+				- In the original system, Reference notes just included this reference information. With Roam, I like to take it a step farther and use the reference notes to store the highlights and notes I made on the source.
+			- Step 3: Make Literature Notes.
+				- Where as the previous step is about getting information into the system, this step is about starting to process it
+				- Take the notes you made in your reference notes and turn these into literature notes: notes written in your own words on the things you want to learn, remember, and use later in your work.
+			- Step 4: Make Permanent Notes.
+				- There are two parts to Permanent notes. First, you write about the ideas in your Literature Notes in your own words and framed towards the problems you're thinking about. Second, you connect your Permanent Note to other Permanent Notes in the Zettelkasten.
+				- "Step 3: Make Permanent Notes. There are two parts to Permanent notes. First, you write about the ideas in your Literature Notes in your own words and framed towards the problems you're thinking about. Second, you connect your Permanent Note to other Permanent Notes in the Zettelkasten."
+			- [ ] Graphic with overview of the process
+	- **Why Zettelkasten and Roam**
+		- You know what a Zettlekasten is and/or you're familiar with Roam. Why should you use the two together?
+		- **Roam works well as a Zettlekasten**
+			- The thesis behind the Zettelkasten is that:
+				- Writing isn't the result of thinking, but the medium in which it takes place
+				- Writing ideas then come from the context that emerges when you link notes together
+				- Outlines for those ideas emerge by combining and organizing notes
+			- There are so many game-changing features of Roam that it's difficult to fully appreciate them all
+			- Roam's main feature is bidirectional linking
+				- Bidirectional linking allows us to easily link related notes - even more easily than in the original system of index cards
+				- The original Slipbox used a system of IDs to connect notes - each note was given a unique ID and this ID could be listed on any other note to form a connection
+				- In Roam, we just put brackets around a word or phrase
+			- Blocks
+				- Blocks can be very easily rearranged and moved, which is helpful for creating notes and for outlining
+				- Moving blocks is an incredibly powerful feature as a writer. If a paragraph isn't working, I can just move it out of the outline or draft. I can move it back into the draft later if I find a place where it fits. Or I can move it to a separate article entirely.
+				- This can also be helpful when creating notes:
+					- You can move highlights from a book so that related topics are all under a single heading, making writing a reference note a lot easier
+					- If a reference note is getting too big, you can break it up and move the blocks into your new set of reference notes
+			- Block references
+				- When it comes time to write, you can drag block references from your permanent notes onto the page where you're creating your outline or draft.
+				- This mimics how Luhmann used his permanent notes in the original system, but he couldn't just click on a block to go to back to it's full context, he had to sort through his tens of thousands of index cards to find it.
+				- He also couldn't easily see how many times a note had been used previously or quickly discover where.
+			- Roam's additional features, like queries and the graph view, make the process even easier
+				- The graph view lets you visually see clusters of notes emerge
+				- Queries let you pull notes from your database based on a given set of parameters
+				- For instance, I can query for all my literature notes related to Python and Azure. Within a few minutes of searching through the results, I can have article ideas and maybe even flushed-out outlines for articles to write.
+		- **Zettlekasten works well in Roam**
+			- You don't have to use Zettelkasten in Roam. Ultimately, Zettelkasten is a method or process that you implement in Roam. You can implement it in Roam alongside another process or set of notes, though that might become confusing. Or, you could operate without a method at all and add your notes at-will and use Roam's powerful linking and querying tools to discover notes later.
+			- **Evernote and Notion enforced a really strict process on you, Roam doesn't enforce any process on you. Zettelkasten is a good middle ground.**
+			- Coming from Evernote or Notion, you might be used to the hierarchical and categorical structures that those tools enforce upon you. Roam doesn't enforce that kind of structure.
+			- I've noticed that many people are taking the lack of enforced structure as an opportunity to try and operate without any structure at all.
+			- I did that in my first 6 months of using Roam and I ended up with a lot of notes (over 3,000), but it was really difficult to find the useful notes and to make connections between them. All the valuable notes were drowning in a sea diluted by meaningless notes.
+			- The notes you take on meetings, one-off coffees, every person you've ever met, and all the highlights from all the articles, all the books, and all the tweets serve no purpose other than to drown out the notes that capture useful knowledge. Those notes that could be connected to some other disparate note in a flash of insight, were it not for the fact that the path between these two notes is treacherous, overgrown with notes from sales calls and the time you had coffee with Dave.
+			- The fact that Roam doesn't enforce a structure on you doesn't mean that can operate completely devoid of structure. It means you have the freedom to create and enforce your own structure.
+			- Evernote and Notion give you structure and make you use it; Roam lets you make your own and deviate from it when necessary.
+			- Zettelkasten is not the only structure, but as we've established Roam works well as a Zettelkasten. Does Zettelkasten work well in Roam? The answer is a resounding yes.
+			- The rules of Zettelkasten act as a thin layer on top of Roam. They filter what you add for what will likely produce insights that can be turned into written work or used in a project. That means that if you follow the system, you don't have to worry about developing a huge database of notes that don't help you produce anything.
+		- [[Dumping Ground]]
+			- What Evernote and Notion also enforced was an implicit system of writing and thinking that Roam equally does not enforce.
+			- The Zettlekasten or Slipbox method isn't a new system - it's an old system that just so happens to work really well with Roam. The original Slipbox was built upon a set of note cards linked together through their IDs. In many ways, the Slipbox was a physical version of a Roam database.
+			- **All Things Equal**
+				- The biggest challenge I ran into with my previous database is that I treated every note as equal. Not in my mind or in my thinking, but in my database. I had notes for contacts and people I wanted to stay in touch with, projects I had worked on or was working on, articles I was writing, books I read and taken notes on, etc. Everything was relatively indistinguishable.
+				- Many people who adopt Roam take this course: try to fit everything into it in some way. I think this is problematic and short-sighted. While Roam is a great tool for knowledge management, not all knowledge needs to be (or even should be) managed in Roam. Not all knowledge is equally valuable.
+				- What I found is that all the high-quality and useful notes I'd written were getting lost in the short and, frankly, meaningless notes that polluted my database. I accumulated over 3,000 notes in 6 months, but only some of those were valuable. The whole system was diluted by the meaningless notes. 
+				- Roam is an incredibly powerful tool for many reasons. But I think the most powerful thing about Roam is that it enforces almost no structure on you. Other note-taking apps like Evernote and Notion enforce a lot of structure on you, which in turn requires a lot of ad-hoc decision making. Each time you have to decide over where a note should go, you're using up valuable cognitive resources that could otherwise be invested into creative work.
+				- That said, you can't live and write completely devoid of structure. You have to come up with a structure that works for you.
+	- **Adapting Zettelkasten to Roam**
+		- There are a number of people using Roam as a Slipbox, but I found that the ideas didn't map perfectly. Luhmann used index cards for his Slipbox, so his literature and permanent notes were short, often only a sentence or two. Roam pages don't have that limitation, so we can revisit the idea that notes have to be that short.
+		- In Luhmann's original system, reference notes weren't very valuable. With Roam, we can elevate their importance a bit. With tools like Readwise and it's Roam integration, we can make it so our references and highlights are stored in Roam. We have to remember that highlights on their own are pretty useless. They only become useful when we convert them into literature notes.
+		- Permanent notes were what made Luhmann's system work so well. He could compile them into publications. With Roam, we can make our permanent notes even more useful, by slightly altering the way we create them. My permanent notes are almost like mini-articles. In fact, I've thought of publishing a few of them as articles.
+		- A project is the combination of a few permanent notes. Where Luhmann may have pulled 40-50 permanent notes to create a manuscript, I only need to pull 1-4.
+		- [[Dumping Ground]]
+			- Additionally, this won't be a one-for-one port of Zettelkasten into Roam. The original Zettelkasten method was developed with a set of constraints that we don't necessarily have to adhere to when working in Roam. So some modifications have been made to the system as it's implemented in Roam.
+			- For instance, the original Zettelkasten used index cards, which had limited space to write on. A page in Roam doesn't have that limitation. Because these notes were handwritten, you had to rewrite them in order to update them. In Roam, we can update pages as necessary.
+	- **Further Reading**
+- **Part 2: Implementing Our Zettlekasten**
+	- Now that we've covered what a Zettlekasten is and why Roam and Zettlekasten are a great match, let's dive into how to actually implement one.
+	- The next few sections will cover going through the process of creating the different note types. We finish with turning some permanent notes into a written article (this one that you are reading).
+	- The first step in the Slipbox method is to create a reference note, but the first step in your writing journey is to read good books and articles and think about what you read. The process of following the Slipbox method gives you a lot of time to think about what you read. But it all starts by reading and taking notes on what you read.
+	- You then turn your notes on what you read into reference notes. 
+	- **Making Fleeting Notes**
+		- **Topic: ** __What is a fleeting note? How can I take notes and get them into Roam?__
+		- **Notes:** [[🟨 What is the purpose of fleeting notes?]]
+		- "The purpose of fleeting notes is to capture ideas or thoughts quickly so that they can be processed later. The notes you take when you're listening to a lecture or in a conversation are examples of fleeting notes. So are the notes you make to jot down an idea that popped into your head. Finally, the highlights and notes you make in a book are examples of fleeting notes."
+		- "**It's important to note that fleeting notes are only valuable if you come back through and review them within a day or so.** That's because these kinds of notes are just meant as **__reminders__** of a thought or an idea that you will elaborate later. "
+		- So as you read a book or article, take notes or highlight passages. We'll add these notes to the body of Reference notes in the next section.
+	- **Making Reference Notes**
+		- **Topic:** __What is a reference note in Zettlekasten? How can you implement them in Roam?__
+		- **Notes:** [[🟩 Definition of a Reference Note]] [[🟨 What is a reference note?]] [[🟩 Creating literature notes]]
+		- "A reference note is a note in your Slipbox that performs two functions:"
+			- "Save the reference information for some information or knowledge"
+			- "Store highlights from a reference source"
+		- "**Reference Information**"
+			- "The first function of a reference note is to provide the reference information for a source you have read. A source could be anything that you consume: books, articles, blog posts, documentation, videos, podcasts, etc."
+			- "When you finish taking notes on a source, create a page for it with the bibliographic information (author, link, year, etc)."
+			- "Whenever you want to reference this source, use a link to this note. That can be in your literature notes and permanent notes related to this source. It can also be in your writing, when you want to source information you learned."
+			- [ ] **Insert graphic**
+		- "**Highlights**"
+			- [ ] **Insert a screenshot of a reference note with highlights**
+			- "The second function of a reference note is to store your highlights and annotations on a source. Once you've added the bibliographic information to a reference note, import or copy in your highlights."
+			- "It's important to treat these highlights as a backup and not as material for you to use. We want to store our highlights so we have them in Roam and can reference them later, but the likelihood of our highlights serving any function to us is very small. So don't stop here and don't treat your highlights as important. Your literature and permanent notes are what is important."
+			- Storing highlights and direct quotes in your Slipbox is a deviation from the original method. In the physical form, Luhmann created reference notes with just the bibliographic reference information for the text.
+			- "Why save your highlights in Roam then? There are a few reasons:"
+				- "First, it will make it easier to create literature notes, which is the next step in the process. You'll be able to open your highlights in the sidebar as you write your literature notes in the main window."
+				- "Second, we will be able to easily reference back to the main source material if we're looking for a quote or want to verify something the author said."
+				- "Third, we can have them handy as our understanding develops and our interpretation changes. Early on, you'll be creating permanent notes drawing from a few sources. But as your database grows, you'll start to draw from more sources to create permanent notes and your existing permanent notes will adapt as you read more."
+			- "Being able to reference back to your highlights will make all this easier by, for instance, being able to reference highlights from two sources on the same topic."
+			- This is something that following the Slipbox method in Roam makes possible and provides an advantage to us. It's a small deviation.
+		- **Creating the Reference Note**
+			- For any of the note-types in the Slipbox method, you can use a simple page in Roam
+			- Create a page and populate it with the reference information and your highlights
+			- I like to spruce up my notes a bit with metadata. I'm also a visual person, so I add emojis to the titles of my reference notes.
+			- I use Alfred snippets to create reference notes - both the note title and the metadata
+			- I use a blue square emoji to denote a reference note with the title of the source. Then I populate the body of the note with metadata and content using another Alfred snippet
+			- [ ] **__Insert screenshot here__** - or a gif of creating a reference note
+			- You can see in the screenshot above, that I have some metadata, as well as some highlights from this article. I give each note a type to denote the type of note. I also use an Inbox tag here, which links to a page I have pinned in my sidebar. These are the sources I'm still working with - either still reading and collecting notes form or still turning those notes into Literature notes (the next step).
+			- I think add the source and the author. Each source gets linked to the relevant project(s) and gets a quick summary.
+			- If I took a lot of highlights from a particular source, I may go through and progressively summarize them. More likely, I'll read through the note and stop to create a literature note wherever I feel like it makes sense.
+		- **Populating the Reference Note**
+			- Most of my sources are articles I read online or books I read on my kindle or in paperback. So Readwise is an essential feature to this particular Zettlekasten workflow. I also use Eloquent, a browser extension that makes it easy to highlight text and then copy and paste it into Roam.
+			- **Readwise**
+				- Now that Readwise has automatic exports to Roam, this step is a lot easier.
+				- I used to download my highlights as markdown and copy and paste them in to the reference note page.
+				- Now, I export them and I've set up the Roam export so that it automatically populates the metadata for the reference page
+				- I do not have Readwise automatically export everything I read into Roam. I want to control the flow of information through the system, so I export notes from Readwise and into Roam manually. That way, the number of notes I'm currently processing stays at a manageable level.
+				- [ ] **Insert a gif**
+			- **Eloquent**
+				- Eloquent is the best way to read and collect notes articles and webpages
+				- I'll highlight text in the webpage, then copy and paste it into a reference note in Roam
+				- [ ] **Insert a gif**
+			- **Final thoughts on Reference Notes**
+				- I never connect a literature note to another note. They're purely for holding the reference information and backing up my highlights
+					- I limit the number of tags in a reference note to other notes - typically, just the author and the related projects
+					- I'm trying to actively limit the number of times a literature note will come up as I'm working with my Slipbox
+				- I don't necessarily keep the highlights in order
+					- I'll sometimes go through and organize notes thematically. This makes writing literature notes a little easier, as all your highlights on a topic are in one place. 
+				- The most important thing you can take from this system is this: these notes are basically useless on your own
+				- If you've collected highlights from a ton of sources and haven't done anything with them then you don't have anything of value
+				- Too many people stop here, becoming information hoarders on their path to knowledge creators
+	- **Making Literature Notes**
+		- **Topic:** __What is a literature note? How can you implement them in Roam?__
+		- **Notes:** [[🟩 Creating literature notes]] [[🟩 Definition of a Literature Note]] [[🟩 Rules for making good literature notes]]
+		- It's really important to remember that your highlights aren't worth anything on their own. You have to do something with them in order to turn them into something that you can write with.
+		- You also need to work with the ideas in some form in order to learn the ideas, and writing literature notes happens to be a great way to do this.
+		- **Creating a Literature Note**
+			- I use a similar set of snippets in Alfred to create literature notes.
+			- Literature notes get a yellow square in the title and have similar set of metadata for them:
+			- [ ] **__Insert screenshot here__**
+			- I reuse the Type metadata here to assign this note to the Literature Note tag. I also add topical tags to this line. This makes it possible to filter and query for literature notes with particular tags (ie all literature notes related to Permissioned Blockchains). Literature notes also get assigned to projects.
+			- I create a literature note as I'm reviewing the notes and highlights in my reference note. When I spot a theme or something that I might want to use later, I create the literature note in the reference note, open it in the sidebar and then start to populate it.
+			- There are two really important rules to follow when writing a literature note:
+				- "First, the notes must be in your own words. You cannot copy and paste, quote, or export. The goal of writing literature notes is to help you understand and elaborate on what you're reading and writing these notes in your own words is the only way to do that."
+				- "Second, the notes must be brief. This is to prevent pollution. The goal of this slip box isn't to have a million notes, but to have valuable notes, each with valuable connections to other notes. The value is in the quality of the notes and in their connection to other notes, not in the quantity of notes."
+			- "The goal here is to make this an active process. How can you summarize and distill this information in your own words? Additionally, how can you orient this information towards problems in your work or topics you're writing about."
+			- I keep sources tagged with the Inbox tag until I feel like I've created a sufficient number of literature notes from this. One source could yield many literature notes, or only a couple. It depends on the quality of the source and how relevant it is to my work or an ongoing project.
+		- **Value of Literature Notes**
+			- In the next step, we'll combine multiple literature notes into a single permanent note, just like in the original Zettlekasten system.
+			- However, in the original Slipbox, literature notes had to be really short and concise, owing to the fact that they were written on a single index card
+			- In Roam, our literature notes can be longer. You should still avoid writing long notes, but you can fully express an idea. They should also be atomic, meaning they're only focused on a single idea or concept
+			- [ ] **Insert graphic here**
+	- **Making Permanent Notes**
+		- **Topic:** __What is a permanent note? How can you Implement them in Roam?__
+		- **Notes:** [[🟩 How to make permanent notes in Roam]] [[🟨 What is the purpose of permanent notes?]]
+		- Once you've collected a couple of reference notes on a topic or idea, you can turn those into permanent notes.
+		- A permanent note should encapsulate your thinking on the topic covered. They should be written as if they were publishable. In fact, I aim to either publish a form of every permanent note or to be able to easily drag and drop parts of permanent notes into an article.
+		- The quality of your Slipbox depends on the number of well written permanent notes you have. They are the most important part of your Slipbox.
+		- [ ] **Insert graphic**
+		- **Creating a Permanent Note**
+			- "To create permanent notes, you simply need to go back through your literature notes and summarize them in your own words. Think of this as building the lego pieces or bricks that will eventually become an article or some other completed project."
+			- [ ] **__Insert screenshot__**
+			- I use a green square for permanent notes. I also tag them with keywords, just like I do with Literature notes. A permanent note should pull from multiple literature notes, which can come from the same or multiple different sources.
+			- I typically treat permanent notes as articles-to-be or article-sections-to-be
+			- Have the literature notes open in the sidebar
+		- **Connecting to Other Notes**
+			- The first thing that makes a permanent note valuable is that it is written in such a way that it could be published as-is. The second thing that makes them valuable is that they are connected to other, related permanent notes.
+			- Once a permanent note is drafted, I go through and populate the Related Notes metadata section. I open the Permanent Note note in the sidebar and filter and search through the references to make connections to the 
+			- It's important to get the framing for these connections right. You're not tagging or categorizing this note; you are placing it in a context in which you would like to stumble upon this note again in the future. Context emerges naturally as notes are connected to other notes. When a literal cluster of related notes appears in your graph, you've got a context. Contexts are things you can easily write about.
+- **Part 3: Writing with a Zettlekasten**
+	- **Topic:** __How to turn your Zettlekasten into written works__
+	- **Notes:** [[🟨 Writing a Paper Step by Step with a Slipbox]] [[🟨 Discovering ideas and writing topics with the Slipbox]] [[🟨 How the Slipbox Helps You Succeed at Writing]] [[🟨 Writing is the only thing that matters]]
+	- This part is the most important and the most fun! The goal of the Zettelkasten process is to make this part very easy.
+	- [ ] **Insert graphic of turning permanent notes into an article**
+	- How easy? Typically, when I have or discover an idea for something to write about, I can have a comprehensive outline together ~10-20 minutes later
+	- When I reached a critical mass of notes, I had this unique feeling of being overwhelmed by just how much I could put into an outline. It was the complete opposite experience of what I was used to: scraping my brain for something more than a few sentences that came out of a flash of inspiration. What I thought was a wave of inspiration, turned out to be a ripple. With a Zettelkasten, the small waves turn into tidal waves. 
+	- "Most writing advice has you start off by brainstorming an idea, then researching the idea and writing your paper from there. With the Slipbox and a good collection of permanent notes, we don't have to rely on our brains to come up with novel ideas, something they're not particularly good at."
+	- "Instead, when we want to come up with a new topic to write about, we just look at the topography of our Slipbox and see where clusters of notes are starting to form. These clusters of notes will be areas where we have spent a lot of time, consciously or unconsciously, developing your ideas."
+	- I say __discover__ because I feel like I often find a topic to write about. I'll be navigating around my Roam database and find realize I have a collection of notes on a topic or happen to connect two notes I've visited recently. I can then turn that into an outline and draft up an article in my next writing session.
+	- **Managing New Ideas**
+		- I saw "managing new ideas" instead of "coming up with new ideas" because you'll find that coming up with new ideas isn't the problem - it's managing all the new ideas you'll have as you interact with your Zettelkasten.
+		- I find that I am easily able to come up with ideas in the following steps:
+			- When writing Literature notes - My mind is already thinking about how the note I'm writing might relate to another note
+			- When I'm writing Permanent notes - finding a collection of notes and encapsulating them into an idea naturally makes you think of other ideas
+			- When I'm connecting Permanent notes - this is where the vast majority of ideas come from. The processes of looking through your notes and connecting them together
+		- So since the process of using a Zettelkasten will have you coming up with more new ideas than ever, what we really need is a process for managing them. I do this within my Zettelkasten, so that projects can be easily connected to the notes they're based on. But you could very easily adapt this process to any tool you like.
+- **Appendices**
+	- **You might not need Permanent notes**
+		- Permanent notes is one area where you may be able to modify the system.
+		- Permanent notes are great for capturing your thinking on a topic and being able to turn it into written work.
+		- If you're writing highly compressed material, like a book or academic publication, then you want permanent notes. You will also likely want permanent notes on topics that you write about a lot. For instance, I have a set of permanent notes on permissioned blockchain and related technologies, since it's relevant to my line of work.
+		- If you're writing online, then this step may be unnecessary. You can increase the throughput of the system my skipping this step and combining literature notes straight into an article.
+		- The original Slipbox was created using note cards, which can only hold a little bit of text on them. With Roam, your notes can become quite long. I've found that my Reference notes tend to be pretty in-depth. This means that the distinction between a literature note and permanent note becomes somewhat fuzzy. 
+		- Also, if I'm going to go through the process of synthesizing some notes into a permanent note, then I want that to be something that is publishable.
+		- A few of my last articles were developed from well-written literature notes.
+		- The downside with this is that you have to inject your own thinking in during compile time (while writing an article). 
+	- **Personal notes**
+		- You may find that not all of your notes fit into one of the three note types
+		- I have experimented with creating a Personal Note type for notes and ideas that I have.
+		- This is different from Fleeting Notes:
+			- A fleeting note is a short burst of insight or an idea that, crucially, is not flushed out
+			- A Personal note is flushed out, like a Permanent note, but isn't directly attributable to Literature or Reference notes
+			- An example is my [[🟪 Types of related skills]] note, which is a framework for thinking about how skills relate to each other than I created through my own reflection. It has ties to Josh Waitzkin, Carol Dweck, and Barbara Oakley - but nothing I could directly attribute to them.
+			- **Why is this different from a Permanent Note?**
+			- I treat Personal notes like Permanent notes: they get related to other Personal and Permanent notes 
+	- **Using with Readwise**
+		- Setting up Readwise to work with a Zettelkasten in Roam
+	- **Using an Inbox**
+		- Borrow from [[Anne-Laure Le Cunff]]: To Read, To Process, To Create
+		- __How do you manage what needs to be turned into a reference note? Especially with Readwise__
+	- **Learning with a Zettelkasten**
+		- **Description:** __Describe the process of learning a new subject using a Zettelkasten. Start by finding 2-3 good sources on the topic. These can be text books or the seminal, defining papers on a subject. Then work through the Zettelkasten project. Have a project in mind as you go__
+
+## [[Dumping Ground]]
+[[Dumping Ground]]
+- I'm assuming you're here because you've heard of Zettelkasten or the Slipbox method and have the basic idea of what it is and how it works.
+- This post will focus mostly on implementation in Roam, rather than theory
+- If you are interested in learning about the Zettelkasten method, here are a few resources for you, arranged from most consumable to most definitive:
+	- [[🟦 How to Take Smart Notes | Zettelkasten Method in Roam Research]]
+	- [[🟦 What Makes A Good Zettelkasten Note]]
+	- [[🟦 How to Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing]]
+	- [[🟦 How to Take Smart Notes]]
+- **Designing a New System**
+	- With time, I realized I didn't want __everything__ in my Roam database. I only wanted notes that are valuable for the reason I use Roam: to write and think. To this end, I'm not taking meeting notes in Roam anymore. I'm not trying to use it as a to do or task manager. Nor am I trying to use it as a CRM. There are tools that are better suited to managing those kinds of tasks.
+	- If I'm going to put something into Roam, it has to serve a purpose. It has to be useful. That's the most important feature of my new system.
+- **How it works**
+	- I read and highlight books on my kindle and articles in instapaper. Readwise then exports these notes as reference notes to my Roam database. I spend a little bit of time each day going through my reference notes and highlights and turning those into literature notes.
+	- To generate ideas for things to write about, I look through my literature notes either by title or by tag(s). When I have an idea, I create a page for it and link the idea to the notes that are relevant.
+	- I then use this page to create an outline and turn that outline into a draft.
+- **Parting Thoughts**
+- Contexts and drawing discrete boundaries around knowledge
+	- Richard Hamming quote on drawing boundaries around knowledge
+	- Not __organizing__ notes; You can't organize knowledge

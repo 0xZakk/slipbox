@@ -1,0 +1,9 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]] [[Hyperledger Fabric]]
+- **Source:** [[🟦 Prerequisites to using Hyperledger Fabric]]
+- **Project(s):** [[📦 Grokking Blockchain]] [[📦 Building Blockchain Applications with Hyperledger Fabric]] [[📦 Article: Setting up your computer for Hyperledger Fabric]]
+- In order to start developing applications for a blockchain network built with Hyperledger Fabric, you need to install and configure a few system-level dependencies.
+- The first system level dependency you need is Git. You can verify that you have Git installed by running `git --version`. Luckily, here you don't need a specific version, as any recent version will do.
+- The second system level dependency that you need is cURL, a command line tool for making network requests. If you're on a mac, then you should already have cURL installed. If not, then the best way to install it is with homebrew
+- The final system-level dependencies you'll need are Docker and Docker Compose. Check to see if you have Docker installed by running `docker --version` in your terminal. If you have it installed, then you can check to see if you have Docker Compose installed by running `docker-compose --version`.
+- If you have both Docker and Docker Compose installed, then you are ready to get started!
+- If you need to install either Docker or Docker Compose, then head over to the installation documentation for those for the latest instructions.

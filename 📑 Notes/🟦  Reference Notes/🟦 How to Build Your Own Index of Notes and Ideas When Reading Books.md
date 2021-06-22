@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Reading]] [[Personal Knowledge Management]] [[Slipbox]]
+- **Source:**  pocket
+- **Author:** Shawn Blanc
+- **Summary:**
+- ### Highlights first synced by [[Readwise]] [[November 24th, 2020]]
+    - the real reason I prefer physical non-fiction books is that they’re far easier to read and take notes in 
+    - With a physical book it’s easy to skim through certain chapters and headings. I can jump forward and backward to different sections of the book without losing my place, and also having a context for where I am in the book. 

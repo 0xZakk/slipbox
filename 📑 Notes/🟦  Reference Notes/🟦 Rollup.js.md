@@ -1,0 +1,114 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #JavaScript #[[Build Tools]]
+- **Source:** https://rollupjs.org/guide/en/
+- **Literature Notes:**
+    - 
+- **Highlights:**
+    - Overview
+        - Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+        - ES modules let you freely and seamlessly combine the most useful individual functions from your favorite libraries. This will eventually be possible natively everywhere, but Rollup lets you do it today.
+    - Installation
+        - `npm install --global rollup`
+    - Quick start
+        - Rollup can be used either through a [command line interface](https://rollupjs.org/guide/en//guide/en/#command-line-reference) with an optional configuration file, or else through its [JavaScript API](https://rollupjs.org/guide/en//guide/en/#javascript-api).
+        - See [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) and [rollup-starter-app](https://github.com/rollup/rollup-starter-app) to see example library and application projects using Rollup
+        - These commands assume the entry point to your application is named main.js, and that you'd like all imports compiled into a single file named bundle.js.
+        - For browsers:
+            - ```javascript
+# compile to a <script> containing a self-executing function ('iife')
+rollup main.js --file bundle.js --format iife```
+        - For Node.js:
+            - ```javascript
+# compile to a CommonJS module ('cjs')
+rollup main.js --file bundle.js --format cjs```
+        - For both browsers and Node.js:
+            - ```# UMD format requires a bundle name
+rollup main.js --file bundle.js --format umd --name "myBundle"```
+    - The Why
+        - Developing software is usually easier if you break your project into smaller separate pieces, since that often removes unexpected interactions and dramatically reduces the complexity of the problems you'll need to solve, and simply writing smaller projects in the first place [isn't necessarily the answer](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4). Unfortunately, JavaScript has not historically included this capability as a core feature in the language.
+        - This finally changed with the ES6 revision of JavaScript, which includes a syntax for importing and exporting functions and data so they can be shared between separate scripts.
+        - Rollup allows you to write your code using the new module system, and will then compile it back down to existing supported formats such as CommonJS modules, AMD modules, and IIFE-style scripts.
+    - Tree-Shaking
+        - In addition to enabling the use of ES modules, Rollup also statically analyzes the code you are importing, and will exclude anything that isn't actually used.
+        - Because Rollup includes the bare minimum, it results in lighter, faster, and less complicated libraries and applications. Since this approach can utilise explicit import and export statements, it is more effective than simply running an automated minifier to detect unused variables in the compiled output code.
+    - Command Line Interface
+        - Rollup should typically be used from the command line. You can provide an optional Rollup configuration file to simplify command line usage and enable advanced Rollup functionality.
+        - Configuration Files
+            - Rollup configuration files are optional, but they are powerful and convenient and thus recommended.
+            - A config file is an ES module that exports a default object with the desired options:
+            - ```export default {
+  input: 'src/main.js',
+  output: {
+    file: 'bundle.js', format: 'cjs'
+  }
+};```
+            - Typically, it is called rollup.config.js and sits in the root directory of your project.
+            - Behind the scenes, Rollup will transpile and bundle this file and its relative dependencies to CommonJS before requiring it, which has the advantage that you can share code with an ES module code base while having full interoperability with the Node ecosystem.
+            - Consult the [big list of options](https://rollupjs.org/guide/en//guide/en/#big-list-of-options) for details on each option
+            - You can export an array from your config file to build bundles from several different unrelated inputs at once, even in watch mode. To build different bundles with the same input, you supply an array of output options for each input
+            - To use Rollup with a configuration file, pass the --config or -c flags:
+    - ES Module Syntax
+        - The following is intended as a lightweight reference for the module behaviors defined in the [ES2015 specification](https://www.ecma-international.org/ecma-262/6.0/), since a proper understanding of the import and export statements are essential to the successful use of Rollup.
+        - Importing
+            - Imported values cannot be reassigned, though imported objects and arrays can be mutated (and the exporting module, and any other importers, will be affected by the mutation).
+            - Named Imports
+                - Import a specific item from a source module, with its original name.
+                - import { something } from './module.js';
+                - Import a specific item from a source module, with a custom name assigned upon import.
+                - import { something as somethingElse } from './module.js'
+            - Namespace Imports
+                - Import everything from the source module as an object which exposes all the source module's named exports as properties and methods.
+                - import * as module from './module.js'
+                - The something example from above would then be attached to the imported object as a property, e.g. module.something. If present, the default export can be accessed via module.default.
+            - Default Import
+                - Import the default export of the source module.
+                -  import something from './module.js';
+            - Empty Import
+                - Load the module code, but don't make any new objects available.
+                - import './module.js';
+                - This is useful for polyfills, or when the primary purpose of the imported code is to muck about with prototypes.
+            - Dynamic Import
+                - Import modules using the [dynamic import API](https://github.com/tc39/proposal-dynamic-import#import).
+                - import('./modules.js').then(({ default: DefaultExport, NamedExport })=> { // do something with modules. })
+        - Exporting
+            - Named exports
+                - Export a value that has been previously declared:
+                - const something = true; export { something };
+            - Default Export
+                - Export a single value as the source module's default export:
+                - export default something;
+                - This practice is only recommended if your source module only has one export.
+        - Tutorial
+            - Creating Your First Bundle
+                - Before we begin, you'll need to have [Node.js](https://nodejs.org) installed so that you can use [NPM](https://npmjs.com). You'll also need to know how to access the [command line](https://www.codecademy.com/learn/learn-the-command-line) on your machine.
+                - The easiest way to use Rollup is via the Command Line Interface (or CLI).
+                - For now, we'll install it globally (later on we'll learn how to install it locally to your project so that your build process is portable, but don't worry about that yet)
+                - Type this into the command line:
+                - npm install rollup --global
+                - Let's create a simple project:
+                - mkdir -p my-rollup-project/src cd my-rollup-project
+                - First, we need an entry point. Paste this into a new file called src/main.js:
+                - // src/main.js import foo from './foo.js'; export default function () { console.log(foo); }
+                - Then, let's create the foo.js module that our entry point imports:
+                - // src/foo.js export default 'hello world!';
+                - Now we're ready to create a bundle:
+                - rollup src/main.js -f cjs
+                - The -f option (short for --format) specifies what kind of bundle we're creating — in this case, CommonJS (which will run in Node.js).
+                - You can save the bundle as a file like so:
+                - rollup src/main.js -o bundle.js -f cjs
+            - Using Config Files
+                - So far, so good, but as we start adding more options it becomes a bit of a nuisance to type out the command.
+                - To save repeating ourselves, we can create a config file containing all the options we need. A config file is written in JavaScript and is more flexible than the raw CLI.
+                - Create a file in the project root called rollup.config.js, and add the following code:
+                - // rollup.config.js export default { input: 'src/main.js', output: { file: 'bundle.js', format: 'cjs' } };
+                - To use the config file, we use the --config or -c flag:
+                - rm bundle.js # so we can check the command works! rollup -c
+                - You can, if you like, specify a different config file from the default rollup.config.js:
+                - rollup --config rollup.config.dev.js rollup --config rollup.config.prod.js
+            - Installing Rollup locally
+                - When working within teams or distributed environments it can be wise to add Rollup as a local dependency. Installing Rollup locally prevents the requirement that multiple contributors install Rollup separately as an extra step, and ensures that all contributors are using the same version of Rollup.
+                - To install Rollup locally with NPM:
+                - npm install rollup --save-dev
+                - After installing, Rollup can be run within the root directory of your project:
+                - npx rollup --config
+                - Once installed, it's common practice to add a single build script to package.json, providing a convenient command for all contributors. e.g.
+                - { "scripts": { "build": "rollup --config" } }

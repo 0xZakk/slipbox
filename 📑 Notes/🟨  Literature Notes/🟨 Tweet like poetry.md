@@ -1,0 +1,3 @@
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Writing]] [[Twitter]] [[Building an Audience Online]]
+- **Source:** [[🟦 Tweet Like the Mystery Man]]
+- You want to treat every tweet like a poem: craft it in a way that is not only conscious of what you're trying to say, but the visual look of the words and the rhythm of reading them. Every word is important, so consider every word before posting a tweet. 

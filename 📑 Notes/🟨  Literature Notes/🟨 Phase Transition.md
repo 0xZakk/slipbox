@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]]  | [[Physics]] [[Phase Transition]]  
+- **Source:** [[🟦 Intellectual Phase Transitions]] 
+- A phase transition takes place when a substances changes forms (i.e. when it goes from a gas to a liquid, or from a liquid to a solid).
+- One common example is ice. If you take ice out of the refrigerator and put it in a glass it well go through a phase transition (it will melt into water). Nothing has happened to the molecules themselves (they're all still there) but now the solid (ice) has turned into a liquid (water).

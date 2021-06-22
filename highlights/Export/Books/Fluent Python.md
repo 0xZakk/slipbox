@@ -1,0 +1,348 @@
+# Fluent Python
+
+## Meta Data
+
+Source:  clippings 
+Author: Luciano Ramalho
+
+## Highlights
+
+### Highlights
+
+- One of the best qualities of Python is its consistency. After working with Python for a while, you are able to start making informed, correct guesses about features that are new to you.
+- the API that you can use to make your own objects play well with the most idiomatic language features.
+- While coding with any framework, you spend a lot of time implementing methods that are called by the framework. The same happens when you leverage the Python data model.
+- The special method names allow your objects to implement, support, and interact with basic language constructs
+- Steve Holden
+- Example 1-1. A deck as a sequence of cards
+    - **Note:** Python Card deck
+- collections.namedtuple('Card
+- self._cards = [Card(rank, suit) for suit in self.suits for rank in self.ranks]
+- The first thing to note is the use of collections.namedtuple to construct a simple class to represent individual cards. Since Python 2.6, namedtuple can be used to build classes of objects that are just bundles of attributes with no custom methods, like a database record.
+- By implementing the special methods __len__ and __getitem__, our FrenchDeck behaves like a standard Python sequence, allowing it to benefit from core language features (e.g., iteration and slicing) and from the standard library, as shown by the examples using random.choice, reversed, and sorted. Thanks to composition, the __len__ and __getitem__ implementations can hand off all the work to a list object, self._cards.
+- The first thing to know about special methods is that they are meant to be called by the Python interpreter, and not by you.
+- Unless you are doing a lot of metaprogramming, you should be implementing special methods more often than invoking them explicitly.
+- Example 1-2. A simple two-dimensional vector class
+    - **Note:** 2d vector class
+- The interactive console and debugger call repr on the results of the expressions evaluated, as does the %r placeholder in classic formatting with the % operator, and the !r conversion field in the new Format String Syntax used in the str.format method.
+    - **Note:** Writing an in despth guide to the new sfr format style
+- The string returned by __repr__ should be unambiguous and, if possible, match the source code necessary to re-create the object being represented. That is why our chosen representation looks like calling the constructor of the class (e.g., Vector(3, 4)).
+- If you only implement one of these special methods, choose __repr__, because when no custom __str__ is available, Python will call __repr__ as a fallback.
+- By default, instances of user-defined classes are considered truthy, unless either __bool__ or __len__ is implemented. Basically, bool(x) calls x.__bool__() and uses the result. If __bool__ is not implemented, Python tries to invoke x.__len__(), and if that returns zero, bool returns False. Otherwise bool returns True.
+- “Built-in Types” chapter of The Python Standard Library
+    - **Note:** Read later
+- The “Data Model” chapter of The Python Language Reference lists 83 special method names, 47 of which are used to implement arithmetic, bitwise, and comparison operators.
+    - **Note:** Read later
+- By implementing special methods, your objects can behave like the built-in types, enabling the expressive coding style the community considers Pythonic.
+- A basic requirement for a Python object is to provide usable string representations of itself, one used for debugging and logging, another for presentation to end users. That is why the special methods __repr__ and __str__ exist in the data model.
+- Python in a Nutshell, 2nd Edition (O’Reilly) by Alex Martelli
+    - **Note:** Read later
+- David Beazley
+    - **Note:** Read
+- Python 3: Python Essential Reference, 4th Edition
+    - **Note:** Read
+- The Art of the Metaobject Protocol (AMOP, MIT Press) by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow
+    - **Note:** Read
+- Jython Essentials
+    - **Note:** Read?
+- “Private and “Protected” Attributes in Python”
+    - **Note:** Read
+- ABC introduced many ideas we now consider “Pythonic”: generic operations on sequences, built-in tuple and mapping types, structure by indentation, strong typing without variable declarations, and more.
+- Python inherited from ABC the uniform handling of sequences. Strings, lists, byte sequences, arrays, XML elements, and database results share a rich set of common operations including iteration, slicing, sorting, and concatenation.
+- Understanding the variety of sequences available in Python saves us from reinventing the wheel, and their common interface inspires us to create APIs that properly support and leverage existing and future sequence types.
+- Container sequences
+- Flat sequences
+- Container sequences hold references to the objects they contain, which may be of any type, while flat sequences physically store the value of each item within its own memory space, and not as distinct objects. Thus, flat sequences are more compact, but they are limited to holding primitive values like characters, bytes, and numbers.
+- Another way of grouping sequence types is by mutability: Mutable sequences list, bytearray, array.array, collections.deque, and memoryview Immutable sequences tuple, str, and bytes
+- Keeping in mind these common traits — mutable versus immutable; container versus flat — is helpful to extrapolate what you know about one sequence type to others.
+- The most fundamental sequence type is the list — mutable and mixed-type.
+- Mastering list comprehensions opens the door to generator expressions, which — among other uses — can produce elements to fill up sequences of any type.
+- A quick way to build a sequence is using a list comprehension (if the target is a list) or a generator expression (for all other kinds of sequences).
+- I find Example 2-2 more readable because its intent is explicit.
+    - **Note:** Explicit Intent of code - blog topic
+- A for loop may be used to do lots of different things: scanning a sequence to count or pick items, computing aggregates (sums, averages), or any number of other processing tasks. The code in Example 2-1 is building up a list. In contrast, a listcomp is meant to do one thing only: to build a new list.
+    - **Note:** What we mean by listcomps being explicit
+- Use your best judgment: for Python as for English, there are no hard-and-fast rules for clear writing.
+    - **Note:** Writing clean code
+- List comprehensions build lists from sequences or any other iterable type by filtering and transforming items.
+- compute Cartesian products: a list containing tuples built from all items from two or more lists.
+    - **Note:** Classic example is a deck of cards. Sequence or ranks and a sequence of suits.
+- Example 2-4. Cartesian product using a list comprehension
+- tshirts = [(color, size) for color in colors for size in sizes]
+- Listcomps are a one-trick pony: they build lists. To fill up other sequence types, a genexp is the way to go.
+- >>> symbols = '$¢£¥€¤' >>> tuple(ord(symbol) for symbol in symbols) (36, 162, 163, 165, 8364, 164)
+- In contrast with Example 2-4, here the six-item list of T-shirts is never built in memory: the generator expression feeds the for loop producing one item at a time. If the two lists used in the Cartesian product had 1,000 items each, using a generator expression would save the expense of building a list with a million items just to feed the for loop.
+- Some introductory texts about Python present tuples as “immutable lists,” but that is short selling them. Tuples do double duty: they can be used as immutable lists and also as records with no field names.
+- print('%s/%s' % passport)
+    - **Note:** This format of string formattinf works natively with tuples, so this will print each field
+- The for loop knows how to retrieve the items of a tuple separately — this is called “unpacking.”
+- Tuples work well as records because of the tuple unpacking mechanism
+- tuple unpacking.
+    - **Note:** Blog post
+- Tuple unpacking works with any iterable object.
+- “Using * to grab excess items”
+    - **Note:** Readc
+- The most visible form of tuple unpacking is parallel assignment; that is, assigning items from an iterable to a tuple of variables,
+- >>> lax_coordinates = (33.9425, -118.408056) >>> latitude, longitude = lax_coordinates # tuple unpacking
+- An elegant application of tuple unpacking is swapping the values of variables without using a temporary variable: >>> b, a = a, b
+- Another example of tuple unpacking is prefixing an argument with a star when calling a function: >>> divmod(20, 8) (2, 4) >>> t = (20, 8) >>> divmod(*t) (2, 4) >>> quotient, remainder = divmod(*t) >>> quotient, remainder (2, 4)
+- a further use of tuple unpacking: enabling functions to return multiple values in a way that is convenient to the caller.
+- >>> import os >>> _, filename = os.path.split('/home/luciano/.ssh/idrsa.pub') >>> filename 'idrsa.pub'
+- Defining function parameters with *args to grab arbitrary excess arguments is a classic Python feature.
+- >>> a, b, *rest = range(5) >>> a, b, rest
+- >>> a, *body, c, d = range(5) >>> a, body, c, d (0, [1, 2], 3, 4) >>> *head, b, c, d = range(5) >>> head, b, c, d ([0, 1], 2, 3, 4)
+- As designed, tuples are very handy. But there is a missing feature when using them as records: sometimes it is desirable to name the fields. That is why the namedtuple function was invented.
+- The collections.namedtuple function is a factory that produces subclasses of tuple enhanced with field names and a class name
+- Card = collections.namedtuple('Card', ['rank', 'suit'])
+- City = namedtuple('City', 'name country population coordinates')
+- Two parameters are required to create a named tuple: a class name and a list of field names, which can be given as an iterable of strings or as a single space-delimited string.
+- Data must be passed as positional arguments to the constructor
+- named tuple type has a few attributes in addition to those inherited from tuple. Example 2-10 shows the most useful: the _fields class attribute, the class method _make(iterable), and the _asdict() instance method.
+- _fields is a tuple with the field names of the class.
+- _make() allow you to instantiate a named tuple from an iterable; City(*delhi_data) would do the same.
+- _asdict() returns a collections.OrderedDict built from the named tuple instance.
+- tuple supports all list methods that do not involve adding or removing items, with one exception — tuple lacks the __reversed__ method. However, that is just for optimization; reversed(my_tuple) works without it.
+- A common feature of list, tuple, str, and all sequence types in Python is the support of slicing operations, which are more powerful than most people realize.
+    - **Note:** Blog - slicing beyond the basics
+- Why Slices and Range Exclude the Last Item
+    - **Note:** Why range and slice boundaries are exclusive
+- The Pythonic convention of excluding the last item in slices and ranges works well with the zero-based indexing used in Python, C, and many other languages. Some convenient features of the convention are: It’s easy to see the length of a slice or range when only the stop position is given: range(3) and my_list[:3] both produce three items. It’s easy to compute the length of a slice or range when start and stop are given: just subtract stop - start. It’s easy to split a sequence in two parts at any index x, without overlapping: simply get my_list[:x] and my_list[x:]. For example: >>> l = [10, 20, 30, 40, 50, 60] >>> l[:2] # split at 2 [10, 20] >>> l[2:] [30, 40, 50, 60] >>> l[:3] # split at 3 [10, 20, 30] >>> l[3:] [40, 50, 60]
+- s[a:b:c] can be used to specify a stride or step c, causing the resulting slice to skip items. The stride can also be negative, returning items in reverse.
+- to evaluate the expression seq[start:stop:step], Python calls seq.__getitem__(slice(start, stop, step)).
+- knowing about slice objects is useful because it lets you assign names to slices, just like spreadsheets allow naming of cell ranges.
+- Example 2-11. Line items from a flat-file invoice
+    - **Note:** Assigning slices to vars for reuse
+- slicing includes additional features such as multidimensional slices and ellipsis (...) notation.
+- The [] operator can also take multiple indexes or slices separated by commas.
+- a two-dimensional slice obtained with an expression like a[m:n, k:l].
+- The ellipsis — written with three full stops (...) and not … (Unicode U+2026) — is recognized as a token by the Python parser. It is an alias to the Ellipsis object, the single instance of the ellipsis class.2 As such, it can be passed as an argument to functions and as part of a slice specification, as in f(a, ..., z) or a[i:...]. NumPy uses ... as a shortcut when slicing arrays of many dimensions; for example, if x is a four-dimensional array, x[i, ...] is a shortcut for x[i, :, :, :,].
+    - **Note:** Read
+- Slices are not just useful to extract information from sequences; they can also be used to change mutable sequences in place — that is, without rebuilding them from scratch.
+- Mutable sequences can be grafted, excised, and otherwise modified in place using slice notation on the left side of an assignment statement or as the target of a del statement.
+- Python programmers expect that sequences support + and *. Usually both operands of + must be of the same sequence type, and neither of them is modified but a new sequence of the same type is created as result of the concatenation.
+- the += and *= operators, which produce very different results depending on the mutability of the target sequence.
+- The augmented assignment operators += and *= behave very differently depending on the first operand.
+- The special method that makes += work is __iadd__ (for “in-place addition”). However, if __iadd__ is not implemented, Python falls back to calling __add__.
+- If a implements __iadd__, that will be called. In the case of mutable sequences (e.g., list, bytearray, array.array), a will be changed in place (i.e., the effect will be similar to a.extend(b)). However, when a does not implement __iadd__, the expression a += b has the same effect as a = a + b: the expression a + b is evaluated first, producing a new object, which is then bound to a. In other words, the identity of the object bound to a may or may not change, depending on the availability of __iadd__.
+- Repeated concatenation of immutable sequences is inefficient, because instead of just appending new items, the interpreter has to copy the whole target sequence to create a new one with the new items concatenated.
+- Online Python Tutor is an awesome online tool to visualize how Python works in detail.
+    - **Note:** Explore
+- dis.dis('s[a] += b')
+    - **Note:** Lookup
+- Putting mutable items in tuples is not a good idea.
+- The list.sort method sorts a list in place — that is, without making a copy. It returns None to remind us that it changes the target object, and does not create a new list.
+- Python API convention: functions or methods that change an object in place should return None to make it clear to the caller that the object itself was changed, and no new object was created.
+- Wikipedia’s “Fluent interface” entry
+    - **Note:** Read
+- the built-in function sorted creates a new list and returns it. In fact, it accepts any iterable object as an argument, including immutable sequences and generators
+- The bisect module offers two main functions — bisect and insort — that use the binary search algorithm to quickly find and insert items in any sorted sequence.
+- bisect(haystack, needle) does a binary search for needle in haystack — which must be a sorted sequence — to locate the position where needle can be inserted while maintaining haystack in ascending order.
+- a SortedCollection recipe
+    - **Note:** Read
+- bisect is actually an alias for bisect_right, and there is a sister function called bisect_left. Their difference is apparent only when the needle compares equal to an item in the list: bisect_right returns an insertion point after the existing item, and bisect_left returns the position of the existing item, so insertion would occur before it.
+- Example 2-18. Given a test score, grade returns the corresponding letter grade >>> def grade(score, breakpoints=[60, 70, 80, 90], grades='FDCBA'): ... i = bisect.bisect(breakpoints, score) ... return grades[i] ... >>> [grade(score) for score in [33, 99, 77, 70, 89, 90, 100]] ['F', 'A', 'C', 'C', 'B', 'A', 'A']
+- the bisect module documentation
+    - **Note:** Read
+- Sorting is expensive, so once you have a sorted sequence, it’s good to keep it that way. That is why bisect.insort was created.
+- insort(seq, item) inserts item into seq so as to keep seq in ascending order.
+- If you are handling lists of numbers, arrays are the way to go.
+- The list type is flexible and easy to use, but depending on specific requirements, there are better options.
+    - **Note:** When not to use a list in python
+- deque (double-ended queue)
+- If the list will only contain numbers, an array.array is more efficient than a list: it supports all mutable sequence operations (including .pop, .insert, and .extend), and additional methods for fast loading and saving such as .frombytes and .tofile.
+- the pickle module for object serialization.
+    - **Note:** Read
+- If you need to sort an array, use the sorted function to rebuild it sorted: a = array.array(a.typecode, sorted(a)) To keep a sorted array sorted while adding items to it, use the bisect.insort function
+- The built-in memoryview class is a shared-memory sequence type that lets you handle slices of arrays without copying bytes.
+- A memoryview is essentially a generalized NumPy array structure in Python itself (without the math). It allows you to share memory between data-structures (things like PIL images, SQLlite databases, NumPy arrays, etc.) without first copying.
+- (typecode 'h').
+    - **Note:** Lookup different type code values
+- The class collections.deque is a thread-safe double-ended queue designed for fast inserting and removing from both ends.
+- Mastering the standard library sequence types is a prerequisite for writing concise, effective, and idiomatic Python code.
+- Python sequences are often categorized as mutable or immutable, but it is also useful to consider a different axis: flat sequences and container sequences. The former are more compact, faster, and easier to use, but are limited to storing atomic data such as numbers, characters, and bytes. Container sequences are more flexible, but may surprise you when they hold mutable objects, so you need to be careful to use them correctly with nested data structures.
+- Python Cookbook, 3rd Edition (O’Reilly) by David Beazley and Brian K. Jones
+    - **Note:** Read
+- The official Python Sorting HOW TO
+    - **Note:** Read
+- Eli Bendersky’s blog post “Less Copies in Python with the Buffer Protocol and memoryviews includes a short tutorial on memoryview.
+    - **Note:** Read
+- Wes McKinney’s Python for Data Analysis (O’Reilly)
+    - **Note:** Read
+- In The Python Standard Library, 8.3. collections — Container datatypes
+    - **Note:** Read
+- Edsger W. Dijkstra himself, in a short memo titled “Why Numbering Should Start at Zero”.
+    - **Note:** Read
+- You can read about that conspiracy theory in Python Humor
+    - **Note:** Lookujp
+- M. Kuchling, “Python’s Dictionary Implementation: Being All Things to All People”1
+    - **Note:** Read
+- Python dicts are highly optimized. Hash tables are the engines behind Python’s high-performance dicts.
+- The collections.abc module provides the Mapping and MutableMapping ABCs to formalize the interfaces of dict and similar types
+- All mapping types in the standard library use the basic dict in their implementation, so they share the limitation that the keys must be hashable
+- A dictcomp builds a dict instance by producing key:value pair from any iterable.
+- country_code = {country: code for code, country in DIAL_CODES}
+- 3-1. Methods of the mapping types dict, collections.defaultdict, and collections.OrderedDict
+- The way update handles its first argument m is a prime example of duck typing: it first checks whether m has a keys method and, if it does, assumes it is a mapping. Otherwise, update falls back to iterating over m, assuming its items are (key, value) pairs.
+- setdefault. We don’t always need it, but when we do, it provides a significant speedup by avoiding redundant key lookups.
+- index.setdefault(word, []).append(location)
+- Sometimes it is convenient to have mappings that return some made-up value when a missing key is searched. There are two main approaches to this: one is to use a defaultdict instead of a plain dict. The other is to subclass dict or any other mapping type and add a __missing__ method.
+- defaultdict is configured to create items on demand whenever a missing key is searched.
+- when instantiating a defaultdict, you provide a callable that is used to produce a default value whenever __getitem__ is passed a nonexistent key argument.
+- The callable that produces the default values is held in an instance attribute called default_factory.
+- index[word].append(location)
+- If word is not initially in the index, the default_factory is called to produce the missing value,
+- Underlying the way mappings deal with missing keys is the aptly named __missing__ method.
+- collections.OrderedDict Maintains keys in insertion order, allowing iteration over items in a predictable order.
+- collections.ChainMap Holds a list of mappings that can be searched as one.
+- collections.Counter A mapping that holds an integer count for each key. Updating an existing key adds to its count.
+- >>> ct = collections.Counter('abracadabra') >>> ct Counter({'a': 5, 'b': 2, 'r': 2, 'c': 1, 'd': 1})
+    - **Note:** Good code challenge topic
+- collections.UserDict A pure Python implementation of a mapping that works like a standard dict.
+- It’s almost always easier to create a new mapping type by extending UserDict rather than dict.
+- The main reason why it’s preferable to subclass from UserDict rather than from dict is that the built-in has some implementation shortcuts that end up forcing us to override methods that we can just inherit from UserDict with no problems.
+- Note that UserDict does not inherit from dict, but has an internal dict instance, called data, which holds the actual items.
+- Since Python 3.3, the types module provides a wrapper class called MappingProxyType, which, given a mapping, returns a mappingproxy instance that is a read-only but dynamic view of the original mapping. This means that updates to the original mapping can be seen in the mappingproxy, but changes cannot be made through it.
+- set is a collection of unique objects. A basic use case is removing duplication:
+- Set elements must be hashable. The set type is not hashable, but frozenset is, so you can have frozenset elements inside a set.
+- In addition to guaranteeing uniqueness, the set types implement the essential set operations as infix operators, so, given two sets a and b, a | b returns their union, a & b computes the intersection, and a - b the difference.
+- Smart use of set operations can reduce both the line count and the runtime of Python programs, at the same time making code easier to read and reason about — by removing loops and lots of conditional logic.
+- Example 3-10. Count occurrences of needles in a haystack, both of type set found = len(needles & haystack)
+- Example 3-10 runs slightly faster than Example 3-11
+- The syntax of set literals — {1}, {1, 2}, etc. — looks exactly like the math notation, with one important exception: there’s no literal notation for the empty set, so we must remember to write set().
+- Literal set syntax like {1, 2, 3} is both faster and more readable than calling the constructor
+- There is no special syntax to represent frozenset literals — they must be created by calling the constructor.
+- {chr(i) for i in range(32, 256) if 'SIGN' in name(chr(i),'')} {'§', '=', '¢', '#', '¤', '<', '¥', 'µ', '×', '$', '¶', '£', '©', '°', '+', '÷', '±', '>', '¬', '®', '%'}
+- to produce the union of four collections, a, b, c, and d, you can call a.union(b, c, d), where a must be a set, but b, c, and d can be iterables of any type.
+- Table 3-3. Set comparison operators and methods that return a bool
+    - **Note:** Test for subset and superset
+- s.isdisjoint(z) s and z are disjoint (have no elements in common)
+- s.discard(e) ● Remove element e from s if it is
+- A Performance Experiment
+    - **Note:** Set and dict performnce test
+- Table 3-6.
+    - **Note:** Full perf comparison
+- A hash table is a sparse array (i.e., an array that always has empty cells). In standard data structure texts, the cells in a hash table are often called “buckets.” In a dict hash table, there is a bucket for each item, and it contains two fields: a reference to the key and a reference to the value of the item. Because all buckets have the same size, access to an individual bucket is done by offset.
+- Python tries to keep at least 1/3 of the buckets empty; if the hash table becomes too crowded, it is copied to a new location with room for more buckets.
+- To put an item in a hash table, the first step is to calculate the hash value of the item key, which is done with the hash() built-in function,
+- The hash() built-in function works directly with built-in types and falls back to calling __hash__ for user-defined types.
+- If two objects compare equal, their hash values must also be equal, otherwise the hash table algorithm does not work.
+- Also, to be effective as hash table indexes, hash values should scatter around the index space as much as possible. This means that, ideally, objects that are similar but not equal should have hash values that differ widely.
+- To fetch the value at my_dict[search_key], Python calls hash(search_key) to obtain the hash value of search_key and uses the least significant bits of that number as an offset to look up a bucket in the hash table (the number of bits used depends on the current size of the table). If the found bucket is empty, KeyError is raised. Otherwise, the found bucket has an item — a found_key:found_value pair — and then Python checks whether search_key == found_key. If they match, that was the item sought: found_value is returned.
+- if search_key and found_key do not match, this is a hash collision. This happens because a hash function maps arbitrary objects to a small number of bits, and — in addition — the hash table is indexed with a subset of those bits.
+- 
+- Figure 3-3. Flowchart for retrieving an item from a dict;
+- The process to insert or update an item is the same, except that when an empty bucket is located, the new item is put there, and when a bucket with a matching key is found, the value in that bucket is overwritten with the new value.
+- Keys must be hashable objects
+- dicts have significant memory overhead Because a dict uses a hash table internally, and hash tables must be sparse to work, they are not space efficient.
+- Replacing dicts with tuples reduces the memory usage in two ways: by removing the overhead of one hash table per record and by not storing the field names again with each record.
+- Optimization is the altar where maintainability is sacrificed.
+- The dict implementation is an example of trading space for time: dictionaries have significant memory overhead, but they provide fast access regardless of the size of the dictionary — as long as it fits in memory.
+- Key ordering depends on insertion order When a hash collision happens, the second key ends up in a position that it would not normally occupy if it had been inserted first. So, a dict built as dict([(key1, value1), (key2, value2)]) compares equal to dict([(key2, value2), (key1, value1)]), but their key ordering may not be the same if the hashes of key1 and key2 collide.
+- Adding items to a dict may change the order of existing keys Whenever you add a new item to a dict, the Python interpreter may decide that the hash table of that dictionary needs to grow. This entails building a new, bigger hash table, and adding all current items to the new table. During this process, new (but different) hash collisions may happen, with the result that the keys are likely to be ordered differently in the new hash table.
+- All of this is implementation-dependent, so you cannot reliably predict when it will happen. If you are iterating over the dictionary keys and changing them at the same time, your loop may not scan all the items as expected — not even the items that were already in the dictionary before you added to it. This is why modifying the contents of a dict while iterating through it is a bad idea. If you need to scan and add items to a dictionary, do it in two steps: read the dict from start to finish and collect the needed additions in a second dict. Then update the first one with it.
+- The set and frozenset types are also implemented with a hash table, except that each bucket holds only a reference to the element (as if it were a key in a dict, but without a value to go with it).
+- Lib/collections/__init__.py
+    - **Note:** Read
+- Chapter 1 of Python Cookbook, Third edition (O’Reilly) by David Beazley and Brian K. Jones has 20 handy and insightful recipes with data structures — the majority using dict in clever ways.
+    - **Note:** Read
+- Chapter 18, “Python’s Dictionary Implementation: Being All Things to All People,” in the book Beautiful Code (O’Reilly)
+    - **Note:** Read
+- comments in the source code of the dictobject.c CPython module
+    - **Note:** Read
+- Brandon Craig Rhodes’ presentation The Mighty Dictionary is excellent and shows how hash tables work by using lots of slides with… tables!
+    - **Note:** Read
+- Beautiful Code: Leading Programmers Explain How They Think,
+    - **Note:** Read
+- “Subclassing Built-In Types Is Tricky”.
+    - **Note:** Read
+- Humans use text. Computers speak bytes.1 Esther Nam and Travis Fischer, Character Encoding and Unicode in Python
+- Programming language theorists define a “first-class object” as a program entity that can be: Created at runtime Assigned to a variable or element in a data structure Passed as an argument to a function Returned as the result of a function
+- A function that takes a function as argument or returns a function as the result is a higher-order function.
+- In the functional programming paradigm, some of the best known higher-order functions are map, filter, reduce, and apply.
+- The apply function was deprecated in Python 2.3 and removed in Python 3 because it’s no longer necessary. If you need to call a function with a dynamic set of arguments, you can just write fn(*args, **keywords) instead of apply(fn, args, kwargs).
+- The map, filter, and reduce higher-order functions are still around, but better alternatives are available for most of their use cases,
+- The map and filter functions are still built-ins in Python 3, but since the introduction of list comprehensions and generator expressions, they are not as important. A listcomp or a genexp does the job of map and filter combined, but is more readable.
+- The lambda keyword creates an anonymous function within a Python expression.
+- limits the body of lambda functions to be pure expressions.
+- If you find a piece of code hard to understand because of a lambda, Fredrik Lundh suggests this refactoring procedure: Write a comment explaining what the heck that lambda does. Study the comment for a while, and think of a name that captures the essence of the comment. Convert the lambda to a def statement, using that name. Remove the comment.
+- the Functional Programming HOWTO
+    - **Note:** Read
+- The lambda syntax is just syntactic sugar: a lambda expression creates a function object just like the def statement.
+- The Python Data Model documentation lists seven callable types: User-defined functions Created with def statements or lambda expressions. Built-in functions A function implemented in C (for CPython), like len or time.strftime. Built-in methods Methods implemented in C, like dict.get. Methods Functions defined in the body of a class. Classes When invoked, a class runs its __new__ method to create an instance, then __init__ to initialize it, and finally the instance is returned to the caller. Because there is no new operator in Python, calling a class is like calling a function. (Usually calling a class creates an instance of the same class, but other behaviors are possible by overriding __new__. We’ll see an example of this in “Flexible Object Creation with __new__”.) Class instances If a class defines a __call__ method, then its instances may be invoked as functions. See “User-Defined Callable Types”. Generator functions Functions or methods that use the yield keyword. When called, generator functions return a generator object.
+- Not only are Python functions real objects, but arbitrary Python objects may also be made to behave like functions. Implementing a __call__ instance method is all it takes.
+- class implementing __call__ is an easy way to create function-like objects that have some internal state that must be kept across invocations,
+- Function objects have many attributes beyond __doc__. See what the dir function reveals about our factorial: >>> dir(factorial) ['__annotations__', '__call__', '__class__', '__closure__', '__code__', '__defaults__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__get__', '__getattribute__', '__globals__', '__gt__', '__hash__', '__init__', '__kwdefaults__', '__le__', '__lt__', '__module__', '__name__', '__ne__', '__new__', '__qualname__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__']
+- Table 5-1. Attributes of user-defined functions
+- The only thing Python does with annotations is to store them in the __annotations__ attribute of the function. Nothing else: no checks, enforcement, validation, or any other action is performed.
+- functional coding style can be used to good extent, thanks to the support of packages like operator and functools, which we cover in the next two sections.
+- itemgetter
+- creates functions to extract object attributes by name.
+- methodcaller
+- calls a method by name on the object given as argument,
+- Of the remaining functions in functools, the most useful is partial and its variation, partialmethod.
+- functools.partial is a higher-order function that allows partial application of a function. Given a function, a partial application produces a new callable with some of the arguments of the original function fixed. This is useful to adapt a function that takes one or more arguments to an API that requires a callback with fewer arguments.
+- partial takes a callable as first argument, followed by an arbitrary number of positional and keyword arguments to bind.
+- Demo of partial applied to the function tag from Example 5-10
+    - **Note:** Kind of like making a sub-callable from an existing function
+- The functools.partialmethod function (new in Python 3.4) does the same job as partial, but is designed to work with methods.
+- Chapter 7 of the Python Cookbook, Third Edition (O’Reilly), by David Beazley and Brian K. Jones,
+- For more about the current (as of mid-2014) use of annotations, two Stack Overflow questions are worth reading: “What are good uses for Python3’s Function Annotations” has a practical answer and insightful comments by Raymond Hettinger, and the answer for “What good are Python function annotations?” quotes extensively from Guido van Rossum.
+    - **Note:** Read
+- Shriram Krishnamurthi, professor of Computer Science at Brown University, starts his “Teaching Programming Languages in a Post-Linnaean Age” paper with this:
+    - **Note:** Read
+- Krishnamurthi submits that instead of trying to classify languages in some taxonomy, it’s more useful to consider them as aggregations of features.
+- lambda, map, filter, and reduce first appeared in Lisp, the original functional language. However, Lisp does not limit what can be done inside a lambda, because everything in Lisp is an expression.
+- another blog post, “Tail Recursion Elimination”, Guido gives several reasons why such optimization is not a good fit for Python.
+    - **Note:** read
+- “Origins of Python’s Functional Features”, from Guido’s The History of Python blog.
+- Conformity to patterns is not a measure of goodness.1 Ralph Johnson, Coauthor of the Design Patterns classic
+    - **Note:** Read
+- Although design patterns are language-independent, that does not mean every pattern applies to every language.
+- 1996 presentation, “Design Patterns in Dynamic Languages”, Peter Norvig
+    - **Note:** Read
+- The Strategy pattern is summarized like this in Design Patterns: Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+- Example 6-1. Implementation Order class with pluggable discount strategies from abc import ABC, abstractmethod from collections import namedtuple Customer = namedtuple('Customer', 'name fidelity') class LineItem: def __init__(self, product, quantity, price): self.product = product self.quantity = quantity self.price = price def total(self): return self.price * self.quantity class Order: # the Context def __init__(self, customer, cart, promotion=None): self.customer = customer self.cart = list(cart) self.promotion = promotion def total(self): if not hasattr(self, '__total'): self.__total = sum(item.total() for item in self.cart) return self.__total def due(self): if self.promotion is None: discount = 0 else: discount = self.promotion.discount(self) return self.total() - discount def __repr__(self): fmt = '<Order total: {:.2f} due: {:.2f}>' return fmt.format(self.total(), self.due()) class Promotion(ABC): # the Strategy: an abstract base class @abstractmethod def discount(self, order): """Return discount as a positive dollar amount""" class FidelityPromo(Promotion): # first Concrete Strategy """5% discount for customers with 1000 or more fidelity points""" def discount(self, order): return order.total() * .05 if order.customer.fidelity >= 1000 else 0 class BulkItemPromo(Promotion): # second Concrete Strategy """10% discount for each LineItem with 20 or more units""" def discount(self, order): discount = 0 for item in order.cart: if item.quantity >= 20: discount += item.total() * .1 return discount class LargeOrderPromo(Promotion): # third Concrete Strategy """7% discount for orders with 10 or more distinct items""" def discount(self, order): distinct_items = {item.product for item in order.cart} if len(distinct_items) >= 10: return order.total() * .07 return 0
+- Example 6-2. Sample usage of Order class with different promotions applied >>> joe = Customer('John Doe', 0) >>> ann = Customer('Ann Smith', 1100) >>> cart = [LineItem('banana', 4, .5), ... LineItem('apple', 10, 1.5), ... LineItem('watermellon', 5, 5.0)] >>> Order(joe, cart, FidelityPromo()) <Order total: 42.00 due: 42.00> >>> Order(ann, cart, FidelityPromo()) <Order total: 42.00 due: 39.90> >>> banana_cart = [LineItem('banana', 30, .5), ... LineItem('apple', 10, 1.5)] >>> Order(joe, banana_cart, BulkItemPromo()) <Order total: 30.00 due: 28.50> >>> long_order = [LineItem(str(item_code), 1, 1.0) ... for item_code in range(10)] >>> Order(joe, long_order, LargeOrderPromo()) <Order total: 10.00 due: 9.30> >>> Order(joe, cart, LargeOrderPromo()) <Order total: 42.00 due: 42.00> Two
+- Example 6-3. Order class with discount strategies implemented as functions from collections import namedtuple Customer = namedtuple('Customer', 'name fidelity') class LineItem: def __init__(self, product, quantity, price): self.product = product self.quantity = quantity self.price = price def total(self): return self.price * self.quantity class Order: # the Context def __init__(self, customer, cart, promotion=None): self.customer = customer self.cart = list(cart) self.promotion = promotion def total(self): if not hasattr(self, '__total'): self.__total = sum(item.total() for item in self.cart) return self.__total def due(self): if self.promotion is None: discount = 0 else: discount = self.promotion(self) return self.total() - discount def __repr__(self): fmt = '<Order total: {:.2f} due: {:.2f}>' return fmt.format(self.total(), self.due()) def fidelity_promo(order): """5% discount for customers with 1000 or more fidelity points""" return order.total() * .05 if order.customer.fidelity >= 1000 else 0 def bulk_item_promo(order): """10% discount for each LineItem with 20 or more units""" discount = 0 for item in order.cart: if item.quantity >= 20: discount += item.total() * .1 return discount def large_order_promo(order): """7% discount for orders with 10 or more distinct items""" distinct_items = {item.product for item in order.cart} if len(distinct_items) >= 10: return order.total() * .07 return 0
+- Example 6-4. Sample usage of Order class with promotions as functions >>> joe = Customer('John Doe', 0) >>> ann = Customer('Ann Smith', 1100) >>> cart = [LineItem('banana', 4, .5), ... LineItem('apple', 10, 1.5), ... LineItem('watermellon', 5, 5.0)] >>> Order(joe, cart, fidelity_promo) <Order total: 42.00 due: 42.00> >>> Order(ann, cart, fidelity_promo) <Order total: 42.00 due: 39.90> >>> banana_cart = [LineItem('banana', 30, .5), ... LineItem('apple', 10, 1.5)] >>> Order(joe, banana_cart, bulk_item_promo) <Order total: 30.00 due: 28.50> >>> long_order = [LineItem(str(item_code), 1, 1.0) ... for item_code in range(10)] >>> Order(joe, long_order, large_order_promo) <Order total: 10.00 due: 9.30> >>> Order(joe, cart, large_order_promo) <Order total: 42.00 due: 42.00>
+- It is interesting to note that in Design Patterns the authors suggest: “Strategy objects often make good flyweights.”3 A definition of the Flyweight in another part of that work states: “A flyweight is a shared object that can be used in multiple contexts simultaneously.”4 The sharing is recommended to reduce the cost of creating a new concrete strategy object when the same strategy is applied over and over again with every new context — with every new Order instance, in our example. So, to overcome a drawback of the Strategy pattern — its runtime cost — the authors recommend applying yet another pattern. Meanwhile, the line count and maintenance cost of your code are piling up.
+- Once you get used to the idea that functions are first-class objects, it naturally follows that building data structures holding functions often makes sense.
+- Modules in Python are also first-class objects, and the standard library provides several functions to handle them.
+- globals() Return a dictionary representing the current global symbol table.
+- The goal of Command is to decouple an object that invokes an operation (the Invoker) from the provider object that implements it (the Receiver).
+- The idea is to put a Command object between the two, implementing an interface with a single method, execute, which calls some method in the Receiver to perform the desired operation. That way the Invoker does not need to know the interface of the Receiver, and different receivers can be adapted through different Command subclasses. The Invoker is configured with a concrete command and calls its execute method to operate it.
+- Quoting from Gamma et al., “Commands are an object-oriented replacement for callbacks.” The question is: do we need an object-oriented replacement for callbacks? Sometimes yes, but not always.
+- replacing with callables the instances of a participant class that implemented a single-method interface. After all, every Python callable implements a single-method interface, and that method is named __call__.
+- From the same talk quoted at the start of this chapter, in reflecting on the 20th anniversary of Design Patterns: Elements of Reusable Object-Oriented Software, Ralph Johnson has stated that one of the failings of the book is “Too much emphasis on patterns as end-points instead of steps in the design process.”
+- In many cases, functions or callable objects provide a more natural way of implementing callbacks in Python than mimicking the Strategy or the Command patterns as described by Gamma, Helm, Johnson, and Vlissides. The refactoring of Strategy and the discussion of Command in this chapter are examples of a more general insight: sometimes you may encounter a design pattern or an API that requires that components implement an interface with a single method, and that method has a generic-sounding name such as “execute”, “run”, or “doIt”. Such patterns or APIs often can be implemented with less boilerplate code in Python using first-class functions or other callables.
+- “Recipe 8.21. Implementing the Visitor Pattern,” in the Python Cookbook, Third Edition (O’Reilly), by David Beazley and Brian K. Jones,
+    - **Note:** Read
+- Learning Python Design Patterns, by Gennadiy Zlobin
+    - **Note:** Read
+- Expert Python Programming by Tarek Ziadé
+    - **Note:** Read
+- Alex Martelli has given several talks about Python Design Patterns. There is a video of his EuroPython 2011 presentation and a set of slides on his personal website
+    - **Note:** Read
+- Bruce Eckel — author of the excellent Thinking in Java (Prentice Hall) — started a book titled Python 3 Patterns, Recipes and Idioms.
+- Head First Design Patterns by Eric Freeman, Bert Bates, Kathy Sierra, and Elisabeth Robson (O’Reilly).
+    - **Tags:** #read
+    - **Note:** .read
+- Design Patterns in Ruby by Russ Olsen (Addison-Wesley)
+    - **Note:** Read
+- In Design Patterns in Dynamic Languages (slides), Peter Norvig
+    - **Note:** Read
+- “Root Cause Analysis of Some Faults in Design Patterns,” presented by Ralph Johnson at
+    - **Note:** Read
+- Function decorators let us “mark” functions in the source code to enhance their behavior in some way.
+- A decorator is a callable that takes another function as argument (the decorated function).2 The decorator may perform some processing with the decorated function, and returns it or replaces it with another function or callable object.
+- In other words, assuming an existing decorator named decorate, this code: @decorate def target(): print('running target()') Has the same effect as writing this: def target(): print('running target()') target = decorate(target) The end result is the same: at the end of either of these snippets, the target name does not necessarily refer to the original target function, but to whatever function is returned by decorate(target).
+- Strictly speaking, decorators are just syntactic sugar.
+- The second crucial fact is that they are executed immediately when a module is loaded.
+- A key feature of decorators is that they run right after the decorated function is defined. That is usually at import time (i.e., when a module is loaded by Python).
+- The main point of Example 7-2 is to emphasize that function decorators are executed as soon as the module is imported, but the decorated functions only run when they are explicitly invoked. This highlights the difference between what Pythonistas call import time and runtime.
+- Example 7-3. The promos list is filled by the promotion decorator
+    - **Note:** Use a decorator to register strategies in the Strategy pattern
+- This solution has several advantages over the others presented in “Case Study: Refactoring Strategy”: The promotion strategy functions don’t have to use special names (i.e., they don’t need to use the _promo suffix). The @promotion decorator highlights the purpose of the decorated function, and also makes it easy to temporarily disable a promotion: just comment out the decorator. Promotional discount strategies may be defined in other modules, anywhere in the system, as long as the @promotion decorator is applied to them.
+- Most decorators do change the decorated function. They usually do it by defining an inner function and returning it to replace the decorated function. Code that uses inner functions almost always depends on closures to operate correctly.
+- 6 Now, let’s see an example that may surprise you. Take a look at the f2 function in Example 7-5. Its first two lines are the same as f1 in Example 7-4, then it makes an assignment to b, and prints its value. But it fails at the second print, before the assignment is made. Example 7-5. Variable b is local, because it is assigned a value in the body of the function >>> b = 6 >>> def f2(a): ... print(a) ... print(b) ... b = 9 ... >>> f2(3) 3 Traceback (most recent call last): File "<stdin>", line 1, in <module> File "<stdin>", line 3, in f2 UnboundLocalError: local variable 'b' referenced before assignment Note that the output starts with 3, which proves that the print(a) statement was executed. But the second one, print(b), never runs. When I first saw this I was surprised, thinking that 6 should be printed, because there is a global variable b and the assignment to the local b is made after print(b). But
+- But the fact is, when Python compiles the body of the function, it decides that b is a local variable because it is assigned within the function. The generated bytecode reflects this decision and will try to fetch b from the local environment.

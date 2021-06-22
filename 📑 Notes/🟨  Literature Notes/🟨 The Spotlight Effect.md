@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Productivity]] [[Feedback]] 
+- **Source:** [[🟦 CrossFit for Video]]
+- We tend to notice and criticize small imperfections in our work that other people don't notice.
+- For example, when [[Cam Houser]] made the welcome video for his new course, there was a crease in his shirt and some fly away hairs. He noticed these things and thought they looked terrible, but no one else noticed these things.
+- The best way to deal with the Spotlight Effect is to publish your work anyway, get feedback and see what people notice and don't notice, then publish more work incorporating that feedback.

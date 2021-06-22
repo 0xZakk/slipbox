@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]]
+- **Source:** [[🟦 How to Take Smart Notes]]
+- If you're taking notes from a physical book, then read through it making marginalia as you go. Then come back and make your notes in Roam.
+- Create a page for the book in Roam and start writing your notes in. Remember the two rules: notes should be brief and in your own words.
+- If you're reading a book on Kindle, the process is relatively the same. Take notes while you read or ust highlight important passages. Then you can export your notes from Kindle using evernote or readwise.
+- Copy your highlights into a page in Roam. Then create a new page for your literature notes. Then go through and fill in your literature notes page.
+- One great benefit of following this approach is that you can use block references to tie your literature notes to you highlights.

@@ -1,0 +1,12 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Writing]]
+- **Source:** [[🟦 How to Take Smart Notes]] p47-51
+- There are two really common myths about writing that prevent people from making a lot of progress.
+- **The first myth is that writing is a linear process** that starts with the writer coming up with an idea and then working steadily through the process to a completed manuscript.
+- **The second myth is that the process of actually writing starts with a blank piece of paper** or a blank text editor.
+- Both myths are detrimental to the writing process and both are easily solved by using a Slipbox
+- **First Myth:** Writing is a linear process
+    - You can't sit down and come up with a great idea out of know where. More likely, you'll discover a great idea through thinking and writing. But many writers think they can do this: sit down, come up with an idea, research the idea, write about the idea, and then publish it.
+    - Moreover, with the Slipbox, you don't have to do this. The Slipbox helps generate writing ideas for you, so long as you continuously add quality notes to it. With a good Slipbox, coming up with writing ideas is now about looking at the topography of your notes and seeing where a cluster of notes has formed.
+- **Second Myth:** Writing starts with a blank page
+    - You can't start writing from nothing. At the very least, you need an outline. In a typical, linear approach to writing, this would come after you've done your research. But you start writing your article with nothing already written (except the outline).
+    - Just as the Slipbox helps you come up with what to write about, it'll often provide you the components you need to develop a first draft. When you discover a topic to write about in your Slipbox, the cluster of notes can form the starting point for your first draft. All you have to do is assemble them in a logical order, fill any missing holes, and then edit the text for cohesion.

@@ -1,0 +1,7 @@
+- **Type:** #[[🟦 Reference Note]]
+- **Source:** https://our.status.im/the-case-for-pseudonymity/
+- **Author:** 
+- **Project(s):** [[📦 Article: Sovereign Publishing]]
+- **Summary:** 
+- **Highlights:**
+    - 

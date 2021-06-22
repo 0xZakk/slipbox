@@ -1,0 +1,11 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Productivity]] [[Virtual Assistant]]
+- **Source:** [[🟦 A Productivity Expert’s Guide to Working with a Virtual Assistant]]
+- **Project(s):** [[📦 Freelance Software Engineer's Guide to Hiring a Virtual Assistant]]
+- While you can hire a virtual assistant on your own, there are a number of advantages to using a service. This is especially the case if you're hiring a virtual assistant for the first time.
+- Some of the advantages that a service will provide are:
+    - They will strictly vet virtual assistants. Belay Solutions only accepts 1-2% of applications, for instance. This will ensure your VA speaks English well and is going to be a strong and helpful assistant.
+    - They will match you with a virtual assistant who will work well with you. This could include surveys and interviews to determine what you need as well as how an assistant can be most helpful. They can then pair you with someone who has the most appropriate skill set.
+    - They will onboard and train their VAs. This will ensure the assistant you get is a good communicator, good at time management, and knowledgeable of common productivity tools.
+    - A service will provide a support network for your VA. This could be internal Facebook or Slack groups where they can get help with requests or seek advice from their peers. 
+    - A service will also check in with you periodically through your dedicated sales rep. This person's job is to make sure the working relationship is working for you and for the virtual assistant assigned to you.
+- Going through a service has a lot of benefits. While it may be more expensive, it reduces the amount of work you'll have to do to find a virtual assistant and bring them up to speed with your work. It also ensures you get an assistant who can be really effective at helping you.

@@ -1,0 +1,8 @@
+- **Type:** #[[🟨 Literature Note]] | #SaaS #Pricing #Sales
+- **Source:** [[🟦 Don't Charge $9 a Month for Your SaaS]]
+- [[Jon Yongfook]] migrated from charging $9/month for Previewmojo (his SaaS product company)to charging $49/month.
+- He increased the price of his product for a few reasons:
+    - First, offering a low price (like $9/month)often means participating in a saturated market with high customer churn.
+    - Second, offering a low price aims your product at individuals, rather than companies
+- Additionally, Jon found himself asking, "What will someone pay $9 for" and not something like, "What will a business pay for the value my product is providing?"
+- As a business, you want to focus on how your product provides value to people who will pay for it. You then want to think about what they'll pay for the value your product delivers.

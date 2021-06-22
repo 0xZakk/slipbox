@@ -1,0 +1,4 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Systems]] [[Success]]
+- **Source:** [[🟦 How to Take Smart Notes]] p.5-8
+- The goal of the Slipbox is to give us a system that we can fall back on. So long as we follow the system and keep the process moving, written work will become somewhat inevitable. 
+- We want to design systems that we can trust and that remove the need for menial work so that we can focus on the parts of the work that our brains are best suited for: making connections.

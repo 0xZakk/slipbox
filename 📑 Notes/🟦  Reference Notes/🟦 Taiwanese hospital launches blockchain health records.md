@@ -1,0 +1,18 @@
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Blockchain]]
+- **Source:** https://www.ledgerinsights.com/blockchain-health-records-taiwan/ 
+- **Author:** [[Nicky Morris]] [[Ledger Insights]] 
+- **Project(s):** 
+- **Summary:** 
+- **Highlights:**
+    - the Hospital of Taipei Medical University (TMUH) officially launched its blockchain. The purpose is to create smart health passports to share medical data between health organizations
+    - Hospitals and clinics are a mix of public and private organizations, though the majority are private companies.
+    - [TMUH](https://www.tmuh.org.tw/news/info/3777) identified two major issues it wanted to address using blockchain. The lack of gatekeepers in the Taiwanese system has drawbacks. If a patient wants to go to another clinic or doctor, they’d have to go to the hospital to apply for medical records. Often the hospital would email the records which might take days.
+    - Hence, they addressed this referral process and data transfer by enabling that authorization and sharing to happen using blockchain. The patient authorizes using a mobile application, so the transfer is almost instant. Currently, they’re working with 100 clinics for referrals.
+    - Secondly, there are currently no patient portals in Taiwan. Each hospital stores data so it’s siloed. And even though the health data belongs to the patient, there’s no way for them to access it. So they wanted to create a clear and easy way for patients to access their own data.
+    - The technology partner is DTCO. They’ve created a “personal health record Operating System” or phrOS https://phros.io/ based on Enterprise Ethereum.
+    - DTCO Jacob Lee
+    - The medical records are encrypted, and it’s possible to store them in various ways. Either using IPFS, private cloud, or data silos.
+    - Every medical visit updates the medical records. But there are two elements to the data. There’s the hospital or medical treatment in the Electronic Medical Record (EMR). This is combined with health data from wearable devices or remote health home care (EHR) to provide a complete personal health record (PHR).
+    - To register, a patient goes to a hospital running phrOS and opens an account. The hospital provides the patient with a printed private encryption key that requires the patient’s password to unlock it. They also receive a hospital card that contains the public key, just like a patient’s account. If the patient loses the private key, they have to go back to the hospital.
+    - The patient can access their health data and authorize the sharing of data with other parties such as clinics, insurers, or pharmaceutical laboratories.
+    - TMU hospital is also partnering with private insurer Fubon Financial. If a patient has a procedure, at the moment they often have to pay for it themselves. And they can wait 1-3 months to be reimbursed by an insurer. By sharing the data using blockchain, it’s possible to reduce the time delay substantially.

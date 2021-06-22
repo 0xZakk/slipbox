@@ -1,0 +1,5 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Arrays and Slices in Go]]
+- **Source:** [[🟦 Go In Action (Preview)]]
+- Go has both local and global variables.
+- To declare a local variable, you can use either variable declaration (using the `var` keyword) or short assignment declarations (using `:=`). The only way to declare global variables is to use the `var` keyword.
+- In Go, a global variable is one that is declared outside of a function. They can be accessed anywhere without needing to be explicitly passed or referenced and they can be changed, unless they're defined as constants with the `const` keyword. 

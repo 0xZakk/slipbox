@@ -1,0 +1,7 @@
+- **Type:** #[[🟦 Reference Note]]
+- **Source:** https://open.spotify.com/episode/7K6A3IruXGBX4wHKZRaCCq?si=N9yExc_VQyOkvjAaeHMsBA
+- **Author:** [[My First Million (Podcast)]] [[Sam Parr]] [[Shaan Puri]]
+- **Project(s):** [[📦 Article: Sovereign Publishing]]
+- **Summary:** 
+- **Highlights:**
+    - 

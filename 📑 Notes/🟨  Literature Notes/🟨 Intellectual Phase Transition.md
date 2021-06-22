@@ -1,0 +1,7 @@
+- **Type:** #[[__ 🟨 Literature Note]]  | [[Writing]] [[Thinking]]
+- **Source:** [[🟦 Intellectual Phase Transitions]] 
+- The creativity of coming up with novel ideas works the same way as a [[🟨 Phase Transition]] does in Physics.
+    - What is a phase transition?
+    - "A phase transition takes place when a substances changes forms (i.e. when it goes from a gas to a liquid, or from a liquid to a solid)."
+- You can transform other people's ideas into your own by writing about them and combining them.
+- David Perell experienced this when he wrote his essay, What the Hell is Going on. He set out to write a detailed summary of Revolt of the Public. As he did so, he kept connecting the ideas to other authors like Peter Thiel and Marshall McLuhan. By synthesizing and connecting these ideas, he was able to generate his own and eventually formulate a thesis and a narrative that he could write.

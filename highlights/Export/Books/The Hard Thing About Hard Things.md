@@ -1,0 +1,182 @@
+# The Hard Thing About Hard Things
+
+## Meta Data
+
+Source:  kindle 
+Author: Ben Horowitz
+
+## Highlights
+
+### Highlights
+
+- ## INTRODUCTION
+- Every time I read a management or self-help book, I find myself saying, “That’s fine, but that wasn’t really the hard thing about the situation.”
+- The problem with these books is that they attempt to provide a recipe for challenges that have no recipes. There’s no recipe for really complicated, dynamic situations.
+- That’s the hard thing about hard things—there is no formula for dealing with them. Nonetheless, there are many bits of advice and experience that can help with the hard things.
+- ## — CHAPTER 1 — FROM COMMUNIST TO VENTURE CAPITALIST
+- There are no shortcuts to knowledge, especially knowledge gained from personal experience. Following conventional wisdom and relying on shortcuts can be worse than knowing nothing at all.
+- ### TURN YOUR SHIT IN
+- ## — CHAPTER 2 — “I WILL SURVIVE”
+- By virtue of my position and the fact that we were a public company, nobody besides me had the complete picture. I knew we were in deep, deep trouble. Nobody besides me could get us out of the trouble, and I was through listening to advice about what we should do from people who did not understand all the pieces. I wanted all the data and information I could get, but I didn’t need any recommendations about the future direction of the company. This was wartime. The company would live or die by the quality of my decisions, and there was no way to hedge or soften the responsibility.
+- ## — CHAPTER 3 — THIS TIME WITH FEELING
+- We held a weekly forecast call where Mark reviewed every deal in front of the entire 150 person sales force. On one such call, a salesperson described an account that he’d forecast in detail: “I have buy-in from my champion, the vice president that he reports to, and the head of purchasing. My champion assures me that they’ll be able to complete the deal by the end of the fiscal quarter.” Mark quickly replied, “Have you spoken to the vice president’s peer in the networking group?” Sales rep: “Um, no I haven’t.” Mark: “Have you spoken to the vice president yourself?” Sales rep: “No.” Mark: “Okay, listen carefully. Here’s what I’d like you to do. First, reach up to your face and take off your rose-colored glasses. Then get a Q-tip and clean the wax out of your ears. Finally, take off your pink panties and call the fucking vice president right now, because you do not have a deal.” Mark was right. It turned out that we did not have a deal, as the vice president’s peer in networking was blocking it.
+- In my weekly staff meeting, I inserted an agenda item titled “What Are We Not Doing?”
+- However, if I’d learned anything it was that conventional wisdom had nothing to do with the truth and the efficient market hypothesis was deceptive. How else could one explain Opsware trading at half of the cash we had in the bank when we had a $20 million a year contract and fifty of the smartest engineers in the world? No, markets weren’t “efficient” at finding the truth; they were just very efficient at converging on a conclusion—often the wrong conclusion.
+- Note to self: It’s a good idea to ask, “What am I not doing?”
+- ## — CHAPTER 4 — WHEN THINGS FALL APART
+- “There are several different frameworks one could use to get a handle on the indeterminate vs. determinate question. The math version is calculus vs. statistics.
+- I never built that contingency plan. Through the seemingly impossible Loudcloud series C and IPO processes, I learned one important lesson: Startup CEOs should not play the odds. When you are building a company, you must believe there is an answer and you cannot pay attention to your odds of finding it. You just have to find it. It matters not whether your chances are nine in ten or one in a thousand; your task is the same.
+- People always ask me, “What’s the secret to being a successful CEO?” Sadly, there is no secret, but if there is one skill that stands out, it’s the ability to focus and make the best move when there are no good moves. It’s the moments where you feel most like hiding or dying that you can make the biggest difference as a CEO. In the rest of this chapter, I offer some lessons on how to make it through the struggle without quitting or throwing up too much.
+- I put this section first even though it deals with some serious endgame issues such as how to fire an executive and how to lay people off. In doing so, I follow the first principle of the Bushido—the way of the warrior: keep death in mind at all times. If a warrior keeps death in mind at all times and lives as though each day might be his last, he will conduct himself properly in all his actions. Similarly, if a CEO keeps the following lessons in mind, she will maintain the proper focus when hiring, training, and building her culture.
+- ### THE STRUGGLE
+- Every entrepreneur starts her company with a clear vision for success. You will create an amazing environment and hire the smartest people to join you.
+- Then, after working night and day to make your vision a reality, you wake up to find that things did not go as planned. Your company did not unfold like the Jack Dorsey keynote that you listened to when you started.
+- Your product has issues that will be very hard to fix. The market isn’t quite where it was supposed to be. Your employees are losing confidence and some of them have quit.
+- You lose a competitive battle. You lose a loyal customer. You lose a great employee. The walls start closing in. Where did you go wrong? Why didn’t your company perform as envisioned? Are you good enough to do this? As your dreams turn into nightmares, you find yourself in the Struggle.
+- ### ABOUT THE STRUGGLE
+- “Life is struggle.” —KARL MARX
+- The Struggle is when you wonder why you started the company in the first place. The Struggle is when people ask you why you don’t quit and you don’t know the answer. The Struggle is when your employees think you are lying and you think they may be right.
+- The Struggle is when you are surrounded by people and you are all alone. The Struggle has no mercy.
+- The Struggle is not failure, but it causes failure. Especially if you are weak. Always if you are weak. Most people are not strong enough. Every great entrepreneur from Steve Jobs to Mark Zuckerberg went through the Struggle and struggle they did, so you are not alone. But that does not mean that you will make it. You may not make it. That is why it is the Struggle. The Struggle is where greatness comes from.
+- ### SOME STUFF THAT MAY OR MAY NOT HELP
+- There is no answer to the Struggle, but here are some things that helped me:
+- Don’t put it all on your shoulders.
+- is easy to think that the things that bother you will upset your people more. That’s not true. The opposite is true. Nobody takes the losses harder than the person most responsible. Nobody feels it more than you. You won’t be able to share every burden, but share every burden that you can. Get the maximum number of brains on the problems even if the problems represent existential threats.
+- This is not checkers; this is motherfuckin’ chess.
+- Technology businesses tend to be extremely complex. The underlying technology moves, the competition moves, the market moves, the people move. As a result, like playing three-dimensional chess on Star Trek, there is always a move.
+- You think you have no moves? How about taking your company public with $2 million in trailing revenue and 340 employees, with a plan to do $75 million in revenue the next year? I made that move. I made it in 2001, widely regarded as the worst time ever for a technology company to go public. I made it with six weeks of cash left. There is always a move.
+- Play long enough and you might get lucky.
+- In the technology game, tomorrow looks nothing like today. If you survive long enough to see tomorrow, it may bring you the answer that seems so impossible today.
+- Don’t take it personally.
+- The predicament that you are in is probably all your fault. You hired the people. You made the decisions. But you knew the job was dangerous when you took it. Everybody makes mistakes. Every CEO makes thousands of mistakes. Evaluating yourself and giving yourself an F doesn’t help.
+- Remember that this is what separates the women from the girls.
+- If you want to be great, this is the challenge. If you don’t want to be great, then you never should have started a company.
+- ## THE END
+- When you are in the Struggle, nothing is easy and nothing feels right. You have dropped into the abyss and you may never get out. In my own experience, but for some unexpected luck and help, I would have been lost. So to all of you in it, may you find strength and may you find peace.
+- ## CEOS SHOULD TELL IT LIKE IT IS
+- One of the most important management lessons for a founder/CEO is totally unintuitive. My single biggest personal improvement as CEO occurred on the day when I stopped being too positive.
+- THE POSITIVITY DELUSION
+- As the highest-ranking person in the company, I thought that I would be best able to handle bad news. The opposite was true: Nobody took bad news harder than I did. Engineers easily brushed off things that kept me awake all night. After all, I was the founding CEO.
+- Even more stupidly, I thought that it was my job and my job only to worry about the company’s problems. Had I been thinking more clearly, I would have realized that it didn’t make sense for me to be the only one to worry about, for example, the product not being quite right—because I wasn’t writing the code that would fix it. A much better idea would have been to give the problem to the people who could not only fix it, but who would also be personally excited and motivated to do so.
+- WHY IT’S IMPERATIVE TO TELL IT LIKE IT IS
+- There are three key reasons why being transparent about your company’s problems makes sense:
+- 1. Trust.
+- Without trust, communication breaks. More specifically: In any human interaction, the required amount of communication is inversely proportional to the level of trust.
+- A CEO’s ability to build this trust over time is often the difference between companies that execute well and companies that are chaotic.
+- 2. The more brains working on the hard problems, the better.
+- In order to build a great technology company, you have to hire lots of incredibly smart people. It’s a total waste to have lots of big brains but not let them work on your biggest problems.
+- 3. A good culture is like the old RIP routing protocol: Bad news travels fast; good news travels slow.
+- If you investigate companies that have failed, you will find that many employees knew about the fatal issues long before those issues killed the company. If the employees knew about the deadly problems, why didn’t they say something? Too often the answer is that the company culture discouraged the spread of bad news, so the knowledge lay dormant until it was too late to act.
+- The resulting action item for CEOs: Build a culture that rewards—not punishes—people for getting problems into the open where they can be solved.
+- ## THE RIGHT WAY TO LAY PEOPLE OFF
+- During more than twenty years in the venture capital business, he’d never seen a company recover from consecutive layoffs and achieve a billion-dollar-plus outcome.
+- I asked him why all the other startups failed. He replied that the layoffs inevitably broke the company’s culture. After seeing their friends laid off, employees were no longer willing to make the requisite sacrifices needed to build a company. He said that although it was possible to survive an isolated layoff, it was hugely unlikely that a company would experience great success.
+- In retrospect, we were able to keep cultural continuity and retain our best employees despite multiple massive layoffs because we laid people off the right way.
+- STEP 1: GET YOUR HEAD RIGHT
+- When a company fails to hit its financial plan so severely that it must fire the employees it went to great time and expense to hire, it weighs heavily on the chief executive. During the first layoff at our company,
+- During a time like this, it is difficult to focus on the future, because the past overwhelms you—but that’s exactly what you must do.
+- STEP 2: DON’T DELAY
+- Once you decide that you will have to lay people off, the time elapsed between making that decision and executing that decision should be as short as possible. If word leaks (which it will inevitably if you delay), then you will be faced with an additional set of issues.
+- STEP 3: BE CLEAR IN YOUR OWN MIND ABOUT WHY YOU ARE LAYING PEOPLE OFF
+- Going into a layoff, board members will sometimes try to make you feel better by putting a positive spin on things. They might say, “This gives us a great opportunity to deal with some performance issues and simplify the business.” That may be true, but do not let that cloud your thinking or your message to the company. You are laying people off because the company failed to hit its plan.
+- STEP 4: TRAIN YOUR MANAGERS
+- The most important step in the whole exercise is training the management team. If you send managers into this super-uncomfortable situation with no training, most of them will fail.
+- Training starts with a golden rule: Managers must lay off their own people. They cannot pass the task to HR or to a more sadistic peer.
+- Once you make it clear that managers must lay off their own people, be sure to prepare them for the task: 1. They should explain briefly what happened and that it is a company rather than a personal failure. 2. They should be clear that the employee is impacted and that the decision is nonnegotiable. 3. They should be fully prepared with all of the details about the benefits and support the company plans to provide.
+- STEP 5: ADDRESS THE ENTIRE COMPANY
+- Prior to executing the layoff, the CEO must address the company. The CEO must deliver the overall message that provides the proper context and air cover for the managers. If you do your job right, the managers will have a much easier time doing their jobs.
+- Keep in mind what former Intuit CEO Bill Campbell told me—The message is for the people who are staying. The people who stay will care deeply about how you treat their colleagues.
+- STEP 6: BE VISIBLE, BE PRESENT
+- After you make the speech telling your company that you will be letting many of them go, you will not feel like hanging out and talking to people. You will probably feel like going to a bar and drinking a fifth of tequila. Do not do this.
+- Be present. Be visible. Be engaging.
+- ### PREPARING TO FIRE AN EXECUTIVE
+- Firing an executive correctly is a bit more complicated and extremely important. If you do not learn the right lessons, you will be doing it again soon.
+- Like so many things, the key to correctly firing an executive is preparation. Here is a four-step process that will treat the executive fairly and improve your company.
+- STEP 1: ROOT CAUSE ANALYSIS
+- At this level, almost every company screens for the proper skill set, motivation, and track record. Yes, the reason that you have to fire your head of marketing is not because he sucks; it’s because you suck.
+- In other words, the wrong way to view an executive firing is as an executive failure; the correct way to view an executive firing is as an interview/integration process system failure. Therefore, the first step to properly firing an executive is figuring out why you hired the wrong person for your company.
+- STEP 2: INFORMING THE BOARD
+- Informing the board is tricky and many issues can further complicate the task:   This is the fifth or sixth executive that you had to fire.   This is the third executive that you fired in this role.   The candidate was referred by a board member who recommended the executive as a superstar.
+- Realize that in any of these cases the board will be at least somewhat alarmed and there is nothing that you can do about that.
+- You should have three goals with the board:
+- Get their support and understanding for the difficult task that you will execute. You should start by making sure that they understand the root cause and your plan to remedy the situation. This will give them confidence in your ability to hire and manage outside executives in the future.
+- Get their input and approval for the separation package. This will be critical for the next step. Executive packages are larger than regular severance packages and rightly so. It takes about ten times longer for an executive to find a new job than it does for an individual contributor.
+- Preserve the reputation of the fired executive. The failure was very likely a team effort, and it’s best to portray it that way. You don’t make yourself look good by trashing someone who worked for you. A mature approach to this issue will help keep the board confident in your ability to be CEO. It’s also the fair and decent thing to do.
+- STEP 3: PREPARING FOR THE CONVERSATION
+- After you know what went wrong and have informed the board, you should tell the executive as quickly as possible.
+- Three keys to getting it right:
+- 1. Be clear on the reasons. You have thought about this long and hard; don’t equivocate or sugarcoat it. You owe it to them to be clear about what you think happened.
+- 2. Use decisive language. Do not leave the discussion open-ended. This is not a performance review; it’s a firing. Use words and phrases like “I have decided” rather than “I think.”
+- 3. Have the severance package approved and ready. Once the executive hears the news, she will stop caring about the company and its issues; she will be highly focused on herself and her family. Be ready to provide specific details of the severance package.
+- Finally, the executive will be keenly interested in how the news will be communicated to the company and to the outside world. It is best to let her decide. Bill Campbell once gave me a critical bit of advice when I was preparing to fire an executive. He said, “Ben, you cannot let him keep his job, but you absolutely can let him keep his respect.”
+- STEP 4: PREPARING THE COMPANY COMMUNICATION
+- After you have informed the executive, you must quickly update the company and your staff on the change. The correct order for informing the company is (1) the executive’s direct reports—because they will be most impacted; (2) the other members of your staff—because they will need to answer questions about it; and (3) the rest of the company. All of these communications should happen on the same day and preferably within a couple of hours.
+- ## LIES THAT LOSERS TELL
+- When a company starts to lose its major battles, the truth often becomes the first casualty. CEOs and employees work tirelessly to develop creative narratives that help them avoid dealing with the obvious facts. Despite their intense creativity, many companies often end up with the same false explanations.
+- High-tech companies tend to track employee attrition in three categories: 1. People who quit 2. People who got fired 3. People who quit, but it’s okay because the company didn’t want them anyway Fascinatingly, as companies begin to struggle, the third category always seems to grow much faster than the first.
+- How is it possible that when you lose a top-rated employee before you can say “unwanted attrition,” the manager carefully explains how her performance fell off?
+- Back at the tail end of the Great Internet Bubble in 2001, as all the big technology companies began missing their quarters by giant amounts, I found myself wondering how none of them saw it coming.
+- I asked Andy why these great CEOs would lie about their impending fate. He said they were not lying to investors, but rather, they were lying to themselves.
+- Andy explained that humans, particularly those who build things, only listen to leading indicators of good news.
+- ## LEAD BULLETS
+- Early in my tenure at Netscape, when we realized that Microsoft’s new Web server had every feature that ours had, but was also five times faster and was to be given away for free, I immediately went to work trying to pivot our server product line to something that we could sell for money.
+- I excitedly reviewed the plan with my engineering counterpart, Bill Turpin, who looked at me as though I were a little kid who had much to learn.
+- He said, “Ben, those silver bullets that you and Mike are looking for are fine and good, but our Web server is five times slower. There is no silver bullet that’s going to fix that. No, we are going to have to use a lot of lead bullets.”
+- As a result of Bill’s advice, we focused our engineering team on fixing the performance issues while working on the other things in the background. We eventually beat Microsoft’s performance and grew the server line to become a $400 million business, and we would never have done it without those lead bullets.
+- There may be nothing scarier in business than facing an existential threat. So scary that many in the organization will do anything to avoid facing it. They will look for any alternative, any way out, any excuse not to live or die in a single battle.
+- There comes a time in every company’s life where it must fight for its life. If you find yourself running when you should be fighting, you need to ask yourself, “If our company isn’t good enough to win, then do we need to exist at all?”
+- ## NOBODY CARES
+- Back in those bad old days at Loudcloud, I often thought to myself: How could I have possibly prepared for this? How could I know that half our customers would go out of business? How could I know that it would become impossible to raise money in the private markets?
+- As I was feeling sorry for myself, I randomly watched an interview with famous football coach Bill Parcells. He was telling the story of how he had a similar dilemma when he began his head coaching career.
+- Parcells: “Al, I am just not sure how we can win without so many of our best players. What should I do?” Davis: “Bill, nobody cares, just coach your team.” That might be the best CEO advice ever. Because, you see, nobody cares.
+- All the mental energy you use to elaborate your misery would be far better used trying to find the one seemingly impossible way out of your current mess. Spend zero time on what you could have done, and devote all of your time on what you might do. Because in the end, nobody cares; just run your company.
+- ## — CHAPTER 5 — TAKE CARE OF THE PEOPLE, THE PRODUCTS, AND THE PROFITS—IN THAT ORDER
+- My old boss Jim Barksdale was fond of saying, “We take care of the people, the products, and the profits—in that order.” It’s a simple saying, but it’s deep. “Taking care of the people” is the most difficult of the three by far and if you don’t do it, the other two won’t matter.
+- If your company is a good place to work, you too may live long enough to find your glory.
+- ## A GOOD PLACE TO WORK
+- At Opsware I used to teach a management expectations course because I deeply believed in training. I made it clear that I expected every manager to meet with her people on a regular basis.
+- Then one day, while I happily went about my job, it came to my attention that one of my managers hadn’t had a one-on-one meeting with any of his employees in more than six months.
+- I thought that leading by example would be the sure way to get the company to do what I wanted.
+- The more I thought about it, the more I realized that while I had told the team “what” to do, I had not been clear about “why” I wanted them to do it. Clearly, my authority alone was not enough to get them to do what I wanted.
+- After much deliberation with myself, I settled on an articulation of the core reason and I called up the offending manager’s boss—I’ll call him Steve—and told him that I needed to see him right away.
+- Me: “Well, let me explain. I came to work because it’s personally very important to me that Opsware be a good company.
+- Me: “Let me break it down for you. In good organizations, people can focus on their work and have confidence that if they get their work done, good things will happen for both the company and them personally. It is a true pleasure to work in an organization such as this. Every person can wake up knowing that the work they do will be efficient, effective, and make a difference for the organization and themselves.
+- “In a poor organization, on the other hand, people spend much of their time fighting organizational boundaries, infighting, and broken processes.
+- To make it all much worse and rub salt in the wound, when they finally work up the courage to tell management how fucked-up their situation is, management denies there is a problem, then defends the status quo, then ignores the problem.”
+- Me: “Are you aware that your manager Tim has not met with any of his employees in the past six months?” Steve: “No.” Me: “Now that you are aware, do you realize that there is no possible way for him to even be informed as to whether or not his organization is good or bad?” Steve: “Yes.”
+- Me: “In summary, you and Tim are preventing me from achieving my one and only goal. You have become a barrier blocking me from achieving my most important goal. As a result, if Tim doesn’t meet with each one of his employees in the next twenty-four hours, I will have no choice but to fire him and to fire you. Are we clear?” Steve: “Crystal.”
+- So was it really necessary for me to make such a dramatic speech and threaten one of my executives?
+- I think it was, for the following three reasons:   Being a good company doesn’t matter when things go well, but it can be the difference between life and death when things go wrong.   Things always go wrong.   Being a good company is an end in itself.
+- When things go well, the reasons to stay at a company are many:
+- When things go poorly, all those reasons become reasons to leave. In fact, the only thing that keeps an employee at a company when things go horribly wrong—other than needing a job—is that she likes her job.
+- THINGS ALWAYS GO WRONG
+- There has never been a company in the history of the world that had a monotonously increasing stock price. In bad companies, when the economics disappear, so do the employees.
+- BEING A GOOD COMPANY IS AN END IN ITSELF
+- If you do nothing else, be like Bill and build a good company.
+- ## WHY STARTUPS SHOULD TRAIN THEIR PEOPLE
+- People at McDonald’s get trained for their positions, but people with far more complicated jobs don’t. It makes no sense.
+- Grove wrote, “Most managers seem to feel that training employees is a job that should be left to others. I, on the other hand, strongly believe that the manager should do it himself.”
+- Properly run startups place a great deal of emphasis on recruiting and the interview process in order to build their talent base. Too often the investment in people stops there. There are four core reasons why it shouldn’t:
+- 1. Productivity
+- By failing to measure progress toward the actual goal, they lose sight of…
+- Andy Grove does the math and shows that the opposite is true: Training is, quite simply, one of the highest-leverage activities a manager can perform. Consider for a moment the possibility of your putting on a series of four lectures for members of your department. Let’s count on three hours preparation for each hour of course time—twelve hours of work in total. Say that you have ten students in your class. Next year they will work a total of about twenty thousand hours for your organization. If your training efforts result in a 1 percent improvement in your…
+- 2. Performance…
+- When people interview managers, they often like to ask, Have you fired anyone? Or how many people have you fired? Or how would you go about firing someone? These are all fine questions, but often the right question is the one that isn’t asked: When you fired the person, how did you know with certainty that the employee both understood the expectations of the job and was still missing them? The best answer is that the manager clearly set expectations when she…
+- 3. Product…
+- Then, as their company becomes successful, they find that their beautiful product architecture has turned into a Frankenstein. How does this happen? As success drives the need to hire new engineers at a rapid rate, companies neglect to train the new engineers properly. As the engineers are assigned tasks, they figure out how to complete them as best they can. Often this means replicating existing facilities in the architecture, which leads to…
+- 4. Employee…
+- I found that there were two primary reasons why people quit:   They hated their manager; generally the employees were appalled by the lack of guidance, career development, and feedback they were receiving.   They weren’t learning anything: The company wasn’t investing resources in helping employees…
+- WHAT SHOULD YOU DO…
+- The best place to start is with the topic that is most relevant to your employees: the knowledge and skill that they need to do their…
+- Functional training can be as simple as training a new employee on your expectations for them (see “Good Product Manager/Bad Product Manager”) and as complex as a multiweek engineering boot camp to bring new recruits completely up to speed…
+- The other essential component of a company’s training program is management training. Management training is the best place to start setting…
+- IMPLEMENTING YOUR TRAINING PROGRAM
+- The first thing to recognize is that no startup has time to do optional things. Therefore, training must be mandatory.
+- The first two types of training (functional and management) can be easily enforced as follows:
+- Enforce functional training by withholding new employee requisitions. As Andy Grove writes, there are only two ways for a manager to improve the output of an employee: motivation and training. Therefore, training should be the most basic requirement for all managers in your organization. An effective way to enforce this requirement is by withholding new employee requisitions from managers until they’ve developed a training program for the TBH, “To Be Hired.”
+- Enforce management training by teaching it yourself. Managing the company is the CEO’s job. While you won’t have time to teach all of the management courses yourself, you should teach the course on management expectations, because they are, after all, your expectations. Make it an honor to participate in these sessions by selecting the best managers on your team to teach the other courses. And make that mandatory, too.
+- Ironically, the biggest obstacle to putting a training program in place is the perception that it will take too much time. Keep in mind that there is no investment that you can make that will do more to improve productivity in your company. Therefore, being too busy to train is the moral equivalent of being too hungry to eat.
+- GOOD PRODUCT MANAGER/BAD PRODUCT MANAGER
+- Good product managers know the market, the product, the product line, and the competition extremely well and operate from a strong basis of knowledge and confidence.
+- A good product manager knows the context going in (the company, our revenue funding, competition, etc.), and they take responsibility for devising and executing a winning plan (no excuses).
+- Good product managers crisply define the target, the “what” (as opposed to the “how”), and manage the delivery of the “what.” Bad product managers feel best about themselves when they figure out “how.”

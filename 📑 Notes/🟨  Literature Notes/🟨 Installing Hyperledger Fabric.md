@@ -1,0 +1,16 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]] [[Hyperledger Fabric]]
+- **Source:** [[🟦 Install Samples, Binaries, and Docker Images]]
+- **Project(s):** [[📦 Grokking Blockchain]] [[📦 Building Blockchain Applications with Hyperledger Fabric]] [[📦 Article: Setting up your computer for Hyperledger Fabric]] 
+- Installing Hyperledger Fabric on your machine is a relatively straightforward process. There unfortunately isn't an installer or a way to install it through homebrew.
+- The process for installing Hyperledger Fabric is:
+    - Clone a repository from GitHub,
+    - Check out the appropriate version tag (if necessary)
+    - Install a set of binaries and config files by running a shell script,
+    - Download a set of Docker images
+- While there isn't an installer, there is a script that you can download and execute that takes care of most of this for you.
+- **Installing Hyperledger Fabric**
+    - First, clone the [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) repository. This repository contains everything you need to install and configure Hyperledger Fabric to work on your machine. It also contains a couple of sample networks and applications, which you can use to learn from.
+    - Second, change in to the directory you cloned above and execute the following command: `curl -sSL https://bit.ly/2ysbOFE | bash -s`.
+        - This command is using cURL, which we downloaded previous, to fetch and download a bash script. It is then piping that script to bash, which executes it.
+        - The executed script pulls the necessary binaries and places them in the `/bin` directory of the repository. You'll want to add this directory to your path, so that these binaries are available through the command line.
+        - Then the script downloads the Docker images for Hyperledger Fabric. It will download quite a few Docker images, so this might take some time. 

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article on how to set up your computer to start developing applications for Hyperledger Fabric
+- **Related Notes and Sources:**
+    - [[🟨 Installing Hyperledger Fabric]]
+- **Notes:**
+    - 

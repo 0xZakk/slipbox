@@ -1,0 +1,18 @@
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Twitter
+- **Source:** https://twitter.com/Julian/status/1350523091508576256
+- **Author:** [[Julian Shapiro]]
+- **Summary:**
+    - Rather than follow a lot of people on twitter, add people to curated lists of content
+- **Literature Notes:**
+    - [[🟨 Use Twitter Lists Well]]
+- **Highlights:**
+    - Twitter is an unstructured mess of information; TweetDeck lets you slice and organize that information into what you want to see
+    - List 1: People who typically say interesting things, filtered by how well liked that content it
+        - Acts as a dopamine hit list of interesting things
+    - List 2: List of my own tweets
+    - List 3: Anything mentioned on something I'm working on
+    - You can add and remove customized columns
+    - Tweet Deck doesn't show you adds
+    - You can also set your location where there isn't breaking news coming from
+    - Eloso
+        - Break down stats in a really clean and easy to digest way

@@ -1,0 +1,6 @@
+- **Type:** #[[__ 🟨 Literature Note]] | [[Blockchain]] [[Permissioned Blockchain]] [[Hyperledger Fabric]]
+- **Source:** [[🟦 Using the Fabric test network]]
+- **Project(s):** [[📦 Grokking Blockchain]] [[📦 Building Blockchain Applications with Hyperledger Fabric]] [[📦 Article: Setting up your computer for Hyperledger Fabric]] 
+- Installing the Hyperledger Fabric samples ([[🟨 Installing Hyperledger Fabric]]) includes installing a test-network that you can use for local development and to learn about building applications with Hyperledger Fabric.
+- This test network is only meant for learning and local development, not for production use!
+- The test network is based on Docker Compose and includes two organizations, called Org1 and Org2, each with one peer node. The test network also includes one orderer organization, which is required and used to run the ordering service for the test network. 

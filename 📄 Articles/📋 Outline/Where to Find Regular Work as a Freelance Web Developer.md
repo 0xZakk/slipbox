@@ -1,0 +1,13 @@
+- **Type:** #[[__ 📦 Projects]] #[[🌱 Seed]]
+- **Summary:** Article on where to find repeat work as a web developer:
+    - Partnering with designers, a la [[📦 Article: Landing My First Freelance Development Projects]]
+    - Working with agencies
+        - Have to deal with burst capacity (ie multiple projects due in a short period of time)
+        - Can't staff up, but do need to deliver those projects on time
+        - Delegate out to freelancers
+    - Building relationships with companies
+        - Sometimes companies also need to manage burst capacity. (Working towards a launch).
+        - Sometimes they need staff up temporarily or short-term for a skill set their team doesn't have. (Setting up production environments and managing deployments).
+        - Sometimes they need someone who can take on projects that are important long-term, but never urgent (like refactoring).
+- **Related Notes and Sources:**
+    - 
