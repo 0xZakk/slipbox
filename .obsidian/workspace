@@ -7,8 +7,11 @@
         "id": "1ba27f1c9884991f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📔 Slipbox Manual.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📔 Slipbox Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📔 Slipbox Manual.md"
+              }
             }
           }
         ]
@@ -99,5 +105,7 @@
     "collapsed": true
   },
   "active": "1ba27f1c9884991f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "📔 Slipbox Manual.md"
+  ]
 }

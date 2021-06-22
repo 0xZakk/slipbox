@@ -1,0 +1,38 @@
+.markdown-preview-view h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+  line-height: 2.25rem;
+}
+
+.markdown-preview-view h2 {
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+  font-size: 1.51572rem;
+  line-height: 2.25rem;
+}
+
+.markdown-preview-view h3 {
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+  font-size: 1.31951rem;
+  line-height: 2.25rem;
+}
+
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+  font-size: 1rem;
+  line-height: 2.25rem;
+}
+
+.markdown-preview-view p,
+.markdown-preview-view ul {
+  margin-bottom: 0.4rem;
+}
