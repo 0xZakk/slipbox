@@ -46,6 +46,6 @@ There are also multiple nets that someone could write to. The internet is curren
 
 Source: [[🟦 Ender's Game]]
 Domain(s):
-- [[technology]]
+- [[Technology]]
 
 

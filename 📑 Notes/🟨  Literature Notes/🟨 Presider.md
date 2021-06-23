@@ -14,5 +14,4 @@ Many men are scared of recognizing this and, therefore, scared of leading themse
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

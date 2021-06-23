@@ -20,7 +20,7 @@ summary: ""
 ## Meta Data
 
 **Domain(s):**
-- [[wealth-accumulation]]
+- [[Wealth Accumulation]]
 
 **Related Notes:**
 - 

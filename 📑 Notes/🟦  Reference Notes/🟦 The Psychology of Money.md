@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Psychology]] [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Psychology]] [[Wealth Accumulation]]
 - **Source:**  pocket
 - **Author:** collaborativefund.com
 - **Summary:**

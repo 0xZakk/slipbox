@@ -6,7 +6,7 @@
 Source: Kindle book
 Author: [[Mike Cohn]]
 Domain(s):
-- [[management]]
+- [[Management]]
 - [[Agile]]
 
 ## Summary:

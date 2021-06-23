@@ -21,4 +21,4 @@ Remember that [[🟨 The Battle | the fight for your Sovereignty is a battle]]. 
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

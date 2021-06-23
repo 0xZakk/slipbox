@@ -21,7 +21,7 @@ Looping and conditionals
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Hello World in Go]]

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[Investing]] [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Investing]] [[Wealth Accumulation]]
 - **Source:**  https://www.youtube.com/watch?v=tYfuEF9IYuA
 - **Author:** [[Nate O'Brien]] 
 - **Project(s):** 

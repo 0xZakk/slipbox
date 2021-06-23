@@ -7,8 +7,6 @@ Every day of your life is a battle for the kind of man you want to be. Many men 
 
 ## Meta Data
 
-**Source:** 
+**Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Sovereign Man]]
-- [[masculinity]]
+- [[🔎 Inquiries/Masculinity]]

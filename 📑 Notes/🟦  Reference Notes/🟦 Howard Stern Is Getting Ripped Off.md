@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[wealth-accumulation]] [[Building an Audience Online]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Wealth Accumulation]] [[Building an Audience Online]]
 - **Source:**  instapaper
 - **Author:** Andrew Wilkinson
 - **Summary:**

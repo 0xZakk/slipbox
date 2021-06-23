@@ -11,7 +11,7 @@ summary: "There is no shortage of advice out there on how to live your life. Som
 ## Meta Data
 
 **Domain(s):**
-- [[Living a Good Life]]
+- [[🔎 Inquiries/Living a Good Life]]
 
 **Related Notes:**
 - 

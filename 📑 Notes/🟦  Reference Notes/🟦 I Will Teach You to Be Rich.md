@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Earning Money]] [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Earning Money]] [[Wealth Accumulation]]
 - **Source:**  kindle
 - **Author:** Ramit Sethi
 - **Summary:**

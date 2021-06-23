@@ -1,5 +1,5 @@
 ---
-title: 🟨 After-Action Review
+title: After-Action Review
 type: "literature"
 ---
 
@@ -21,6 +21,6 @@ The five questions are:
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Goal Setting]]
-- [[Sovereignty]]
-- [[Ultimate Concern]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]
+- [[🔎 Inquiries/High-Performance Knowledge Work]]

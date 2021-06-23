@@ -43,6 +43,4 @@ Below are each of the values and the accompanying mindset that goes with it.
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Sovereignty]]
-- [[Mindset]]
+- [[🔎 Inquiries/Masculinity]]

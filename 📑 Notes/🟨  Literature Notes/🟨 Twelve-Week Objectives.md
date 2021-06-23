@@ -13,7 +13,5 @@ For each area of [[🟨 The Four Quadrants]], you should set one twelve-week obj
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Goal Setting]]
-- [[Sovereignty]]
-- [[Momentum]]
-- [[Success]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/High-Performance Knowledge Work]]

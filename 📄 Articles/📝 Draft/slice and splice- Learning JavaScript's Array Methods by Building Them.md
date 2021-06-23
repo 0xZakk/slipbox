@@ -261,7 +261,7 @@ Easy peasy lemon squeezy.
 ## Meta Data
 
 **Domain(s):**
-- [[programming]]
+- [[Programming]]
 - [[JavaScript]]
 
 **Related Notes:**

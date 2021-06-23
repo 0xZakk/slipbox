@@ -1,4 +1,4 @@
-- **Type:** #[[🟦 Reference Note]] | #[[technology]]
+- **Type:** #[[🟦 Reference Note]] | #[[Technology]]
 - **Source:**  [[Five Things We Need to Know About Technological Change]]
 - **Author:** Neil Postman
 - **Summary:**

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[management]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Management]]
 - **Source:**  kindle
 - **Author:** Michael Lopp
 - **Summary:**

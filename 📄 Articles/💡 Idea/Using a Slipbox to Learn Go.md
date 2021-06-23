@@ -13,7 +13,7 @@ summary: "Article that walks through how to learn Go using a Slipbox"
 **Domain(s):**
 - [[Go]]
 - [[High Performance Knowledge Work]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Learning requires writing]]

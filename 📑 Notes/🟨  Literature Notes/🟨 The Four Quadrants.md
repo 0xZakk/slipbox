@@ -14,5 +14,4 @@ You will likely have lots of objectives and things you want to change. While it'
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Goal Setting]]
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

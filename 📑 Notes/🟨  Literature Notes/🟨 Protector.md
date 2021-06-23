@@ -35,5 +35,4 @@ In war, supply lines are what differentiate a successful campaign from a failed 
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Sovereign Man]]
+- [[🔎 Inquiries/Masculinity]]

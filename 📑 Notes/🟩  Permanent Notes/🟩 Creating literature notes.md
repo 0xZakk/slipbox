@@ -57,6 +57,7 @@ The goal here is to make this an active process. How can you summarize and disti
 
 ## Related Notes
 - [[🟩 Definition of a Literature Note]]
+- [[🟩 Rules for making good literature notes]]
 
 ## Sources
 - [[🟨 How to take literature notes in Roam?]]

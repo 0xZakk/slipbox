@@ -12,7 +12,7 @@ summary: "Tutorial introducing Go's function and function types"
 
 **Domain(s):**
 - [[Arrays and Slices in Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Functions in Go]]

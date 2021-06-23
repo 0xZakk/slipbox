@@ -15,5 +15,4 @@ These three things are the responsibility of every [[🟨 Sovereign Man | Sovere
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Sovereign Man]]
+- [[🔎 Inquiries/Masculinity]]

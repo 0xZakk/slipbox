@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[wealth-accumulation]] [[Success]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Wealth Accumulation]] [[Success]]
 - **Source:**  kindle
 - **Author:** Napoleon Hill, Arthur Pell, and Arthur R. Pell
 - **Summary:**

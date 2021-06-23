@@ -12,7 +12,7 @@ summary: "Walking through Hello World in Go"
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Hello World in Go]]

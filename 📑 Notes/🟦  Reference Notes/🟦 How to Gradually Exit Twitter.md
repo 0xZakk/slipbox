@@ -1,4 +1,4 @@
-- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #Sovereignty #[[🟪 Sovereign Tribes]]
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #Sovereignty #[[Sovereign Tribes 1]]
 - **Source:** https://balajis.com/how-to-gradually-exit-twitter/
 - **Author:** [[balajis.com]]
 - **Project(s):** [[📦 Article: Sovereign Publishing]]

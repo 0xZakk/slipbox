@@ -43,8 +43,6 @@ A Sovereign Man looks at his time and is deliberate about how he spends it.
 
 ## Meta Data
 
-**Source:** 
+**Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Sovereignty]]
-- [[Living a Good Life]]
+- [[🔎 Inquiries/Masculinity]]

@@ -29,5 +29,4 @@ Instead, you should see emotional intelligence as a cornerstone of masculinity. 
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

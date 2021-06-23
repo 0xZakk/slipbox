@@ -15,5 +15,4 @@ The first step to becoming a Sovereign Man is recognizing the Natural Man inside
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

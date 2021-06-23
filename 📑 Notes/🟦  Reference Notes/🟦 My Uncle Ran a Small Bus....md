@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[Wealth Accumulation]]
 - **Source:**  twitter
 - **Author:** @ShaneAParrish on Twitter
 - **Summary:**

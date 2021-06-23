@@ -24,6 +24,5 @@ Having Sovereignty -- or being a [[🟨 Sovereign Man | Sovereign Man]] -- means
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[masculinity]]
-- [[Living a Good Life]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]

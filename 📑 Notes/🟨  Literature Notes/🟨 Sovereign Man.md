@@ -18,6 +18,5 @@ Additionally, a Sovereign Man is one who has decided to take responsibility for 
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[masculinity]]
+- [[🔎 Inquiries/Masculinity]]
 

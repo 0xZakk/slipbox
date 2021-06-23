@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[Coaching]] [[management]] [[Product Management]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Coaching]] [[Management]] [[Product Management]]
 - **Source:**  kindle
 - **Author:** Michael Bungay Stanier
 - **Summary:**

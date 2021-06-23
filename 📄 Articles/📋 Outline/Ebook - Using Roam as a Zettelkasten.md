@@ -273,7 +273,7 @@ This ebook serves as an introduction to working with a Zettelkasten or Slipbox.
 		- This is different from Fleeting Notes:
 			- A fleeting note is a short burst of insight or an idea that, crucially, is not flushed out
 			- A Personal note is flushed out, like a Permanent note, but isn't directly attributable to Literature or Reference notes
-			- An example is my [[🟪 Types of related skills]] note, which is a framework for thinking about how skills relate to each other than I created through my own reflection. It has ties to Josh Waitzkin, Carol Dweck, and Barbara Oakley - but nothing I could directly attribute to them.
+			- An example is my [[Types of related skills]] note, which is a framework for thinking about how skills relate to each other than I created through my own reflection. It has ties to Josh Waitzkin, Carol Dweck, and Barbara Oakley - but nothing I could directly attribute to them.
 			- **Why is this different from a Permanent Note?**
 			- I treat Personal notes like Permanent notes: they get related to other Personal and Permanent notes 
 	- **Using with Readwise**

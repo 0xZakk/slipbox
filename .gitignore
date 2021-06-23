@@ -31,4 +31,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+## Obsidian ##
+# Workspace
+.obsidian/workspace
+
+# Git Plugin
+.obsidian-git-data
+
 # End of https://www.toptal.com/developers/gitignore/api/macos

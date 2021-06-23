@@ -9,5 +9,4 @@ One of the most dangerous things you can believe is that someone owes you someth
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Mindset]]
-- [[Living a Good Life]]
+- [[🔎 Inquiries/Living a Good Life]]

@@ -25,7 +25,7 @@ summary: ""
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Advantages of Go over other programming languages]]

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[masculinity]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Masculinity]]
 - **Source:**  kindle
 - **Author:** Ian Ironwood
 - **Summary:**

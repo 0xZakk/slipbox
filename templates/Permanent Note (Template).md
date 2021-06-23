@@ -1,5 +1,6 @@
 ---
 title: {{title}}
+slug: {{title}}
 type: "permanent"
 ---
 

@@ -9,8 +9,6 @@ While the stakes aren't that high for you, the mantra still fits: any amount of 
 
 ## Meta Data
 
-**Source:** 
+**Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[masculinity]]
-- [[Living a Good Life]]
-- [[Sovereignty]]
+- [[🔎 Inquiries/Masculinity]]

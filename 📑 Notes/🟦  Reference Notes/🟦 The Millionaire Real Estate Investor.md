@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[wealth-accumulation]] [[Real Estate]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[Wealth Accumulation]] [[Real Estate]]
 - **Source:**  kindle
 - **Author:** Gary Keller, Dave Jenks, Jay Papasan
 - **Summary:**

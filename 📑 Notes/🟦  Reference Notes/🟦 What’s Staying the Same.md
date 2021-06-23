@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[Psychology]] [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Business]] [[Psychology]] [[Wealth Accumulation]]
 - **Source:**  pocket
 - **Author:** fs.blog
 - **Summary:**

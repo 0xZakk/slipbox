@@ -12,7 +12,7 @@ summary: "Understanding Go's Error type and how to handle errors in Go"
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Go's error type]]

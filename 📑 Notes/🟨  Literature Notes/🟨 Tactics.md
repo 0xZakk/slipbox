@@ -15,7 +15,6 @@ So if you're twelve-week objective is to read more,your tactic could be to read 
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Goal Setting]]
-- [[Living a Good Life]]
-- [[Ultimate Concern]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]
+- [[🔎 Inquiries/High-Performance Knowledge Work]]

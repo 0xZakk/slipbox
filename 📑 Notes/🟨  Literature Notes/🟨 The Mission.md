@@ -18,5 +18,5 @@ The reward is the feeling of doing what you were born to do. But you need to fig
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Living a Good Life]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]

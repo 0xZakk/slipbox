@@ -13,7 +13,5 @@ Your objectives will fall into one of [[🟨 The Four Quadrants]].
 
 **Source:** [[🟦 Sovereignty, The Battle for the Hearts and Minds of Men]]
 **Domain(s):**
-- [[Sovereignty]]
-- [[Living a Good Life]]
-- [[Goal Setting]]
-- [[Ultimate Concern]]
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]

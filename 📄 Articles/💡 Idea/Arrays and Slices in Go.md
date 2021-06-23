@@ -12,7 +12,7 @@ summary: "Tutorial that walks through the similarities and differences between A
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Go Arrays]]

@@ -15,7 +15,7 @@ Rather than tell them what to do, give them feedback on the goal they’re not m
 ## Meta Data
 
 **Domain(s):**
-- [[management]]
+- [[Management]]
 - [[Feedback]]
 
 **Related Notes:**

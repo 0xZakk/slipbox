@@ -1,14 +1,7 @@
-# 🟦 Sovereignty, The Battle for the Hearts and Minds of Men
-
-## Meta Data
-[[__ 🟦  Reference Note]] 
-[[📥 Inbox]] [[📝 To Process]]
-
-Source: Physical book
-Author: [[Ryan Michler]]
-Domain(s):
-- [[masculinity]]
-- [[Living a Good Life]]
+---
+title: 🟦 Sovereignty, The Battle for the Hearts and Minds of Men
+type: "reference"
+---
 
 ## Summary:
 
@@ -40,3 +33,11 @@ The goal of this book is to help you recapture your sovereignty (become a Sovere
 	- [[🟨 Twelve-Week Objectives]]
 - [[🟨 Tactics]]
 - [[🟨 After-Action Review]]
+
+## Meta Data
+
+**Source:** Physical book
+**Domain(s):**
+- [[🔎 Inquiries/Masculinity]]
+- [[🔎 Inquiries/Living a Good Life]]
+

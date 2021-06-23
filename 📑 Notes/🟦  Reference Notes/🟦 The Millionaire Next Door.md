@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[wealth-accumulation]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Wealth Accumulation]]
 - **Source:**  kindle
 - **Author:** Thomas J. Stanley Ph.D.
 - **Summary:**

@@ -12,7 +12,7 @@ summary: "Article walking through and explaining how variable scope works in Go"
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Variable scope in Go]]

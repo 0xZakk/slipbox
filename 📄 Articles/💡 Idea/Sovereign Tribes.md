@@ -14,5 +14,5 @@ summary: "Explaining the idea of Sovereign Tribes"
 - [[Sovereignty]]
 
 **Related Notes:**
-- [[🟪 Sovereign Tribes]]
+- [[Sovereign Tribes 1]]
 - [[highlights/Export/Books/The Sovereign Individual]]

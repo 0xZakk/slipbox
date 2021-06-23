@@ -12,7 +12,7 @@ summary: "Article that explains Go's zero value and how it works"
 
 **Domain(s):**
 - [[Go]]
-- [[programming]]
+- [[Programming]]
 
 **Related Notes:**
 - [[🟨 Go's zero value]]
