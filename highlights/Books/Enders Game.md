@@ -5,19 +5,6 @@
 Source:  manual 
 Author: Orson Scott Card
 
-## Highlights
-
-### Highlights
-
-**Technology**
-- The monitor - A device that gets implanted at the base of the spine. Records through eyes.
-- Desks - iPad like devices
-- Table - computer-like table that lets you interact with it (ie read the news)
-- Locke and Demosthenes - Peter and Valentine write anonymously on something like a global, distributed Reddit where they develop a really large following and try to sway elections and public discourse.
-- Flight Simulators and Space Drones - they think they're in a flight simulator, simulating battles in deep space. In the end, they're operating space drones where the ship is deep in space but the pilot is on the space base
-
-
-
 - Ender nodded. It was a lie, of course, that it wouldn't hurt a bit. But since adults always said it when it was going to hurt, he could count on that statement as an accurate prediction of the future. Sometimes lies were more dependable than the truth.
 - The bell rang. Everyone signed off their desks or hurriedly typed in reminders to themselves. Some were dumping lessons or data into their computers at home. A few gathered at the printers while something they wanted to show was printed out. Ender spread his hands over the childsize keyboard near the edge of the desk and wondered what it would feel like to have hands as large as a grown-up's. They must feel so big and awkward, thick stubby fingers and beefy palms. Of course, they had bigger keyboardsbut how could their thick fingers draw a fine line, the way Ender could, a thin line so precise that he could make it spiral seventy-nine times from the center to the edge of the desk without the lines ever touching or overlapping. It gave him something to do while the teacher droned on about arithmetic. Arithmetic! Valentine had taught him arithmetic when he was three.
 - "Then too bad. Look, Ender, I'm sorry if you're lonely and afraid. But the buggers are out there. Ten billion, a hundred billion, a million billion of them, for all we know.

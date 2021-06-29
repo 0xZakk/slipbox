@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Barbara Oakley
 
-## Highlights
-
-### Highlights
-
 - { 1 } open the door
 - { 2 } easy does it: Why Trying Too Hard Can Sometimes Be Part of the Problem
 - two different types of networks that the brain switches between—highly attentive states and more relaxed resting state networks.1 We’ll call the thinking processes related to these two different types of networks the focused mode and diffuse mode, respectively—these

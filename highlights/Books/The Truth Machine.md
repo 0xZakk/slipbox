@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Paul Vigna, Michael J. Casey
 
-## Highlights
-
-### Highlights
-
 - In The Age of Cryptocurrency, we explored the digital currency bitcoin and its promise of a fairer global payments system, one that functions without banks and other financial intermediaries. As that book was going to print, Bitcoin’s* wider application—how its core operating system can help resolve problems of trust between individuals and businesses when they trade assets, enter into contracts, assert claims to property, or share valuable or sensitive information—came to the fore.
     - **Tags:** #read
     - **Note:** .read
@@ -97,3 +93,20 @@ Author: Paul Vigna, Michael J. Casey
 - With a permissionless blockchain, control over the data stays with the customer, which means that the point of vulnerability lies with their device.
 - A hacker could go after each device, try to steal the private key that’s used to initiate transactions on the decentralized network, and, if they’re lucky, get away with a few thousand dollars in bitcoin. But it’s far less lucrative and far more time-consuming than going after the rich target of a central server.
 - Decentralized Economy with Centralized Trust
+- How do we get to a world of decentralized trust, so that it costs me close to nothing to safely and confidently engage in transactions with others online?
+- Let’s start with the pre-Internet offline economy, the one we inherited from the twentieth century, when the centralized trust model was the only one we could imagine. Under that system, which prevails to this day, we charge banks, public utilities, certificate authorities, government agencies, and countless other centralized entities and institutions with the task of recording everyone’s transactions and exchanges of value. We trust them to monitor our activities—our check writing, our electricity consumption, our monthly payments for everything from newspaper delivery to telephone services—and to reliably and honestly update that information in ledgers that they, and only they, control.
+- This system was inherently incompatible with the nobody’s-in-charge, distributed framework of the Internet. The Net was designed to let anyone publish and send information, at near-zero cost, to anyone else anywhere. That opened up vast new economic opportunities, but it also posed unique challenges for trust management.
+- ## Afterword to the 2019 Edition
+- The Good Side of Bubbles
+- The tensions over regulation reflect an age-old debate over how much investors need protection versus how much freedom capital markets require.
+- startups are constantly denied money-raising opportunities and that small investors achieve suboptimal returns because of bureaucratic barriers such as securities laws.
+- There’s an even bigger point in all of this that’s relevant to our discussion about the outlook for blockchain development. And that is that speculation itself—along with the bubbles and losses it generates—is a necessary element of the innovation cycle.
+- In fact, as the Venezuelan economist Carlota Perez argues, bubbles are critical to the process by which capital is deployed to the development of new infrastructure and by which economies undergo major transformations.
+- The dot-com bubble of the late nineties provides a lesson. It is popularly remembered as a period of crazy excess, when ill-formed ideas with little to no product development would raise nine-figure amounts in initial public offerings only to go bust in major meltdowns shortly thereafter. What’s less discussed about that period is how the cheap capital unleashed by the boom funded the development of key infrastructure: fiber-optic cable, research and development in 3G networks, and the buildout of giant server farms.
+- We think something similar is happening behind the wild volatility and hype of the cryptocurrency and blockchain boom.
+- First, it’s potentially a sign that blockchain technology, with its capacity to resolve trust barriers and bypass intermediaries, represents another speculation-infused technological transformation on par with the arrival of the World Wide Web.
+- Second, as with the dot-com bubble, the crypto bubble is creating infrastructure that could enable the technologies of the future.
+- That freely accessible code will enable the execution of countless as-yet-unimagined ideas once the bubble bursts.
+- It is the foundation upon which the decentralized economy of the future will be built.
+- Evidence that this development is underway can be found on open-source coding platforms such as Github, where global communities of blockchain developers are working to build and improve myriad decentralized applications.
+- Still, relying on the technicians to make sure this technology lives up to its potential is not enough. If there’s something to be learned from the public narrative around the bubble and the Consensus conference it’s that much also needs to happen at the social level to foster public confidence. We

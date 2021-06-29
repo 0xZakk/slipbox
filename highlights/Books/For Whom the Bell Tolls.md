@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ernest Hemingway
 
-## Highlights
-
-### Highlights
-
 - No man is an Iland, intire of it selfe; every man is a piece of the Continent, a part of the maine; if a Clod bee washed away by the Sea, Europe is the lesse, as well as if a Promontorie were, as well as if a Mannor of thy friends or of thine owne were; any mans death diminishes me, because I am involved in Mankinde; And therefore never send to know for whom the bell tolls; It tolls for thee. —JOHN DONNE
 - To worry was as bad as to be afraid. It simply made things more difficult.
 - Now as they lay all that before had been shielded was unshielded. Where there had been roughness of fabric all was smooth with a smoothness and firm rounded pressing and a long warm coolness, cool outside and warm within, long and light and closely holding, closely held, lonely, hollow-making with contours, happy-making, young and loving and now all warmly smooth with a hollowing, chest-aching, tight-held loneliness that was such that Robert Jordan felt he could not stand it and he said, “Hast thou loved others?”

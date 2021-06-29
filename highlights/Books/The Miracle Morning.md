@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Hal Elrod and Robert Kiyosaki
 
-## Highlights
-
-### Highlights
-
 - I believe it is crucial for us to embrace the perspective that anything another person has overcome or accomplished is simply evidence that anything—and I mean anything—you need to overcome or want to accomplish is possible for you, no matter what your past or current circumstances. It begins with accepting total responsibility for every aspect of your life and refusing to blame anyone else. The degree to which you accept responsibility for everything in your life is precisely the degree of personal power you have to change or create anything in your life.
 - While blame determines who is at fault for something, responsibility determines who is committed to improving things.
 - “Your level of success, will rarely exceed your level of personal development, because success is something you attract by the person you become,”

@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Martin Kleppmann
 
-## Highlights
-
-### Highlights
-
 - Preface
 - We call an application data-intensive if data is its primary challenge — the quantity of data, the complexity of data, or the speed at which it is changing — as opposed to compute-intensive, where CPU cycles are the bottleneck.
 - Fortunately, behind the rapid changes in technology, there are enduring principles that remain true, no matter which version of a particular tool you are using. If you understand those principles, you’re in a position to see where each tool fits in, how to make good use of it, and how to avoid its pitfalls.

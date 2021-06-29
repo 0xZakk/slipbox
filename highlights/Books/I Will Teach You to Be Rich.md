@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ramit Sethi
 
-## Highlights
-
-### Highlights
-
 - The single most important factor to getting rich is getting started, not being the smartest person in the room.
 - The 85 Percent Solution: Getting started is more important than becoming an expert.
 - It’s okay to make mistakes.

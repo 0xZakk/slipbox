@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Andrew Thomas
 
-## Highlights
-
-### Highlights
-
 - serial processing.
 - parallel processing.
 - quarks,

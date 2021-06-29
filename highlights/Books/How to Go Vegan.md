@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Veganuary
 
-## Highlights
-
-### Highlights
-
 - In a way veganism is not such a radical change; it can be more like a return to self and simply aligning your practices with your principles. Most of us are not brought up or socially conditioned to choose the vegan option, and yet most of us would agree we want to live a life that doesn’t cause unnecessary suffering to other living beings. Going vegan, I felt like I was becoming more myself and very quickly felt more comfortable in my skin. It’s exciting to uncover another piece of your identity, liberating in fact.
 - But while recognising that I was against animal cruelty in any form was one thing, actually becoming vegan took some time, patience, research and, most of all, community with other vegans. I read Eating Animals by Jonathan Safran Foer and felt thoroughly well-versed in the reasons why I was now vegan, and riled up to revamp my whole life. But I forgot to account for the fact that I was unlearning two decades’ worth of living a completely different lifestyle, and that there was a method to making going vegan easier. I quickly learned that going vegan required compassion for myself as much as for the animals and I urge you to be gentle with yourself as you work towards integrating veganism seamlessly into your life.
 - One thing I’d like to imprint on your brain is that veganism is not about being perfect. And it isn’t about rules and restrictions; it is about living with compassion and mindfulness – for animals, for yourself, for other humans, for our planet. You will struggle, you may make mistakes, you might feel like you’re being awkward, but you’ll learn that there’s no such thing as a perfect vegan.

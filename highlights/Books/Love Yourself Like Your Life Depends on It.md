@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Kamal Ravikant
 
-## Highlights
-
-### Highlights
-
 - "I don't do a post now unless I'm worried about what people will think about me."
 - As a wise friend likes to remind me, this is a practice.  You don't go to the gym once and consider yourself done.  Same here.  Meditation is a practice.  Working out is a practice.  Loving yourself, perhaps the most important of all, is a practice.
 - I was in a bad way.  Miserable out of my mind.  There were days when I'd lie in bed, the drapes closed, day outside sliding into night and back to day, and I just didn't want to deal.  Deal with my thoughts.  Deal with being sick.  Deal with heartache.  Deal with my company tanking.  Deal....with....life. Here is what saved me.

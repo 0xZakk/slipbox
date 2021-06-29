@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ashlee Vance
 
-## Highlights
-
-### Highlights
-
 - DO YOU THINK I’M INSANE?” This question came from Elon Musk near the very end of a long dinner we shared at a high-end seafood restaurant in Silicon Valley.
 - ANY STUDY OF ELON MUSK must begin at the headquarters of SpaceX, in Hawthorne, California—a suburb of Los Angeles located a few miles from Los Angeles International Airport. It’s there that visitors will find two giant posters of Mars hanging side by side on the wall leading up to Musk’s cubicle. The poster to the left depicts Mars as it is today—a cold, barren red orb. The poster on the right shows a Mars with a humongous green landmass surrounded by oceans. The planet has been heated up and transformed to suit humans. Musk fully intends to try and make this happen.
 - Turning humans into space colonizers is his stated life’s purpose. “I would like to die thinking that humanity has a bright future,” he said. “If we can solve sustainable energy and be well on our way to becoming a multiplanetary species with a self-sustaining civilization on another planet—to cope with a worst-case scenario happening and extinguishing human consciousness—then,” and here he paused for a moment, “I think that would be really good.”

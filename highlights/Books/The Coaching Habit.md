@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Michael Bungay Stanier
 
-## Highlights
-
-### Highlights
-
 - Over the years, we’ve come to hold these truths to be self-evident: Coaching is simple. In fact, this book’s Seven Essential Questions give you most of what you need. You can coach someone in ten minutes or less. And in today’s busy world, you have to be able to coach in ten minutes or less. Coaching should be a daily, informal act, not an occasional, formal “It’s Coaching Time!” event. You can build a coaching habit, but only if you understand and use the proven mechanics of building and embedding new habits.
 - When you build a coaching habit, you can more easily break out of three vicious circles that plague our workplaces: creating overdependence, getting overwhelmed and becoming disconnected.
 - Circle #1: Creating Overdependence

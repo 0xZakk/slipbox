@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Amazon Web Services
 
-## Highlights
-
-### Highlights
-
 - Amazon S3 has a simple web services interface that you can use to store and retrieve any amount of data, at any time, from anywhere on the web.
 - Overview of Amazon S3 and this guide
 - Amazon S3 has a simple web services interface that you can use to store and retrieve any amount of data, at any time, from anywhere on the web.

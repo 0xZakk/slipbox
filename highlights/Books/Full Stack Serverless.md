@@ -5,10 +5,6 @@
 Source:  oreilly 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - # 1. Full Stack Development in the Era of Serverless Computing
 - # 2. Getting Started with AWS Amplify
 - The Amplify CLI provides an easy entry point for developers wanting to build applications on AWS. The CLI allows developers to create, configure, update, and delete cloud services directly from their frontend environment.

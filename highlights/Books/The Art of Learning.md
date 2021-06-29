@@ -5,10 +5,6 @@
 Source:  manual 
 Author: Josh Waitzkin
 
-## Highlights
-
-### Highlights
-
 - He looked shocked and told me that he had been pushed away, but he hadn't noticed any explosive movement on my part. I had no idea what to make of this, but slowly I began to realize the martial power of my living room meditation sessions. After thousands of slow-motion, everrefined repetitions of certain movements, my body could become that shape instinctively. Somehow in Tai Chi the mind needed little physical action to have great physical effect.
   This type of learning experience was familiar to me from chess. My whole life I had studied techniques, principles, and theory until they were integrated into the unconscious.
 - As I struggled for a more precise grasp of my own learning process, I was forced to retrace my steps and remember what had been internalized and forgotten. In both and martial arts lives, there is a method of study that has been critical to my growth. I sometimes refer to it as the study of numbers to leave numbers, or form to leave form. A basic example this process, which applies to any discipline, can easily be illustrated through chess: A chess student must initially become immersed in the fundamentals in order to have any potential to reach a high level of skill. He or she will learn the principles of endgame, middlegame, and opening play. Initially one or two critical themes will be considered at once, but over time the intuition learns to integrate more and more principles into a sense of flow. Eventually the foundation is so deeply internalized that it is no longer consciously considered, but is lived. This process continuously cycles along as deeper layers of the art are soaked in.

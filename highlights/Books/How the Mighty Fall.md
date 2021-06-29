@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Jim Collins
 
-## Highlights
-
-### Highlights
-
 - The origins of this work date back to more than three years earlier, when I became curious about why some of the greatest companies in history, including some once-great enterprises we’d researched for Built to Last and Good to Great, had fallen. The aim of this piece is to offer a research-grounded perspective of how decline can happen, even to those that appear invincible, so that leaders might have a better chance of avoiding their tragic fate.
 - Decline can be avoided. The seeds of decline can be detected early. And as long as you don’t fall all the way to the fifth stage, decline can be reversed. The mighty can fall, but they can often rise again.
 - Is America renewing its greatness, or is America dangerously on the cusp of falling from great to good?

@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Daniel Drescher
 
-## Highlights
-
-### Highlights
-
 - 1. Thinking in Layers and Aspects
 - Do you have a mobile phone? I would guess yes, as most people now have at least one. How much do you know about the different wireless communication protocols that are used to send and receive data? How much do you know about electromagnetic waves that are the foundation of mobile communication? Well, most of us do not know very much about these details because it is not necessary to know them in order to use a mobile phone and most of us do not have the time to learn about them. We mentally separate the mobile phone into the parts we need to know and the parts that can be ignored or taken for granted. This approach to technology is not restricted to mobile phones.
 - Layers of a Software System

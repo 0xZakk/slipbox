@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Gary Wilson, Anthony Jack (Foreword)
 
-## Highlights
-
-### Highlights
-
 - The Brain That Changes Itself,
     - **Tags:** #read
     - **Note:** .read

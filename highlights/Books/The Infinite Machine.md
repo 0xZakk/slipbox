@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Camila Russo
 
-## Highlights
-
-### Highlights
-
 - In 2008, five years before the idea of Ethereum materialized in a white paper, Bitcoin was created. But even Bitcoin didn’t appear in a vacuum. Cryptographers had been trying to come up with a private, peer-to-peer digital currency since at least the 1980s.
 - Computer scientist David Chaum saw how the advent of electronic payments could threaten privacy and focused his research on ways to prevent that. He devised the “blind signatures” system, which enabled digital payments without having to disclose personal information, and used that technology to create eCash in 1983, an anonymous digital currency1. eCash wasn’t a fully decentralized system. It relied on banks to sign the digital currency, so it could still be susceptible to censorship and corruption. Still, Chaum’s innovation spearheaded what would become a movement.
 - Hacker Jude Milhon, better known by her pseudonym St. Jude, combined the words “cypher” (a way to encrypt information) and “cyberpunk” (a science fiction subgenre that depicts high-tech worlds where society has broken down) to christen the emerging group as the “cypherpunks.” For cypherpunks, cryptography would be a tool to effect wider social and political change. Some of them even advocated for crypto-anarchy, a belief that cryptography would enable a world free from corporate or state control.

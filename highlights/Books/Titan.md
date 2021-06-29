@@ -5,10 +5,6 @@
 Source:  clippings 
 Author: Ron Chernow
 
-## Highlights
-
-### Highlights
-
 - BERTRAND RUSSELL
   Freedom Versus Organization, 1814 to 1914
 - H. G. WELLS

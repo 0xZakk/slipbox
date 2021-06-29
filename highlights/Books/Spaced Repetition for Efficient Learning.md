@@ -5,10 +5,6 @@
 Source:  clippings 
 Author: Gwern Branwen
 
-## Highlights
-
-### Highlights
-
 - Edward O. Thorp
     - **Tags:** #research
     - **Note:** .research

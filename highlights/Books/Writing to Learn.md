@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: William Zinsser
 
-## Highlights
-
-### Highlights
-
 - I wrote this book to try to ease two fears that American education seems to inflict on all of us in some form. One is the fear of writing. Most people have to do some kind of writing just to get through the day—a memo, a report, a letter—and would almost rather die than do it. The other is the fear of subjects we don’t think we have an aptitude for. Students with a bent for the humanities are terrified of science and mathematics, and students with an aptitude for science and mathematics are terrified of the humanities—all those subjects like English and philosophy and the arts that can’t be pinned down with numbers or formulas. I now think that these fears are largely unnecessary burdens to lug through life.
 - This book is a personal journey in which I confronted some of my own fears and lived to tell the tale. What started me on it was my interest in the trend in American schools and colleges called “writing across the curriculum,” whereby writing is no longer the sole possession of the English teacher but is an organic part of how every subject is taught. It’s an idea I like very much. It establishes at an early age the fact that writing is a form of thinking, whatever the subject.
 - But every discipline has a literature—a body of good writing that students and teachers can use as a model; writing is learned mainly by imitation.

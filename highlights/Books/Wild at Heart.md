@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: John Eldredge
 
-## Highlights
-
-### Highlights
-
 - Who am I? What am I made of? What am I destined for?
 - God gave us eyes so that we might see; he gave us ears that we might hear; he gave us wills that we might choose, and he gave us hearts that we might live. The way we handle the heart is everything. A man must know he is powerful; he must know he has what it takes. A woman must know she is beautiful; she must know she is worth fighting for.
 - The less a guy feels like a real man in the presence of a real woman, the more vulnerable he is to porn.

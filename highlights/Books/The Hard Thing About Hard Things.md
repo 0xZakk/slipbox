@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ben Horowitz
 
-## Highlights
-
-### Highlights
-
 - ## INTRODUCTION
 - Every time I read a management or self-help book, I find myself saying, “That’s fine, but that wasn’t really the hard thing about the situation.”
 - The problem with these books is that they attempt to provide a recipe for challenges that have no recipes. There’s no recipe for really complicated, dynamic situations.

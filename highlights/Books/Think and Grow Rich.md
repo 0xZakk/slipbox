@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Napoleon Hill, Arthur Pell, and Arthur R. Pell
 
-## Highlights
-
-### Highlights
-
 - One of the most common causes of failure is the habit of quitting when one is overtaken by temporary defeat. Every person is guilty of this mistake at one time or another.
 - More than 500 of the most successful people America has ever known told the author their greatest success came just one step beyond the point at which defeat had overtaken them. Failure is a trickster with a keen sense of irony and cunning. It takes great delight in tripping one up when success is almost within reach.
 - One of the main weaknesses of mankind is the average person’s familiarity with the word ‘impossible’. He knows all the rules that will not work. He knows all the things that cannot be done. This book was written for those who seek the rules that have made others successful, and are willing to stake everything on those rules.

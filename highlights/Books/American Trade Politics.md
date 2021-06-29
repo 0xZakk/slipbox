@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: I. M. Destler
 
-## Highlights
-
-### Highlights
-
 - foreign trade was not a major partisan issue.
 - There was an overwhelming elite consensus in favor of market openness and trade expansion.
 - the issue posed by interests seeking import relief was typically a straightforward

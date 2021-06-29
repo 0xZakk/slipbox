@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Michael A. Singer
 
-## Highlights
-
-### Highlights
-
 - “This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.” —William Shakespeare
 - Freud (1927), the father of psychology, divided the psyche into three parts: the id, the ego, and the superego. He saw the id as our primal, animal nature; the superego as the judgment system that society has instilled within us; and the ego as our representative to the outside world that struggles to maintain a balance between the other two powerful forces.
 - We are only interested in your intuitive experience of what it is like to be you. We are not looking for your knowledge; we are seeking your direct experience. You see, you can’t fail at this because your “self” is what you are, at all times and in all places. We simply need to sort it out. After all, it can get quite confusing in there.

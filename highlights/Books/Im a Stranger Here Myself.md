@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Bill Bryson
 
-## Highlights
-
-### Highlights
-
 - Diversity of Life
     - **Note:** Book by Edward Wilson 
 - The Blind Watchmaker,

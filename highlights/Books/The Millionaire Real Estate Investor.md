@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Gary Keller, Dave Jenks, Jay Papasan
 
-## Highlights
-
-### Highlights
-
 - Small plans at best yield small results, and big plans at worst beat small plans.
 - Don’t be afraid of fear. Respect it, keep going, and move past it.
 - Money does live on the other side of fear. But in a bigger sense opportunity lives on the other side of fear as well.

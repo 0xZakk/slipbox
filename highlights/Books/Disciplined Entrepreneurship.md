@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Bill Aulet
 
-## Highlights
-
-### Highlights
-
 - Blue Ocean Strategy,
 - Crossing the Chasm,
     - **Tags:** #read

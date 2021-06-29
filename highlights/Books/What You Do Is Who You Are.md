@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ben Horowitz
 
-## Highlights
-
-### Highlights
-
 - Introduction: What You Do Is Who You Are
 - “Pay attention to your culture. Culture is the most important thing.”
 - I spent the next eighteen years trying to figure this question out. Is culture dogs at work and yoga in the break room? No, those are perks. Is it your corporate values? No, those are aspirations. Is it the personality and priorities of the CEO? That helps shape the culture, but it is far from the thing itself.

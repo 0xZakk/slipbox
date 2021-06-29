@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Raúl Jiménez and Felipe Vasconcelos
 
-## Highlights
-
-### Highlights
-
 - The country is geographically diverse, with lakes, mountains, jungles, remarkable beaches, incredible landscapes, lively, modern cities, and numerous vacation hotspots. This means that there is something for everyone in Mexico. Whether you want to live a modern lifestyle, a laid-back traditional lifestyle, or fast-paced, adventurous lifestyle, you will get it all in Mexico.
 - At the moment, there are close to two million US expats living all over Mexico.
 - In this book, I am going to tell you everything you need to know about moving to Mexico, including why Mexico is the right choice for you, the immigration process and documentation you need to settle in the country, the cost of living in the country, how to get a grasp of Mexican money, which places you should consider settling in, whether to rent or buy property, all you need to know about crime and narcos, how to handle things like transportation, education for your kids, and health, how to get a job and make a living in Mexico, how to deal with the culture shock and so on.

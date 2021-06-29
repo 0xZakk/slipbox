@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Mike Walsh
 
-## Highlights
-
-### Highlights
-
 - Giuseppe Tomasi di Lampedusa, Il Gattopardo
 - Munoz was an ideal leader for an era of maintenance schedules, quarterly budgets, cost reductions, sales quotas, and margin improvements. While those things are certainly important, they are no longer sufficient for survival. They are part of an analogue world of people, assets, and things.
 - Munoz ran into trouble when he didn’t recognize that the real driver of success or failure for an airline like United, and many other companies, is not its stuff but rather its algorithms. United didn’t have a customer service problem; it had an algorithmic design problem.

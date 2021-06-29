@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: James Dale Davidson, Lord William Rees-Mogg
 
-## Highlights
-
-### Highlights
-
 - “The future is disorder. A door like this has cracked open five or six times since we got up on our hind legs. It is the best possible time to be alive, when almost everything you thought you knew is wrong.” —Tom Stoppard, Arcadia
 - ## PREFACE
 - Medieval men despaired of the will. They thought of humans as wounded and weak. But they respected the intellect. They thought even humans, if we think carefully, have the power to answer the most profound questions of God and the Universe. Modern men worship the will, but they despair of the intellect. The wisdom of crowds; the swerve of random particles; the influence of unconscious biases: all of…

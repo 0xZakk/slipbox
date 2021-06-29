@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Jim Collins
 
-## Highlights
-
-### Highlights
-
 - Chapter 1 Good is the Enemy of Great
     - **Tags:** #chapter
     - **Note:** .chapter

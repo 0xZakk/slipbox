@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Jane Alison
 
-## Highlights
-
-### Highlights
-
 - I love how Eileen Gray designed, and really love how much it maddened the bombastic Corbu. I think that Gray’s way of working from life to art could describe writing, too.
 - We writers go about our observing, imagining lives, moving onward day by day but always alert to patterns—ways in which experience shapes itself, ways we can replicate its shape with words. We create passages for a reader to move through, seeing and sensing what we devise on the way. And when the reader’s done—levitation! She looks down and sees how she’s traveled, sees the pattern of the whole.
 - Given all of this, my writer self thinks two things: first, being aware of visual elements such as texture, color, or symmetry can open windows and let us design as much as write. Text comes from texere, after all: to weave. Next, we can be conscious, deliberate, innovative, in the paths we carve through our words.

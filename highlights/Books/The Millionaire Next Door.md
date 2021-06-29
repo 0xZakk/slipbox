@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Thomas J. Stanley Ph.D.
 
-## Highlights
-
-### Highlights
-
 - In the course of our investigations, we discovered seven common denominators among those who successfully build wealth. 1. They live well below their means. 2. They allocate their time, energy, and money efficiently, in ways conducive to building wealth. 3. They believe that financial independence is more important than displaying high social status. 4. Their parents did not provide economic outpatient care. 5. Their adult children are economically self-sufficient. 6. They are proficient in targeting market opportunities. 7. They chose the right occupation.
 - Big Hat No Cattle
 - Multiply your age times your realized pretax annual household income from all sources except inheritances. Divide by ten. This, less any inherited wealth, is what your net worth should be.

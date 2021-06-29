@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Shane Parrish, Rhiannon Beaubien
 
-## Highlights
-
-### Highlights
-
 - The quality of your thinking depends on the models that are in your head.
 - I believe in the discipline of mastering the best of what other people have figured out. Charlie Munger1
 - Introduction: Acquiring Wisdom

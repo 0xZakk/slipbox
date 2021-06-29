@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Christine Hassler
 
-## Highlights
-
-### Highlights
-
 - “Twenties Triangle”: Who am I? What do I want? How do I get it?
 - The twenty-something years are a rather messy rite of passage without any fancy ceremonies or parties to mark that you are through it.
 - This is a time between being a kid and being a real, full-fledged grown-up.

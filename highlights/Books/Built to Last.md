@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Jim Collins, Jerry I. Porras
 
-## Highlights
-
-### Highlights
-
 - The examples set by people like David Packard, George Merck, Walt Disney, Masaru Ibuka, Paul Galvin, and William McKnight—the Thomas Jeffersons and James Madisons of the business world—set a high standard of values and performance that many feel compelled to try to live up to. Packard and his peers did not begin as corporate giants; they began as entrepreneurs and small business people. From there they built small, cash-strapped enterprises into some of the world’s most enduring and successful corporations. One executive of a small entrepreneurial company said, “To know that they did it gave us confidence and a model to follow.”
 - Many of today’s buzzwords—employee ownership, empowerment, continuous improvement, TQM, common vision, shared values, and others—are repackaged and updated versions of practices that date back, in some cases, to the 1800s.
 - Chapter 1 The Best of the Best

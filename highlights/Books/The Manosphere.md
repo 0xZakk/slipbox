@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Ian Ironwood
 
-## Highlights
-
-### Highlights
-
 - Asa Barber’s Men column
 - Joseph Campbell’s work on mythology, like his seminal Hero With A Thousand Faces,
 - Fire in the Belly.

@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Tiago Forte
 
-## Highlights
-
-### Highlights
-
 - The Inner Game of Work: Focus, Desire, and Working Free
 - I started looking for opportunities to be coached in every area possible. I joined a Crossfit gym, committing to the smallest class available so I could get as much individual attention from the coach as possible. I hired a voice and speech coach, to help me with some bad habits I’d picked up over the years. And I joined a 3-month holistic health coaching program, combining Chinese medicine, reiki, feng-shui, and acupuncture (I know, I know, so California). What I’ve found has been remarkable: a new level of performance and enjoyment, far in excess of the investment I’ve put in. I’ve tried to shift as much of my consumption (of products, services, and information alike) as possible to coaching and accountability groups. This shift has convinced me that the fundamental bottleneck in nearly every area of my life is not knowledge, but accountability.
 - The Inner Game of Tennis. In that book, he lays out a simple but powerful new framework for not only coaching, but also teaching and learning.

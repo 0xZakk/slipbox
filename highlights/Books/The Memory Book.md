@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Harry Lorayne, Jerry Lucas
 
-## Highlights
-
-### Highlights
-
 - Harry Lorayne’s
 - Memory systems date back to antiquity. In the ancient world, a trained memory was of vital importance. There were no handy note-taking devices, and it was memory techniques and systems that enabled bards and storytellers to remember their stories, poems, and songs.
 - What they did, basically, was associate each thought of a speech to a part of their own homes. These were called “loci,” or “places.”

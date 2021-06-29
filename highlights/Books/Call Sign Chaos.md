@@ -5,30 +5,6 @@
 Source:  manual 
 Author: Jim Mattis, Bing West
 
-## Highlights
-
-### Highlights
-
-- **Type:** #[[__ 🟦  Reference Note]] | [[Leadership]]
-- **Author:** [[Jim Mattis]]
-- **Highlights:**
-    - Three Cs of Leadership:
-        - My early years with my Marines taught me leadership fundamentals, summed up in the three Cs
-        - **Competence:**
-            - The first is competence. Be Brilliant at the Basics. ==**Don't dabble in your job; you must master it.**== That applies at every level as you advance. Analyze yourself. Identify weaknesses and improve yourself. If you're not running three miles in eighteen minutes, work out more; if you're not a good listener, discipline yourself; if you're not swift at calling in artillery fire, rehearse. Your troops are counting on you. Of course you'll screw up sometimes; don't dwell on that. The last perfect man on earth died on a cross long ago-just be honest and move on, smarter for what your mistake taught you.
-            - **Battles, conventional or irregular, turn on the basics of fire superiority and maneuvering against the enemy.** Fire and maneuver-block and tackle-decide battle. The Corps exists to win battles. That is inseparable from making Marines who stand for its values in tough times. **Anything that doesn't contribute to winning battles or winning Marines is of secondary importance.**
-            - Regrettably, too many of the men I've seen killed or wounded failed to perform the basics. War is fraught with random dangers and careless missteps. Clear orders and relentless rehearsals based on intelligence and repetitive training build muscle - **not once or twice, but hundreds of times.** **Read history, but study a few battles in depth.** ==**Learning from others' mistakes is far smarter than putting your own lads in body bags.**==
-            - Physical strength, endurance, calling in fire, map reading, verbal clarity, tactical cunning, use of micro-terrain-all are necessary. You must master and integrate them to gain the confidence of troops. A good map-reading lieutenant is worthless if he can't do pull-ups.
-        - **Caring:**
-            - Second, caring. To quote [[Teddy Roosevelt]], "Nobody cares how much you know, until they know how much you care."  In a family, you watch out for your younger brother. You're interested in him, how he grows, how he learns, who he wants to be. ==**When your Marines know you care about them, then you can speak bluntly when they disappoint you.**== They are young, but they did volunteer for the Marines, so don't patronize them. They know they're not in a life insurance company. **Be honest in your criticism, but blow away the bad behavior while leaving their manhood intact.**
-                - "Nobody cares how much you know, until they know how much you care." - [[Teddy Roosevelt]]
-            - Show no favoritism. **Value initiative and aggressiveness above all.** It's easier to pull the reins back than to push a timid soul forward. Consistently maintain a social and personal distance, remembering that there is a line you must not cross. But you should come as close to that line as possible-without surrendering one your ounce of your authority. **You are not their friend. You are their coach and commander, rewarding the qualities essential to battlefield victory.**
-            - You get to know them as individuals-what makes them tick and what their specific goals are. One is striving to make corporal, another needs a letter of recommendation for college, another is determined to break eighteen minutes for three miles. **A Marine knows when you are invested in his character, his dreams, and his development. Men like that won't quit on you.**
-        - **Conviction:**
-            - Third, conviction. This is harder and deeper than physical courage. Your peers are the first to know what you will stand for and, more important, what you won't stand for. Your troops fast. State your flat-ass rules and stick to them. They shouldn't come as a surprise to anyone. At the same time, leaven your professional passion with personal humility and compassion for your troops. ==**Remember: As an officer, you need to win only one battle for the hearts of your troops. Win their hearts and they will win the fights.**==
-            - Conviction doesn't mean you should not change your mind when circumstance or new information warrant it. ==**A leader must be willing to change and make change.**== **Senior staffs sometimes need pruning**. It's easy to get into a bureaucratic rut where things are done a certain way because they're done a certain way. That seems absurd when you read it in print -- but it's the norm in large organizations. ==**Every few months, a leader has to step back and question what he and his organization are doing.**==
-        - Competence, caring, and conviction combine to **form a fundamental element-shaping the fighting spirit of your troops**. ==**Leadership means reaching the souls of your troops, instilling a sense of commitment and purpose in the face of challenges**== so severe that they cannot be put into words.
-
 - My early years with my Marines taught me leadership fundamentals, summed up in the three Cs.
   The first is competence. Be brilliant in the basics. Don't dabble C in your job; you must master it. That applies at every level as you advance. Analyze yourself. Identify weaknesses and improve yourself. If you're not running three miles in eighteen minutes, work out more; if you're not a good listener, discipline yourself; if you're not swift at calling in artillery fire, rehearse. Your troops are counting on you. Of course you'll screw up sometimes; don't dwell on that.
   The last perfect man on earth died on a cross long ago-just be honest and move on, smarter for what your mistake taught you.

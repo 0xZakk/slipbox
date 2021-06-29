@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Peter Thiel, Blake Masters
 
-## Highlights
-
-### Highlights
-
 - EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
 - Of course, it’s easier to copy a model than to make something new. Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1. The act of creation is singular, as is the moment of creation, and the result is something fresh and strange.
 - In a world of gigantic administrative bureaucracies both public and private, searching for a new path might seem like hoping for a miracle. Actually, if American business is going to succeed, we are going to need hundreds, or even thousands, of miracles. This would be depressing but for one crucial fact: humans are distinguished from other species by our ability to work miracles. We call these miracles technology. Technology is miraculous because it allows us to do more with less, ratcheting up our fundamental capabilities to a higher level. Other animals are instinctively driven to build things like dams or honeycombs, but we are the only ones that can invent new things and better ways of making them. Humans don’t decide what to build by making choices from some cosmic catalog of options given in advance; instead, by creating new technologies, we rewrite the plan of the world. These are the kind of elementary truths we teach to second graders, but they are easy to forget in a world where so much of what we do is repeat what has been done before.

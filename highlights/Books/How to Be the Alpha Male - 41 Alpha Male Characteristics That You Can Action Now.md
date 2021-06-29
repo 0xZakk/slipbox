@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Zak Frost
 
-## Highlights
-
-### Highlights
-
 - 1. Dress the Part
 - 2. Make yourself known and well liked
 - 3. Don’t look for someone to follow. Be someone to follow.

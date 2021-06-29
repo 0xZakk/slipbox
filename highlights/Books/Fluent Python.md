@@ -5,10 +5,6 @@
 Source:  clippings 
 Author: Luciano Ramalho
 
-## Highlights
-
-### Highlights
-
 - One of the best qualities of Python is its consistency. After working with Python for a while, you are able to start making informed, correct guesses about features that are new to you.
 - the API that you can use to make your own objects play well with the most idiomatic language features.
 - While coding with any framework, you spend a lot of time implementing methods that are called by the framework. The same happens when you leverage the Python data model.

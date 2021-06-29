@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Robert A. Caro
 
-## Highlights
-
-### Highlights
-
 - Introduction
 - “But you’re never going to achieve what you want to, Mr. Caro, if you don’t stop thinking with your fingers.” “Thinking with your fingers.” Every so often, do you get the feeling that someone has seen right through you? In that moment, I knew Professor Blackmur had seen right through me. No real thought, just writing—because writing was so easy. Certainly never thinking anything all the way through.
 - I determined to do something to slow myself down, to not write until I had thought things through. That was why I resolved to write my first drafts in longhand, slowest of the various means of committing thoughts to paper, before I started doing later drafts on the typewriter; that is why I still do my first few drafts in longhand today; that is why, even now that typewriters have been replaced by computers, I still stick to my Smith-Corona Electra 210.

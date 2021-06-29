@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Timothy Ferriss
 
-## Highlights
-
-### Highlights
-
 - In a surprising number of cases, the power is in the absurd. The more absurd, the more “impossible” the question, the more profound the answers. Take, for instance, a question that serial billionaire Peter Thiel likes to ask himself and others: “If you have a 10-year plan of how to get [somewhere], you should ask: Why can’t you do this in 6 months?”
 - The “normal” systems you have in place, the social rules you’ve forced upon yourself, the standard frameworks—they don’t work when answering a question like this. You are forced to shed artificial constraints, like shedding a skin, to realize that you had the ability to renegotiate your reality all along. It just takes practice.
 - It’s the small things, done consistently, that are the big things

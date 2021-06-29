@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Sally Rooney
 
-## Highlights
-
-### Highlights
-
 - It is one of the secrets in that change of mental poise which has been fitly named conversion, that to many among us neither heaven nor earth has any revelation till some personality touches theirs with a peculiar influence, subduing them into receptiveness. GEORGE ELIOT, Daniel Deronda
 - Marianne had the sense that her real life was happening somewhere very far away, happening without her, and she didn’t know if she would ever find out where it was and become part of it.
 - she was different with Connell, the difference was not happening inside herself, in her personhood, but in between them, in the dynamic.

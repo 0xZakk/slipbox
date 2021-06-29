@@ -5,10 +5,6 @@
 Source:  pdf 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Go is a Modern Open Source Systems Programming Language developed as an internal Google project that went public back in 2009. The spiritual fathers of Go are Robert Griesemer, Ken Thomson and Rob Pike.
 - Figure 1. 1. The origins of Go
 - Although Go is a general purpose programming language, it is primarily being used for writing system tools, complex command line utilities, web services and software that works over networks.

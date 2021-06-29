@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Drawk Kwast
 
-## Highlights
-
-### Highlights
-
 - The more you try to get approval from people, the harder it will be to get it. The more that you show them that you do NOT value their opinion (thus lowering their value) and that you care more about what you think (thus raising your value), the easier it will be to get their approval.
 - Value flipping is showing people they have lower value than you (or just getting them to question their own value) and having them smiling at you while you do.
 - Power behaves in a strange way. If you feel as if you have it, you do. If you don't feel as if you have it, it escapes you.

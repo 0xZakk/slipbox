@@ -5,10 +5,6 @@
 Source:  manual 
 Author: Sönke Ahrens
 
-## Highlights
-
-### Highlights
-
 - Everybody writes. Especially in academia. Students write and professors write. And nonfiction writers, who are the third group of people this book is aiming to help, obviously write as well. And writing doesn't necessarily mean papers, articles or books, but everyday, basic writing. We write when we need to remember something, be it an idea, a quote or the outcome of a study. We write when we want to organise our thoughts and when we want to exchange ideas with others. Students write when they take an exam, but the first thing they do to prepare even for an oral examination is to grab pen and paper. We write down not only those things we fear we won't remember otherwise, but also the very things we try to memorise. Every intellectual endeavour starts with a note.
 - The available books fall roughly into two categories. The first teaches the formal requirements: style, structure or how to quote correctly. And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. What they all have in common, though, is that they start with a blank screen or sheet of paper.' But by doing this, they ignore the main part, namely note-taking, failing to understand that improving the organisation of all writing makes a difference. They seem to forget that the process of writing starts much, much earlier than that blank screen and that 1 the actual writing down of the argument is the smallest part of its development. This book aims to fill this gap by showing you how to efficiently turn your thoughts and discoveries into conEl vincing written pieces and build up a treasure of smart and interconnected notes along the way. You can use this pool of notes not only to make writing easier and more fun for yourself, but also to learn for the long run and generate new ideas. But most of all, you can write every day in a way that brings your projects forward.
 - Writing is not what follows research, learning or studying, it is the medium of all this work.

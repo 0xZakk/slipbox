@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Jim Collins, Morten T. Hansen
 
-## Highlights
-
-### Highlights
-
 - 1 THRIVING IN UNCERTAINTY
 - We cannot predict the future. But we can create it.
 - Why do some companies thrive in uncertainty, even chaos, and others do not? When buffeted by tumultuous events, when hit by big, fast-moving forces that we can neither predict nor control, what distinguishes those who perform exceptionally well from those who underperform or worse?

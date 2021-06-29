@@ -5,10 +5,6 @@
 Source:  clippings 
 Author: numinous.productions
 
-## Highlights
-
-### Highlights
-
 - retrospectively it's difficult not to be disappointed, to feel that computers have not yet been nearly as transformative as far older tools for thought, such as language and writing.
 - mnemonic medium
 - why is it that the technology industry has made comparatively little effort developing this vision of transformative tools for thought?

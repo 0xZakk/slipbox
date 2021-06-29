@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Michael Lopp
 
-## Highlights
-
-### Highlights
-
 - 1. Don’t Be a Prick Be a human
 - My definition of a great manager is someone with whom you can make a connection no matter where you sit in the organization chart. What exactly I mean by connection varies wildly by who you are and what you want.
 - Being a manager is a great job (I mean it), but it’s your ability to construct an insightful opinion about a person in seconds that will help make you a phenomenal manager.

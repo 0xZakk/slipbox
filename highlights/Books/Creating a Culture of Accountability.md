@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Mark E. Green and Glen Dall
 
-## Highlights
-
-### Highlights
-
 - Regardless of industry, leadership tenure, culture or geography, my coaching colleagues and I routinely observe a lack of accountability as a foundational obstacle to profitable growth and scale in small and middle- market firms. The best strategies and market opportunities in the world mean nothing if you’re not able to execute your plans and get things done. Effective execution starts with crisp accountability, and you cannot scale your business without it.
 - Aside from accomplishing more with your current staff, mastering accountability creates an environmental condition that further increases employee ROI: high performers love it and low performers hate it.
 - Accountability, like rigor and discipline, is virtual catnip to high- performing employees. They appreciate being held accountable and that others around them—including their leaders—are too. This creates a more predictable meritocracy in which high performers have clear objectives and the opportunity to own their results; it’s a perfect environment in which to shine, stretch, feel challenged and continue to grow. As a result, they’ll be even more productive and want to stay with your firm. What’s more, an environment full of high performers makes it easier to attract, hire and retain other high performers.

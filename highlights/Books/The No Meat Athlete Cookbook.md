@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Matt Frazier, Stepfanie Romine
 
-## Highlights
-
-### Highlights
-
 - Introduction
 - In both the 2012 and 2014 Olympic games, vegetarian and vegan athletes won medals, and in the 2016 games, the only male powerlifter on the United States’ team was vegan Kendrick Farris.
 - Our species evolved through a huge variety of climates and environments, some of which provided little more than fruits and vegetables, others in which animal flesh was plentiful. As a result, we’re not strictly carnivores or herbivores, but omnivores. We can survive, and even thrive, on a stunning variety of diets, and there’s no better example of this than the fact that the winner of any given 100-mile ultramarathon might be vegan, fruitarian, or Paleo. In the short term, at least for fitness and moving toward an ideal weight, almost any diet based on whole foods works. (And, not surprisingly, just about any diet based on processed foods doesn’t.)

@@ -5,10 +5,6 @@
 Source:  oreilly 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - # 1. Welcome to GraphQL
 - ## Chapter 1. Welcome to GraphQL
 - The clients are more numerous today, but we’re still striving to do the

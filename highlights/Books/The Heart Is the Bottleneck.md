@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Tiago Forte
 
-## Highlights
-
-### Highlights
-
 - A Skeptic Goes to the Landmark Forum
 - Trekonomics: The Economics of Post-Scarcity
 - Why I’m Leaving Medium

@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Steven Pressfield
 
-## Highlights
-
-### Highlights
-
 - And here’s a keyboard, connected to the entire world. Here’s a publishing platform you can use to interact with just about anyone, just about any time, for free. You wanted a level playing field, one where you have just as good a shot as anyone else? Here it is. Do the work.
 - That’s what we’re all waiting for you to do—to do the work.
 - On the field of the Self stand a knight and a dragon.   You are the knight. Resistance is the dragon.

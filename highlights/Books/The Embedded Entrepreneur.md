@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Arvid Kahl
 
-## Highlights
-
-### Highlights
-
 - ## Introduction
 - This is a book for people who need actionable advice. Instead of trying to convince you to build an audience, let me share the stories of those who have done it well and then equip you with the tools and strategies to build an audience-driven business.
 - You will learn how to discover your future audience, how to embed yourself in your audience's communities, how to extract business opportunities through observation, and how to build a following that will grow your personal and professional brand.
@@ -59,8 +55,28 @@ Author: Arvid Kahl
 - ## Step 1: Awareness — Think of Possible Audiences
 - The goal of this step is to find a group of people you want to help. It should be a well-defined group, best centered around a common interest or activity.
 - An existing tribe will work best. Tribes consist of people who share an interest, are highly interconnected, and follow the same leaders. They make for wonderful niche audiences.
+- Seth Godin uses a wonderful definition for tribes: “People like us do things like this.”
 - Ask yourself:
 - What tribes do you belong to?
 - What hobbies do you have?
 - What has been your lifestyle in the past?
 - What professions do you have?
+- What companies do you work for? Which companies are you a customer of?
+- What is your significant other doing? What groups do they belong to that are different from your groups?
+- What groups do your parents and siblings belong to?
+- What are the social circles you frequent?
+- The list you came up with from this exercise should contain a few dozen audiences.
+- For each audience on this list, I either am an expert or have direct access to an expert in my friends and family circle. The full list I have collected over the last few years contains at least 300 different audiences. I bet you can come up with at least 100 distinct groups of people within a few hours.
+- ### Exploring Your Surroundings
+- ### Niches vs. Worldviews
+- Amy Hoy of Stacking the Bricks stresses focusing on the opinions held within certain groups of people1. Niches define people by external factors, while worldviews are identity-related and internal.
+- ## Step 2: Affinity — Find Out How Much You Care About Them
+- With a list of possible audiences and niches, you now need to weed out the markets you don't care about enough.
+- No business was ever successfully built by a founder who didn't care about the people they were selling their product to. You need to feel the desire to help your customers genuinely, or you will lose interest in providing value to them at some point.
+- Add a new column to your spreadsheet, called "Affinity." For every row in your spreadsheet, you will need to produce a rating between 0 and 5. Zero means that you don't care about serving this audience at all, and 5 means that you want to devote your life to serving the people in that niche.
+- ## Step 3: Opportunity — Find Out If They Have Interesting Problems
+- For each audience, you will want to find out if they have any interesting problems. You’re not looking into finding their critical problem just yet, as you will only take a cursory view into your audience at this point, but be on the lookout nonetheless.
+- For each audience, do the following things to find out if they have problems that might interest you.
+- Find a few SaaS products in their space and see what problems they solve.
+- Find a community forum or social media group where your niche audience hangs out and go through their recent posts.
+- ## Step 4: Appreciation — Find Out If They’re Willing to Pay

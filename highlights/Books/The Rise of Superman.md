@@ -5,10 +5,6 @@
 Source:  kindle 
 Author: Steven Kotler
 
-## Highlights
-
-### Highlights
-
 - The edge is the one place these ghosts can’t follow.
 - “Most people live in a very restricted circle of their potential being. They make use of a very small portion of their possible consciousness, and of their soul’s resources in general, much like a man who, out of his whole organism, should get into a habit of using and moving only his little finger.”
 - The trail of Heim to James to Cannon went from psychology into physiology. It was a trail of mechanism: mindset impacts emotion, which alters biology, which increases performance. Thus, it seemed, by tinkering with mindset—using everything from physical to psychological to pharmacological interventions—one could significantly enhance performance.
