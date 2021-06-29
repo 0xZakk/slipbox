@@ -5,10 +5,6 @@
 Source:  https://twitter.com/Kpaxs/status/1191101298122395652 
 Author: @Kpaxs on Twitter
 
-## Highlights
-
-### Highlights
-
 - "What You Do Is Who You Are" by Ben Horowitz.
   A great book with practical advices and examples about a difficult topic: business culture.
   My highlights with no additional commentary:

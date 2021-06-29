@@ -5,10 +5,6 @@
 Source:  https://twitter.com/juvoni/status/1274424924673900545 
 Author: @juvoni on Twitter
 
-## Highlights
-
-### Highlights
-
 - I listened to @david_perell & @patio11 talk and found a slogan for the soundtrack of understanding media.
   Incentive Structures Rules Everything Around Me (I.S.R.E.A.M) get the money Dolla, Dolla Bill yall or "Why You Should Become Internet Famous"
   Here are my main takeaways 👇🏾

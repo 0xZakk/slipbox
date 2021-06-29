@@ -6,10 +6,6 @@
 Source:  https://twitter.com/yawyr_vk/status/1221853659383791616 
 Author: @yawyr_vk on Twitter
 
-## Highlights
-
-### Highlights
-
 - Wow!
   @IAmAdamRobinson gives the most holistic answer I have ever heard to the "What advice would you give to a college graduate?" question. 
   https://t.co/surBaZrZ1I

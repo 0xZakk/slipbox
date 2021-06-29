@@ -5,10 +5,6 @@
 Source:  https://twitter.com/yawyr_vk/status/1206173172447338497 
 Author: @yawyr_vk on Twitter
 
-## Highlights
-
-### Highlights
-
 - On silence:
 - https://t.co/GsaOCqqWD5
 - https://t.co/fnwDCyhj9o

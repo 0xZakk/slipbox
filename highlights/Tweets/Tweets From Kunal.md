@@ -5,10 +5,6 @@
 Source:  https://twitter.com/CrazyPolymath 
 Author: @CrazyPolymath on Twitter
 
-## Highlights
-
-### Highlights
-
 - The Intellect has two main functions:
   1. Collecting the Dots
   2. Connecting the Dots

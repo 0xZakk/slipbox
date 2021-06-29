@@ -5,10 +5,6 @@
 Source:  https://twitter.com/tsludwig/status/1221146070593437696 
 Author: @tsludwig on Twitter
 
-## Highlights
-
-### Highlights
-
 - A thread on due diligence.
   An important step in buying a business is the conducting of due diligence. When it works well, the buyer takes control with a solid grasp of the operations on day 1 and few post-close surprises (there are always some)...
 - …when the process is weak, at best the new ownership faces an uphill struggle back to a decent investment and, at worst, the company can go under, face other unpleasant and stressful events.

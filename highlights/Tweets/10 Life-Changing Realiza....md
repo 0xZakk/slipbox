@@ -5,10 +5,6 @@
 Source:  https://twitter.com/CrazyPolymath/status/1158389809045393413 
 Author: @CrazyPolymath on Twitter
 
-## Highlights
-
-### Highlights
-
 - 10 life-changing realizations:
   --------------------------------
   Past doesn't exist in reality; it exists inside your head.

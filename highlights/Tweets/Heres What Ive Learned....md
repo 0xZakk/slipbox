@@ -5,10 +5,6 @@
 Source:  https://twitter.com/david_perell/status/1246897903387344896 
 Author: @david_perell on Twitter
 
-## Highlights
-
-### Highlights
-
 - Here's what I've learned about launching online products.
   1. Give tons of free stuff away.
   The Internet rewards people who teach. Share your best ideas for free, and you will attract an audience of like-minded people. Build an audience before you launch your first product.

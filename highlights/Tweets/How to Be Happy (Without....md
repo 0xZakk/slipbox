@@ -5,10 +5,6 @@
 Source:  https://twitter.com/dvassallo/status/1300306727963828226 
 Author: @dvassallo on Twitter
 
-## Highlights
-
-### Highlights
-
 - How to be happy (without getting lucky):
 - Learn your true preferences. Knowing what you dislike tends to be more reliable than what you think you'll like.
 - Try new things, but always keep a realistic option to quit. If you're on the wrong train, every stop is the wrong stop.

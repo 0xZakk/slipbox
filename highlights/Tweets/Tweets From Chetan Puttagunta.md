@@ -5,10 +5,6 @@
 Source:  https://twitter.com/chetanp 
 Author: @chetanp on Twitter
 
-## Highlights
-
-### Highlights
-
 - MuleSoft, acquired for $6.5B in 2018:
   - Took 6 years to reach $10M revenue
   - Revenue grew less than 100% every year except 1

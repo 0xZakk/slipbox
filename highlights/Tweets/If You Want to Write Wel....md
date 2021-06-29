@@ -5,10 +5,6 @@
 Source:  https://twitter.com/Julian/status/1354522721657516045 
 Author: @Julian on Twitter
 
-## Highlights
-
-### Highlights
-
 - If you want to write well, writing style is only 10% of it.
   90% is actually having something to say.
   Aim to think well.

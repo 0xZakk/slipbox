@@ -5,10 +5,6 @@
 Source:  https://twitter.com/ChrisJBakke/status/1322583710068137986 
 Author: @ChrisJBakke on Twitter
 
-## Highlights
-
-### Highlights
-
 - James Patterson has a wild business.
   ▫️350m books sold
   ▫️Makes $70-95m/yr

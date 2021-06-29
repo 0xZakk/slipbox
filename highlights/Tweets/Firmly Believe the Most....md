@@ -5,10 +5,6 @@
 Source:  https://twitter.com/laughridge/status/1282605728226783234 
 Author: @laughridge on Twitter
 
-## Highlights
-
-### Highlights
-
 - Firmly believe the most certain path to building a high net worth ($10M plus) is buying a small business at a relatively young age. Here’s a model:
 - Find a small company to acquire before you turn 40 (ideally way before but honestly way after is fine too...who really cares?).
 - Key is to look at opportunities under ~$7M in total capitalization. Why? SBA loans are the govt’s gift to individuals that can endure a paperwork decathalon and stomach a few years of a PG. Said loans have a $5M limit but w/ equity and seller paper, $7M deal (or more) is doable.

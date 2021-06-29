@@ -5,10 +5,6 @@
 Source:  https://twitter.com/micahjay1/status/1189237924623245312 
 Author: @micahjay1 on Twitter
 
-## Highlights
-
-### Highlights
-
 - Over the last month I’ve had the odd experience of talking to a few founders who have built profitable businesses with double digit millions in revenue and they were… bummed out. It surprised me that profit (when coupled with slowing growth) could be seen as a crisis. 1/15
 - On one level, I understand where these founders are coming from. Once a startup goes from “hyper growth future unicorn” to solid, profitable business...
   🏔️ Recruiting becomes harder and different 

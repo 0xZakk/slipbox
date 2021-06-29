@@ -5,10 +5,6 @@
 Source:  https://twitter.com/Julian/status/1368675916096933889 
 Author: @Julian on Twitter
 
-## Highlights
-
-### Highlights
-
 - If you suffer from chronic procrastination..
   I eventually overcame it.
   4 things happened:

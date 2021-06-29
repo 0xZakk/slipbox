@@ -5,10 +5,6 @@
 Source:  https://twitter.com/deadcoder0904/status/1337135750098296838 
 Author: @deadcoder0904 on Twitter
 
-## Highlights
-
-### Highlights
-
 - Isaac Asimov wrote 500+ books in his lifetime.
   Asimov wasn’t born writing 8 hours a day 7 days a week. He tore up pages, he got frustrated and he failed over and over and over again.
   Here's how he did it:

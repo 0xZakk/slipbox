@@ -5,10 +5,6 @@
 Source:  https://twitter.com/david_perell/status/1188191454037856256 
 Author: @david_perell on Twitter
 
-## Highlights
-
-### Highlights
-
 - What I’ve learned by teaching writing:
   1) Writers block is easy to fix. You need a note-taking system and people to talk about ideas with.
   2) Student satisfaction increases as they pay more.

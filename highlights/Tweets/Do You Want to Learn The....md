@@ -5,10 +5,6 @@
 Source:  https://twitter.com/cortexfutura/status/1278610463132012545 
 Author: @cortexfutura on Twitter
 
-## Highlights
-
-### Highlights
-
 - Do you want to learn the most powerful algorithm of thought in the world? It's from a relatively obscure paper (it has 650 citations on GS...) published in the late 1990s, and if you apply it regularly it's going to change your life.
 - It had its 15 minutes of fame a couple of years back, but I think it's still wildly under-utilized and should be taught and used much more widely. Here's the title of the paper:
   The Experimental Generation of Interpersonal Closeness, by Aron et al.

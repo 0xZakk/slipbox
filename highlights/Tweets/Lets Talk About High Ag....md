@@ -5,10 +5,6 @@
 Source:  https://twitter.com/shreyas/status/1276956836856393728 
 Author: @shreyas on Twitter
 
-## Highlights
-
-### Highlights
-
 - Let’s talk about High Agency: an attitude I’ve seen in every successful product manager & leader I’ve known.
   Some ppl are born/raised with High Agency. It can also be developed later in life. 
   High agency is a prerequisite for making a profound impact in one's life & work

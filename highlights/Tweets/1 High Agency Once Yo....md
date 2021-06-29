@@ -6,10 +6,6 @@ Once Yo...
 Source:  https://twitter.com/george__mack/status/1068238562443841538 
 Author: @george__mack on Twitter
 
-## Highlights
-
-### Highlights
-
 - 1/ HIGH AGENCY 
   Once you SEE it - you can never UNSEE it. 
   Arguedbly the most important personality trait you can foster. 

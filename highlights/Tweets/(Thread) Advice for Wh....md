@@ -5,10 +5,6 @@
 Source:  https://twitter.com/daretorant/status/1280945017612201984 
 Author: @daretorant on Twitter
 
-## Highlights
-
-### Highlights
-
 - (*Thread*) Advice for when you're thinking of quitting your corporate job
   Recently, I left my job at a big co. to work on writing and creative projects, alongside part-time work.
   A few friends wanted to do something similar, and reached out for advice.

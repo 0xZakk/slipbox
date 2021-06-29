@@ -5,10 +5,6 @@
 Source:  https://twitter.com/trengriffin/status/1226165342625382400 
 Author: @trengriffin on Twitter
 
-## Highlights
-
-### Highlights
-
 - 1/ Buffett thinks of cash as a call option with no expiration date, an option on every asset class, with no strike price. It's not a free option though.
   "The worst investment you can have is cash. Cash is going to become worth less over time. Cash is a bad investment over time."
 - 2/ "Cash does not make us happy." Buffett in the 1998 BRK letter. 

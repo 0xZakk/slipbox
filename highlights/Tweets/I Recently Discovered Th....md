@@ -5,10 +5,6 @@
 Source:  https://twitter.com/brandonthezhang/status/1287195477876731907 
 Author: @brandonthezhang on Twitter
 
-## Highlights
-
-### Highlights
-
 - I recently discovered the key to maximizing my creativity. 
   In a regular diet, there are two main categories: 
   - Bulking (Caloric Surplus)

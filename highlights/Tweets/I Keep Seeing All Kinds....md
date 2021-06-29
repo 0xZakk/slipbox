@@ -5,10 +5,6 @@
 Source:  https://twitter.com/xuenay/status/1283312640199196673 
 Author: @xuenay on Twitter
 
-## Highlights
-
-### Highlights
-
 - I keep seeing all kinds of crazy reports about people's experiences with GPT-3, so I figured that I'd collect a thread of them.
 - First, @gwern 's crazy collection of all kinds of prompts, with GPT-3 generating poetry, summarizing stories, rewriting things in different styles, and much much more. https://t.co/VQ1PX9rzeY
 - Automatic code generation from natural language descriptions. "Give me a page with a table showing the GDP of different nations, and a red button." https://t.co/t7emUkv2Qm

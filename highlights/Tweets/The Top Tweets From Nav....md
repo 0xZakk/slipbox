@@ -5,10 +5,6 @@
 Source:  https://twitter.com/macroleverage/status/1280739560477962241 
 Author: @macroleverage on Twitter
 
-## Highlights
-
-### Highlights
-
 - The top tweets from @naval on:
   Compounding
   Accountability

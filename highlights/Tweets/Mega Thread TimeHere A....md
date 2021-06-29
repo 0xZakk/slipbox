@@ -6,10 +6,6 @@ Here A...
 Source:  https://twitter.com/david_perell/status/1259597720752291841 
 Author: @david_perell on Twitter
 
-## Highlights
-
-### Highlights
-
 - MEGA THREAD TIME
   Here are 50 ideas that shape my worldview.
   These are my guiding principles and the light of my intellectual life. All of them will help you think better, and I hope they inspire curiosity.

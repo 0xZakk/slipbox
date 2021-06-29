@@ -5,10 +5,6 @@
 Source:  https://twitter.com/SaaSCapo/status/1384233138084204546 
 Author: @SaaSCapo on Twitter
 
-## Highlights
-
-### Highlights
-
 - The cold outreach lead gen script that's made me over 300k
   1. Open with a quality comment on a podcast, post, or side project they're involved in.
   Alternatively, comment on big company news that you can tie in with your angle.

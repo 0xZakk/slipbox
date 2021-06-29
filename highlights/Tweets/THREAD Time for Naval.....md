@@ -5,10 +5,6 @@
 Source:  https://twitter.com/elamje/status/1280714011990913024 
 Author: @elamje on Twitter
 
-## Highlights
-
-### Highlights
-
 - THREAD time for @naval. 
   Top, timeless tweets from @naval over the past 2 years, ordered by popularity, filtered by timelessness.
   This account is one Twitter will be remembered for.

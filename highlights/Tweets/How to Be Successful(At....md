@@ -6,10 +6,6 @@
 Source:  https://twitter.com/sama/status/1214274038933020672 
 Author: @sama on Twitter
 
-## Highlights
-
-### Highlights
-
 - How To Be Successful
   (At Your Career, Twitter Edition)
 - The most successful people (judged by history, not money) continually look for the most important thing they are able to work on, and that’s what they do. They do not get trapped in local maxima, and they do not deceive themselves if they find something more important.

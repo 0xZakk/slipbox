@@ -5,10 +5,6 @@
 Source:  https://twitter.com/avthars/status/1327667423013695495 
 Author: @avthars on Twitter
 
-## Highlights
-
-### Highlights
-
 - Reading for Meaning (A Thread)
   You were taught how to read aloud as a child, but you were probably never taught to read for meaning.
 - Reading for meaning means reading things with purpose. 

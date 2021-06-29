@@ -5,10 +5,6 @@
 Source:  https://twitter.com/david_perell/status/1284657092964388864 
 Author: @david_perell on Twitter
 
-## Highlights
-
-### Highlights
-
 - Online education is growing fast.
   This thread is like an Industry 101 course: 
   1. It's harder to sell a course than build one: The top online schools are run by people with the largest audiences, not necessarily the best teachers. But building an audience trains you to teach.

@@ -5,10 +5,6 @@
 Source:  https://twitter.com/awilkinson/status/1210696247587139584 
 Author: @awilkinson on Twitter
 
-## Highlights
-
-### Highlights
-
 - Wanted to quickly weigh in on this @dhh vs. @Austen debate on bootstrapping vs. VC:
   In 2010, @moskov told me (in the nicest possible terms) that Asana would destroy Flow due to its massive capital advantage...
 - Despite having top venture investors barking at the door, I had been drinking the @dhh Koolaid and thought raising VC was universally bad...

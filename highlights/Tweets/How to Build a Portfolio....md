@@ -5,10 +5,6 @@
 Source:  https://twitter.com/dvassallo/status/1315814433621303298 
 Author: @dvassallo on Twitter
 
-## Highlights
-
-### Highlights
-
 - How to build a portfolio of small bets (without hating your life):
 - Remember that to thrive, you must first survive. The order matters.
   Instead of trying to succeed, try not to fail. Make sure your self-employment arrangement becomes sustainable quickly by going for the low hanging fruit.

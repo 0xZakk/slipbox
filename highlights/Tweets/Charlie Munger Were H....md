@@ -5,10 +5,6 @@
 Source:  https://twitter.com/RohunJauhar/status/1251194593414205442 
 Author: @RohunJauhar on Twitter
 
-## Highlights
-
-### Highlights
-
 - Charlie Munger: "We're having a recession .... 
   the only question is how big it's going to be and how long it's going to last ... 
   I don’t think we’ll have a long-lasting Great Depression. I think government will be so active that we won’t have one like that."

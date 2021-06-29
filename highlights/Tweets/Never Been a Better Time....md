@@ -5,10 +5,6 @@
 Source:  https://twitter.com/heyblake/status/1395731136295456781 
 Author: @heyblake on Twitter
 
-## Highlights
-
-### Highlights
-
 - Never been a better time in history to make digital dough.
   Here's 42 ways to make your first $1 online: 
   ![](https://pbs.twimg.com/media/E16iESoXMAEMEnL.jpg)

@@ -5,10 +5,6 @@
 Source:  https://twitter.com/robinstanley/status/1261054765036961798 
 Author: @robinstanley on Twitter
 
-## Highlights
-
-### Highlights
-
 - The 10 Paradoxes of Entrepreneurship by @fortelabs
   1. Entrepreneurship is hard because it requires someone with a strong command of reason, who is at the same time thoroughly unreasonable.
 - 2. Entrepreneurship is hard because it requires an abundance mindset toward the environment, and at the same time, a scarcity mindset toward the business.

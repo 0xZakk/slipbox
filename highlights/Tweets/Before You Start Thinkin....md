@@ -5,10 +5,6 @@
 Source:  https://twitter.com/dvassallo/status/1250224237396148225 
 Author: @dvassallo on Twitter
 
-## Highlights
-
-### Highlights
-
 - Before you start thinking about building an audience, you need to build some credibility. People will only listen if you've demonstrated some credibility on the topic.
   A few examples that worked for me: 👇
 - When I had 0 followers, I wrote about why I abandoned a cushy career in big tech. I had automatic authority on this story, since I was the subject.

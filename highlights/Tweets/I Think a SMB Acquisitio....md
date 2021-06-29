@@ -5,10 +5,6 @@
 Source:  https://twitter.com/tsludwig/status/1266098746732904448 
 Author: @tsludwig on Twitter
 
-## Highlights
-
-### Highlights
-
 - I think a SMB acquisition business could be (and probably has been) built with a similar model. https://t.co/XThvz4hI7Z
 - In response to @amlewis4's request for more detail:
   Sure. Many SMBs going thru a sale need new leadership, but good talent is hard to access for these companies. Also, many potential CEOs don't want or know how to do deals; they are operators.

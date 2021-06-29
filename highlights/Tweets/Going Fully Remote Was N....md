@@ -5,10 +5,6 @@
 Source:  https://twitter.com/shl/status/1222545212477599751 
 Author: @shl on Twitter
 
-## Highlights
-
-### Highlights
-
 - Going fully remote was nice, but the real benefit was in going fully asynchronous. Here are a list of the benefits we've seen at @Gumroad:
   A thread 👇🏽
 - @gumroad All communication is thoughtful. Because nothing is urgent (unless the site is down), comments are made after mindful processing and never in real-time. There's no drama.

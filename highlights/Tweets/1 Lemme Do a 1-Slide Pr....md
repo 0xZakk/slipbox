@@ -5,10 +5,6 @@
 Source:  https://twitter.com/vgr/status/1047925106423603200 
 Author: @vgr on Twitter
 
-## Highlights
-
-### Highlights
-
 - 1/ Lemme do a 1-slide presentation since I'm feeling job sick. Title: How to Actually Manage Attention Without Smashing Your Phone and Retreating to a Log Cabin https://t.co/kEPZUh7g50
 - 2/ Premise: FOMO is good. Being plugged in is good. There is valuable info at all levels from twitter gossip to philosophy books. You should stay plugged in. You can manage anxiety and beat the House without resorting to shaming social platforms into managing attention for you.
 - 3/ Inspiration from 2 sources

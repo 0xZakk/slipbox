@@ -5,10 +5,6 @@
 Source:  https://twitter.com/ShaneAParrish/status/1287362713967046656 
 Author: @ShaneAParrish on Twitter
 
-## Highlights
-
-### Highlights
-
 - My uncle ran a small business. He taught me 3 things as a teen that I've never forgotten.
 - 1. Use money to create wealth. 
   * Trade money for things that make you money while you sleep.

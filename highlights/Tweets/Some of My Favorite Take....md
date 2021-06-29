@@ -5,10 +5,6 @@
 Source:  https://twitter.com/eriktorenberg/status/1231815728845602816 
 Author: @eriktorenberg on Twitter
 
-## Highlights
-
-### Highlights
-
 - Some of my favorite takeaways & quotes from Keith Rabois interviews 👇:
 - I think most ppl who succeed at changing the world have extreme talent in at least 1-2 dimensions. They also might have a screw loose in at least 1-2 dimensions.
   The ones that thrive are self-aware enough to know where their screws are loose, & seek a compliment to solve for it.

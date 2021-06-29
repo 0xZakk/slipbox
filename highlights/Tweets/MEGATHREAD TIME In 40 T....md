@@ -5,10 +5,6 @@
 Source:  https://twitter.com/G_S_Bhogal/status/1225561131122597896 
 Author: @G_S_Bhogal on Twitter
 
-## Highlights
-
-### Highlights
-
 - MEGATHREAD TIME: In 40 tweets I will describe 40 powerful concepts for understanding the world. Some are complex so forgive me for oversimplifying, but the main purpose is to incite curiosity. Okay, here we go:
 - Causal Reductionism: Things rarely happen for just 1 reason. Usually, outcomes result from many causes conspiring together. But our minds cannot process such a complex arrangement, so we tend to ascribe outcomes to single causes, reducing the web of causality to a mere thread.
 - Ergodicity: A die rolled 100 times has equal probabilities to 100 dice rolled once; rolling a die is “ergodic”. But if the die gets chipped after 10 throws so it’s likelier to roll 4, then 1 die 100 times =/= 100 dice once (non-ergodic). Many treat non-ergodic systems as ergodic.

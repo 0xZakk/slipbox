@@ -5,10 +5,6 @@
 Source:  https://twitter.com/shl/status/1308116766963322880 
 Author: @shl on Twitter
 
-## Highlights
-
-### Highlights
-
 - How to learn to write:
   First, stop comparing your first draft to anyone’s published masterwork. 
   That stuff’s been written, rewritten, reviewed, copy edited, line edited, and more. Let them inspire you, but not demotivate you.

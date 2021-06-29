@@ -5,10 +5,6 @@
 Source:  https://twitter.com/RabbitRabbitHQ/status/1283029969434808320 
 Author: @RabbitRabbitHQ on Twitter
 
-## Highlights
-
-### Highlights
-
 - The Genious of @pjrvs' $200k/year E-course Sales Funnel
   [Thread] https://t.co/k1nMhOBp5X
 - Chimp Essentials is a 50-hour video course teaching how to use @mailchimp to build a business.

@@ -5,10 +5,6 @@
 Source:  https://twitter.com/balajis/status/1329315470999126016 
 Author: @balajis on Twitter
 
-## Highlights
-
-### Highlights
-
 - We really should be in the middle of a golden age of productivity. Within living memory, computers did not exist. Photocopiers did not exist. *Backspace* did not exist. You had to type it all by hand.
 - It wasn't that long ago that you couldn't search all your documents. Sort them. Back them up. Look things up. Copy/paste things. Email things. Change fonts of things. Undo things.
   Instead, you had to type it all on a typewriter!

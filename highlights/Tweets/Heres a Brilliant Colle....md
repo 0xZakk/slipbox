@@ -5,10 +5,6 @@
 Source:  https://twitter.com/david_perell/status/1338180614055481344 
 Author: @david_perell on Twitter
 
-## Highlights
-
-### Highlights
-
 - Here's a brilliant collection of essays, tweets, podcasts, and videos from a bunch of interesting people, mostly in Silicon Valley. 
   https://t.co/6MaT50POXj
 - "Who should I start with?"
