@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4bc0b2368164ff",
+        "id": "aa001b2dd047e73f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "highlights/Articles/Adam Robinson on Understanding.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "highlights/Articles/Adam Robinson on Understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "highlights/Articles/Adam Robinson on Understanding.md"
+              }
             }
           }
         ]
@@ -98,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa4bc0b2368164ff",
+  "active": "aa001b2dd047e73f",
   "lastOpenFiles": [
-    "📑 Notes/🟦  Reference Notes/🟦 Successful Habits Through Smoothly Ratcheting Targets.md",
-    "Untitled.md",
-    "📑 Notes/🟨  Literature Notes/🟨 Smoothly ratcheting targets for habit formation.md",
-    "Ethereum Fundamentals - Learn to Develop Smart Contracts and Enterprise DAapps with Ethereum.md",
-    "Work in Layers.md",
-    "Successful Habits Through Smoothly Ratcheting Targets.md",
-    "🟦 Ethereum Fundamentals - Learn the Develop Smart Contracts and Enterprise DApps with Ethereum.md",
-    "🟩Defining a Blockchain.md",
-    "🟦 The Infinite Machine.md",
-    "🟦The Truth Machine.md"
+    "highlights/Articles/Adam Robinson on Understanding.md",
+    "highlights/Articles/A Year of Spaced Repetition Software in the Classroom - LessWrong 2.0.md",
+    "highlights/Articles/A Thorough Introduction to Distributed Systems.md",
+    "highlights/Articles/A Text Renaissance.md",
+    "highlights/Articles/A Helpful Guide to Reading Better.md",
+    "highlights/Articles/A Beginners Understanding of MVC.md",
+    "highlights/Articles/30 Year Thinking - Nat Eliason.md",
+    "highlights/Articles/10 Year Vision Write of Passage  David Perell.md",
+    "highlights/Articles/Creating a High Yield Savings Account With Crypto  DeFi.md",
+    "highlights/2021-06-08/Articles 1/Creating a High Yield Savings Account With Crypto  DeFi.md"
   ]
 }
