@@ -5,10 +5,6 @@
 Source:  https://www.forbes.com/sites/jeffkauflin/2019/11/04/dawn-of-the-neobank-the-fintechs-trying-to-kill-the-corner-bank/amp/?__twitter_impression=true 
 Author: Jeff Kauflin
 
-## Highlights
-
-### Highlights
-
 - MoneyLion
     - **Tags:** #fup
     - **Note:** .fup

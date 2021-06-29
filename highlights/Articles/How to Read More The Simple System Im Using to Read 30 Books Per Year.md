@@ -5,10 +5,6 @@
 Source:  https://jamesclear.com/read-more 
 Author: James Clear
 
-## Highlights
-
-### Highlights
-
 - “Read 500 pages like this every day. That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
 - Buffett estimates that 80 percent of his working hours are spent reading or thinking.
 - my reading habits were mostly reactive, not proactive.

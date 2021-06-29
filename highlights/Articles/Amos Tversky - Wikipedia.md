@@ -5,10 +5,6 @@
 Source:  https://en.wikipedia.org/wiki/Amos_Tversky 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - a cognitive and mathematical psychologist
 - a collaborator of Daniel Kahneman
 - a figure in the discovery of systematic human cognitive bias and handling of risk.

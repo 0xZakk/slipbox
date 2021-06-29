@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/why-you-should-write 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - Words are the atomic unit of the internet.
 - Writing online is a guaranteed way to shrink the world. A well-written article can change your life because the internet rewards people who think well.
 - As Derek Sivers once wrote: “the coolest people I meet are the ones who find me through something I’ve written.”

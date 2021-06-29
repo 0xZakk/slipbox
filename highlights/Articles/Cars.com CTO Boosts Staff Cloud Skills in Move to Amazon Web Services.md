@@ -5,10 +5,6 @@
 Source:  https://www.wsj.com/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Cars.com LLC is retraining its information technology staff as the online vehicle marketplace shifts operations from co-located data centers to Amazon.com Inc.’s cloud service.
 - The company offers subscription services to dealers that includes listings, access to reporting tools and intelligence such as pricing trends. The company expects operationally to be out of data centers and fully cloud-enabled by July.
 - The shift can only happen as fast as staff are empowered to drive it, said Fred Lee, chief technology officer at the Chicago-based company, who was hired in 2018 to lead the move to the cloud.

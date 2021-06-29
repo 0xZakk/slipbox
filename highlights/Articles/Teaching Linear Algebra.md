@@ -5,10 +5,6 @@
 Source:  http://bentilly.blogspot.com/2009/09/teaching-linear-algebra.html 
 Author: View My Complete Profile
 
-## Highlights
-
-### Highlights
-
 - In preparation for the class I set myself goals around how well the students would learn the material taught. After some thought I settled on four ideas that I would use:
   Homework not present at the start of class would not be accepted. However students were only graded on the best 20 out of 27 possible homework sets.
   All homework sets were cumulative. Generally 1/3 was the current day's material, 1/3 from the last week, and 1/3 from anywhere in the course. Those thirds were in increasing order of difficulty.

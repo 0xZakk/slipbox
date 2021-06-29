@@ -5,10 +5,6 @@
 Source:  https://www.oprahmag.com/entertainment/a27569720/how-to-start-a-book-club/ 
 Author: Mckenzie Jean-Philippe
 
-## Highlights
-
-### Highlights
-
 - First, find members.
 - When you begin searching for your inaugural book club members, Gorga recommends that you look in the places in your life that feel most natural to you.
 - If you're open to a more digital-friendly approach, Thomasch says you should always keep social media in mind. Put the word out about your new club with a tweet, Facebook status, or Instagram story.

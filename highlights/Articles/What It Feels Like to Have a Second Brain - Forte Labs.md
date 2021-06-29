@@ -5,10 +5,6 @@
 Source:  https://fortelabs.co/blog/what-it-feels-like-to-have-a-second-brain/ 
 Author: fortelabs.co
 
-## Highlights
-
-### Highlights
-
 - How does it feel to have a Second Brain?
   It feels like raw power. Like energy coursing into my mind and body from every source of information I have access to. Like the world is made of ideas, and I have a key to its underlying reality. It feels like I am the master of my reality, able to draw in and shape and then deploy ideas in endlessly creative ways.
 - Having a Second Brain gives me a profound confidence in the ambitions I am pursuing. Nothing can stop me, because I am building, collecting, gathering, recruiting every idea and insight from the world’s greatest thinkers in one centralized place.

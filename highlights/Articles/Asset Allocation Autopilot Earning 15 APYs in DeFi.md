@@ -5,10 +5,6 @@
 Source:  https://every.to/almanack/automatic-savings-optimization 
 Author: every.to
 
-## Highlights
-
-### Highlights
-
 - But tossing your crypto into an account where it can earn 5 to 10% annually is just the beginning. Using more advanced Decentralized Finance protocols like I’m going to cover here, you can get those numbers up to 15 to 20% by letting software optimize how your savings are allocated.
 - You have some cryptocurrency you’d like to earn interest on, so you check out lending protocols like Compound and AAVE for the best rates.
   But unlike a traditional bank, the interest rates for different cryptocurrencies on different protocols are changing constantly, depending on how much people want to borrow the type of crypto you’re loaning. Today, you might get 8% APR (yearly interest rate) for your USDC on Compound, but tomorrow that might drop to 3% and AAVE might have the better rate.

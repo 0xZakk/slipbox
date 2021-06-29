@@ -5,10 +5,6 @@
 Source:  https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3 
 Author: Richmond Alake
 
-## Highlights
-
-### Highlights
-
 - “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”
   — Albert Einstein
 - The ability to understand information produced by the individuals at the cutting edge of research within Artificial Intelligence and the Machine learning domain is a skill that every serious machine learning practitioner should acquire.

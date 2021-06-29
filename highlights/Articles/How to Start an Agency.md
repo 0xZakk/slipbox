@@ -5,10 +5,6 @@
 Source:  https://www.julian.com/blog/how-to-start-an-agency 
 Author: I Go Deep On Topics I Find Interesting
 
-## Highlights
-
-### Highlights
-
 - Revenue volatility: Unstable pay.
   Workload volatility: Sporadic, high workload weeks.
   Work inefficiency: Senior staff doing too much repetitive or low-level work.

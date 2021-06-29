@@ -5,10 +5,6 @@
 Source:  https://nathanbarry.com/billion/ 
 Author: nathanbarry.com
 
-## Highlights
-
-### Highlights
-
 - In the summer of 2010 Emily Weiss, a fashion assistant at Vogue, had the idea to start her own fashion blog. She bought a used camera, the domain intothegloss.com, and a couple months later the site was live. Into the Gloss showcased the real-world beauty routines of fashion influencers and celebrities. The blog was an immediate hit and by 2012 it received more than 200,000 visitors per month. 
   Eight years later, what do you think the site is worth? Millions? Tens of millions? While that would be an insane success for a blog, it’s not even close to the correct answer of $1.2 billion. 
   From Into the Gloss Emily created Glossier, the groundbreaking beauty brand now valued at over $1 billion. That’s the power of an audience.

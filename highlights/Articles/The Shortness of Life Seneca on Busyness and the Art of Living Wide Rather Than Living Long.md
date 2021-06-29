@@ -5,10 +5,6 @@
 Source:  https://getpocket.com/explore/item/the-shortness-of-life-seneca-on-busyness-and-the-art-of-living-wide-rather-than-living-long 
 Author: Brain Pickings, Maria Popova
 
-## Highlights
-
-### Highlights
-
 - “The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today… The whole future lies in uncertainty: live immediately.”
 -  “busy is a decision” 
 - being productive is the surest way to lull ourselves into a trance of passivity and busyness the greatest distraction from living

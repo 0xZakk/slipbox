@@ -5,10 +5,6 @@
 Source:  https://www.julian.com/guide/write/introductions 
 Author: Steven Pressfield
 
-## Highlights
-
-### Highlights
-
 - On this first page, I'll show you how to write a strong introduction. Once you've nailed your intro, you'll know you have something to say.
   
 - The best topic to write about is the one you can’t not write about.

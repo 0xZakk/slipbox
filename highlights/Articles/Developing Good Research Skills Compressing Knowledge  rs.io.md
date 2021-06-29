@@ -5,10 +5,6 @@
 Source:  https://rs.io/developing-good-research-skills-compressing-knowledge/ 
 Author: rs.io
 
-## Highlights
-
-### Highlights
-
 - I argued that interesting knowledge is knowledge which improves our ability to compress other knowledge — interestingness signals something is an upgrade to our compressor module.
 - Keep synthesizing what you learn into terser, clearer formulations. The goal of learning is not to memorize vast amounts of data. You need to do serious data compression, and filter out the noise.
 - Tools for Compressing Knowledge

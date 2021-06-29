@@ -5,10 +5,6 @@
 Source:  https://www.vox.com/2014/1/1/11621836/can-do-vs-cant-do-culture 
 Author: vox.com
 
-## Highlights
-
-### Highlights
-
 - “The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.” — George Bernard Shaw
 - It seems like there is a movement to replace today’s startup culture of hope and curiosity with one of smug superiority.
 - The word technology means “a better way of doing things.” This is easy to say, but extremely difficult to do. Making a better way of storing information, a better currency, or a better way of making friends means improving on thousands of years of human experience and is therefore extraordinarily difficult.

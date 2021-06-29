@@ -5,10 +5,6 @@
 Source:  https://technology.nasa.gov/page/professional-athletes-tackle-tech-t?utm_campaign=Heath%2C+Medicine%2C+and+Biotechnology&utm_content=NFL+Bootcamp+Article&utm_medium=Email+Blast&utm_source=Email 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - NASA’s Johnson Space Center in Houston, Texas hosted the second NASA Commercialization Training Camp on Feb. 12-14 in partnership with the NFL Players Association. Through presentations, tours, panels and one-on-one conversations, the training camp introduced current and former professional football players to NASA technology, explaining how athletes could infuse NASA innovations into an existing business or new startup idea.
 - “NASA has a lot to offer entrepreneurs interested in utilizing our technologies, and events like this help to connect people interested in working together,” said Dennis Small, program manager of the NASA Commercialization Training Camp.
 - NASA research parallels terrestrial needs in industry, medicine and safety. NASA’s Technology Transfer program ensures that technologies developed for missions in exploration and discovery are broadly available to the public, maximizing the benefit to the nation. With an extensive patent portfolio and software catalog, NASA has hundreds of technologies available for licensing by the private sector.

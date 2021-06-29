@@ -5,10 +5,6 @@
 Source:  https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2019/09/04/daily-202-jim-mattis-s-reading-list-offers-a-jarring-contrast-to-trump-s-lack-of-intellectual-curiosity/5d6f6f0088e0fa7bb93a8919/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - THE BIG IDEA: “If you haven’t read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren’t broad enough to sustain you,” Jim Mattis writes in his new memoir, which came out yesterday. “Any commander who claims he is ‘too busy to read’ is going to fill body bags with his troops as he learns the hard way.”
 - The book is chock full, however, of implicit and illuminating contrasts between Mattis’s management style and Trump’s.
 - Mattis amassed a private collection of more than 7,000 books, despite deployments around the world.

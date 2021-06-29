@@ -5,10 +5,6 @@
 Source:  https://emptyyourcup.substack.com/p/the-4-kinds-of-luck 
 Author: emptyyourcup.substack.com
 
-## Highlights
-
-### Highlights
-
 - A synonym for the word luck is chance.
   Try to replace the first with the second in a couple of scenarios and, suddenly, you’re talking about probability, about odds, about how you can maximize your rate of success.
   Because unlike luck, our odds are partially under our control.

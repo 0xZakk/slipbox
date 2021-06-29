@@ -5,10 +5,6 @@
 Source:  https://twitter.com/ShaneAParrish/status/1356658536751779844 
 Author: twitter.com
 
-## Highlights
-
-### Highlights
-
 - I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions.
 - 1. We’re unintentionally stupid We like to think that we can rationally compute information like a computer, but we can’t. Cognitive biases explain why we made a bad decision but rarely help us avoiding them. Better to focus on these warning signs something is about to go wrong.
 - Warning signs you’re about to do unintentionally something stupid: You’re tired. You’re emotional, in a rush, distracted, operating in a group, or working with an authority figure. The rule: Never make important decisions when you’re tired, emotional, distracted, or in a rush.

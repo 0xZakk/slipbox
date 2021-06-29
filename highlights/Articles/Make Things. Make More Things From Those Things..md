@@ -5,10 +5,6 @@
 Source:  https://letter.substack.com/p/make-things-make-more-things-from 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Writing has a wonderful property: if the quality of the things you make is compelling, then the value of the things you make is compounding.
 - Nassim Nicholas Taleb wrote Fooled by Randomness in 2001. Over the next six years, he used that creative output as the creative input to The Black Swan. The first book was merely compelling; the second book spent 36 weeks on the New York Times bestseller list.
 - When I write now, I think more about process than output. I refine what I’m writing to the asymptote, and then I throw the output back into the process. This makes refining ideas more efficient: the more products I refine, the more products I combine, in a cycle.

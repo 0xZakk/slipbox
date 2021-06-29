@@ -5,10 +5,6 @@
 Source:  https://superorganizers.substack.com/p/how-to-build-a-digital-zettelkasten-e6d 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - It’s like compound interest: if you put a dollar in a savings account today, over a lifetime, that dollar will create many more dollars for you. Likewise, in a Zettelkasten, the more notes you add, the more the value of each individual note compounds.
 - A Zettelkasten is like an interest-paying savings account for your mind.
 - However, today we have software and computers. They give us a few advantages over notecards:

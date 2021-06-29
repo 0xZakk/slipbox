@@ -5,10 +5,6 @@
 Source:  https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html 
 Author: marginalrevolution.com
 
-## Highlights
-
-### Highlights
-
 - A few of you were skeptical, but it is long since established that practice improves both your writing and your memory, so surely it can do much more than that for your thinking.
 - Here is a partial list of some of my intellectual practice strategies:
 - 1. I write every day. I also write to relax.

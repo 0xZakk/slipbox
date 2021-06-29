@@ -5,10 +5,6 @@
 Source:  https://101blockchains.com/permissioned-blockchain/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Decentralized Ledger Networks(DLT) has opened up a slew of opportunities for the companies that are looking to innovate.
 - It is evident that a privately held company just cannot use a fully decentralized blockchain network. That’s where different types of DLT’s comes in.
 - Permissioned blockchains are blockchain networks that require access to be part of. In these blockchain types, a control layer runs on top of the blockchain that governs the actions performed by the allowed participants. As you can see, permissioned blockchains work entirely different than that of private and public blockchains. They are crafted to take advantage of blockchains without sacrificing the authority aspect of a centralized system.

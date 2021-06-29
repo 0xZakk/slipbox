@@ -5,10 +5,6 @@
 Source:  https://blog.pragmaticengineer.com/the-product-minded-engineer/ 
 Author: Amsterdam Netherlands
 
-## Highlights
-
-### Highlights
-
 - Product-minded engineers are developers with lots of interest in the product itself. They want to understand why decisions are made, how people use the product, and love to be involved in making product decisions.
 - Once you have the product foundations, you need devs who engage with the 'why', actively. Engineers who have the thirst for using technologies to leapfrog human/user problems. Those with empathy to reach for magical experiences. That is what defined a product engineer in my books. Bad ones cut too many corners. Great product engineers know that minimum lovable products need the right depth to be considered during the build phase.
 - So, what are the key traits of product-minded engineers, and how can you work on becoming more product-minded? This article summarizes 9 traits I've observed these kinds of people share, and my suggestions for any engineer to grow their product-minded muscle.

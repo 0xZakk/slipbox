@@ -5,10 +5,6 @@
 Source:  https://mail.google.com/mail/u/0/?cvid=5&q=david%40perell.com&qs=true&qt=david%40perell.com.1&search=query&th=%23thread-f%3A1664621973204397815&ui=2&ver=1nj101dboqm98&view=btop 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Remember when I said Twitter helped me find my first job?
   I made the connection in a public tweet but worked through the details of the job opportunity with private direct messages.
 - Direct messages are the dark matter of Twitter. It’s where most of the connections on Twitter are made, even though they’re away from the public eye.

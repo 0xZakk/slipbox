@@ -5,10 +5,6 @@
 Source:  https://medium.com/@awilkinson/howard-stern-is-getting-ripped-off-1b721cc2f3f2 
 Author: Andrew Wilkinson
 
-## Highlights
-
-### Highlights
-
 - In 2005, Howard Stern shocked the world by leaving terrestrial radio and accepting a $500 million dollar deal to move his show to Sirius satellite radio. In 2015, he renewed with a 5-year deal for $90 million per year.
   People were blown away by the numbers. He was making out like a bandit! Had he been a CEO receiving the same pay, he would have qualified as the third highest paid CEO in America in 2014.
   As of today, Howard is getting seriously ripped off.

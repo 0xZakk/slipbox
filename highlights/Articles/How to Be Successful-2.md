@@ -5,10 +5,6 @@
 Source:  https://blog.samaltman.com/how-to-be-successful 
 Author: blog.samaltman.com
 
-## Highlights
-
-### Highlights
-
 - 8. Be bold
   I believe that it’s easier to do a hard startup than an easy startup. People want to be part of something exciting and feel that their work matters.
 - 5. Make it easy to take risks

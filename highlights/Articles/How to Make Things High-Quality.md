@@ -5,10 +5,6 @@
 Source:  https://medium.com/the-year-of-the-looking-glass/how-to-make-things-high-quality-f466f875227d 
 Author: Julie Zhuo
 
-## Highlights
-
-### Highlights
-
 - If there is one debate that is the endlessly circling “Star Wars versus Star Trek” of product development, it is what I refer to as “The Tradeoff Between Quality and Time” (TTBQT).
 - You might think, But this is how it is. TTBQT is a necessary evil in building anything.
   But is it?

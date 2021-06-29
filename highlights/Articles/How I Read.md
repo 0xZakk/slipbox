@@ -5,10 +5,6 @@
 Source:  https://sirupsen.com/read/ 
 Author: sirupsen.com
 
-## Highlights
-
-### Highlights
-
 - A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system. – John Gall
 - In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero. You’d be amazed at how much Warren reads–and at how much I read. My children laugh at me. They think I’m a book with a couple of legs sticking out. 
 - 1. What book is most applicable right now? If I can find a book that I can start applying right now in whatever I’m dealing with, it’ll take precedence over any other heuristic.

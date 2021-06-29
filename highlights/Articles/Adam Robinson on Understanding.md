@@ -5,10 +5,6 @@
 Source:  https://ma.tt/2017/11/adam-robinson-on-understanding/ 
 Author: ma.tt
 
-## Highlights
-
-### Highlights
-
 - that the more they understand the world, the better their investment results
 - the “better informed” we become, the better our decisions.
 - But not in the eld of counterintuitive world of investing, where accumulating information can hurt your investment results.

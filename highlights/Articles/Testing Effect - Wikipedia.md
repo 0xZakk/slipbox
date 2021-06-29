@@ -5,10 +5,6 @@
 Source:  https://en.wikipedia.org/wiki/Testing_effect 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - The testing effect is the finding that long-term memory is often increased when some of the learning period is devoted to retrieving the to-be-remembered information.
 - The effect is also sometimes referred to as retrieval practice, practice testing, or test-enhanced learning.
 - It is useful for people to test their knowledge of the to-be-remembered material during the learning process, instead of only reading or otherwise passively studying the material. For example, a student can use flashcards to self-test and receive feedback as they study. The testing effect provides a larger benefit to long-term memory when the tested material is difficult enough to require effort, the rate of retrieval success is high, and feedback with correct answers is given after testing.

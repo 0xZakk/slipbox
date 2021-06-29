@@ -5,10 +5,6 @@
 Source:  https://www.theobservereffect.org/marc.html 
 Author: theobservereffect.org
 
-## Highlights
-
-### Highlights
-
 - On books
 - The single most common question: how do you read so much?
 - I’ve really read all the time since I was a little kid, it's been a lifelong thing. It's basically trying to try to fill in all the puzzle pieces for the big discrepancies.A great term is “sense-making”. Essentially, what the hell is happening and why? The world's an incredibly complex and erratic place and trying to figure that out ...is kind of a lifetime occupation.

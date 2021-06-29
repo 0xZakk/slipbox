@@ -2,12 +2,8 @@
 
 ## Meta Data
 
-Source:  
+Source:  https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/ 
 Author: Venkatesh Rao
-
-## Highlights
-
-### Highlights
 
 - There is a renaissance underway in online text as a medium. The Four Horsemen of this emerging Textopia are:
   Roam, a hypertext publishing platform best understood as a medium for composing conspiracy theories and extended universes.

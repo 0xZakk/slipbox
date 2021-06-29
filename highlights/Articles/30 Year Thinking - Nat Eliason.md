@@ -5,10 +5,6 @@
 Source:  https://www.nateliason.com/blog/30-years 
 Author: nateliason.com
 
-## Highlights
-
-### Highlights
-
 - What do you want to be doing in 30 years?
 - Developing a sense of what energizes or drains you is essential for long term productivity. If you force yourself into doing draining work all day, you're unlikely to accomplish anything meaningful for yourself or the field. But even an hour a day of energizing work can create huge long term benefits.
 - Great progress comes from compound interest. This is certainly true for building wealth, but also for skill development and completing great work.

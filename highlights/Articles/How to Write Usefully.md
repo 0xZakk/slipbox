@@ -5,10 +5,6 @@
 Source:  http://paulgraham.com/useful.html 
 Author: paulgraham.com
 
-## Highlights
-
-### Highlights
-
 - What should an essay be? Many people would say persuasive. That's what a lot of us were taught essays should be. But I think we can aim for something more ambitious: that an essay should be useful.
 - To start with, that means it should be correct.
 - But it's not enough merely to be correct. It's easy to make a statement correct by making it vague. That's a common flaw in academic writing, for example. If you know nothing at all about an issue, you can't go wrong by saying that the issue is a complex one, that there are many factors to be considered, that it's a mistake to take too simplistic a view of it, and so on.

@@ -5,10 +5,6 @@
 Source:  https://balajis.com/how-to-gradually-exit-twitter/ 
 Author: balajis.com
 
-## Highlights
-
-### Highlights
-
 - The hacks are the last straw. We need to exit Twitter.
 - Here's one recipe for gradual exit.
 - Step one is to set up an (optionally pseudonymous) newsletter at your own custom domain

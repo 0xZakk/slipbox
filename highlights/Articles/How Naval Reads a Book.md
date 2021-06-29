@@ -5,10 +5,6 @@
 Source:  https://innermonolog.substack.com/p/how-naval-reads-a-book 
 Author: Inner Monolog
 
-## Highlights
-
-### Highlights
-
 - I no longer track books read or even care about books read. it's about understanding concepts.
   There’s a lot of nonsense in books out there too so I don't read anymore to complete books. I read to satisfy my genuine intellectual curiosity and it can be anything.
 - Naval reads for understanding and to fulfill genuine curiosity, not for completion, which often leads to shallow understanding, or for vanity metrics.

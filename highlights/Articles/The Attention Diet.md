@@ -5,10 +5,6 @@
 Source:  https://markmanson.net/attention-diet 
 Author: Mark Manson
 
-## Highlights
-
-### Highlights
-
 - These distractions aren’t just unproductive, they’re anti-productive. They create more work than they replace.
 - The same way removing stress and strain from our physical bodies causes them to become fragile and weak, removing mental stress and strain from our minds makes them fragile and weak.
 - The same way the consumer economy of the 20th century called upon us to invent the nutritional diet, I believe that the attention economy of the 21st century calls upon us to invent an attention diet

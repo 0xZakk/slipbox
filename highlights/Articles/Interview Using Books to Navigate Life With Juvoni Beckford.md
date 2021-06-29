@@ -5,10 +5,6 @@
 Source:  https://nesslabs.com/juvoni-beckford-interview 
 Author: nesslabs.com
 
-## Highlights
-
-### Highlights
-
 - A few months ago, a tweet popped up on my timeline, where Juvoni Beckford shared an incredible achievement: reading 450 books over the course of a decade. As someone who loves reading and thinks that everyone would benefit from reading more books—whether fiction or nonfiction—I was understandably impressed by Juvoni’s consistency.
 - He has read books about anything from psychology, philosophy, personal development, business, science, economics, history, sociology, communication, technology, politics, as well as many biographies and fiction books.
 - In this interview, we talked about collecting life skills through books, selecting the best books to read, navigating your inner world, using the real world as a spaced repetition system, creating a meaningful highlighting system, the dangers of working in public, making space for serendipity, and much more.

@@ -5,10 +5,6 @@
 Source:  http://bentilly.blogspot.com/2012/10/my-sons-flashcard-routine.html 
 Author: View My Complete Profile
 
-## Highlights
-
-### Highlights
-
 - My 7 year old son is in grade 2. In the previous grade, despite his intelligence, he was significantly behind his class in handwriting, letter reversals, and spelling. He was getting extra help from his teacher, but he still had an uphill battle. So I decided to start a flashcard routine to assist. This solved the original problem. Here is a description of the current routine, and how it has evolved to this point.
 - I therefore settled on a variation of the Leitner system because that is easy to keep track of by hand.
 - To make things simple for me to track, I am doing things by powers of 2. Every day we do the whole first pile. Half of the second. A quarter of the third. And so on.

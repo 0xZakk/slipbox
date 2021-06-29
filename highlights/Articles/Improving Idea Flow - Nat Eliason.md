@@ -5,10 +5,6 @@
 Source:  https://www.nateliason.com/blog/improving-idea-flow 
 Author: nateliason.com
 
-## Highlights
-
-### Highlights
-
 - A way to test if your ideas are uninteresting is how much you align with certain people, or certain schools of thought. The fewer memetic buckets you scoop from, the more your ideas will align with those buckets. The simplest example of this is considering yourself a Republican or Democrat. If your ideas fully converge with the talking points of either party, then you haven't thought those ideas out that much. Or if you love everything Nassim Taleb says and agree with him on pretty much everything, you haven't diversified your inputs enough.
 - This sense of lower idea-flow has been bothering me for a while. I hear words leaving my mouth and know which podcast, book, or blog they came from. When I was reading more, it felt like my thoughts were more a blend of ideas. But by reading less, the route from eye to mouth has gotten lazier, skipping the blender and parroting whatever sounds like a good idea.
 - More and more, I'd like to spend time on improving my idea-flow. But you can't create time, only reallocate it. Anyone who has started a project without articulating what project it's replacing knows this problem well.

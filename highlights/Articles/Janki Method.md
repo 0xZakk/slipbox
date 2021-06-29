@@ -5,10 +5,6 @@
 Source:  https://www.jackkinsella.ie/articles/janki-method 
 Author: jackkinsella.ie
 
-## Highlights
-
-### Highlights
-
 - Janki Method is an attempt to shorten the time needed to learn programming.
 - You’ve read that learning by doing is better than passive reading; that expressing ideas in writing forces understanding; that knowledge needs constant revision to stay fresh; that creativity comes from linking disparate ideas; and that your past mistakes are your best teachers. How many of these ideas do you apply to your learning efforts?
 - By following my approach, I believe that any intelligent and disciplined reader can achieve proficiency* in a given field of programming (e.g. web applications, iPhone applications) in less than 12 months.

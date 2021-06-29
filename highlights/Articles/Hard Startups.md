@@ -5,10 +5,6 @@
 Source:  https://blog.samaltman.com/hard-startups 
 Author: blog.samaltman.com
 
-## Highlights
-
-### Highlights
-
 - The most counterintuitive secret about startups is that it’s often easier to succeed with a hard startup than an easy one. A hard startup requires a lot more money, time, coordination, or technological development than most startups. A good hard startup is one that will be valuable if it works (not all hard problems are worth solving!).
 - I remember when Instagram started to get really popular—it felt like you couldn’t go a day without hearing about another photo sharing startup. That year, probably over 1,000 photo sharing startups were funded, while there were fewer than ten nuclear fusion startups in existence.
 - Easy startups are easy to start but hard to make successful. The most precious commodity in the startup ecosystem right now is talented people, and for the most part talented people want to work on something they find meaningful.

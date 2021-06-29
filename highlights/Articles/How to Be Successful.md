@@ -5,10 +5,6 @@
 Source:  http://blog.samaltman.com/how-to-be-successful 
 Author: blog.samaltman.com
 
-## Highlights
-
-### Highlights
-
 - Usually, people start off wanting the former and end up wanting the latter. 
 - Here are 13 thoughts about how to achieve such outlier success.
 - 1. Compound yourself

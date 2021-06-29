@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/what-should-you-work-on 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - People aren't deliberate enough about choosing what to work on.
   To paraphrase the words of John O'Donohue, we are blind to the complacency that passes for ambition in modern society.
 - New ideas are fragile. Since they originate in the messy madness of intuition and the fringes of society, they don't carry the crisp edges that rational critics look for. Forgetting this, we beat precious but unconventional ideas out of people before they have time to blossom.

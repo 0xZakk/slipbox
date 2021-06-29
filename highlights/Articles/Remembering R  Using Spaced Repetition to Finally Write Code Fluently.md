@@ -5,10 +5,6 @@
 Source:  https://empiria.io/blog/remembering-r-with-spaced-repetition// 
 Author: Lukas Kawerau
 
-## Highlights
-
-### Highlights
-
 - I’m still googling the simplest things, hopping from one StackOverflow question to the next, asking myself why the heck I can’t remember basic R syntax. Everything I want to do takes forever, and I’m wondering if I’m just too dumb for this.
 - The reason I’m making exactly zero progress is simple. I can’t write R code. Not fluently, at least.
 - Anki is a flashcard program that algorithmically determines the point in time where you’re most likely to forget something and tests you on it, which makes that fact stick longer in your memory.

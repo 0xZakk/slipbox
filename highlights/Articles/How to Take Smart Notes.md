@@ -5,10 +5,6 @@
 Source:  https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017 
 Author: lesswrong.com
 
-## Highlights
-
-### Highlights
-
 - in doing science and creative work, the objective is unclear until you've actually got there
 - "slip-box"
 - They have no value except as stepping stones towards making literature and permanent notes.

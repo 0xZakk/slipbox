@@ -5,10 +5,6 @@
 Source:  https://blog.logrocket.com/state-management-using-only-react-hooks/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - The Hooks API has brought with it a whole new way of writing and thinking about React apps.
 - One of my favorite Hooks so far is useReducer, which allows you to handle complex state updates, and that’s what we’ll be looking at in this article.
 - What is useReducer?

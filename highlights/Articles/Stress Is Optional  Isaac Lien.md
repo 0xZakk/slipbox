@@ -5,10 +5,6 @@
 Source:  https://www.isaaclien.com/blog/2020/2/25/stress-is-optional-how-to-stay-stress-free-in-an-increasingly-stressful-world 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Much like this person’s laptop, many people are stressed because they aren’t fully charged and are spinning on too many things at once.
 - While it feels like the modern workplace is designed to make us feel stress, I’m here to tell you that it is possible to work an engaging and challenging job, and still remain stress-free. Stress is not something I experience on an ongoing or regular basis at work. It’s not that I don’t deal with things that could be stressful, but I have spent a disproportionate amount of time learning about the factors that cause me stress, and have systematically eliminated them
 - The first thing you need to learn is the hardest to accept: the only person who is in control of your stress level is you.

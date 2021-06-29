@@ -5,10 +5,6 @@
 Source:  https://dcgross.com/financial-advice-for-founders/ 
 Author: Daniel
 
-## Highlights
-
-### Highlights
-
 - You don’t start companies to get rich. You start them for reasons you don’t fully understand, and like a runner at the 18th mile, often question why you subjected yourself to such euphoric misery that is a startup.
 - We’ll discuss two types of optimizations. One in terms of how to think about optimizing wealth, and another more tactical section.
 - Dilution Matters.

@@ -5,10 +5,6 @@
 Source:  https://www.senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - I wanted to be a good, hell, great software engineer. But my work was mediocre. Even worse, I was trying. My ass was in that chair twelve hours a day, six days a week trying to write beautiful Python code. I was constantly looking up documentation and sucked into the internet's rabbit-hole of distractions. I was a try-hard failure.
 - Kyle worked weekdays from 10AM to 4PM. He got his work done early and single-handedly output 80% of the entire team. Adding more insult to injury, he only worked like 60% of the time.
 - Every day for three years, I spent one to three hours in spaced repetition. It was brutal and I needed it.

@@ -5,10 +5,6 @@
 Source:  https://medium.com/p/d91f48c1f296 
 Author: Kalina Dimova
 
-## Highlights
-
-### Highlights
-
 - And last but not least, consider the aesthetics of your app. Using a beautiful interface is pleasing for all users. “Form follows function” has been my mantra since the beginning of my design career, but the style of an app is what makes people connect with it on an emotional level. Beauty is the trigger that brings users back and makes them enjoy working with your app.
 - In terms of UX, Blockchain and DLT apps are very similar to other enterprise solutions.
 - Final Thoughts

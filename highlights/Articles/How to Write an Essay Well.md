@@ -5,10 +5,6 @@
 Source:  https://www.julian.com/guide/write/intro 
 Author: Jack Altman
 
-## Highlights
-
-### Highlights
-
 - Style is a small part of writing well. Most of writing is thinking clearly.
   
 - By thinking critically, you navigate contradictions and connect the dots others aren’t seeing. You challenge the status quo. You contribute insights. Sometimes, you make people feel.

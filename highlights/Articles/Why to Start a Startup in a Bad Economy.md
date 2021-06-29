@@ -5,10 +5,6 @@
 Source:  http://paulgraham.com/badeconomy.html 
 Author: paulgraham.com
 
-## Highlights
-
-### Highlights
-
 - The economic situation is apparently so grim that some experts fear we may be in for a stretch as bad as the mid seventies.
   When Microsoft and Apple were founded.
 - October 2008

@@ -5,10 +5,6 @@
 Source:  https://tasshin.com/blog/forming-a-publishing-cooperative/ 
 Author: tasshin.com
 
-## Highlights
-
-### Highlights
-
 - Like many creators, I have more ideas for projects than I have time to work on.
 - Historically, these constraints have forced me (and my peers) to learn to prioritize, to optimize the available time, and remove distractions.
 - Doing extended solitary retreat forced me to confront the fact that I needed to make a change in my creative process.

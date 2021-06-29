@@ -5,10 +5,6 @@
 Source:  https://www.financialsamurai.com/the-secret-to-your-success-10-years-of-unwavering-commitment/ 
 Author: Financial Samurai
 
-## Highlights
-
-### Highlights
-
 - I strongly believe if you do one hard thing for 10 years in a row, you will achieve results far beyond your expectations.
 - Don’t quit before giving your effort a chance to produce amazing results.
 - Regular people get ahead all the time.

@@ -5,10 +5,6 @@
 Source:  https://fs.blog/2020/11/learning-through-play/ 
 Author: fs.blog
 
-## Highlights
-
-### Highlights
-
 - Play is an essential way of learning about the world. Doing things we enjoy without a goal in mind leads us to find new information, better understand our own capabilities, and find unexpected beauty around us. Arithmetic is one example of an area we can explore through play.
 - The benefits of play don’t disappear as soon as you become an adult. Even if we engage our curiosity in different ways as we grow up, a lot of learning and exploration still comes from analogous activities: things we do for the sheer fun of it.
 - When the pressure mounts to be productive every minute of the day, we have much to gain from doing all we can to carve out time to play. Take away prescriptions and obligations, and we gravitate towards whatever interests us the most. Just like children and baby elephants, we can learn important lessons through play. It can also give us a new perspective on topics we take for granted—such as the way we represent numbers.

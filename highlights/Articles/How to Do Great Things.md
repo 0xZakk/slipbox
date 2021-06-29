@@ -5,10 +5,6 @@
 Source:  https://fs.blog/2019/01/great-things/ 
 Author: fs.blog
 
-## Highlights
-
-### Highlights
-
 - You need to believe that you are capable of doing important things. Your mindset determines how you experience things, what you work on, and the tactics and strategies you employ to accomplish those goals.
   Among the important properties to have is the belief you can do important things. If you do not work on important problems how can you expect to do important work? Yet, direct observation, and direct questioning of people, shows most scientists spend most of their time working on things they believe are not important nor are they likely to lead to important things.
   Hamming, Richard R.. Art of Doing Science and Engineering: Learning to Learn (Page 210).

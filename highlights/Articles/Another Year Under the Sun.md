@@ -5,10 +5,6 @@
 Source:  https://blog.stephsmith.io/another-year-under-the-sun/ 
 Author: blog.stephsmith.io
 
-## Highlights
-
-### Highlights
-
 - Each Year Passes Differently
 - I’ve come to appreciate that each year passes in a unique way.
 - The Lessons Behind the Goals

@@ -5,10 +5,6 @@
 Source:  https://every.to/almanack/creating-a-high-yield-savings-account-with-crypto-defi 
 Author: every.to
 
-## Highlights
-
-### Highlights
-
 - In this post, I’ll go over what I think a good next step is: Using crypto to create a high-yield savings account
 - What is a Savings Account
 - A savings account is like a magic box that grows your fiat money. You park some cash in it, and in it pays you some interest in exchange. Or it used to anyway.

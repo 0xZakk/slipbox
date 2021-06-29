@@ -5,10 +5,6 @@
 Source:  https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/ 
 Author: a16z.com
 
-## Highlights
-
-### Highlights
-
 - Crypto founders have a unique challenge in front of them. In addition to building a product that people want, they also need to consider how that product can successfully run in a decentralized manner — that is, as a protocol owned and operated by a community of users.
 - This is a difficult challenge because much of what it takes to build a successful product at the outset — product leadership, rapid iteration, a managed go-to-market — complicates the path to community ownership and regulatory compliance, which guarantee long-term health.
 - Here I’ll propose a three-step process that may serve as a guide for how to do it, by way of progressive decentralization — a process in which founding teams relinquish control by degrees, over time. Doing so step-by-step allows teams to focus and creates a path toward regulatory compliance, including issuing tokens that hopefully will not run afoul of securities regulations.

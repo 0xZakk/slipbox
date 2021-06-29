@@ -5,10 +5,6 @@
 Source:  https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf 
 Author: web.cs.ucdavis.edu
 
-## Highlights
-
-### Highlights
-
 - Five Things We Need to Know About Technological Change
 - Talk delivered in Denver Colorado March 28, 1998
 - I doubt that the 21st century will pose for us problems that are more stunning, disorienting or complex than those we faced in this century, or the 19th, 18th, 17th, or for that matter, many of the centuries before that. But for those who are excessively nervous about the new millennium, I can provide, right at the start, some good advice about how to confront it. …. Here is what Henry David Thoreau told us: “All our inventions are but improved means to an unimproved end.” Here is what Goethe told us: “One should, each day, try to hear a little song, read a good poem, see a fine picture, and, if possible, speak a few reasonable words.” Socrates told us: “The unexamined life is not worth living.” Rabbi Hillel told us: “What is hateful to thee, do not do to another.” And here is the prophet Micah: “What does the Lord require of thee but to do justly, to love mercy and to walk humbly with thy God.” And I could say, if we had the time, (although you know it well enough) what Jesus, Isaiah, Mohammad, Spinoza, and Shakespeare told us. It is all the same: There is no escaping from ourselves. The human dilemma is as it has always been, and it is a delusion to believe that the technological changes of our era have rendered irrelevant the wisdom of the ages and the sages.

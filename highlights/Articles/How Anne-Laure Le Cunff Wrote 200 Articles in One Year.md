@@ -5,10 +5,6 @@
 Source:  https://superorganizers.substack.com/p/how-anne-laure-le-cunff-wrote-200 
 Author: Dan Shipper
 
-## Highlights
-
-### Highlights
-
 - Ask Anne-Laure Le Cunff how she built her productivity stack and you get an answer that sounds more like a Zen koan than a list of apps and life hacks. “My system works for me because it works for me,” she calmly explains.
 - She writes 3 articles a week for her newsletter, and has amassed an audience of over 14,000 subscribers since she started. She’ll publish over 200 pieces this year. And as if all that wasn’t enough, she’s simultaneously earning a masters degree in applied neuroscience at King’s College in London.
 - It turns out that the core weapons in Anne-Laure’s mindful arsenal are remarkably analog. She uses a “plus, minus next” format to help her review her week, and combines that with a dead-simple planning technique: every Sunday night, she writes out a single Post-It note with three goals to accomplish for the week.

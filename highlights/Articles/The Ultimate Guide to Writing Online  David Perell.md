@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/the-ultimate-guide-to-writing-online 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - Writing online is the fastest way to accelerate your career.
   It’s the best way to learn faster, build your resume, and find peers and collaborators who can create job and business opportunities for you.
   Content builds on itself. It multiplies and compounds.

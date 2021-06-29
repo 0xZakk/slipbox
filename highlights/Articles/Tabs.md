@@ -5,10 +5,6 @@
 Source:  https://ulysses.app/tutorials/tabs 
 Author: Rebekka
 
-## Highlights
-
-### Highlights
-
 - “Open in New Tab”
 - You can easily access and operate tabs via keyboard shortcuts as well:
   ⌘T (cmd-T) to open a new tab 

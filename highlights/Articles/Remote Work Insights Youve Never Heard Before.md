@@ -5,10 +5,6 @@
 Source:  https://medium.com/better-programming/rethinking-remote-work-b1c43a52b8dd 
 Author: Sarah Milstein
 
-## Highlights
-
-### Highlights
-
 - Remote work is becoming more common all the time, yet the arguments for it seem frozen in time. Yes, hiring people who can work anywhere gives you a bigger, more diverse pool of talent, lowers attrition, and may offer cost savings in salaries or office space. But the biggest benefits of remote work are a lot more subtle — and more powerful — than you’d expect.
 - Indeed, what makes remote teams so effective is that they’re breeding grounds for trust — the key ingredient for high-performing workplaces.
 - Remote work comes in several flavors, each of which has different dynamics, so let’s start by defining our terms.

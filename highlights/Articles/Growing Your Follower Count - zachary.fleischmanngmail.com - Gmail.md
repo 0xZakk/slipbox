@@ -5,10 +5,6 @@
 Source:  https://mail.google.com/mail/u/0/?cvid=6&q=david%40perell.com&qs=true&qt=david%40perell.com.1&search=query&th=%23thread-f%3A1664713027801401794&ui=2&ver=1nj101dboqm98&view=btop 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Building a Twitter audience is hard because existing social connections don’t help much. Unlike Facebook, it’s not built around family. Unlike LinkedIn, it’s not built around professional relationships.
   The platform doesn’t help you grow your audience either. It rewards people who already have big audiences, so people without a lot of followers feel invisible.
 - If you want to grow your following, I have three suggestions for you:

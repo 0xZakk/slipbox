@@ -5,10 +5,6 @@
 Source:  https://andymatuschak.org/books 
 Author: Andy Matuschak, Matuschak Andy
 
-## Highlights
-
-### Highlights
-
 - And at least for non-fiction books, one implied assumption at the foundation: people absorb knowledge by reading sentences.
 - All this suggests a peculiar conclusion: as a medium, books are surprisingly bad at conveying knowledge, and readers mostly don’t realize it.
 - “The Persistence of Memory,”

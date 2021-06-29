@@ -5,10 +5,6 @@
 Source:  https://www.collaborativefund.com/blog/why-everyone-should-write/ 
 Author: Morgan Housel
 
-## Highlights
-
-### Highlights
-
 - Everyone should write. You know why? Because everyone is full of ideas they’re not aware of.
 - You don’t talk about these ideas, even in your own head, because you’ve never put them into words. 
 - Like phantom intelligence.

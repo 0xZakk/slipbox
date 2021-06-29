@@ -5,10 +5,6 @@
 Source:  https://doist.com/blog/systemist-personal-workflow/ 
 Author: doist.com
 
-## Highlights
-
-### Highlights
-
 - Systemist
 - Systemist has 6 simple components
 - 1. Take it everywhere

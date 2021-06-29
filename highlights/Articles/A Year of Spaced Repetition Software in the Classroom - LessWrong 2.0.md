@@ -5,10 +5,6 @@
 Source:  https://www.lesswrong.com/posts/Ww2dxwWpSfkQB4NZb/a-year-of-spaced-repetition-software-in-the-classroom 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - SRS can raise student achievement even with students who won't use the software on their own, and even with frequent disruptions to the study schedule. Gains are most apparent with the already high-performing students, but are also meaningful for the lowest students. Deliberate efforts are needed to get student buy-in, and getting the most out of SRS may require changes in course design.
 - The procedure
 - First, what I did not do. I did not make Anki decks, assign them to my students to study independently, and then quiz them on the content. With honors classes I taught in previous years I think that might have worked, but I know my current students too well. Only about 10% of them would have done it, and the rest would have blamed me for their failing grades—with some justification, in my opinion.

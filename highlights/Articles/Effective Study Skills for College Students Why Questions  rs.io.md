@@ -5,10 +5,6 @@
 Source:  https://rs.io/effective-study-skills-for-college-students-why-questions/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Let’s say you’re reading a textbook, like Sedgewick’s The Algorithm Design Manual, and you come across the fact that Θ(nlgn)Θ(nlg⁡n) is the lowest possible complexity of a comparison sort algorithm. You could commit this to long-term memory as is — it’s true, after all. It would be connected to some other knowledge, like what you already know about sorting algorithms. This seems okay.
   But, when doing something like this, you’re missing out on a whole lot of structure. If you forgot about the lower bound, you wouldn’t be able to regenerate it from what you already know. It’s connected to other knowledge, but it’s not recomputable.
 - Let’s say you’re reading a textbook, like Sedgewick’s The Algorithm Design Manual, and you come across the fact that Θ(nlgn)Θ(nlg⁡n) is the lowest possible complexity of a comparison sort algorithm. You could commit this to long-term memory as is — it’s true, after all. It would be connected to some other knowledge, like what you already know about sorting algorithms. This seems okay.

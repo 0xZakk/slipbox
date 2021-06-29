@@ -5,10 +5,6 @@
 Source:  http://www.collaborativefund.com/blog/the-psychology-of-money/ 
 Author: collaborativefund.com
 
-## Highlights
-
-### Highlights
-
 - If you want success, figure out the price, then pay it.
 - The point isn’t to abandon the pursuit of wealth, of course. Or even fancy cars – I like both. It’s recognizing that people generally aspire to be respected by others, and humility, graciousness, intelligence, and empathy tend to generate more respect than fast cars.
 - “Current [investment] beliefs depend on the realizations experienced in the past.”

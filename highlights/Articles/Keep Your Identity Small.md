@@ -5,10 +5,6 @@
 Source:  http://www.paulgraham.com/identity.html 
 Author: paulgraham.com
 
-## Highlights
-
-### Highlights
-
 - What's different about religion is that people don't feel they need to have any particular expertise to have opinions about it.
 - I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity
 - you can have a fruitful discussion about the relative merits of programming languages, so long as you exclude people who respond from identity.

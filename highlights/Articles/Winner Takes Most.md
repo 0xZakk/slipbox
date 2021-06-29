@@ -5,10 +5,6 @@
 Source:  https://www.drorpoleg.com/winner-takes-most/ 
 Author: drorpoleg.com
 
-## Highlights
-
-### Highlights
-
 - I am just a guy from Netanya, a small town on the Mediterranean. I am constantly amazed by the fact that the smartest people on earth would give me the time of day. I am constantly amazed — truly, amazed — by the internet’s ability to deliver ideas to the exact people who would find them most compelling.
 - The ability to create perfect matches is an obvious feature of the web. But I suspect most people still don’t grasp the implications of this ability.
 - That’s what my next book is about. The internet enables each of us to earn more than ever before by matching us with the exact people — fans, customers, employers — who value our unique combination of skills and characteristics. It enables each of us to become a superstar. But it also exposes us to anxieties that were previously reserved for a select few.

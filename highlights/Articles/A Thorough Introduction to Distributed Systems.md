@@ -5,10 +5,6 @@
 Source:  https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/ 
 Author: Stanislav Kozlovski
 
-## Highlights
-
-### Highlights
-
 - With the ever-growing technological expansion of the world, distributed systems are becoming more and more widespread. They are a vast and complex field of study in computer science.
 - What is a distributed system?
 - A distributed system in its most simplest definition is a group of computers working together as to appear as a single computer to the end-user.

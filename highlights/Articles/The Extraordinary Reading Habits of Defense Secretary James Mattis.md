@@ -5,10 +5,6 @@
 Source:  https://www.cnbc.com/2018/09/13/defense-secretary-james-mattis-extraordinary-reading-habits.html 
 Author: Amanda Macias
 
-## Highlights
-
-### Highlights
-
 - Mattis, a revered Marine with a military career spanning four decades, credits his leadership success to his voracious reading habits.
 - He was known for his strategy, matter-of-factness and disdain for PowerPoint, which is recognized as the U.S. military’s signature teaching tool.
 - In October 2016, a Marine asked Mattis how he continues to develop as a leader. Mattis once again pointed to reading.

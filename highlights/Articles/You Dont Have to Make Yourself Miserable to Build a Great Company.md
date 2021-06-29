@@ -5,10 +5,6 @@
 Source:  https://pando.com/2013/04/03/you-dont-have-to-make-yourself-miserable-to-build-a-great-company/ 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - You don’t have to make yourself miserable to build a great company
 - By most measures, I’m a lazy bastard. I wake up around 1pm and almost always get eight hours of sleep. Most days, I head to the office in the early afternoon and work around 5-6 hours. Sometimes I put in another couple hours at night, but I take the majority of my time away from work, and I never work weekends.
 - It wasn't always like this. When I first started MetaLab, I often pulled all nighters and typically worked upwards of 80 hours a week. I rarely saw my friends and spent every waking hour on the business. But then it all broke down. After two years of non-stop work, I was left with a dysfunctional relationship, a dwindling social life, and a shelf full of books I hadn't read. So I decided to give it up. For my own sanity, I decided to limit my workday, leave work at the office, and take evenings and weekend off, even if it meant taking a hit to my entrepreneurial success.

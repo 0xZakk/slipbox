@@ -5,10 +5,6 @@
 Source:  https://blog.stephsmith.io/learning-to-write-with-confidence/ 
 Author: blog.stephsmith.io
 
-## Highlights
-
-### Highlights
-
 - “Self-doubt can be an ally. This is because it serves as an indicator of aspiration. It reflects love, love of something we dream of doing, and desire, desire to do it. If you find yourself asking yourself (and your friends), "Am I really a writer? Am I really an artist?" chances are you are.” - The War of Art
 - what most people don’t realize is that the resistance to writing is not unlike the resistance to other skills. And the antidote? Practice. Exposure. Iteration.
 - Practice makes any seemingly impossible task familiar.

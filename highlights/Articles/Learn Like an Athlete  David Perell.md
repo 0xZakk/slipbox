@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/learn-like-an-athlete 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - Athletes train. Musicians train. Performers train. But knowledge workers don’t.
 - Knowledge workers should train like LeBron, and implement strict “learning plans.” To be sure, intellectual life is different from basketball. Success is harder to measure and the metrics for improvement aren’t quite as clear. Even then, there’s a lot to learn from the way top athletes train. They are clear in their objectives and deliberate in their pursuit of improvement.
 - knowledge workers should train to build skills, complete projects, and increase their productive power. Armed with an effective system, we’ll learn faster and have more fun doing it.

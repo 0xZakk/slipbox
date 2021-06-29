@@ -5,10 +5,6 @@
 Source:  http://michaelnielsen.org/blog/principles-of-effective-research/ 
 Author: michaelnielsen.org
 
-## Highlights
-
-### Highlights
-
 - This essay is intended as a letter to both myself and others, to hold up in the sharpest possible terms an ideal of research I believe is worth working toward.
 - The philosophy underlying the essay is based on a famous quote attributed to Aristotle: “We are what we repeatedly do. Excellence, then, is not an act but a habit.” Underlying all our habits are models (often unconscious) of how the world works. I’m writing this essay to develop an improved personal model of how to be an effective researcher, a model that can be used as the basis for concrete actions leading to the development of new habits.
 - ## Fundamental principles

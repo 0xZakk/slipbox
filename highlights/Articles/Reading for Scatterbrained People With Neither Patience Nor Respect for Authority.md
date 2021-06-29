@@ -5,10 +5,6 @@
 Source:  https://observer.com/2015/04/reading-for-scatterbrained-people-with-neither-patience-nor-respect-for-authority/ 
 Author: David Kadavy
 
-## Highlights
-
-### Highlights
-
 - If we want to be all-knowing, like these people, we have to read a lot of books.
   
 - Who says every word of the book is worth reading—especially in sequential order?

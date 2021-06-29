@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/the-price-of-discipline 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - “I hate tennis.”
   This is the opening message of Andre Agassi’s biography, Open.
 - Why did Agassi break under the pressure of discipline? How does his story represent so many of us?

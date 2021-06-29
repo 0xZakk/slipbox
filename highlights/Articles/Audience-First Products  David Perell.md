@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/audience-first-products 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - According to a 2013 Harvard Business Review survey of 12,000 professionals, half of the respondents said their job had no meaning and significance.
 - The Internet swallows up an increasing percentage of our leisure time, but people under-estimate the economic opportunities it presents — even for college seniors. First, I discovered a better way to find a job. Then, I used the Internet to build my business. What follows is the three-step process I’ve used to create professional opportunities online.
 - My method of “Audience-First Products” is still experimental, but I believe it’s repeatable. It’s a new way to test the feasibility of a business idea. It stands in stark contrast to the “old guard” model of attending job fairs, working mindless jobs to learn professional skills, and raising money before you start a business. Just like the job fair, there is a better way to start a business.

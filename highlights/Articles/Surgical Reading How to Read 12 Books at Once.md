@@ -5,10 +5,6 @@
 Source:  https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books 
 Author: Dan Shipper
 
-## Highlights
-
-### Highlights
-
 - It’s always a little awkward when people ask what I’m reading, because usually it’s about a dozen books at once.
   But I’m not reading this way for show — I’m doing it because I think reading this way is actually better. At least for me.
 - It’s a process I’ve developed called surgical reading and it means that when I’m reading a non-fiction book, I focus on locating and removing the most valuable pieces of information from it quickly as possible. This allows me to read many different books across a single topic at once, so I can look at it from multiple perspectives. My goal is to quickly locate valuable knowledge and use the information I acquire in the real world to solve problems.

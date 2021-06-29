@@ -5,10 +5,6 @@
 Source:  https://bookriot.com/how-to-start-a-book-club/ 
 Author: Rebecca Renner
 
-## Highlights
-
-### Highlights
-
 - To help you make sure your book club is on point, here is a short guide about how to start a book club to help you make yours perfect.
 - ### 1. Figure Out Who You’re Inviting To Your Book Club
 - The first thing you should do is figure out who will come to your book club.

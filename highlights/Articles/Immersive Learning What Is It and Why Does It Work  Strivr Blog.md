@@ -5,10 +5,6 @@
 Source:  https://www.strivr.com/blog/defining-immersive-learning/ 
 Author: strivr.com
 
-## Highlights
-
-### Highlights
-
 - Immersive Learning and VR have taken the L&D and HR world by storm.
 - Even with the significant changes to how our world works, Immersive Learning remains a cornerstone of corporate learning today and a foundation for where things are headed.
 - Founded in behavioral and cognitive science, Immersive Learning with VR provides a memorable tool that accelerates employees’ proficiency in their roles through an immersive training environment.

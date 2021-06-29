@@ -5,10 +5,6 @@
 Source:  https://www.navalmanack.com/education 
 Author: Eric Jorgenson
 
-## Highlights
-
-### Highlights
-
 - Free education is abundant, all over the Internet.
   It's the desire to learn that's scarce.
 - The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.

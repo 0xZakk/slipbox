@@ -5,10 +5,6 @@
 Source:  https://dcgross.com/decide-what-to-build/ 
 Author: dcgross.com
 
-## Highlights
-
-### Highlights
-
 - People often tell me they want to start a startup, but they don’t know what to build. “I’m not a person with ideas”, they’ll say. Stop that narrative. You are whatever you tell yourself you are. To quote Steve Jobs: “everything in the world was created by people no smarter than you”. You can do whatever you want, once you realize one secret: everything big starts small.
 - If you want to make something grand, don’t start with grand ambitions. Start small. Pick a project, not a company. How should you pick your project? One strategy is to think of annoyances you have in your life. These should feel almost like a stand-up comedy routine. “Don’t you hate it when you’re trying to find a file online… and you just can’t?”, or “Doesn’t it suck that mobile data costs so much?”. Etc etc. Start writing them down. I’ve been writing down ideas for as long as I can remember. And the more I do it, the more I have.
 - Focus on the repeat offenders. The ideas that you keep coming back to. When I think of a new idea, I get deeply infected with it. It takes over my mind. It’s all I can think about. Over time, most of the ideas fade. But a choice few keep on coming back. Pay attention to those. You know you’ve got something good when you’re thinking about it in the shower.

@@ -5,10 +5,6 @@
 Source:  https://www.nateliason.com/blog/start-a-blog 
 Author: nateliason.com
 
-## Highlights
-
-### Highlights
-
 - Depending on the month and Google's mood, 10,000 to 20,000 people read this site per day.
   The various products associated with the site earn over $10,000 a month, almost entirely passively. Last month they made over $60,000.
 - Why this Post, and How it's Structured

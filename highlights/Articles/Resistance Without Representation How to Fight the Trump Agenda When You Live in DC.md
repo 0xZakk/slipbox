@@ -5,8 +5,4 @@
 Source:  https://medium.com/p/ba916df91b2f 
 Author: Sarah Thankam Mathews
 
-## Highlights
-
-### Highlights
-
 -  

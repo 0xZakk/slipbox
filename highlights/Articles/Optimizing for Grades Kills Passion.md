@@ -5,10 +5,6 @@
 Source:  https://bhaumik.substack.com/p/optimizing-for-grades-kills-passion 
 Author: Thao Le Hoang
 
-## Highlights
-
-### Highlights
-
 - "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades." - Paul Graham
 - “A hundred years ago, you needed a factory & thousands of workers to start a company. Today, you just need to open your laptop.”
 - "At the heart of what makes the “growth mindset” so winsome, Dweck found, is that it creates a passion for learning rather than a hunger for approval"

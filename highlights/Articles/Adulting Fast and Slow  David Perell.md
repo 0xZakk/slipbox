@@ -5,10 +5,6 @@
 Source:  https://www.perell.com/blog/adulting-fast-and-slow 
 Author: David Perell
 
-## Highlights
-
-### Highlights
-
 - We live in a society of adult-like children and childish adults.
 - Kids have never had more information at their fingertips, so they’re growing up faster than ever. From a young age, they can watch violent war clips on YouTube, Dan Bilzerian videos on Instagram, and Shakira getting low at the Super Bowl halftime show.
   Yet, even though they grow up fast at first, they mature into adulthood slowly. Young people today are often unable to become financially independent or walk the path of a meaningful life. As a result, we’re left with a culture of childish adults who are allergic to commitment and unable to see the light in adulthood.

@@ -5,10 +5,6 @@
 Source:  https://numinous.productions/ttft 
 Author: numinous.productions
 
-## Highlights
-
-### Highlights
-
 - Douglas Engelbart, Augmenting Human Intellect: A Conceptual Framework (1962).
 - “the very use of it would actually change the thought patterns of an entire civilization”
 - Alan Kay, User Interface: A Personal View (1989)..

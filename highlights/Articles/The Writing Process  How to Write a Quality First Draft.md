@@ -5,10 +5,6 @@
 Source:  https://www.julian.com/guide/write/first-draft-writing-process 
 Author: julian.com
 
-## Highlights
-
-### Highlights
-
 - Your first draft is for generating ideas:
   
 - This works best when you’re exploring ideas that most interest you. The more self-indulgent you are, the better your article.

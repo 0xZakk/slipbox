@@ -5,10 +5,6 @@
 Source:  https://medium.com/practical-empathy/from-inbox-zero-to-todo-list-zero-cb273137d1a7 
 Author: Joe Goldberg
 
-## Highlights
-
-### Highlights
-
 - “as a manager, every item on your to-do list is an exception.” She meant it as an extreme lesson in delegation, in other words:try to delegate everythingbut keep the things on your own to-do list that you can’t delegateand see those as an opportunity to get better at delegation. (i.e. an opportunity to uplevel your people at new tasks, in the future)
 - Items on your to-do list are unfunded mandates unless they’re also on your calendar.You can prioritize, bucket, and color-code your to-do list at nauseum but unless you make the time to actually DO them, the list is worthless as a productivity tool.
 - As a manager, your time is your most precious resource

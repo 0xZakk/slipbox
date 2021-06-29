@@ -5,10 +5,6 @@
 Source:  https://www.investopedia.com/terms/p/permissioned-blockchains.asp 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - Permissioned blockchains can be seen as an additional blockchain security system, as they maintain an access control layer to allow certain actions to be performed only by certain identifiable participants.
 - Permissioned blockchains provide an additional level of security over typical blockchain systems like Bitcoin, as they require an access control layer.
 - These blockchains are favored by individuals who require security, identity, and role definition within the blockchain.

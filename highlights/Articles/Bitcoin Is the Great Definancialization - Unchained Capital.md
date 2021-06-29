@@ -5,10 +5,6 @@
 Source:  https://unchained-capital.com/blog/bitcoin-is-the-great-definancialization/ 
 Author: unchained-capital.com
 
-## Highlights
-
-### Highlights
-
 - Have you ever had a financial advisor (or maybe even a parent) tell you that you need to make your money grow? This idea has been so hardwired in the minds of hard-working people all over the world that it has become practically second nature to the very idea of work.
 - The line has been repeated so many times that it is now a de facto part of working culture. Get a salaried position, max out your 401-K contribution (maybe your employer matches 3%!), select a few mutual funds with catchy marketing names and watch your money grow.
 - Many now associate the activity with savings but in reality, financialization has turned retirement savers into perpetual risk-takers and the consequence is that financial investing has become a second full-time job for many, if not most.

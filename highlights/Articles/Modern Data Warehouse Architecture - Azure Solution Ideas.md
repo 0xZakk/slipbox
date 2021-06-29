@@ -5,10 +5,6 @@
 Source:  https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse 
 Author: None
 
-## Highlights
-
-### Highlights
-
 - A modern data warehouse lets you bring together all your data at any scale easily, and to get insights through analytical dashboards, operational reports, or advanced analytics for all your users.
 - Architecture
 - Data Flow

@@ -5,10 +5,6 @@
 Source:  http://www.deltecbank.com/2021/02/12/what-is-defi-and-yield-farming/?locale=en 
 Author: deltecbank.com
 
-## Highlights
-
-### Highlights
-
 - One of the hottest areas in cryptocurrency today is decentralized finance (DeFi). Entrepreneurs in the crypto market will recreate traditional financial tools within a decentralized environment, outside of the control of any company or government.
 - It is a blockchain-enabled concept that gives progressive and agile tools to users, reducing operational risk associated with a traditional finance model.
 - The DeFi sector boomed in 2020 with new coins such as UMA and COMP, allowing users to use traditional services such as lending and borrowing (giving rise to yield farming) in a decentralized ecosystem.

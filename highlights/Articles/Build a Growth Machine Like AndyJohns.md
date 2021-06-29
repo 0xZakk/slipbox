@@ -5,10 +5,6 @@
 Source:  https://medium.com/mobile-growth/build-a-growth-machine-like-andy-johns-83c8dcc9b40a 
 Author: Lauren Bass
 
-## Highlights
-
-### Highlights
-
 - 1. Measure Growth Like You Measure Cash Flow
   
 - User growth accounting
