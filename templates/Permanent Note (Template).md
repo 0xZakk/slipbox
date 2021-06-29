@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: "{{title}}"
 slug: {{title}}
 type: "permanent"
 ---

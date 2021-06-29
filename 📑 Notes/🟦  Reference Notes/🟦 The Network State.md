@@ -1,4 +1,4 @@
-- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Sovereignty #[[Sovereign Tribes 1]]
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] | #Sovereignty #[[Sovereign Tribes]]
 - **Source:** https://1729.com/book/
 - **Summary:**
     - 

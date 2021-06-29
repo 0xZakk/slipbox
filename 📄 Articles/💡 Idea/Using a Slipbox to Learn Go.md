@@ -12,7 +12,7 @@ summary: "Article that walks through how to learn Go using a Slipbox"
 
 **Domain(s):**
 - [[Go]]
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 - [[Programming]]
 
 **Related Notes:**

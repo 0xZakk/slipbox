@@ -1,4 +1,8 @@
-# 🟨 Lead to Success
+---
+title: Lead to Success
+slug: lead-to-success
+type: "literature"
+---
 
 __"It is not so important who you are, but what you do. Doing the work required and doing it in a smart way leads, somehow unsurprisingly, to success."__ -- Sonke Ahrens, *How to Take Smart Notes*
 
@@ -8,10 +12,8 @@ However, we have complete control over what we do and where and how we do it. So
 
 It is not having willpower that will lead to success, but not having to use willpower.
 
-## Meta Data
-[[__ 🟨 Literature Note]]
+## Meta Data
 
-Source: [[🟦 How to Take Smart Notes]]
-Domain(s):
-- [[Momentum]]
-- [[Success]]
+**Source:** [[🟦 How to Take Smart Notes]]
+**Domain(s):**
+- [[High-Performance Knowledge Work]]

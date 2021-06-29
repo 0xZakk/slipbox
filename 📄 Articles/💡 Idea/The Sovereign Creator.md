@@ -15,4 +15,4 @@ summary: ""
 
 
 **Related Notes:**
-- [[highlights/Export/Books/The Sovereign Individual]]
+- [[highlights/Books/The Sovereign Individual]]

@@ -1,4 +1,10 @@
-[[🟨 Tactics]] [[🟨 Lead to Success]]
+---
+title: Tactics
+slug: tactics
+summary: ""
+---
+
+# Tactics
 
 Tactic: something small and low-effort that compounds
 
@@ -28,3 +34,24 @@ Best way to accomplish something really big, is to find a way to make it really 
 
 Next steps:
 - Come up with small things you can do every day (tweet 3x per day, send 5 sales emails per day)
+
+## Open Questions
+- What is the difference between a tactic and a habit?
+	- Tactics can become habits, but not always
+	- Tactics can be one-off or recurring (daily, weekly, etc)
+- 
+
+## Meta Data
+
+**Domain(s):**
+- [[High-Performance Knowledge Work]]
+
+**Related Notes:**
+- [[🟨 Tactics]]
+- [[🟨 Lead to Success]]
+- [[🟦 Habits vs. Goals: A Look at the Benefits of a Systematic Approach to Life]]
+- [[🟨Three Problems with Goals and Goal-setting]]
+- [[🟨The Benefits of Habits over Goals]]
+- [[🟨Habits are Algorithms]]
+- [[🟨A Systematic Approach to Life]]
+- [[🟦 Successful Habits Through Smoothly Ratcheting Targets]]

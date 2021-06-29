@@ -1,7 +1,7 @@
 ---
-title: "{{title}}"
-slug: "{{title}}"
-author : ""
+title: "The Truth Machine"
+slug: "the-truth-machine"
+author : "Michael J. Casey and Paul Vigna"
 type: "reference"
 ---
 

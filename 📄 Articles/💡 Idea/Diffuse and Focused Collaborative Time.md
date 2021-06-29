@@ -18,7 +18,7 @@ Diffuse collaboration: post-processing and thinking through what you just experi
 
 **Domain(s):**
 - [[Productivity]]
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 
 **Related Notes:**
 - [[🟦 A Mind for Numbers]]

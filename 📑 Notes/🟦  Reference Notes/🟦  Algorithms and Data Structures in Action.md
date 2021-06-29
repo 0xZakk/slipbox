@@ -1,11 +1,12 @@
 ---
 title: 🟦  Algorithms and Data Structures in Action
+slug: algorithms-and-data-structures-in-action
 type: "reference"
 ---
 
 ## Summary:
 
-< summary >
+
 
 ## Literature Notes
 
@@ -16,4 +17,4 @@ type: "reference"
 
 **Source:** 
 **Domain(s):**
-- [[Computer Science]]
+- [[Programming]]

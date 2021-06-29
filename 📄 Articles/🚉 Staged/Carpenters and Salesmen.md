@@ -59,7 +59,7 @@ David Perell is a prolific writer who occasionally teaches a class on writing. T
 
 A hammer salesman has one goal: to sell you a hammer. Their incentive is to sell you one tool and to make you believe that every problem can be fixed by that tool.
 
-A carpenter, on the other, hand is trying to sell you the product of their work. They use hammers, but they use other tools too. Their goal is to make their art, to teach you the process , and to sell you the output, not the tools they used. 
+A carpenter, on the other, hand is trying to sell you the product of their work. They use hammers, but they use other tools too. Their goal is to make their art, to teach you the process, and to sell you the output, not the tools they used. 
 
 Who would you rather learn from, the carpenter or the hammer salesman?
 

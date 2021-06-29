@@ -1,6 +1,6 @@
 ---
-title: {{title}}
-slug: {{}}
+title: "{{title}}"
+slug: {{title}}
 summary: ""
 ---
 

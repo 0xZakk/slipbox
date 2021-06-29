@@ -20,7 +20,7 @@ Dirty hands gives you hands-on experience (literally), but you could be sufferin
 ## Meta Data
 
 **Domain(s):**
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 
 **Related Notes:**
 - 

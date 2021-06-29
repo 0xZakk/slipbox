@@ -24,7 +24,7 @@ summary: ""
 ## Meta Data
 
 **Domain(s):**
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 - [[Slipbox]]
 
 **Related Notes:**

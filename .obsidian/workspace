@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc81740dbc93c6d",
+        "id": "aa4bc0b2368164ff",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"📑 Notes/🟨  Literature Notes\" file:\"blockchain\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 372
   },
   "right": {
     "id": "ecec1aef60628c41",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0cc81740dbc93c6d",
+  "active": "aa4bc0b2368164ff",
   "lastOpenFiles": [
-    "📑 Notes/🟩  Permanent Notes/🟩 Creating literature notes.md",
-    "templates/Permanent Note (Template).md",
-    "📑 Notes/🟪  Personal Notes/🟪 Types of related skills.md",
-    "📑 Notes/🟪  Personal Notes/🟪 Sovereign Tribes.md",
-    "📑 Notes/🟪  Personal Notes/🟪 Language of Success Idea.md",
-    "📄 Articles/📋 Outline/30 Things.md",
-    "📄 Articles/📋 Outline/Business Ideas for the Future.md",
-    "📑 Notes/🟪  Personal Notes/🟪 30 Things.md",
-    "templates/Literature Note (Template).md",
-    "templates/Article (Template).md"
+    "📑 Notes/🟦  Reference Notes/🟦 Successful Habits Through Smoothly Ratcheting Targets.md",
+    "Untitled.md",
+    "📑 Notes/🟨  Literature Notes/🟨 Smoothly ratcheting targets for habit formation.md",
+    "Ethereum Fundamentals - Learn to Develop Smart Contracts and Enterprise DAapps with Ethereum.md",
+    "Work in Layers.md",
+    "Successful Habits Through Smoothly Ratcheting Targets.md",
+    "🟦 Ethereum Fundamentals - Learn the Develop Smart Contracts and Enterprise DApps with Ethereum.md",
+    "🟩Defining a Blockchain.md",
+    "🟦 The Infinite Machine.md",
+    "🟦The Truth Machine.md"
   ]
 }

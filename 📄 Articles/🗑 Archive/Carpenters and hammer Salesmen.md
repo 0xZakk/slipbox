@@ -37,13 +37,15 @@ Article about the difference between being a carpenter or a hammer salesman
 -   ... teaching a productivity course ...
 -   I do not mean to knock Tiago or his course. A lot of people have found it really valuable. I took it and it was fine.
 -   But it was just fine.
--   **Why I haven't built a course on Zettelkasten**
--   I could develop and sell a course on building a Zettelkasten, but I don't want to do this because I want to be a carpenter, not a hammer salesman.
--   A hammer salesman has one goal: to sell you hammers. He (hopefully) knows how to use them. But that is his ultimate goal. The carpenter, on the other hand, is trying to sell you the product of his work. He uses hammers to build his products. But he sells you the outputs, not the tools.
--   Difference between: "In a gold rush, sell pick axes"
-    -   Both of these things can be true
-    -   You don't _make_ gold, you do make pick axes
-    -   This quote makes sense when you're trying to capitalize on a trend
-    -   It doesn't make sense if you're trying to build a legacy. In fact, following trends, whether that's to dig for gold or to sell pick axes to miners, doesn't make sense if you're trying to build a legacy
--   David Perell is a writer who teaches a class on writing. Tiago Forte teaches a productivity course. But what is he productive at? Teaching (and selling) a productivity course. Tiago sells hammer. David is a carpenter.
--   The ironic thing is, who would you rather learn from, the carpenter or the hammer salesman?
+
+[[Discard]]
+	-   **Why I haven't built a course on Zettelkasten**
+	-   I could develop and sell a course on building a Zettelkasten, but I don't want to do this because I want to be a carpenter, not a hammer salesman.
+	-   A hammer salesman has one goal: to sell you hammers. He (hopefully) knows how to use them. But that is his ultimate goal. The carpenter, on the other hand, is trying to sell you the product of his work. He uses hammers to build his products. But he sells you the outputs, not the tools.
+	-   Difference between: "In a gold rush, sell pick axes"
+		-   Both of these things can be true
+		-   You don't _make_ gold, you do make pick axes
+		-   This quote makes sense when you're trying to capitalize on a trend
+		-   It doesn't make sense if you're trying to build a legacy. In fact, following trends, whether that's to dig for gold or to sell pick axes to miners, doesn't make sense if you're trying to build a legacy
+	-   David Perell is a writer who teaches a class on writing. Tiago Forte teaches a productivity course. But what is he productive at? Teaching (and selling) a productivity course. Tiago sells hammer. David is a carpenter.
+	-   The ironic thing is, who would you rather learn from, the carpenter or the hammer salesman?

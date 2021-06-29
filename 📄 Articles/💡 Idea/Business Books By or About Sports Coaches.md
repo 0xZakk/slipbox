@@ -13,7 +13,7 @@ summary: "Business books by/about sports coaches. Books by coaches with business
 ## Meta Data
 
 **Domain(s):**
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 
 **Related Notes:**
 - 

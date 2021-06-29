@@ -16,7 +16,7 @@ Have you ever walked into a room and then immediately forgotten what you were lo
 ## Meta Data
 
 **Domain(s):**
-- [[High Performance Knowledge Work]]
+- [[High-Performance Knowledge Work]]
 
 **Related Notes:**
 - [[🟨 Zeigarnik effect]]
