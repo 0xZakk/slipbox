@@ -12,9 +12,9 @@ type: "permanent"
 ## Meta Data
 
 **Sources:** 
-- [[🟨What is a Blockchain?]]
-- [[🟨What is a block in a blockchain?]]
-- [[🟨What problem does blockchain solve?]]
+- [[🟨 What is a Blockchain?]]
+- [[🟨 What is a block in a blockchain?]]
+- [[🟨 What problem does blockchain solve?]]
 **Domain(s):**
 - [[Building the Future]]
 - [[Technology]]

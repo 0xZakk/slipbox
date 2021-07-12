@@ -1,6 +1,6 @@
 ---
 title: Carpenters and Salesmen
-summary: ""
+summary: "There are a million new cohort-based courses now. How do you know which ones to take?"
 ---
 
 # Carpenters and Salesmen
@@ -15,7 +15,7 @@ I call it Carpenters and Hammer Salesmen
 
 My last real job was to teach, manage, and deliver a cohort-based course. This was back when they were simply called bootcamps or accelerated-learning programs.
 
-For three years, I managed the Software Engineering Immersive course for General Assembly in Washington, DC. While it was for a large company, cohorts tended to be pretty small and tightly knit. My task was to build the best curriculum in software engineering out there, and I hired, managed, and trained a team of instructors to help me.
+For three and a half years, I managed the Software Engineering Immersive course for General Assembly in Washington, DC. While it was for a large company, cohorts tended to be pretty small and tightly knit. My task was to build the best curriculum in software engineering out there, and I hired, managed, and trained a team of instructors to help me.
 
 While a lot of things from this experience are relevant when it comes to picking a cohort-based course, the most relevant was hiring instructors. In my time at General Assembly, I managed 12 different instructors, hiring most of them myself. I quickly learned to spot the difference between the good ones and the less good ones.
 
@@ -51,7 +51,7 @@ Teaching a productivity course …
 
 It sounds like I’m knocking Tiago and his course, Building a Second Brain — I don’t mean to. I’m trying to make an observation without criticizing, because a lot of people have found his course to be really valuable.
 
-I took it. It was fine. It wasn’t nearly as strong of a course or as transformational of an experience as David’s writing class, Write of Passage.
+I took it and it was fine. It wasn’t nearly as strong of a course or as transformational of an experience as David’s writing class, Write of Passage.
 
 ## Conclusion
 
@@ -59,14 +59,11 @@ David Perell is a prolific writer who occasionally teaches a class on writing. T
 
 A hammer salesman has one goal: to sell you a hammer. Their incentive is to sell you one tool and to make you believe that every problem can be fixed by that tool.
 
-A carpenter, on the other, hand is trying to sell you the product of their work. They use hammers, but they use other tools too. Their goal is to make their art, to teach you the process, and to sell you the output, not the tools they used. 
+A carpenter, on the other, hand is trying to sell you the product of their work and how you too might produce work of that quality. They use hammers, but they use other tools too. Their goal is to make art and to teach you the process, not the particular tools they used. 
 
 Who would you rather learn from, the carpenter or the hammer salesman?
 
 ## Meta Data
 
 **Domain(s):**
-- 
-
-**Related Notes:**
-- 
+- [[High-Performance Knowledge Work]]

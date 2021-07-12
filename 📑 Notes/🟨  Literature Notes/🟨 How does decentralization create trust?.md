@@ -4,7 +4,7 @@ slug: how-does-decentralization-create-trust
 type: "literature"
 ---
 
-Blockchains solve the [[🟨What problem does blockchain solve? | placement of trust issue]] with decentralization. But how does decentralization create trust?
+Blockchains solve the [[🟨 What problem does blockchain solve? | placement of trust issue]] with decentralization. But how does decentralization create trust?
 
 When assets of value are recorded on a single ledger (i.e. basic bookkeeping), it's easy for the bookkeeper to manipulate the record.
 
@@ -14,6 +14,6 @@ When assets of value are recorded on a decentralized ledger (i.e. n-entry bookke
 
 ## Meta Data
 
-**Source:** [[🟦Beginning Ethereum Smart Contracts Programming]]
+**Source:** [[🟦 Beginning Ethereum Smart Contracts Programming]]
 **Domain(s):**
 - [[Technology]]

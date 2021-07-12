@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "aa001b2dd047e73f",
+        "id": "59851b6b6e444c2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "highlights/Articles/Adam Robinson on Understanding.md",
-            "mode": "preview"
+            "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372
+    "width": 293
   },
   "right": {
     "id": "ecec1aef60628c41",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "highlights/Articles/Adam Robinson on Understanding.md",
+                "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "highlights/Articles/Adam Robinson on Understanding.md"
+                "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md"
               }
             }
           }
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa001b2dd047e73f",
+  "active": "59851b6b6e444c2b",
   "lastOpenFiles": [
-    "highlights/Articles/Adam Robinson on Understanding.md",
-    "highlights/Articles/A Year of Spaced Repetition Software in the Classroom - LessWrong 2.0.md",
-    "highlights/Articles/A Thorough Introduction to Distributed Systems.md",
-    "highlights/Articles/A Text Renaissance.md",
-    "highlights/Articles/A Helpful Guide to Reading Better.md",
-    "highlights/Articles/A Beginners Understanding of MVC.md",
-    "highlights/Articles/30 Year Thinking - Nat Eliason.md",
-    "highlights/Articles/10 Year Vision Write of Passage  David Perell.md",
-    "highlights/Articles/Creating a High Yield Savings Account With Crypto  DeFi.md",
-    "highlights/2021-06-08/Articles 1/Creating a High Yield Savings Account With Crypto  DeFi.md"
+    "📄 Articles/🚉 Staged/How Does A Blockchain Work?.md",
+    "📄 Articles/📝 Draft/How Does A Blockchain Work?.md",
+    "📄 Articles/📝 Draft/Track Record Tutorial.md",
+    "📑 Notes/🟨  Literature Notes/🟨 What is a Blockchain?.md",
+    "🟦 Beginning Ethereum Smart Contracts Programming.md",
+    "📄 Articles/🚉 Staged/What Problem Does Blockchain Solve.md",
+    "📑 Notes/🟨  Literature Notes/🟨 How are blocks chained together in a blockchain?.md",
+    "📑 Notes/🟨  Literature Notes/🟨 What is a block in a blockchain?.md",
+    "📑 Notes/🟨  Literature Notes/🟨 How are blockchains immutable?.md",
+    "📑 Notes/🟨  Literature Notes/🟨 What is Proof of Work?.md"
   ]
 }

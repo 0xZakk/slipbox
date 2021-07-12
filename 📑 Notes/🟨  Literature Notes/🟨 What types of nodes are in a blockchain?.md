@@ -12,7 +12,7 @@ A full node is the basic node-type. Each full node contains a complete copy of t
 
 **Mining Node**
 
-Mining nodes are full nodes with the additional capability that they can [[🟨What is mining and how does it work? | mine new blocks]].
+Mining nodes are full nodes with the additional capability that they can [[🟨 What is mining and how does it work? | mine new blocks]].
 
 **Light Node**
 
@@ -20,6 +20,6 @@ A light node (for instance, a wallet) maintains a reduced copy of the ledger tha
 
 ## Meta Data
 
-**Source:** [[🟦Beginning Ethereum Smart Contracts Programming]]
+**Source:** [[🟦 Beginning Ethereum Smart Contracts Programming]]
 **Domain(s):**
 - [[Technology]]

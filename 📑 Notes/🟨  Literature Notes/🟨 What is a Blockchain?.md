@@ -24,6 +24,6 @@ Blocks are chained together using hashing: a function that creates a fixed-sized
 
 ## Meta Data
 
-**Source:** [[🟦Beginning Ethereum Smart Contracts Programming]]
+**Source:** [[🟦 Beginning Ethereum Smart Contracts Programming]]
 **Domain(s):**
 - [[Technology]]

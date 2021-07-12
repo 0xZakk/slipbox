@@ -1,5 +1,5 @@
 - **Type:** #[[🟨 Permanent Note]] | #Blockchain
-- **Sources:** [[🟦 The Truth Machine]]
+- **Sources:** [[📑 Notes/🟦  Reference Notes/🟦 The Truth Machine]]
 - **Notes:**
     - We have traditionally relied on third-party institutions (government and private) to keep track of our social interactions. But the digital revolution has brought us to a place where the incentive to lie or cheat is too high for our traditional institutions.
     - This is where blockchain-based institutions shine.

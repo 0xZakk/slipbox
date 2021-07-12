@@ -17,6 +17,6 @@ Blockchains solves this problem with decentralization.
 
 ## Meta Data
 
-**Source:** [[🟦Beginning Ethereum Smart Contracts Programming]]
+**Source:** [[🟦 Beginning Ethereum Smart Contracts Programming]]
 **Domain(s):**
 - [[Technology]]

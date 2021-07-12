@@ -11,18 +11,18 @@ Beginning Ethereum Smart Contracts Programming walks through the basics of writi
 
 ## Literature Notes
 
-- [[🟨What is a Blockchain?]]
-- [[🟨What problem does blockchain solve?]]
-- [[🟨How does decentralization create trust?]]
-- [[🟨How are blocks chained together in a blockchain?]]
-- [[🟨What is a Hash function?]]
-- [[🟨What is mining and how does it work?]]
-- [[🟨What is a nonce?]]
-- [[🟨What is Proof of Work?]]
-- [[🟨How are blockchains immutable?]]
-- [[🟨What is a block in a blockchain?]]
-- [[🟨What types of nodes are in a blockchain?]]
-- [[🟨What is a Merkle tree?]]
+- [[🟨 What is a Blockchain?]]
+- [[🟨 What problem does blockchain solve?]]
+- [[🟨 How does decentralization create trust?]]
+- [[🟨 How are blocks chained together in a blockchain?]]
+- [[🟨 What is a Hash function?]]
+- [[🟨 What is mining and how does it work?]]
+- [[🟨 What is a nonce?]]
+- [[🟨 What is Proof of Work?]]
+- [[🟨 How are blockchains immutable?]]
+- [[🟨 What is a block in a blockchain?]]
+- [[🟨 What types of nodes are in a blockchain?]]
+- [[🟨 What is a Merkle tree?]]
 
 ## Meta Data
 

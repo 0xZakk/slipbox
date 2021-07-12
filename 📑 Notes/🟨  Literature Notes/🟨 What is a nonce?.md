@@ -8,6 +8,6 @@ Nonce stands for *number used once*. It is a random number that is used as a tok
 
 ## Meta Data
 
-**Source:** [[🟦Beginning Ethereum Smart Contracts Programming]]
+**Source:** [[🟦 Beginning Ethereum Smart Contracts Programming]]
 **Domain(s):**
 - [[Technology]]
