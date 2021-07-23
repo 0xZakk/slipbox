@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "emacsyKeys": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "spellcheckDictionary": [
+    "cryptographically",
+    "cryptographic"
+  ]
+}

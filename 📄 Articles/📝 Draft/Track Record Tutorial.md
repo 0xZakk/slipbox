@@ -38,11 +38,18 @@ To start, we're going to create a new directory called `track-record`. This is w
 npx create-react-app .
 ```
 
-The smart contracts are going to act as our back end or API. But instead of being an interface to our database, the contracts serve as an interface to the Ethereum blockchain.
+The smart contracts are going to act as our back end or API. But instead of being an interface to our database, the contracts serve as an interface to the Ethereum blockchain. To create and manage our contracts, we'll use a tool called Hardhat.
 
 ### Setting up Hardhat
 
-- `npx hardhat init`
+Hardhat is a development environment for building DApps on Ethereum. To start an Eth project, run the command:
+
+```sh
+npx hardhat init
+```
+
+When you run this command, you'll be projected to create a sample project or an empty `hardhat.config.js` - choose to create a sample project. Select the default answer for all the remaining prompts.
+
 - Running the node
 - Creating an npm script to start the node
 - Connecting a wallet to MetaMask

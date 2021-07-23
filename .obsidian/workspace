@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "59851b6b6e444c2b",
+        "id": "83c351e106d9fd7b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
+            "file": "DAO Onboarding.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 383,
+    "collapsed": true
   },
   "right": {
     "id": "ecec1aef60628c41",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
+                "file": "DAO Onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md"
+                "file": "DAO Onboarding.md"
               }
             }
           }
@@ -104,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59851b6b6e444c2b",
+  "active": "83c351e106d9fd7b",
   "lastOpenFiles": [
-    "📄 Articles/🚉 Staged/How Does A Blockchain Work?.md",
-    "📄 Articles/📝 Draft/How Does A Blockchain Work?.md",
+    "DAO Onboarding.md",
+    "Untitled.md",
+    "📄 Articles/📝 Draft/slice and splice- Learning JavaScript's Array Methods by Building Them.md",
+    "📄 Articles/📝 Draft/Building Your First DApp.md",
     "📄 Articles/📝 Draft/Track Record Tutorial.md",
-    "📑 Notes/🟨  Literature Notes/🟨 What is a Blockchain?.md",
-    "🟦 Beginning Ethereum Smart Contracts Programming.md",
+    "Solidity Guild Article Ideas.md",
     "📄 Articles/🚉 Staged/What Problem Does Blockchain Solve.md",
-    "📑 Notes/🟨  Literature Notes/🟨 How are blocks chained together in a blockchain?.md",
-    "📑 Notes/🟨  Literature Notes/🟨 What is a block in a blockchain?.md",
-    "📑 Notes/🟨  Literature Notes/🟨 How are blockchains immutable?.md",
-    "📑 Notes/🟨  Literature Notes/🟨 What is Proof of Work?.md"
+    "📄 Articles/🚉 Staged/Carpenters and Salesmen.md",
+    "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
+    "📄 Articles/Discard.md"
   ]
 }

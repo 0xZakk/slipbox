@@ -87,7 +87,7 @@ console.log(vals) // [0, 1, 2, 6, 7, 8, 9]
 
 The `splice` method cuts out 3 items (the second argument), starting at index 3 (the first argument). It modifies the original array and returns the spliced section as a new array.
 
-This is probably the cause of most of the confusion between these two methods. `slice` returned a copy while `splice` modified the existing array. If you’re not expecting that, then you would probably get some hard-to-track-down bugs when suddenly your array is shorter than you expected!
+This is probably the cause of most of the confusion between these two methods: `slice` returned a copy while `splice` modified the existing array. If you’re not expecting that, then you would probably get some hard-to-track-down bugs when suddenly your array is shorter than you expected and some of the values are missing!
 
 #### How to Use splice
 
@@ -255,6 +255,75 @@ slice(vals, 3, 6) // [ 3, 4, 5 ]
 Easy peasy lemon squeezy.
 
 ### Implementing splice
+
+Our `splice` method needs to accept three arguments: the array, a starting index, and the splice length. We'll start at the starting index and make a splice of the passed in array based on the passed in splice length. Our starting index can be positive or negative.If it's negative, we should start counting from the end of the array.
+
+We're not going to try and build all of this at once! Instead, we're going to solve a reduced version of the problem and incrementally ratchet up the complexity. To start, let's create an implementation of `splice` that accepts an array and a starting index and splices the rest of the array from that index.
+
+To start, we need our function signature:
+
+```js
+function splice(arr, start) {
+
+}
+```
+
+Continuing our theme of implementing these array methods with loops: we're going to use a loop! This time, we'll loop backwards through the array because we want to remove items from the end:
+
+```js
+function splice(arr, start) {
+  let res = []
+  for (let i = arr.length; i > start; i--) {
+    res.unshift(arr.pop())
+  }
+  
+  return res
+}
+```
+
+There's a lot happening here, so let's break it down.
+
+We want to remove items from the end of the array, down to the starting index. This is a lot easier to do than the reverse (starting at the starting index, and removing items to the end). To do it though, we need to loop backwards through the array:
+
+```js
+for (let i = array.length; i > start; i--) {
+
+}
+```
+
+We're setting our index counter (`i`) to be the length of the array. And we want to keep counting for as long as `i` is greater than the passed in `start` value. With each iteration of the loop, we want to decrement `i` by 1, which is what `i--` does.
+
+Inside our loop, we need to remove items from the end of the original array (`arr`) until we reach that `start` value. The method for removing items from the end of the array is `pop`, so we use that! However, we also need to take the item removed from the end of the array and save it somewhere, so we can return the splice at the end of our function. `pop` returns the removed item, so we immediately pass that into `unshift`, the method for adding items to the beginning of an array. We `pop` from the end of `arr` and `unshift` to the beginning of `res` so that the order in `res` is the same as it was in `arr`.
+
+If we call our `splice` method, we can see that it returns the splice from `vals` and modifies the original `vals` array:
+
+```js
+// Returns the spliced segment of the array:
+splice(vals, 3) // [3, 4, 5, 6, 7, 8, 9]
+// The original array is modified:
+console.log(vals) // [0, 1, 2]
+```
+
+Why didn't we have to do anything to modify the original `vals` array?
+
+In our `splice` function, we removed items from `arr` and added them to `res`. But we didn't touch the `vals` array. JavaScript passes objects by reference, which means that `arr` is not a new instance of the `vals` array, but a reference to it. `vals` points to the array `[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]`. When we pass `vals` into `splice` as `arr`, `arr` points to `vals` (which points back to the array). All of this means that any changes we make to `arr` are actually being made on `vals`.
+
+Checking in on our implementation of `splice`: we're able to pass in an array and a starting value and get the splice that we want back while removing it from the original array. Next, we need to make it so `splice` takes a third argument: the length of the splice:
+
+```js
+function splice(arr, start, len) {
+  let res = []
+  for (let i = arr.length; i > start; i--) {
+    res.unshift(arr.pop())
+  }
+  
+  return res
+}
+```
+
+- starting index
+- length
+- starting index should be able to be negative (in, which case work from the end of the array)
 
 
 ---
