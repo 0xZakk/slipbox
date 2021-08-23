@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Writing]] [[Systems]] [[Focus]] [[Attention]] 
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[__Writing]] [[Systems]] [[Focus]] [[Attention]] 
 - **Source:** [[🟦 How to Take Smart Notes]] p58-60
 - Nowadays, we are surrounded by more distractions from focused work than ever. And the number of new possible distractions increases each day. These distractions keep us from being productive. What is worse, over time they train us to have short attention spans, making us less productive and more susceptible to distractions. 
 - This leads many people to try and multi-task, or try to focus on more than one task at a time. In studies, people who multitasked felt more productive but their absolute productivity was significantly less than people who focused on one task at a time.

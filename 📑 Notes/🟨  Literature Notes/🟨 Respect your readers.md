@@ -1,3 +1,3 @@
-- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Writing]] [[Building an Audience Online]] [[Twitter]]
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[__Writing]] [[Building an Audience Online]] [[Twitter]]
 - **Source:** [[🟦 Tweet Like the Mystery Man]]
 - Respect your audience by thinking about how you tweet and by taking them seriously. Don't be spammy or annoying.

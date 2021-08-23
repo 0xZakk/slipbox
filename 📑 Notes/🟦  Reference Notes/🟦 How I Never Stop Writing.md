@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[__Writing]]
 - **Source:** https://www.youtube.com/watch?v=Nnp9V7iLgGo&list=WL&index=2 
 - **Author:** [[Nat Eliason]] 
 - **Summary:** 

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[__Writing]]
 - **Author:**  [[Monica Lent]]
 - **Project(s):** [[📦 Learn SEO]]
 - **Summary:** 

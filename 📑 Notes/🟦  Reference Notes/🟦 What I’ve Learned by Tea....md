@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]] [[Teaching]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[__Writing]] [[Teaching]]
 - **Source:**  twitter
 - **Author:** @david_perell on Twitter
 - **Summary:**

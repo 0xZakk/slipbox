@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]] [[Productivity]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[__Writing]] [[Productivity]]
 - **Source:**  instapaper
 - **Author:** Dan Shipper
 - **Summary:**

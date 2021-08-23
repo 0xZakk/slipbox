@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]] [[Wealth Accumulation]] [[Earning Money]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[__Writing]] [[Wealth Accumulation]] [[Earning Money]]
 - **Source:**  medium
 - **Author:** Benjamin Hardy, PhD
 - **Summary:**

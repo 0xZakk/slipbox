@@ -11,7 +11,7 @@ summary: "My top three pieces of advice for new Write of Passage students"
 ## Meta Data
 
 **Domain(s):**
-- [[Writing]]
+- [[__Writing]]
 - [[Writeof Passage]]
 
 **Related Notes:**

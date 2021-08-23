@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Focus]] [[Attention]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Focus]] [[Attention]]
 - **Source:** [[🟦 How to Take Smart Notes]]
 - Writing can be broken up into different kinds of tasks, each of which requires a different kind of attention.
 - **Proofreading** When proofreading, we should read critically. Our goal is to spot errors so that they can be fixed, so our attention has to be distanced from the written work.

@@ -9,7 +9,19 @@ This course on O'Reilly Learning walks through the basics of Solidity, including
 
 ## Literature Notes
 
-- 
+- [[🟨 Solidity Address Types]]
+- 🟨 Solidity Enums
+- 🟨 Solidity Arrays
+- 🟨 Solidity Mappings 
+- 🟨 Solidity Structs
+- 🟨 Solidity Events
+- 🟨 Solidity For Loops
+- 🟨 Solidity While Loops
+- 🟨 Function Visibility in Solidity
+- 🟨 Solidity Functions
+- 🟨 Function Modifiers in Solidity
+- 🟨 Solidity Function Types
+- 🟨 Function Overloading in Solidity
 
 ## Meta Data
 

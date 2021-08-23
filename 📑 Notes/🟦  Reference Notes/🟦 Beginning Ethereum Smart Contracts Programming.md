@@ -3,6 +3,7 @@ title: Beginning Ethereum Smart Contracts Programming
 slug: beginning-ethereum-smart-contracts-programming
 author: "Wei-Meng Lee"
 type: "reference"
+domains: ["technology", "programming"]
 ---
 
 ## Summary:

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]] [[Momentum]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Slipbox]] [[Momentum]]
 - **Source:** [[🟦 How to Take Smart Notes]] p51-56
 - In physics, there are two types of reactions: exergonic and endergonic. In an exergonic reaction, you need to keep adding energy for the process to continue. In endergonic, once you start the process it continues by itself and releases energy. **You want you workflow to create an endergonic reaction.**
 - Think also of the Flywheel concept: the first few spins of the flywheel are difficult and require a lot of effort. But, at a certain point, each spin becomes easy on only a little effort is required to keep the flywheel spinning.

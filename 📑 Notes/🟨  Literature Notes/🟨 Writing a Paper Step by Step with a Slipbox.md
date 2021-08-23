@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Slipbox]]
 - **Source:** [[🟦 How to Take Smart Notes]] p23 - 26
 - There are eight steps to writing a paper with a Slipbox.
 - You will roughly follow these steps in order per manuscript or article and you will likely work on multiple articles at a time.

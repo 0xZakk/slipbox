@@ -2,12 +2,12 @@
 
 ## Articles and Tutorials:
 
-* Setting up an Ethereum dev environment
-* Configuring VS Code to work with Solidity
-	* Mocha Test Explorer
-	* Solidity plugin
-	* Prettier to autoformat .sol files
-	* SolHint
+- Setting up an Ethereum dev environment
+- Configuring VS Code to work with Solidity
+	- Mocha Test Explorer
+	- Solidity plugin
+	- Prettier to autoformat .sol files
+	- SolHint
 * Working with solhint
 * Turning Vim into a Solidity IDE
 * Understanding the different Ethereum Networks

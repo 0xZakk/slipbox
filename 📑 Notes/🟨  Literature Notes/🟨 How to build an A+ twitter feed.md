@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Twitter]] [[Building an Audience Online]] [[Writing]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[Twitter]] [[Building an Audience Online]] [[__Writing]]
 - **Source:** [[🟦 Building an A+ Twitter Feed]]
 - The experience you have on Twitter will greatly depend on your feed:
     - "When you follow somebody on Twitter, you agree to be brainwashed by their worldview, 280 characters at a time. "

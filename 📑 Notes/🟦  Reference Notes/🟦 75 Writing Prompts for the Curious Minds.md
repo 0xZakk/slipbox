@@ -1,4 +1,4 @@
-- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #[[Writing]]
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #[[__Writing]]
 - **Source:**  instapaper
 - **Author:**
 - **Summary:**

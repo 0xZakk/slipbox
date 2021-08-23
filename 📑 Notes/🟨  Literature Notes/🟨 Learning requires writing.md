@@ -7,5 +7,5 @@ Many people mistakenly assume that writing is the product of learning and thinki
  
 Source: [[🟦 How to Take Smart Notes]] p23
 Domain(s):
-- [[Writing]]
+- [[__Writing]]
 - [[Learning]]

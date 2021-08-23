@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Writing]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[__Writing]]
 - **Source:** [[🟦 How to Take Smart Notes]] p47-51
 - There are two really common myths about writing that prevent people from making a lot of progress.
 - **The first myth is that writing is a linear process** that starts with the writer coming up with an idea and then working steadily through the process to a completed manuscript.

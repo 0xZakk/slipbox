@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] | [[Writing]]
+- **Type:** #[[__ 🟦  Reference Note]] | [[__Writing]]
 - **Source:**  instapaper
 - **Author:** [[Randall Kanna]] randallkanna.medium.com
 - **Summary:**

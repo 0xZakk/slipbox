@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Writing]] [[Building an Audience Online]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[__Writing]] [[Building an Audience Online]]
 - **Source:**  instapaper
 - **Author:** David Perell
 - **Summary:**

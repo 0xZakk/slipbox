@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83c351e106d9fd7b",
+        "id": "33fb5437b331879c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAO Onboarding.md",
+            "file": "DAO Primitives.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"📑 Notes/🟨  Literature Notes\" file:\"blockchain\"",
+                "query": "tag:#Sales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "ecec1aef60628c41",
@@ -77,14 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAO Onboarding.md",
+                "file": "DAO Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAO Onboarding.md"
+                "file": "DAO Primitives.md"
               }
             }
           }
@@ -105,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83c351e106d9fd7b",
+  "active": "33fb5437b331879c",
   "lastOpenFiles": [
-    "DAO Onboarding.md",
+    "DAO Primitives.md",
     "Untitled.md",
-    "📄 Articles/📝 Draft/slice and splice- Learning JavaScript's Array Methods by Building Them.md",
-    "📄 Articles/📝 Draft/Building Your First DApp.md",
-    "📄 Articles/📝 Draft/Track Record Tutorial.md",
+    "📄 Articles/Meditation is Dumb.md",
+    "__Writing.md",
+    "Writing.md",
+    "📄 Articles/Hardhat  Quick Start Guide.md",
+    "📄 Articles/Setting Up A Local Ethereum Dev Environment.md",
     "Solidity Guild Article Ideas.md",
-    "📄 Articles/🚉 Staged/What Problem Does Blockchain Solve.md",
-    "📄 Articles/🚉 Staged/Carpenters and Salesmen.md",
-    "📄 Articles/🚉 Staged/How Does A Blockchain Create Trust?.md",
-    "📄 Articles/Discard.md"
+    "📄 Articles/Discard.md",
+    "📄 Articles/Configuring VS Code to work with Solidity.md"
   ]
 }

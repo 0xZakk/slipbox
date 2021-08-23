@@ -18,5 +18,5 @@ Using a Slipbox naturally forces us into a **circular** approach to writing as w
 
 Source: [[🟦 How to Take Smart Notes]] p54
 Domain(s):
-- [[Writing]]
+- [[__Writing]]
 - [[Slipbox]]

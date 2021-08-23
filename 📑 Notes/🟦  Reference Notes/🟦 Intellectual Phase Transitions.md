@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Thinking]] [[Writing]] [[Learning]]
+- **Type:** #[[__ 🟦  Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | [[Thinking]] [[__Writing]] [[Learning]]
 - **Source:** Intellectual Phase Transitions 
 - **Author:** [[David Perell]] 
 - **Summary:** 

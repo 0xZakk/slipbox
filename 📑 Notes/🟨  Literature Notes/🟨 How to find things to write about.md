@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Blogging]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Blogging]]
 - **Source:** [[🟦 How to Start a Blog That Changes Your Life - Nat Eliason]]
 - Good writing topics will come from one of the following three buckets:
 - **Things you know**

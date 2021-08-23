@@ -1,3 +1,3 @@
-- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Writing]] [[Building an Audience Online]] [[Twitter]]
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[__Writing]] [[Building an Audience Online]] [[Twitter]]
 - **Source:** [[🟦 Tweet Like the Mystery Man]]
 - Every tweet should be about just one thing. Even if it's long, a tweet should only have one idea

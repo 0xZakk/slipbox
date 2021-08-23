@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Slipbox]]
 - **Source:** [[🟦 How to Take Smart Notes]] p5
 - People tend to think that they need to increase their willpower in order to become fore effective writers. Or they need to somehow increase their self-control or their self-discipline. However, as far as we know, both willpower and self-control are both limited resources. So we can't do much to improve or change the amount of willpower we have.
 - That said, we also know that self-control depends a lot on our environment (more so that it depends on us). So, while we can't change ourselves, we can change our environment.

@@ -1,4 +1,4 @@
-- **Type:** [[__ 🟨 Literature Note]] | [[Slipbox]] [[Writing]]
+- **Type:** [[__ 🟨 Literature Note]] | [[Slipbox]] [[__Writing]]
 - **Source:** [[🟦 How to Take Smart Notes]] p57-147
 - There are six steps to successful writing with a Slipbox:
     1. Separate and interlocking tasks

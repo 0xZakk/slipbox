@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Writing]] [[Slipbox]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[__Writing]] [[Slipbox]]
 - **Source:** [[🟦 How to Take Smart Notes]] p1
 - Everybody writes. Not just academics and journalists, but everyone. While the book is aimed at academics, students, and non-fiction writers, everybody writes.
 - Writing doesn't necessarily mean writing articles and papers. There are also plenty of basic, everyday writing that everyone does. Emails, memos, etc.

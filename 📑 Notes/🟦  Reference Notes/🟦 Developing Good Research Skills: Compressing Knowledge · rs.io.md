@@ -1,4 +1,4 @@
-- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #[[Reading]] #[[Writing]] #[[Learning]]
+- **Type:** #[[🟦 Reference Note]] #[[📥 Inbox]] #[[📝 To Process]] | #[[Reading]] #[[__Writing]] #[[Learning]]
 - **Source:**  instapaper
 - **Author:** rs.io
 - **Summary:**

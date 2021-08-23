@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]]  | [[Writing]] [[Thinking]]
+- **Type:** #[[__ 🟨 Literature Note]]  | [[__Writing]] [[Thinking]]
 - **Source:** [[🟦 Intellectual Phase Transitions]] 
 - The creativity of coming up with novel ideas works the same way as a [[🟨 Phase Transition]] does in Physics.
     - What is a phase transition?

@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Twitter]] [[Building an Audience Online]] [[Writing]]
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Twitter]] [[Building an Audience Online]] [[__Writing]]
 - **Source:** 
 - **Project(s):** 
 - Direct messages are the secret sauce that make Twitter so powerful. Most connections made on Twitter happen in the direct messages.

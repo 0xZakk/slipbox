@@ -9,6 +9,6 @@ Instead, when we want to come up with a new topic to write about, we just look a
 
 Source: [[🟦 How to Take Smart Notes]]
 Domain(s):
-- [[Writing]]
+- [[__Writing]]
 - [[Slipbox]]
 - 

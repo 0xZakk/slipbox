@@ -1,4 +1,4 @@
-- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[Writing]] [[Building an Audience Online]]
+- **Type:** #[[__ 🟨 Literature Note]] #[[📥 Inbox]] | [[__Writing]] [[Building an Audience Online]]
 - **Source:** [[🟦 I Listened to @David_per...]]
 - Obsession-driven writing is where you writing about things you're so passionate about that you have to share them
 - Learning and writing become catalysts for even more learning and writing, creating a positive feedback loop

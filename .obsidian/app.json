@@ -7,6 +7,9 @@
   "attachmentFolderPath": "assets",
   "spellcheckDictionary": [
     "cryptographically",
-    "cryptographic"
-  ]
+    "cryptographic",
+    "unopinionated"
+  ],
+  "foldHeading": true,
+  "foldIndent": true
 }

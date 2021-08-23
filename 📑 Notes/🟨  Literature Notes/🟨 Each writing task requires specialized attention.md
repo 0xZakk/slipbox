@@ -1,3 +1,3 @@
-- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[Writing]]
+- **Type:** #[[__ 🟨 Literature Note]] | [[Slipbox]] [[__Writing]]
 - **Source:** [[🟦 How to Take Smart Notes]]
 - The process of writing an article involves many different steps: reading, note-taking, summarizing, thinking, organizing, reorganizing, drafting, editing, etc. Each of these is a different task that requires a different kind of attention. 
